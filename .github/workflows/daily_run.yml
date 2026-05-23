@@ -1,0 +1,53 @@
+name: Daily Financial Pipeline
+
+on:
+  schedule:
+    # 12:00 UTC = 13:00 CET (14:00 CEST in summer — adjust to 11:00 UTC Jun–Oct)
+    - cron: '0 12 * * 1-5'
+    - cron: '0 11 * * 1-5'  # comment out one depending on season
+  workflow_dispatch:         # manual trigger for testing
+
+jobs:
+  run-pipeline:
+    runs-on: ubuntu-latest
+    # Only run on weekdays (belt-and-suspenders with cron)
+    if: ${{ github.event_name == 'workflow_dispatch' || (github.event_name == 'schedule') }}
+
+    permissions:
+      contents: write   # needed to push data files to repo
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Fetch data & build JSON
+        env:
+          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+        run: python pipeline/fetch_data.py
+
+      - name: Send email
+        env:
+          GMAIL_USER:        ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          RECIPIENT_EMAIL:   ${{ secrets.RECIPIENT_EMAIL }}
+          DASHBOARD_URL:     ${{ secrets.DASHBOARD_URL }}
+          NEWS_API_KEY:      ${{ secrets.NEWS_API_KEY }}
+        run: python pipeline/send_email.py
+
+      - name: Commit & push data files
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data/
+          git diff --cached --quiet || git commit -m "data: daily update $(date -u +'%Y-%m-%d')"
+          git push
