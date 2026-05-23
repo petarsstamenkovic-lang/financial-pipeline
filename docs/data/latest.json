@@ -1,6 +1,6 @@
 {
   "date": "2026-05-24",
-  "generated_at": "2026-05-24T00:51:32.573577+02:00",
+  "generated_at": "2026-05-24T01:14:24.761871+02:00",
   "market": {
     "indices": {
       "S&P 500": {
@@ -666,6 +666,14 @@
         "sentiment": "neutral"
       },
       {
+        "title": "Srbija prvi put izvezla živu jagnjad na tržište Alžira",
+        "link": "https://biznis.telegraf.rs/info-biz/4331093-srbija-prvi-put-izvezla-zivu-jagnjad-na-trziste-alzira",
+        "summary": "Ministar poljoprivrede Dragan Glamočić izjavio je danas da je Srbija prvi put izvezla živu jagnjad u Alžir, ističući da imamo dovoljno hrane i za domaće potrebe.",
+        "published": "2026-05-23T23:00:00",
+        "source": "Telegraf.rs",
+        "sentiment": "neutral"
+      },
+      {
         "title": "\"Srbija mora da zaštiti svoj interes\": Čuveni ekonomista otkriva našeg keca u rukavu za pregovore o NIS-u",
         "link": "https://biznis.telegraf.rs/info-biz/4330986-srbija-mora-da-zastiti-svoj-interes-cuveni-ekonomista-otkriva-naseg-keca-u-rukavu-za-pregovore-o-nis-u",
         "summary": "Profesor Ekonomskog fakulteta u penziji Ljubodrag Savić ocenio je danas Srbija u pregovorima o prodaji ruskog dela NIS-a još ima dorbu poziciju, iako izgleda da.",
@@ -702,14 +710,6 @@
         "link": "https://biznis.telegraf.rs/info-biz/4330887-oglasila-se-ministarka-djedovic-handanovic-o-pregovorima-o-prodaji-nis-ovo-su-poslednje-informacije",
         "summary": "Pregovori o prodaji ruskog udela u NIS-u napreduju, a broj otvorenih pitanja se sužava, izjavila je danas ministarka rudarstva i energetike Dubravka Đedović.",
         "published": "2026-05-23T17:57:05",
-        "source": "Telegraf.rs",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Er Srbija posle 34 godine uvela let za Toronto, Mesarović: Beograd sve važnije čvorište",
-        "link": "https://biznis.telegraf.rs/info-biz/4330827-er-srbija-posle-34-godine-uvela-let-za-toronto-mesarovic-beograd-sve-vaznije-cvoriste",
-        "summary": "Er Srbija je danas uvela direktne letove između Beograda i Toronta čime je posle 34 godine ponovo uspostavljena vazdušna veza između Srbije i Kanade, a.",
-        "published": "2026-05-23T10:22:26",
         "source": "Telegraf.rs",
         "sentiment": "neutral"
       },
