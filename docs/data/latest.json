@@ -1,6 +1,6 @@
 {
   "date": "2026-05-25",
-  "generated_at": "2026-05-25T16:00:46.263162+02:00",
+  "generated_at": "2026-05-25T16:40:52.711113+02:00",
   "market": {
     "indices": {
       "S&P 500": {
@@ -23,14 +23,15 @@
       },
       "DAX": {
         "symbol": "^GDAXI",
-        "price": 25296.6797,
-        "change_pct": 1.64,
+        "price": 25337.0391,
+        "change_pct": 1.8,
         "prev_close": 24888.5605
       },
       "Euro Stoxx 50": {
         "symbol": "^STOXX50E",
-        "price": null,
-        "change_pct": null
+        "price": 6135.3101,
+        "change_pct": 1.92,
+        "prev_close": 6019.4502
       },
       "FTSE 100": {
         "symbol": "^FTSE",
@@ -40,8 +41,8 @@
       },
       "CAC 40": {
         "symbol": "^FCHI",
-        "price": 8260.2305,
-        "change_pct": 1.78,
+        "price": 8265.8096,
+        "change_pct": 1.85,
         "prev_close": 8115.75
       },
       "Nikkei 225": {
@@ -122,25 +123,25 @@
     "fx_commodities": {
       "EUR/USD": {
         "symbol": "EURUSD=X",
-        "price": 1.1644,
-        "change_pct": 0.2,
+        "price": 1.1646,
+        "change_pct": 0.21,
         "prev_close": 1.1621
       },
       "GBP/USD": {
         "symbol": "GBPUSD=X",
-        "price": 1.3499,
-        "change_pct": 0.49,
+        "price": 1.3497,
+        "change_pct": 0.48,
         "prev_close": 1.3433
       },
       "USD/CHF": {
         "symbol": "USDCHF=X",
-        "price": 0.783,
-        "change_pct": -0.45,
+        "price": 0.7831,
+        "change_pct": -0.43,
         "prev_close": 0.7865
       },
       "USD/JPY": {
         "symbol": "USDJPY=X",
-        "price": 158.907,
+        "price": 158.911,
         "change_pct": -0.07,
         "prev_close": 159.018
       },
@@ -190,8 +191,8 @@
     "rates": {
       "VIX": {
         "symbol": "^VIX",
-        "price": 16.63,
-        "change_pct": -0.42,
+        "price": 16.68,
+        "change_pct": -0.12,
         "prev_close": 16.7
       },
       "US 10Y Yield": {
@@ -483,20 +484,20 @@
         "sentiment": "neutral"
       },
       {
+        "title": "Two LNG tankers pass through Strait of Hormuz",
+        "link": "https://www.ft.com/content/9d2cdd87-5f4c-4ce1-a2d1-610729dd4aa9",
+        "summary": "Another vessel carrying crude oil crossed the vital shipping lane on Saturday",
+        "published": "2026-05-25T13:36:37",
+        "source": "UK homepage",
+        "sentiment": "neutral"
+      },
+      {
         "title": "Republican hardliners warn Trump is giving up too much in Iran talks",
         "link": "https://www.ft.com/content/c0d614c4-8904-40a5-baa0-787f9683cfd7",
         "summary": "US president is trying to quell an internal backlash from hawks who demand Tehran’s complete surrender",
         "published": "2026-05-24T18:40:12",
         "source": "UK homepage",
         "sentiment": "positive"
-      },
-      {
-        "title": "Fertiliser groups cut production as Iran war squeezes sulphur supplies",
-        "link": "https://www.ft.com/content/3cf63a2a-f0a8-4a3b-86e8-77476af5caf7",
-        "summary": "Farmers in poorer countries risk lower yields as they reduce how much phosphate they apply to crops",
-        "published": "2026-05-25T04:00:06",
-        "source": "UK homepage",
-        "sentiment": "negative"
       },
       {
         "title": "How Europe learnt to love subsidies",
@@ -621,51 +622,83 @@
     ],
     "serbia": [
       {
-        "title": "\"Uspori, da kokain stigne na vreme\": Barska ćelija \"balkanskog kartela\" rukovodila i brzinom prekookeanskih brodova",
-        "link": "https://n1info.rs/region/balkanski-kartel-organizacija-transporta-droge/",
-        "summary": "Tekst Vijesti pokazuje kako je barska ćelija međunarodne narko-grupe Balkanski kartel, koja je delovala i na teritoriji Srbije, organizovala šverc sko",
-        "published": "2026-05-25T13:49:43",
+        "title": "Macut: Oko tri odsto beba u Srbiji se rodi zahvaljujući vantelesnoj oplodnji",
+        "link": "https://n1info.rs/vesti/macut-oko-tri-odsto-beba-u-srbiji-se-rodi-zahvaljujuci-vantelesnoj-oplodnji/",
+        "summary": "Premijer Srbije Đuro Macut izjavio je danas da država nastavlja da ulaže u mere podrške porodici i lečenju steriliteta, ukazujući da se u Srbiji oko t",
+        "published": "2026-05-25T14:39:53",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Tramp: Sa Iranom će biti ili veliki dogovor za sve ili nikakav dogovor",
-        "link": "https://n1info.rs/svet/tramp-sa-iranom-ce-ili-biti-veliki-dogovor-za-sve-ili-nikakav-dogovor/",
-        "summary": "Predsednik Sjedinjenih Američkih Država (SAD) Donald Tramp objavio je danas na svojoj društvenoj mreži da pregovori sa Iranom napreduju i da će biti i",
-        "published": "2026-05-25T13:49:31",
+        "title": "Gledajte UŽIVO Dan uživo: Studenti potvrdili snagu",
+        "link": "https://n1info.rs/najave-emisija/dan-uzivo-studenti-potvrdili-snagu/",
+        "summary": "Posle Slavije IV jasno je da je Studentski pokret tu da ostane. Studenti, zborovi i građani koji ih podržavaju demonstrirali su snagu i odlučnost da s",
+        "published": "2026-05-25T14:34:29",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Hrvatski ministar odgovorio Ani Brnabić i podsetio na nedozvoljeno glisiranje na Krku",
-        "link": "https://n1info.rs/region/hrvatski-ministar-odgovorio-ani-brnabic-i-podsetio-na-nedozvoljeno-glisiranje-na-krku/",
-        "summary": "Hrvatski ministar privrede Ante Šušnjar odgovorio je na poruku Ane Brnabić da studenti kojima se ne sviđa Srbija mogu da odu u Hrvatsku. Šušnjar je za",
-        "published": "2026-05-25T13:47:07",
+        "title": "Vučić kaže da je Si samo njemu i Putinu lično uručio Orden prijateljstva",
+        "link": "https://n1info.rs/vesti/vucic-kaze-da-je-si-samo-njemu-i-putinu-licno-urucio-orden-prijateljstva/",
+        "summary": "Predsednik Srbije Aleksandar Vučić izjavio je na kraju drugog dana zvanične posete Kini da veruje da je srpska delegacija na sastancima stvorila mnogo",
+        "published": "2026-05-25T14:28:51",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Gođevac: Birački spisak sadrži birače koji nisu upisani u knjigu državljana Srbije",
-        "link": "https://n1info.rs/vesti/godjevac-biracki-spisak-sadrzi-birace-koji-nisu-upisani-u-knjigu-drzavljana-srbije/",
-        "summary": "Članica Komisije za reviziju biračkog spiska ispred Stranke slobode i pravde (SSP) Ana Gođevac saopštila je danas da je ta stranka radom u toj Komisij",
-        "published": "2026-05-25T13:43:34",
+        "title": "Montenegro suspends Informer TV over hate speech",
+        "link": "https://n1info.rs/english/news/montenegro-suspends-informer-tv-over-hate-speech/",
+        "summary": "The Montenegrin Agency for Audiovisual Media Services (AMU) issued a six-month ban on the rebroadcasting of Informer TV within Montenegro, citing the",
+        "published": "2026-05-25T14:25:09",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Statistics office: Serbia records natural population decline in first four months of 2026",
-        "link": "https://n1info.rs/english/news/statistics-office-serbia-records-natural-population-decline-in-first-four-months-of-2026/",
-        "summary": "A total of 18,583 births and 33,201 deaths were recorded in Serbia during the first four months of the year, Republic Statistics Office (RZS) announce",
-        "published": "2026-05-25T13:43:30",
+        "title": "MUP reaguje na informacije u javnosti o slučaju \"Senjak\" i protestu na Slaviji 23. maja",
+        "link": "https://n1info.rs/vesti/mup-reaguje-na-informacije-u-javnosti-o-slucaju-senjak-i-protestu-na-slaviji-23-maja/",
+        "summary": "Ministarstvo unutrašnjih poslova reagovalo je na informacije iznete u javnosti o slučaju \"Senjak\" i protestu na Slaviji 23. maja.",
+        "published": "2026-05-25T14:16:01",
         "source": "N1 Info RS - Feed",
-        "sentiment": "negative"
+        "sentiment": "neutral"
       },
       {
-        "title": "Redakcija portala Mašina dobila pretnje - \"završićete u buretu\" i \"metak u čelo\"",
-        "link": "https://n1info.rs/vesti/redakciji-portala-masina-upucena-pretnja-metkom-u-celo/",
-        "summary": "Nezavisno udruženje novinara Srbije najoštrije je osudilo pretnje upućene redakciji portala Mašina i zahteva hitnu reakciju  nadležnih organa.",
-        "published": "2026-05-25T13:33:37",
+        "title": "Tema jutra: Kriza u sistemu unutrašnjih poslova",
+        "link": "https://n1info.rs/video/novi-dan/tema-jutra-kriza-u-sistemu-unutrasnjih-poslova/",
+        "summary": "Bivši policajac i novinar Uglješa Bokić kaže da dosta manje policijske snage mogu da izađu na kraj sa deset ljudi, te da je broj policajaca nakon skup",
+        "published": "2026-05-25T14:00:00",
         "source": "N1 Info RS - Feed",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Uređaji koji povećavaju račun za struju: Dva su kuhinjska, a ovo su greške koje svi prave",
+        "link": "https://biznis.telegraf.rs/novcanik/4331990-uredjaji-koji-povecavaju-racun-za-struju-dva-su-kuhinjska-a-ovo-su-greske-koje-svi-prave",
+        "summary": "Frižider i zamrzivač su jedini kućni uređaji koji nikada ne dobijaju pauzu - i upravo zato mogu postati neprimetni, ali ozbiljni potrošači električne energije.",
+        "published": "2026-05-25T14:35:09",
+        "source": "Telegraf.rs",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Bezgotovinsko plaćanje u Rusiji će premašiti 90 odsto najkasnije početkom 2027.",
+        "link": "https://biznis.telegraf.rs/info-biz/4331987-bezgotovinsko-placanje-u-rusiji-ce-premasiti-90-odsto-najkasnije-pocetkom-2027",
+        "summary": "Prema njenim rečima, Banka Rusije ne beleži povećanju potražnju za gotovinom",
+        "published": "2026-05-25T14:28:52",
+        "source": "Telegraf.rs",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Kuća za 20.000 € postoji, ali cena je prava tek posle potpisa: Ovo su 3 stvari koje mogu da dupliraju trošak",
+        "link": "https://biznis.telegraf.rs/nekretnine/4331982-kuca-za-20000-postoji-ali-cena-je-prava-tek-posle-potpisa-ovo-su-3-stvari-koje-mogu-da-dupliraju-trosak",
+        "summary": "Tržište nekretnina u Srbiji preplavljeno je \"hit oglasima\" u blizini turističkih centara i po selima gde se čitava imanja nude po ceni polovnog automobila.",
+        "published": "2026-05-25T14:26:06",
+        "source": "Telegraf.rs",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Ova banja u Srbiji je hit među turistima: Smeštaj već od 10 evra, a zbog lekovite vode traži se mesto više",
+        "link": "https://biznis.telegraf.rs/info-biz/4331973-ova-banja-u-srbiji-je-hit-medju-turistima-smestaj-vec-od-10-evra-a-zbog-lekovite-vode-trazi-se-mesto-vise",
+        "summary": "Smeštena u srcu Ovčarsko-kablarske klisure, na oko 170 kilometara od Beograda i samo 17 kilometara od Čačka, Ovčar Banja je postala prava turistička atrakcija.",
+        "published": "2026-05-25T14:06:21",
+        "source": "Telegraf.rs",
         "sentiment": "neutral"
       },
       {
@@ -680,39 +713,7 @@
         "title": "PIO fond objavio raspored: Evo kada penzionerima u Srbiji ležu primanja!",
         "link": "https://biznis.telegraf.rs/novcanik/4331931-pio-fond-objavio-raspored-evo-kada-penzionerima-u-srbiji-lezu-primanja",
         "summary": "Dan kasnije, 6. juna, isplata počinje za poljoprivredne i vojne penzionere",
-        "published": "2026-05-25T13:11:32",
-        "source": "Telegraf.rs",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Predsednik Srbije posle sastanka sa Si Đinpingom poslao \"zagonetnu\" poruku iz Pekinga",
-        "link": "https://biznis.telegraf.rs/info-biz/4331923-predsednik-srbije-posle-sastanka-sa-si-djinpingom-otvaramo-novo-poglavlje-saradnje-srbije-i-kine",
-        "summary": "Vučić je poručio da će nova partnerstva imati konkretne posledice po razvoj Srbije i život građana",
-        "published": "2026-05-25T12:58:02",
-        "source": "Telegraf.rs",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Samo 1,6 odsto ljudi drži skoro polovinu svetskog bogatstva: Svet nikada nije bio bogatiji, niti nejednakiji",
-        "link": "https://biznis.telegraf.rs/info-biz/4331918-samo-16-odsto-ljudi-drzi-skoro-polovinu-svetskog-bogatstva-svet-nikada-nije-bio-bogatiji-niti-nejednakiji",
-        "summary": "To je samo 1,6 odsto odrasle populacije planete, ali upravo ta mala grupa kontroliše čak 48 odsto ukupnog svetskog bogatstva",
-        "published": "2026-05-25T12:50:28",
-        "source": "Telegraf.rs",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Zlato posle rata i dalje „sija“: Cena skočila preko 5.300 dolara, prognoze idu i do NEVEROVATNIH 8.000!",
-        "link": "https://biznis.telegraf.rs/info-biz/4331902-zlato-posle-rata-i-dalje-sija-cena-skocila-preko-5300-dolara-prognoze-idu-i-do-neverovatnih-8000",
-        "summary": "Američki državni sekretar Marko Rubio ocenio je predlog sporazuma kao „prilično čvrst“.",
-        "published": "2026-05-25T12:30:47",
-        "source": "Telegraf.rs",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Ovo je prosečna zarada u Srbiji za mart: Pogledajte koliko je bila prošle godine",
-        "link": "https://biznis.telegraf.rs/info-biz/4331893-ovo-je-prosecna-zarada-u-srbiji-za-mart-pogledajte-koliko-je-bila-prosle-godine",
-        "summary": "Prosečna bruto zarada za mart iznosila je 167.263 dinara, dok je prosečna zarada bez poreza i doprinosa (neto) iznosila 121.650 dinara",
-        "published": "2026-05-25T12:11:30",
+        "published": "2026-05-25T13:55:57",
         "source": "Telegraf.rs",
         "sentiment": "neutral"
       },
@@ -829,13 +830,13 @@
   "sentiment_summary": {
     "macro": {
       "positive": 4,
-      "negative": 3,
-      "neutral": 11
+      "negative": 2,
+      "neutral": 12
     },
     "serbia": {
       "positive": 0,
-      "negative": 1,
-      "neutral": 17
+      "negative": 0,
+      "neutral": 18
     }
   }
 }
