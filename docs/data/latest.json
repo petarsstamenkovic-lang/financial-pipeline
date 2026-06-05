@@ -1,48 +1,48 @@
 {
   "date": "2026-06-05",
-  "generated_at": "2026-06-05T15:52:04.910996+02:00",
+  "generated_at": "2026-06-05T16:30:57.499942+02:00",
   "market": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "price": 7514.5898,
-        "change_pct": -0.92,
+        "price": 7506.7998,
+        "change_pct": -1.02,
         "prev_close": 7584.3101
       },
       "NASDAQ": {
         "symbol": "^IXIC",
-        "price": 26430.4395,
-        "change_pct": -1.49,
+        "price": 26353.1445,
+        "change_pct": -1.78,
         "prev_close": 26830.9609
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "price": 51430.2383,
-        "change_pct": -0.26,
+        "price": 51408.8398,
+        "change_pct": -0.3,
         "prev_close": 51561.9297
       },
       "DAX": {
         "symbol": "^GDAXI",
-        "price": 24898.1094,
-        "change_pct": -0.19,
+        "price": 24818.25,
+        "change_pct": -0.51,
         "prev_close": 24944.9492
       },
       "Euro Stoxx 50": {
         "symbol": "^STOXX50E",
-        "price": 6085.3901,
-        "change_pct": -0.29,
+        "price": 6073.1699,
+        "change_pct": -0.49,
         "prev_close": 6103.3301
       },
       "FTSE 100": {
         "symbol": "^FTSE",
-        "price": 10398.9199,
-        "change_pct": 0.37,
+        "price": 10396.7402,
+        "change_pct": 0.35,
         "prev_close": 10360.2998
       },
       "CAC 40": {
         "symbol": "^FCHI",
-        "price": 8257.6104,
-        "change_pct": 0.16,
+        "price": 8239.6104,
+        "change_pct": -0.06,
         "prev_close": 8244.29
       },
       "Nikkei 225": {
@@ -55,144 +55,144 @@
     "sectors": {
       "Financials": {
         "symbol": "XLF",
-        "price": 52.255,
-        "change_pct": 0.12,
+        "price": 52.345,
+        "change_pct": 0.3,
         "prev_close": 52.19
       },
       "Energy": {
         "symbol": "XLE",
-        "price": 58.17,
-        "change_pct": -0.99,
+        "price": 58.29,
+        "change_pct": -0.78,
         "prev_close": 58.75
       },
       "Technology": {
         "symbol": "XLK",
-        "price": 186.93,
-        "change_pct": -3.23,
+        "price": 186.49,
+        "change_pct": -3.46,
         "prev_close": 193.17
       },
       "Healthcare": {
         "symbol": "XLV",
-        "price": 153.345,
-        "change_pct": 0.83,
+        "price": 153.965,
+        "change_pct": 1.24,
         "prev_close": 152.08
       },
       "Industrials": {
         "symbol": "XLI",
-        "price": 175.02,
-        "change_pct": -0.65,
+        "price": 175.59,
+        "change_pct": -0.32,
         "prev_close": 176.16
       },
       "Consumer Disc": {
         "symbol": "XLY",
-        "price": 117.365,
-        "change_pct": 0.09,
+        "price": 116.98,
+        "change_pct": -0.24,
         "prev_close": 117.26
       },
       "Materials": {
         "symbol": "XLB",
-        "price": 51.37,
-        "change_pct": -0.48,
+        "price": 51.2,
+        "change_pct": -0.81,
         "prev_close": 51.62
       },
       "Utilities": {
         "symbol": "XLU",
-        "price": 44.185,
-        "change_pct": 0.56,
+        "price": 44.22,
+        "change_pct": 0.64,
         "prev_close": 43.94
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "price": 44.56,
-        "change_pct": 0.36,
+        "price": 44.645,
+        "change_pct": 0.55,
         "prev_close": 44.4
       },
       "Comm Services": {
         "symbol": "XLC",
-        "price": 112.99,
-        "change_pct": -0.11,
+        "price": 112.615,
+        "change_pct": -0.44,
         "prev_close": 113.11
       },
       "Consumer Stap": {
         "symbol": "XLP",
-        "price": 83.315,
-        "change_pct": 1.55,
+        "price": 83.33,
+        "change_pct": 1.57,
         "prev_close": 82.04
       }
     },
     "fx_commodities": {
       "EUR/USD": {
         "symbol": "EURUSD=X",
-        "price": 1.1586,
-        "change_pct": -0.2,
+        "price": 1.1558,
+        "change_pct": -0.44,
         "prev_close": 1.1609
       },
       "GBP/USD": {
         "symbol": "GBPUSD=X",
-        "price": 1.3403,
-        "change_pct": -0.18,
+        "price": 1.3382,
+        "change_pct": -0.34,
         "prev_close": 1.3427
       },
       "USD/CHF": {
         "symbol": "USDCHF=X",
-        "price": 0.7928,
-        "change_pct": 0.22,
+        "price": 0.7947,
+        "change_pct": 0.46,
         "prev_close": 0.791
       },
       "USD/JPY": {
         "symbol": "USDJPY=X",
-        "price": 160.077,
-        "change_pct": 0.09,
+        "price": 160.222,
+        "change_pct": 0.18,
         "prev_close": 159.94
       },
       "Gold": {
         "symbol": "GC=F",
-        "price": 4419.1001,
-        "change_pct": -1.27,
+        "price": 4390.3999,
+        "change_pct": -1.91,
         "prev_close": 4475.7998
       },
       "Silver": {
         "symbol": "SI=F",
-        "price": 70.755,
-        "change_pct": -4.1,
+        "price": 69.57,
+        "change_pct": -5.7,
         "prev_close": 73.779
       },
       "Brent Crude": {
         "symbol": "BZ=F",
-        "price": 94.17,
-        "change_pct": -0.9,
+        "price": 93.66,
+        "change_pct": -1.44,
         "prev_close": 95.03
       },
       "WTI Crude": {
         "symbol": "CL=F",
-        "price": 91.67,
-        "change_pct": -1.47,
+        "price": 91.1,
+        "change_pct": -2.09,
         "prev_close": 93.04
       },
       "Natural Gas": {
         "symbol": "NG=F",
-        "price": 3.277,
-        "change_pct": -1.77,
+        "price": 3.283,
+        "change_pct": -1.59,
         "prev_close": 3.336
       },
       "Copper": {
         "symbol": "HG=F",
-        "price": 6.3625,
-        "change_pct": -2.28,
+        "price": 6.326,
+        "change_pct": -2.84,
         "prev_close": 6.511
       },
       "Wheat": {
         "symbol": "ZW=F",
-        "price": 583.5,
-        "change_pct": 0.3,
+        "price": 581.25,
+        "change_pct": -0.09,
         "prev_close": 581.75
       }
     },
     "rates": {
       "VIX": {
         "symbol": "^VIX",
-        "price": 15.95,
-        "change_pct": 3.57,
+        "price": 16.52,
+        "change_pct": 7.27,
         "prev_close": 15.4
       },
       "US 10Y Yield": {
@@ -209,8 +209,8 @@
       },
       "US 30Y Yield": {
         "symbol": "^TYX",
-        "price": 5.015,
-        "change_pct": 0.74,
+        "price": 5.01,
+        "change_pct": 0.64,
         "prev_close": 4.978
       },
       "2s10s Spread": {
@@ -223,92 +223,92 @@
     "large_cap": {
       "Apple": {
         "symbol": "AAPL",
-        "price": 313.84,
-        "change_pct": 0.84,
+        "price": 313.87,
+        "change_pct": 0.85,
         "prev_close": 311.23
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "price": 426.79,
-        "change_pct": -0.29,
+        "price": 421.8999,
+        "change_pct": -1.44,
         "prev_close": 428.05
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "price": 370.195,
-        "change_pct": -0.54,
+        "price": 370.295,
+        "change_pct": -0.51,
         "prev_close": 372.19
       },
       "Amazon": {
         "symbol": "AMZN",
-        "price": 253.72,
-        "change_pct": -0.03,
+        "price": 253.75,
+        "change_pct": -0.02,
         "prev_close": 253.79
       },
       "NVIDIA": {
         "symbol": "NVDA",
-        "price": 213.18,
-        "change_pct": -2.51,
+        "price": 211.25,
+        "change_pct": -3.39,
         "prev_close": 218.66
       },
       "Meta": {
         "symbol": "META",
-        "price": 623.4239,
-        "change_pct": -0.66,
+        "price": 618.5,
+        "change_pct": -1.45,
         "prev_close": 627.57
       },
       "Tesla": {
         "symbol": "TSLA",
-        "price": 412.86,
-        "change_pct": -1.34,
+        "price": 406.21,
+        "change_pct": -2.93,
         "prev_close": 418.45
       },
       "JPMorgan": {
         "symbol": "JPM",
-        "price": 311.01,
-        "change_pct": 0.04,
+        "price": 311.94,
+        "change_pct": 0.34,
         "prev_close": 310.89
       },
       "Goldman Sachs": {
         "symbol": "GS",
-        "price": 1073.14,
-        "change_pct": -1.78,
+        "price": 1069.1375,
+        "change_pct": -2.15,
         "prev_close": 1092.61
       },
       "ExxonMobil": {
         "symbol": "XOM",
-        "price": 150.235,
-        "change_pct": -1.19,
+        "price": 150.635,
+        "change_pct": -0.92,
         "prev_close": 152.04
       },
       "Berkshire B": {
         "symbol": "BRK-B",
-        "price": 484.815,
-        "change_pct": 1.29,
+        "price": 487.605,
+        "change_pct": 1.88,
         "prev_close": 478.63
       },
       "Visa": {
         "symbol": "V",
-        "price": 323.655,
-        "change_pct": 1.09,
+        "price": 323.1645,
+        "change_pct": 0.93,
         "prev_close": 320.18
       },
       "Johnson&Johnson": {
         "symbol": "JNJ",
-        "price": 229.84,
-        "change_pct": 0.73,
+        "price": 231.93,
+        "change_pct": 1.65,
         "prev_close": 228.17
       },
       "UnitedHealth": {
         "symbol": "UNH",
-        "price": 398.955,
-        "change_pct": 0.63,
+        "price": 399.8,
+        "change_pct": 0.84,
         "prev_close": 396.47
       },
       "Procter&Gamble": {
         "symbol": "PG",
-        "price": 143.74,
-        "change_pct": 2.1,
+        "price": 143.91,
+        "change_pct": 2.22,
         "prev_close": 140.78
       }
     }
@@ -352,124 +352,124 @@
       {
         "name": "KO",
         "symbol": "KO",
-        "price": 78.99,
-        "change_pct": 2.82
-      },
-      {
-        "name": "MCD",
-        "symbol": "MCD",
-        "price": 278.6,
-        "change_pct": 2.16
+        "price": 78.895,
+        "change_pct": 2.7
       },
       {
         "name": "PG",
         "symbol": "PG",
-        "price": 143.73,
-        "change_pct": 2.1
+        "price": 143.9,
+        "change_pct": 2.22
+      },
+      {
+        "name": "MCD",
+        "symbol": "MCD",
+        "price": 278.78,
+        "change_pct": 2.22
       },
       {
         "name": "COST",
         "symbol": "COST",
-        "price": 992.68,
-        "change_pct": 2.09
+        "price": 993.06,
+        "change_pct": 2.13
       },
       {
-        "name": "ABBV",
-        "symbol": "ABBV",
-        "price": 228.83,
-        "change_pct": 1.73
-      },
-      {
-        "name": "LIN",
-        "symbol": "LIN",
-        "price": 516.2127,
-        "change_pct": 1.73
+        "name": "BRK-B",
+        "symbol": "BRK-B",
+        "price": 487.55,
+        "change_pct": 1.86
       },
       {
         "name": "EXC",
         "symbol": "EXC",
-        "price": 45.36,
+        "price": 45.43,
+        "change_pct": 1.79
+      },
+      {
+        "name": "LOW",
+        "symbol": "LOW",
+        "price": 211.21,
+        "change_pct": 1.77
+      },
+      {
+        "name": "JNJ",
+        "symbol": "JNJ",
+        "price": 232.07,
+        "change_pct": 1.71
+      },
+      {
+        "name": "LIN",
+        "symbol": "LIN",
+        "price": 515.78,
         "change_pct": 1.64
       },
       {
         "name": "MDLZ",
         "symbol": "MDLZ",
-        "price": 61.87,
-        "change_pct": 1.44
-      },
-      {
-        "name": "SBUX",
-        "symbol": "SBUX",
-        "price": 95.39,
-        "change_pct": 1.33
-      },
-      {
-        "name": "BRK-B",
-        "symbol": "BRK-B",
-        "price": 484.84,
-        "change_pct": 1.3
+        "price": 61.94,
+        "change_pct": 1.56
       }
     ],
     "losers": [
       {
+        "name": "COIN",
+        "symbol": "COIN",
+        "price": 152.3799,
+        "change_pct": -7.16
+      },
+      {
         "name": "INTC",
         "symbol": "INTC",
-        "price": 104.8794,
-        "change_pct": -6.17
+        "price": 104.21,
+        "change_pct": -6.77
       },
       {
         "name": "AMD",
         "symbol": "AMD",
-        "price": 491.425,
-        "change_pct": -6.07
+        "price": 488.67,
+        "change_pct": -6.6
       },
       {
         "name": "QCOM",
         "symbol": "QCOM",
-        "price": 230.04,
-        "change_pct": -5.17
-      },
-      {
-        "name": "COIN",
-        "symbol": "COIN",
-        "price": 156.26,
-        "change_pct": -4.79
+        "price": 230.76,
+        "change_pct": -4.87
       },
       {
         "name": "AVGO",
         "symbol": "AVGO",
-        "price": 402.56,
-        "change_pct": -3.9
+        "price": 399.58,
+        "change_pct": -4.61
       },
       {
         "name": "TXN",
         "symbol": "TXN",
-        "price": 293.71,
-        "change_pct": -3.82
-      },
-      {
-        "name": "CAT",
-        "symbol": "CAT",
-        "price": 916.35,
-        "change_pct": -2.57
+        "price": 293.4325,
+        "change_pct": -3.91
       },
       {
         "name": "NVDA",
         "symbol": "NVDA",
-        "price": 213.17,
-        "change_pct": -2.51
+        "price": 211.226,
+        "change_pct": -3.4
       },
       {
-        "name": "MS",
-        "symbol": "MS",
-        "price": 213.66,
-        "change_pct": -2.11
+        "name": "TSLA",
+        "symbol": "TSLA",
+        "price": 406.085,
+        "change_pct": -2.95
       },
       {
-        "name": "F",
-        "symbol": "F",
-        "price": 15.0478,
-        "change_pct": -1.9
+        "name": "PLTR",
+        "symbol": "PLTR",
+        "price": 138.21,
+        "change_pct": -2.46
+      },
+      {
+        "name": "BLK",
+        "symbol": "BLK",
+        "price": 999.62,
+        "change_pct": -2.24
       }
     ]
   },
@@ -479,7 +479,7 @@
         "title": "US economy blew past expectations to add 172,000 jobs in May",
         "link": "https://www.ft.com/content/ab37709f-9b5e-493c-902c-a87cba23b493",
         "summary": "Traders bet the Fed will have to raise rates by December",
-        "published": "2026-06-05T13:04:58",
+        "published": "2026-06-05T13:54:13",
         "source": "UK homepage",
         "sentiment": "neutral"
       },
@@ -622,58 +622,66 @@
     ],
     "serbia": [
       {
-        "title": "Uhapšena jedna osoba iz Loznice zbog sumnje da je ukrala 162 hiljade evra i zlatan nakit",
-        "link": "https://n1info.rs/vesti/uhapsena-osoba-loznica-ukrala-162-hiljade-evra-zlatan-nakit/",
-        "summary": "Policija u Boljevcu uhapsila je M.P. (55) iz Loznice zbog sumnje da je u periodu od 14. do 16. marta 2026. godine, provalio u prostorije jednog preduz",
-        "published": "2026-06-05T13:44:41",
-        "source": "N1 Info RS - Feed",
-        "sentiment": "neutral"
-      },
-      {
         "title": "(BLOG) Danas se održava samit EU-Zapadni Balkan u Tivtu, neće biti zajedničke deklaracije",
         "link": "https://n1info.rs/vesti/blog-danas-se-odrzava-samit-eu-zapadni-balkan-u-tivtu-prisustvuje-i-vucic/",
         "summary": "Danas se održava Samit EU-Zapadni Balkan u Tivtu, a u Crnu Goru juče je nakon vraćanja aviona sa 87 državljana Srbije koji su ocenjeni kao bezbednosna",
-        "published": "2026-06-05T13:44:14",
+        "published": "2026-06-05T14:30:46",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Beogradska berza upozorava na nove pokušaje prevare: Ne nudimo lične savetnike, platforme, ni kampanje sa uplatom novca",
-        "link": "https://n1info.rs/biznis/beogradska-berza-upozorava-na-nove-pokusaje-prevare-ne-nudimo-licne-savetnike-platforme-ni-kampanje-sa-uplatom-novca/",
-        "summary": "Beogradska berza (BGDX/ranije BELEX) ponovo upozorava javnost na pokušaje prevare putem telefonskih poziva i interneta od strane osoba koje se lažno p",
-        "published": "2026-06-05T13:43:29",
+        "title": "Selaković o non-pejperu: EU pokušava da pomogne Srbiji da se ukači u voz faznog pristupanja",
+        "link": "https://n1info.rs/vesti/selakovic-non-pejper-srbija-crna-region-eu/",
+        "summary": "Koordinarorka Nacionalnog konventa o Evropskoj uniji Bojana Selaković ocenila je da je u novom nemačko-francuskom non-pejperu za Zapadni Balkan zadrža",
+        "published": "2026-06-05T14:26:11",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Profesor Vladimir Mihić: Teško mi je da zamislim sebe van učionice, a još teže van Filozofskog fakulteta",
-        "link": "https://n1info.rs/vesti/profesor-vladimir-mihic-otkaz-filozofski-fakultet-novi-sad/",
-        "summary": "Profesor Vladimir Mihić govorio je za N1 nakon što juče Senat Univerziteta u Novom Sadu nije potvrdio njegov reizbor u zvanje vanrednog profesora i re",
-        "published": "2026-06-05T13:40:27",
+        "title": "Gledajte UŽIVO Dan uživo: Crna ovca u Tivtu",
+        "link": "https://n1info.rs/najave-emisija/dan-uzivo-crna-ovca-u-tivtu/",
+        "summary": "Bez podrške svojih \"aktivista\", odnosno bezbednosno intetesantnih lica, predsednik Srbije Aleksandar Vučić učestvuje na Samitu EU-Zapadni Balkan. Ali,",
+        "published": "2026-06-05T14:25:18",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Global fokus: Bezbednost - evropska i balkanska priča",
-        "link": "https://n1info.rs/najave-emisija/global-fokus-bezbednost-evropska-i-balkanska-prica/",
-        "summary": "Sa ratom u Ukrajini koji ulazi u novu fazu eskalacije, Evropi je sve potrebnije jedinstvo i nova bezbednosna arhitektura. Sve je hitnije da se i zemlj",
-        "published": "2026-06-05T13:36:07",
+        "title": "Novi dan: Zaključci Samita EU i Zapadnog Balkana u Tivtu",
+        "link": "https://n1info.rs/najave-emisija/novi-dan-zakljucci-samita-eu-i-zapadnog-balkana-u-tivtu/",
+        "summary": "U subotu u Novom danu o zaključcima Samita Evropska unije i Zapadnog Balkana u Tivtu.",
+        "published": "2026-06-05T14:21:53",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Vučićev advokat - branilac vlasnika restorana u slučaju \"Senjak\"",
-        "link": "https://n1info.rs/vesti/vucicev-advokat-branilac-vlasnika-restorana-u-slucaju-senjak/",
-        "summary": "U istrazi o ubistvu Aleksandra Nešovića do sada je uhapšeno ukupno 13 osoba, među kojima je i vlasnik restorana „27“ Nenad Lukić, protiv kojeg se vodi",
-        "published": "2026-06-05T13:33:57",
+        "title": "EU mediji: Podgorica blizu članstva u Uniji, Srbija sporna",
+        "link": "https://n1info.rs/vesti/eu-mediji-podgorica-blizu-clanstva-u-uniji-srbija-sporna/",
+        "summary": "Novi zamah je moguć na putu Zapadnog Balkana ka članstvu u Evropskoj uniji, Crna Gora napreduje, dok je Srbija sporna, a većina u regionu zaostaje u r",
+        "published": "2026-06-05T14:17:13",
         "source": "N1 Info RS - Feed",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Dom zdravlja u Bačkoj Topoli privremeno neće obavljati porođaje zbog \"nepredviđenih kadrovskih okolnosti\"",
+        "link": "https://n1info.rs/vesti/dom-zdravlja-backa-topola-porodjaji/",
+        "summary": "Dom zdravlja \"Dr Janoš Hadži\" u Bačkoj Topoli je najavio da neće obavljati porođaje od ponedljka, 8. juna, do 15. juna zbog \"nepredviđenih kadrovskih",
+        "published": "2026-06-05T14:13:43",
+        "source": "N1 Info RS - Feed",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Picu konopcem spušta s balkona, gosti čekaju na ulici, komšije imaju prednost: \"Sve radimo na poverenje\"",
+        "link": "https://biznis.telegraf.rs/preduzetnistvo/4337986-picu-konopcem-spusta-s-balkona-naplacuje-preko-aplikacije-komsije-imaju-prednost-sve-radimo-na-poverenje",
+        "summary": "To je ptica! To je avion! To je... pica?",
+        "published": "2026-06-05T14:11:41",
+        "source": "Telegraf.rs",
         "sentiment": "neutral"
       },
       {
         "title": "Nova šansa za srpsku privredu - Ministarka Mesarović: \"Sporazum sa Korejom donosi veći izvoz i nove poslove!\"",
         "link": "https://biznis.telegraf.rs/info-biz/4337983-nova-sansa-za-srpsku-privredu-ministarka-mesarovic-sporazum-sa-korejom-donosi-veci-izvoz-i-nove-poslove",
         "summary": "Potpredsednica Vlade i ministarka privrede Adrijana Mesarović održala konstruktivan sastanak sa ministrom trgovine Republike Koreje Jeom Han-Kuom.",
-        "published": "2026-06-05T13:36:25",
+        "published": "2026-06-05T13:51:36",
         "source": "Telegraf.rs",
         "sentiment": "neutral"
       },
@@ -706,14 +714,6 @@
         "link": "https://biznis.telegraf.rs/info-biz/4337832-ovo-su-nove-cene-goriva",
         "summary": "Sredinom maja vozači su za litar evrodizela plaćali 223 dinara, dok je benzin koštao 191 dinar",
         "published": "2026-06-05T10:46:41",
-        "source": "Telegraf.rs",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "NAFTA PRED NOVIM OBRTOM: Cena se približila 95 dolara, a jedan region sveta drži tržišta u neizvesnosti",
-        "link": "https://biznis.telegraf.rs/info-biz/4337836-nafta-pred-novim-obrtom-cena-se-priblizila-95-dolara-a-jedan-region-sveta-drzi-trzista-u-neizvesnosti",
-        "summary": "Iako je Brent danas blago oslabio za oko pola procenta, nafta je i dalje na putu da zabeleži prvi nedeljni rast posle tri sedmice pada",
-        "published": "2026-06-05T10:21:57",
         "source": "Telegraf.rs",
         "sentiment": "neutral"
       },
@@ -769,6 +769,16 @@
   },
   "key_events": [
     {
+      "title": "Greece reportedly plans 15% capital gains tax on cryptocurrencies",
+      "link": "https://www.investing.com/news/cryptocurrency-news/greece-reportedly-plans-15-capital-gains-tax-on-cryptocurrencies-93CH-4728777",
+      "summary": ""
+    },
+    {
+      "title": "Bitcoin slumps to $61k, set for 17% weekly wipeout as ETF outflows continue",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-61k-set-for-16-weekly-wipeout-as-etf-outflows-continue-4727889",
+      "summary": ""
+    },
+    {
       "title": "BTCC Exchange Turns 15: Kicking Off the Anniversary with The World Cup Showdown",
       "link": "https://www.investing.com/news/cryptocurrency-news/btcc-exchange-turns-15-kicking-off-the-anniversary-with-the-world-cup-showdown-4728615",
       "summary": ""
@@ -776,11 +786,6 @@
     {
       "title": "EOS Climbs 10% In Bullish Trade",
       "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-10-in-bullish-trade-4728116",
-      "summary": ""
-    },
-    {
-      "title": "Bitcoin falls to $61k, set for 16% weekly wipeout as ETF outflows continue",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-61k-set-for-16-weekly-wipeout-as-etf-outflows-continue-4727889",
       "summary": ""
     },
     {
@@ -811,11 +816,6 @@
     {
       "title": "NewGenIVF invests additional $4 million in K25.ai, adopts digital asset strategy",
       "link": "https://www.investing.com/news/cryptocurrency-news/newgenivf-invests-additional-4-million-in-k25ai-adopts-digital-asset-strategy-432SI-4726654",
-      "summary": ""
-    },
-    {
-      "title": "EOS Falls 11% In Selloff",
-      "link": "https://www.investing.com/news/cryptocurrency-news/eos-falls-11-in-selloff-4725983",
       "summary": ""
     }
   ],
