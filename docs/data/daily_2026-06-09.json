@@ -1,48 +1,48 @@
 {
   "date": "2026-06-09",
-  "generated_at": "2026-06-09T15:42:10.137754+02:00",
+  "generated_at": "2026-06-09T16:31:35.124244+02:00",
   "market": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "price": 7459.7998,
-        "change_pct": 0.73,
+        "price": 7429.6201,
+        "change_pct": 0.32,
         "prev_close": 7405.73
       },
       "NASDAQ": {
         "symbol": "^IXIC",
-        "price": 26168.375,
-        "change_pct": 0.92,
+        "price": 25947.2812,
+        "change_pct": 0.07,
         "prev_close": 25929.6602
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "price": 51087.0117,
-        "change_pct": 0.59,
+        "price": 51103.3789,
+        "change_pct": 0.62,
         "prev_close": 50786.0117
       },
       "DAX": {
         "symbol": "^GDAXI",
-        "price": 24767.2793,
-        "change_pct": 0.61,
+        "price": 24755.1406,
+        "change_pct": 0.56,
         "prev_close": 24616.2207
       },
       "Euro Stoxx 50": {
         "symbol": "^STOXX50E",
-        "price": 6117.1299,
-        "change_pct": 0.9,
+        "price": 6133.1099,
+        "change_pct": 1.17,
         "prev_close": 6062.29
       },
       "FTSE 100": {
         "symbol": "^FTSE",
-        "price": 10331.4502,
-        "change_pct": -0.4,
+        "price": 10341.2305,
+        "change_pct": -0.31,
         "prev_close": 10373.2002
       },
       "CAC 40": {
         "symbol": "^FCHI",
-        "price": 8267.8496,
-        "change_pct": 0.84,
+        "price": 8277.5,
+        "change_pct": 0.95,
         "prev_close": 8199.29
       },
       "Nikkei 225": {
@@ -55,150 +55,150 @@
     "sectors": {
       "Financials": {
         "symbol": "XLF",
-        "price": 52.33,
-        "change_pct": 0.69,
+        "price": 52.6,
+        "change_pct": 1.21,
         "prev_close": 51.97
       },
       "Energy": {
         "symbol": "XLE",
-        "price": 57.9,
-        "change_pct": -0.74,
+        "price": 57.3,
+        "change_pct": -1.77,
         "prev_close": 58.33
       },
       "Technology": {
         "symbol": "XLK",
-        "price": 185.68,
-        "change_pct": 0.81,
+        "price": 183.73,
+        "change_pct": -0.24,
         "prev_close": 184.18
       },
       "Healthcare": {
         "symbol": "XLV",
-        "price": 153.85,
-        "change_pct": 0.79,
+        "price": 154.12,
+        "change_pct": 0.96,
         "prev_close": 152.65
       },
       "Industrials": {
         "symbol": "XLI",
-        "price": 174.78,
-        "change_pct": 0.66,
+        "price": 175.81,
+        "change_pct": 1.26,
         "prev_close": 173.63
       },
       "Consumer Disc": {
         "symbol": "XLY",
-        "price": 117.31,
-        "change_pct": 1.66,
+        "price": 117.215,
+        "change_pct": 1.58,
         "prev_close": 115.39
       },
       "Materials": {
         "symbol": "XLB",
-        "price": 50.47,
-        "change_pct": 1.02,
+        "price": 50.59,
+        "change_pct": 1.26,
         "prev_close": 49.96
       },
       "Utilities": {
         "symbol": "XLU",
-        "price": 43.5465,
-        "change_pct": 0.06,
+        "price": 43.675,
+        "change_pct": 0.36,
         "prev_close": 43.52
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "price": 44.28,
-        "change_pct": 0.57,
+        "price": 44.82,
+        "change_pct": 1.79,
         "prev_close": 44.03
       },
       "Comm Services": {
         "symbol": "XLC",
-        "price": 111.75,
-        "change_pct": 0.59,
+        "price": 111.84,
+        "change_pct": 0.68,
         "prev_close": 111.09
       },
       "Consumer Stap": {
         "symbol": "XLP",
-        "price": 83.26,
-        "change_pct": 0.23,
+        "price": 83.74,
+        "change_pct": 0.81,
         "prev_close": 83.07
       }
     },
     "fx_commodities": {
       "EUR/USD": {
         "symbol": "EURUSD=X",
-        "price": 1.1569,
-        "change_pct": 0.4,
+        "price": 1.157,
+        "change_pct": 0.41,
         "prev_close": 1.1523
       },
       "GBP/USD": {
         "symbol": "GBPUSD=X",
-        "price": 1.3398,
-        "change_pct": 0.47,
+        "price": 1.3402,
+        "change_pct": 0.5,
         "prev_close": 1.3336
       },
       "USD/CHF": {
         "symbol": "USDCHF=X",
-        "price": 0.7959,
-        "change_pct": -0.07,
+        "price": 0.7965,
+        "change_pct": 0.01,
         "prev_close": 0.7964
       },
       "USD/JPY": {
         "symbol": "USDJPY=X",
-        "price": 160.193,
+        "price": 160.192,
         "change_pct": -0.08,
         "prev_close": 160.327
       },
       "Gold": {
         "symbol": "GC=F",
-        "price": 4355.7998,
-        "change_pct": 0.46,
+        "price": 4339.2998,
+        "change_pct": 0.08,
         "prev_close": 4335.8999
       },
       "Silver": {
         "symbol": "SI=F",
-        "price": 68.445,
-        "change_pct": 0.03,
+        "price": 67.545,
+        "change_pct": -1.29,
         "prev_close": 68.425
       },
       "Brent Crude": {
         "symbol": "BZ=F",
-        "price": 92.06,
-        "change_pct": -2.32,
+        "price": 91.29,
+        "change_pct": -3.14,
         "prev_close": 94.25
       },
       "WTI Crude": {
         "symbol": "CL=F",
-        "price": 88.76,
-        "change_pct": -2.78,
+        "price": 87.92,
+        "change_pct": -3.7,
         "prev_close": 91.3
       },
       "Natural Gas": {
         "symbol": "NG=F",
-        "price": 3.132,
-        "change_pct": -0.48,
+        "price": 3.165,
+        "change_pct": 0.57,
         "prev_close": 3.147
       },
       "Copper": {
         "symbol": "HG=F",
-        "price": 6.4315,
-        "change_pct": 1.61,
+        "price": 6.4305,
+        "change_pct": 1.6,
         "prev_close": 6.3295
       },
       "Wheat": {
         "symbol": "ZW=F",
-        "price": 590.25,
-        "change_pct": 1.2,
+        "price": 589.25,
+        "change_pct": 1.03,
         "prev_close": 583.25
       }
     },
     "rates": {
       "VIX": {
         "symbol": "^VIX",
-        "price": 18.04,
-        "change_pct": -4.65,
+        "price": 17.93,
+        "change_pct": -5.23,
         "prev_close": 18.92
       },
       "US 10Y Yield": {
         "symbol": "^TNX",
-        "price": 4.538,
-        "change_pct": -0.31,
+        "price": 4.54,
+        "change_pct": -0.26,
         "prev_close": 4.552
       },
       "US 2Y Yield": {
@@ -209,13 +209,13 @@
       },
       "US 30Y Yield": {
         "symbol": "^TYX",
-        "price": 5.016,
-        "change_pct": -0.16,
+        "price": 5.021,
+        "change_pct": -0.06,
         "prev_close": 5.024
       },
       "2s10s Spread": {
         "symbol": "SPREAD",
-        "price": 0.903,
+        "price": 0.905,
         "change_pct": null,
         "note": "positive = normal curve, negative = inverted (recession signal)"
       }
@@ -223,92 +223,92 @@
     "large_cap": {
       "Apple": {
         "symbol": "AAPL",
-        "price": 300.26,
-        "change_pct": -0.42,
+        "price": 292.95,
+        "change_pct": -2.85,
         "prev_close": 301.54
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "price": 409.5,
-        "change_pct": -0.54,
+        "price": 409.89,
+        "change_pct": -0.45,
         "prev_close": 411.74
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "price": 370.51,
-        "change_pct": 1.98,
+        "price": 367.0701,
+        "change_pct": 1.03,
         "prev_close": 363.31
       },
       "Amazon": {
         "symbol": "AMZN",
-        "price": 249.82,
-        "change_pct": 1.88,
+        "price": 247.6,
+        "change_pct": 0.97,
         "prev_close": 245.22
       },
       "NVIDIA": {
         "symbol": "NVDA",
-        "price": 210.4,
-        "change_pct": 0.84,
+        "price": 206.9,
+        "change_pct": -0.83,
         "prev_close": 208.64
       },
       "Meta": {
         "symbol": "META",
-        "price": 591.8,
-        "change_pct": 1.09,
+        "price": 595.49,
+        "change_pct": 1.73,
         "prev_close": 585.39
       },
       "Tesla": {
         "symbol": "TSLA",
-        "price": 418.09,
-        "change_pct": 2.23,
+        "price": 407.2501,
+        "change_pct": -0.42,
         "prev_close": 408.95
       },
       "JPMorgan": {
         "symbol": "JPM",
-        "price": 314.865,
-        "change_pct": 1.21,
+        "price": 315.2,
+        "change_pct": 1.31,
         "prev_close": 311.11
       },
       "Goldman Sachs": {
         "symbol": "GS",
-        "price": 1056.22,
-        "change_pct": 1.07,
+        "price": 1046.01,
+        "change_pct": 0.1,
         "prev_close": 1045.0
       },
       "ExxonMobil": {
         "symbol": "XOM",
-        "price": 150.165,
-        "change_pct": -1.04,
+        "price": 148.505,
+        "change_pct": -2.14,
         "prev_close": 151.75
       },
       "Berkshire B": {
         "symbol": "BRK-B",
-        "price": 488.08,
-        "change_pct": 0.22,
+        "price": 489.78,
+        "change_pct": 0.57,
         "prev_close": 487.0
       },
       "Visa": {
         "symbol": "V",
-        "price": 320.0,
-        "change_pct": 0.1,
+        "price": 322.31,
+        "change_pct": 0.83,
         "prev_close": 319.67
       },
       "Johnson&Johnson": {
         "symbol": "JNJ",
-        "price": 232.55,
-        "change_pct": 0.17,
+        "price": 231.9,
+        "change_pct": -0.11,
         "prev_close": 232.16
       },
       "UnitedHealth": {
         "symbol": "UNH",
-        "price": 410.51,
-        "change_pct": 0.97,
+        "price": 412.08,
+        "change_pct": 1.36,
         "prev_close": 406.57
       },
       "Procter&Gamble": {
         "symbol": "PG",
-        "price": 145.65,
-        "change_pct": 0.38,
+        "price": 146.895,
+        "change_pct": 1.24,
         "prev_close": 145.1
       }
     }
@@ -350,126 +350,126 @@
   "movers": {
     "winners": [
       {
-        "name": "INTC",
-        "symbol": "INTC",
-        "price": 113.38,
-        "change_pct": 2.82
-      },
-      {
-        "name": "F",
-        "symbol": "F",
-        "price": 15.345,
-        "change_pct": 2.3
-      },
-      {
         "name": "TMO",
         "symbol": "TMO",
-        "price": 480.4,
-        "change_pct": 2.29
-      },
-      {
-        "name": "TSLA",
-        "symbol": "TSLA",
-        "price": 418.155,
-        "change_pct": 2.25
-      },
-      {
-        "name": "GOOGL",
-        "symbol": "GOOGL",
-        "price": 370.28,
-        "change_pct": 1.92
-      },
-      {
-        "name": "AMZN",
-        "symbol": "AMZN",
-        "price": 249.85,
-        "change_pct": 1.89
+        "price": 490.775,
+        "change_pct": 4.5
       },
       {
         "name": "LOW",
         "symbol": "LOW",
-        "price": 211.33,
-        "change_pct": 1.62
-      },
-      {
-        "name": "LIN",
-        "symbol": "LIN",
-        "price": 509.84,
-        "change_pct": 1.58
-      },
-      {
-        "name": "AXP",
-        "symbol": "AXP",
-        "price": 316.96,
-        "change_pct": 1.49
+        "price": 215.58,
+        "change_pct": 3.66
       },
       {
         "name": "HD",
         "symbol": "HD",
-        "price": 314.24,
-        "change_pct": 1.46
+        "price": 320.405,
+        "change_pct": 3.45
+      },
+      {
+        "name": "SBUX",
+        "symbol": "SBUX",
+        "price": 97.85,
+        "change_pct": 3.2
+      },
+      {
+        "name": "AXP",
+        "symbol": "AXP",
+        "price": 321.35,
+        "change_pct": 2.9
+      },
+      {
+        "name": "PLD",
+        "symbol": "PLD",
+        "price": 146.92,
+        "change_pct": 2.9
+      },
+      {
+        "name": "DHR",
+        "symbol": "DHR",
+        "price": 188.46,
+        "change_pct": 2.69
+      },
+      {
+        "name": "GE",
+        "symbol": "GE",
+        "price": 329.9675,
+        "change_pct": 2.46
+      },
+      {
+        "name": "ISRG",
+        "symbol": "ISRG",
+        "price": 428.83,
+        "change_pct": 2.44
+      },
+      {
+        "name": "PYPL",
+        "symbol": "PYPL",
+        "price": 42.225,
+        "change_pct": 2.34
       }
     ],
     "losers": [
       {
         "name": "QCOM",
         "symbol": "QCOM",
-        "price": 212.869,
-        "change_pct": -2.25
+        "price": 207.235,
+        "change_pct": -4.84
       },
       {
-        "name": "INTU",
-        "symbol": "INTU",
-        "price": 302.11,
-        "change_pct": -1.11
-      },
-      {
-        "name": "XOM",
-        "symbol": "XOM",
-        "price": 150.16,
-        "change_pct": -1.05
+        "name": "AAPL",
+        "symbol": "AAPL",
+        "price": 292.895,
+        "change_pct": -2.87
       },
       {
         "name": "GILD",
         "symbol": "GILD",
-        "price": 126.815,
-        "change_pct": -1.0
+        "price": 125.35,
+        "change_pct": -2.15
       },
       {
-        "name": "SNOW",
-        "symbol": "SNOW",
-        "price": 238.325,
-        "change_pct": -0.88
-      },
-      {
-        "name": "COIN",
-        "symbol": "COIN",
-        "price": 160.85,
-        "change_pct": -0.78
-      },
-      {
-        "name": "PM",
-        "symbol": "PM",
-        "price": 174.73,
-        "change_pct": -0.76
+        "name": "XOM",
+        "symbol": "XOM",
+        "price": 148.505,
+        "change_pct": -2.14
       },
       {
         "name": "CVX",
         "symbol": "CVX",
-        "price": 188.03,
-        "change_pct": -0.64
-      },
-      {
-        "name": "NEE",
-        "symbol": "NEE",
-        "price": 83.555,
-        "change_pct": -0.54
+        "price": 186.02,
+        "change_pct": -1.7
       },
       {
         "name": "PLTR",
         "symbol": "PLTR",
-        "price": 135.755,
-        "change_pct": -0.52
+        "price": 134.275,
+        "change_pct": -1.61
+      },
+      {
+        "name": "INTU",
+        "symbol": "INTU",
+        "price": 302.8,
+        "change_pct": -0.89
+      },
+      {
+        "name": "AVGO",
+        "symbol": "AVGO",
+        "price": 393.13,
+        "change_pct": -0.87
+      },
+      {
+        "name": "NVDA",
+        "symbol": "NVDA",
+        "price": 206.92,
+        "change_pct": -0.82
+      },
+      {
+        "name": "COIN",
+        "symbol": "COIN",
+        "price": 160.827,
+        "change_pct": -0.79
       }
     ]
   },
@@ -622,50 +622,50 @@
     ],
     "serbia": [
       {
-        "title": "Jovanović o sve češćim napadima na univerzitet: Shvatili su da mogu da se svete - to obično rade uplašeni režimi kojima se bliži kraj",
-        "link": "https://n1info.rs/vesti/jovanovic-o-sve-cescim-napadima-na-univerzitet-shvatili-su-da-mogu-da-se-svete-to-obicno-rade-uplaseni-rezimi-kojima-se-blizi-kraj/",
-        "summary": "\"Ništa iznenađujuće od jednog režima koji je osvetnički, od Ministarstva prosvete koje je osvetničko. Oni su sada shvatili da je došlo njihovih pet mi",
-        "published": "2026-06-09T13:35:37",
+        "title": "Gledajte Dan uživo: NPS i kamen mudrosti",
+        "link": "https://n1info.rs/najave-emisija/dan-uzivo-nps-i-kamen-mudrosti/",
+        "summary": "Stranka slobode i pravde, sa njom i \"Srbija centar\", praviće pro-EU listu za parlamentarne izbore. Zeleno-levi front podržaće studentsku listu. Pokret",
+        "published": "2026-06-09T14:30:21",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Povređeni demonstranti u Avganistanu na protestu protiv talibanskih pravila oblačenja za žene",
-        "link": "https://n1info.rs/svet/povredjeni-demonstranti-u-avganistanu-na-protestu-protiv-talibanskih-pravila-oblacenja-za-zene/",
-        "summary": "Najmanje tri osobe povređene su danas tokom nasilnog obračuna avganistanskih vlasti sa demonstrantima koji su se protivili zatvaranju više od deset že",
-        "published": "2026-06-09T13:32:55",
+        "title": "Sve više studija pokazuje da neki lekovi koji se primenjuju u lečenju dijabetesa i gojaznosti mogu da zaštite od raznih vrsta kancera",
+        "link": "https://n1info.rs/magazin/zdravlje/sve-vise-studija-pokazuje-da-neki-lekovi-koji-se-primenjuju-u-lecenju-dijabetesa-i-gojaznosti-mogu-da-zastite-od-raznih-vrsta-kancera/",
+        "summary": "Sve veći broj naučnih dokaza ukazuje na to da popularni GLP-1 lekovi, koji imaju široku primenu u lečenju dijabetesa i gojaznosti, mogu da pruže zašti",
+        "published": "2026-06-09T14:26:58",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Francuski pevač i glumac Patrik Bruel uhapšen zbog optužbi 13 žena za silovanje i pokušaj silovanja",
-        "link": "https://n1info.rs/svet/francuski-pevac-i-glumac-patrik-bruel-uhapsen-zbog-optuzbi-13-zena-za-silovanje-i-pokusaj-silovanja/",
-        "summary": "Francuski pevač i glumac Patrik Bruel uhapšen je danas zbog optužbi najmanje 13 žena za silovanje, pokušaj silovanja i seksualni napad, saopštilo je t",
-        "published": "2026-06-09T13:32:50",
+        "title": "Uhapšen Nišlija zbog nedozvoljene prodaje duvana, oštetio budžet za 4,4 miliona dinara",
+        "link": "https://n1info.rs/vesti/uhapsen-nislija-zbog-nedozvoljene-prodaje-duvana-ostetio-budzet-za-44-miliona-dinara/",
+        "summary": "Pripadnici Ministarstva unutrašnjih poslova, UKP, Službe za suzbijanje kriminala, Odeljenja za suzbijanje privrednog kriminala i Policijske uprave u N",
+        "published": "2026-06-09T14:23:51",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "AP: Ćutanje kineskog predsednika Sija o nuklearnom oružju poklon severnokorejskom lideru Kimu",
-        "link": "https://n1info.rs/svet/ap-cutanje-kineskog-predsednika-sija-o-nuklearnom-oruzju-poklon-severnokorejskom-lideru-kimu/",
-        "summary": "Iz perspektive Pekinga, Sijevo ćutanje može biti priznanje koliko je daleko severnokorejski nuklearni program došao otkako je Kim Džong Un preuzeo vla",
-        "published": "2026-06-09T13:31:49",
+        "title": "Tošković: Nijedna država koja je gazila svoje obrazovanje nije prošla dobro",
+        "link": "https://n1info.rs/vesti/toskovic-nijedna-drzava-koja-je-gazila-svoje-obrazovanje-nije-prosla-dobro/",
+        "summary": "Inicijativa \"Pobunjeni univerzitet\" predala je zahtev za ocenu ustavnosti propisa kojima se visokoškolske ustanove uvode u trezorski sistem SPIRI, jer",
+        "published": "2026-06-09T14:19:01",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Professors at Constitutional Court: University in Rebellion challenges legality of SPIRI system",
-        "link": "https://n1info.rs/english/news/professors-at-constitutional-court-university-in-rebellion-challenges-legality-of-spiri-system/",
-        "summary": "The University in Rebellion initiative filed Tuesday a petition with the Constitutional Court, seeking a review of the constitutionality and legality",
-        "published": "2026-06-09T13:30:39",
+        "title": "Bugarska obustavlja vojnu pomoć Ukrajini: Ovaj se rat neće rešiti na bojnom polju",
+        "link": "https://n1info.rs/svet/bugarska-obustava-vojna-pomoc-ukrajina/",
+        "summary": "Bugarska više neće slati oružje Ukrajini, saopštio je u utorak ministar odbrane te zemlje Dimitar Stojanov.",
+        "published": "2026-06-09T14:10:33",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Najveća zaplena narkotika u istoriji Čilea: U drvnoj građi više od 100 tona droge namenjene tržištu Evrope",
-        "link": "https://n1info.rs/svet/najveca-zaplena-narkotika-u-istoriji-cilea-u-drvnoj-gradji-vise-od-100-tona-droge-namenjene-trzistu-evrope/",
-        "summary": "Čileanske vlasti zaplenile su više od 100 tona droge sakrivene u pošiljkama drvne građe namenjene izvozu u Evropu, saopštila je vlada te zemlje, oceni",
-        "published": "2026-06-09T13:28:23",
+        "title": "Iza vesti: Biljana Đorđević",
+        "link": "https://n1info.rs/video/iza-vesti/iza-vesti-biljana-djordjevic-09-06-2026/",
+        "summary": "Odluka Zeleno-levog fronta da na izborima podrži studentsku listu u ovom trenutku se neće menjati jer je to jedini kredibilan način da se doprinese po",
+        "published": "2026-06-09T14:00:00",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
@@ -673,7 +673,7 @@
         "title": "Otvara se energetski ponor! Industrijski gigant upozorio na scenario koji bi mogao da uzdrma svet",
         "link": "https://biznis.telegraf.rs/info-biz/4339985-otvara-se-energetski-ponor-industrijski-gigant-upozorio-na-scenario-koji-bi-mogao-da-uzdrma-svet",
         "summary": "BASF već godinama trpi posledice skupih energenata u Nemačkoj, a matična fabrika kompanije u Ludvigshafenu posluje sa gubicima",
-        "published": "2026-06-09T13:37:23",
+        "published": "2026-06-09T13:55:31",
         "source": "Telegraf.rs",
         "sentiment": "neutral"
       },
@@ -718,9 +718,25 @@
         "sentiment": "neutral"
       },
       {
-        "title": "Saopštenje Beogradskog centra za ljudska: Policijsko zlostavljanje studentkinje pokušava da se okonča bez utvrđivanja odgovornosti policije",
+        "title": "Pentagon: Alibaba i BYD kao pomažu vojsci Kine",
+        "link": "https://novaekonomija.rs/vesti-iz-sveta/pentagon-alibaba-i-byd-kao-pomazu-vojsci-kine",
+        "summary": "Pentagon je nekoliko istaknutih kineskih kompanija, uključujući tehnološkog giganta Alibabu, proizvođača električnih automobila BYD i pretraživač interneta Baidu, dodao na svoju listu kineskih vojnih kompanija, sprečavajući ih da dobiju američke odbrambene ugovore. Lista koju je Pentagon ažurirao,",
+        "published": "2026-06-09T14:25:26",
+        "source": "Nova Ekonomija",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Samo bi Emiratima ove godine trebalo da vratimo dve milijarde dolara: Eksplozija troškova kapitalnih projekata sve veći teret",
+        "link": "https://novaekonomija.rs/vesti-iz-zemlje/samo-bi-emiratima-ove-godine-trebalo-da-vratimo-dve-milijarde-dolara-eksplozija-troskova-kapitalnih-projekata-sve-veci-teret",
+        "summary": "Najnovija analiza Fiskalnog saveta o predlogu budžeta za 2026. godinu otkriva zabrinjavajući trend snažnog porasta procenjenih vrednosti najvećih državnih investicija. Projekti poput EXPO-a, Nacionalnog stadiona i ključnih saobraćajnica beleže poskupljenja koja se mere desetinama milijardi dinara, d",
+        "published": "2026-06-09T13:46:52",
+        "source": "Nova Ekonomija",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Beogradski centar za ljudska prava: Policijsko zlostavljanje studentkinje pokušava da se okonča bez utvrđivanja odgovornosti policije",
         "link": "https://novaekonomija.rs/vesti-iz-zemlje/saopstenje-beogradskog-centra-za-ljudska-policijsko-zlostavljanje-studentkinje-pokusava-da-se-okonca-bez-utvrdjivanja-odgovornosti-policije",
-        "summary": ",, Beogradski centar za ljudska prava (BCHR) upozorava javnost na pokušaj da se predmet policijskog zlostavljanja nad jednom studentkinjom, učesnicom protesta tokom prošlog leta u Beogradu, okonča primenom instituta odlaganja krivičnog gonjenja, bez sudskog postupka i bez utvrđivanja krivične odgovo",
+        "summary": "&#8222;Beogradski centar za ljudska prava (BCHR) upozorava javnost na pokušaj da se predmet policijskog zlostavljanja nad jednom studentkinjom, učesnicom protesta tokom prošlog leta u Beogradu, okonča primenom instituta odlaganja krivičnog gonjenja, bez sudskog postupka i bez utvrđivanja krivične od",
         "published": "2026-06-09T13:17:24",
         "source": "Nova Ekonomija",
         "sentiment": "neutral"
@@ -748,26 +764,25 @@
         "published": "2026-06-09T12:32:45",
         "source": "Nova Ekonomija",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Nova.rs: Đedović Handanović potvrdila da ima firmu u Hrvatskoj, ali da ona ne radi i ne ostvaruje dobit",
-        "link": "https://novaekonomija.rs/vesti-iz-zemlje/nova-rs-djedovic-handanovic-potvrdila-da-ima-firmu-u-hrvatskoj-ali-da-ona-ne-radi-i-ne-ostvaruje-dobit",
-        "summary": "Ministarka rudarstva i energetike Srbije Dubravka Đedović Handanović izjavila je da je vlasnica firme u Hrvatskoj, ali da ona ne ostvaruje nikakvu dobit, da nema aktivnosti, te da ta kompanija kao jedinu imovinu ima zemljište, objavila je danas Nova.rs. Ona je kazala da je svu svoju imovinu, uključu",
-        "published": "2026-06-09T12:30:05",
-        "source": "Nova Ekonomija",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Bulevar despota Stefana u Beogradu biće od avgusta zatvoren na dve godine",
-        "link": "https://novaekonomija.rs/vesti-iz-zemlje/bulevar-despota-stefana-u-beogradu-bice-od-avgusta-zatvoren-na-dve-godine",
-        "summary": "Bulevar despota Stefana u Beogradu biće zatvoren dve godine zbog izgradnje velikog drumskog tunela, dok u Beograd istovremeno stižu i moćne metro krtice, objavio je portal opštine Palilula, palilula.info.  Zatvaranje jedne od najprometnijih ulica u gradu očekuje se u avgustu ove godine. Prva faza ra",
-        "published": "2026-06-09T11:03:08",
-        "source": "Nova Ekonomija",
-        "sentiment": "neutral"
       }
     ]
   },
   "key_events": [
+    {
+      "title": "Bitcoin dips to $62k as ETF outflows continue; Strategy buys the dip",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-at-63k-after-strategy-buy-etf-outflows-ease-4732045",
+      "summary": ""
+    },
+    {
+      "title": "CoinZoom Becomes First U.S.-Regulated Exchange to Support USDT on Ethereum, Tron, and BNB Smart Chain",
+      "link": "https://www.investing.com/news/cryptocurrency-news/coinzoom-becomes-first-usregulated-exchange-to-support-usdt-on-ethereum-tron-and-bnb-smart-chain-4733167",
+      "summary": ""
+    },
+    {
+      "title": "Neura Closes Strategic Funding Round and Partnerships to Build Emotional AI with Persistent, User-Owned Memory",
+      "link": "https://www.investing.com/news/cryptocurrency-news/neura-closes-strategic-funding-round-and-partnerships-to-build-emotional-ai-with-persistent-userowned-memory-4733166",
+      "summary": ""
+    },
     {
       "title": "Bitcoin will hit new all-time highs within 3 years, Transform Ventures CEO says",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-will-hit-new-alltime-highs-within-3-years-transform-ventures-ceo-says-4732986",
@@ -776,11 +791,6 @@
     {
       "title": "Bitcoin stalls at $64,800 resistance in bearish flag: Hourly",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-63970-resistance-in-vshaped-rally-live-levels-93CH-4729724",
-      "summary": ""
-    },
-    {
-      "title": "Bitcoin steady at $63k after Strategy buy; ETF outflows ease",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steady-at-63k-after-strategy-buy-etf-outflows-ease-4732045",
       "summary": ""
     },
     {
@@ -806,16 +816,6 @@
     {
       "title": "Introducing CoinW TradFi : Redefining Traditional Asset Trading with Crypto Innovation",
       "link": "https://www.investing.com/news/cryptocurrency-news/introducing-coinw-tradfi--redefining-traditional-asset-trading-with-crypto-innovation-4729766",
-      "summary": ""
-    },
-    {
-      "title": "Bitcoin climbs back above $61,000 as crypto market steadies after brutal selloff",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-climbs-above-62000-as-crypto-market-steadies-after-brutal-selloff-4729656",
-      "summary": ""
-    },
-    {
-      "title": "Bitcoin rebounds above $60,000 after $1.6 billion liquidation-driven selloff",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-rebounds-above-61000-after-16-billion-liquidationdriven-selloff-4729561",
       "summary": ""
     }
   ],
