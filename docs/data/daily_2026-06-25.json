@@ -1,48 +1,48 @@
 {
   "date": "2026-06-25",
-  "generated_at": "2026-06-25T15:15:12.503777+02:00",
+  "generated_at": "2026-06-25T16:09:24.345542+02:00",
   "market": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "price": 7358.2202,
-        "change_pct": -0.1,
-        "prev_close": 7365.46
+        "price": 7358.23,
+        "change_pct": 0.0,
+        "prev_close": 7358.2202
       },
       "NASDAQ": {
         "symbol": "^IXIC",
-        "price": 25476.6406,
-        "change_pct": -0.43,
-        "prev_close": 25587.0391
+        "price": 25269.6113,
+        "change_pct": -0.81,
+        "prev_close": 25476.6406
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "price": 51848.8984,
-        "change_pct": 0.35,
-        "prev_close": 51666.8398
+        "price": 52244.1016,
+        "change_pct": 0.76,
+        "prev_close": 51848.8984
       },
       "DAX": {
         "symbol": "^GDAXI",
-        "price": 24992.2402,
-        "change_pct": 1.02,
+        "price": 24899.5703,
+        "change_pct": 0.64,
         "prev_close": 24740.3594
       },
       "Euro Stoxx 50": {
         "symbol": "^STOXX50E",
-        "price": 6273.9702,
-        "change_pct": 0.95,
+        "price": 6247.25,
+        "change_pct": 0.52,
         "prev_close": 6214.7002
       },
       "FTSE 100": {
         "symbol": "^FTSE",
-        "price": 10552.5898,
-        "change_pct": 0.87,
+        "price": 10532.5801,
+        "change_pct": 0.68,
         "prev_close": 10461.5996
       },
       "CAC 40": {
         "symbol": "^FCHI",
-        "price": 8444.6104,
-        "change_pct": 0.71,
+        "price": 8425.46,
+        "change_pct": 0.48,
         "prev_close": 8385.4902
       },
       "Nikkei 225": {
@@ -55,167 +55,167 @@
     "sectors": {
       "Financials": {
         "symbol": "XLF",
-        "price": 53.72,
-        "change_pct": -0.3,
-        "prev_close": 53.88
+        "price": 54.285,
+        "change_pct": 1.05,
+        "prev_close": 53.72
       },
       "Energy": {
         "symbol": "XLE",
-        "price": 53.57,
-        "change_pct": -1.63,
-        "prev_close": 54.46
+        "price": 53.94,
+        "change_pct": 0.69,
+        "prev_close": 53.57
       },
       "Technology": {
         "symbol": "XLK",
-        "price": 183.05,
-        "change_pct": -0.62,
-        "prev_close": 184.19
+        "price": 181.7,
+        "change_pct": -0.74,
+        "prev_close": 183.05
       },
       "Healthcare": {
         "symbol": "XLV",
-        "price": 153.35,
-        "change_pct": 0.77,
-        "prev_close": 152.18
+        "price": 156.5,
+        "change_pct": 2.05,
+        "prev_close": 153.35
       },
       "Industrials": {
         "symbol": "XLI",
-        "price": 180.21,
-        "change_pct": 1.16,
-        "prev_close": 178.15
+        "price": 184.62,
+        "change_pct": 2.45,
+        "prev_close": 180.21
       },
       "Consumer Disc": {
         "symbol": "XLY",
-        "price": 115.07,
-        "change_pct": 1.15,
-        "prev_close": 113.76
+        "price": 114.78,
+        "change_pct": -0.25,
+        "prev_close": 115.07
       },
       "Materials": {
         "symbol": "XLB",
-        "price": 51.16,
-        "change_pct": 0.57,
-        "prev_close": 50.87
+        "price": 52.01,
+        "change_pct": 1.66,
+        "prev_close": 51.16
       },
       "Utilities": {
         "symbol": "XLU",
-        "price": 45.54,
-        "change_pct": 1.04,
-        "prev_close": 45.07
+        "price": 46.165,
+        "change_pct": 1.37,
+        "prev_close": 45.54
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "price": 44.51,
-        "change_pct": -0.29,
-        "prev_close": 44.64
+        "price": 44.625,
+        "change_pct": 0.26,
+        "prev_close": 44.51
       },
       "Comm Services": {
         "symbol": "XLC",
-        "price": 106.54,
-        "change_pct": -0.68,
-        "prev_close": 107.27
+        "price": 106.21,
+        "change_pct": -0.31,
+        "prev_close": 106.54
       },
       "Consumer Stap": {
         "symbol": "XLP",
-        "price": 84.44,
-        "change_pct": 0.86,
-        "prev_close": 83.72
+        "price": 84.92,
+        "change_pct": 0.57,
+        "prev_close": 84.44
       }
     },
     "fx_commodities": {
       "EUR/USD": {
         "symbol": "EURUSD=X",
-        "price": 1.1355,
-        "change_pct": -0.22,
+        "price": 1.138,
+        "change_pct": 0.01,
         "prev_close": 1.138
       },
       "GBP/USD": {
         "symbol": "GBPUSD=X",
-        "price": 1.3176,
-        "change_pct": -0.19,
+        "price": 1.321,
+        "change_pct": 0.07,
         "prev_close": 1.32
       },
       "USD/CHF": {
         "symbol": "USDCHF=X",
-        "price": 0.8123,
-        "change_pct": 0.32,
+        "price": 0.8098,
+        "change_pct": 0.0,
         "prev_close": 0.8097
       },
       "USD/JPY": {
         "symbol": "USDJPY=X",
-        "price": 161.838,
-        "change_pct": 0.15,
+        "price": 161.653,
+        "change_pct": 0.03,
         "prev_close": 161.599
       },
       "Gold": {
         "symbol": "GC=F",
-        "price": 4035.1001,
-        "change_pct": 1.12,
+        "price": 4024.3,
+        "change_pct": 0.85,
         "prev_close": 3990.3
       },
       "Silver": {
         "symbol": "SI=F",
-        "price": 58.32,
-        "change_pct": 0.46,
+        "price": 57.3,
+        "change_pct": -1.3,
         "prev_close": 58.052
       },
       "Brent Crude": {
         "symbol": "BZ=F",
-        "price": 73.1,
-        "change_pct": -0.87,
+        "price": 73.79,
+        "change_pct": 0.07,
         "prev_close": 73.74
       },
       "WTI Crude": {
         "symbol": "CL=F",
-        "price": 69.49,
-        "change_pct": -1.21,
+        "price": 70.21,
+        "change_pct": -0.18,
         "prev_close": 70.34
       },
       "Natural Gas": {
         "symbol": "NG=F",
-        "price": 3.349,
-        "change_pct": 3.97,
+        "price": 3.302,
+        "change_pct": 2.51,
         "prev_close": 3.221
       },
       "Copper": {
         "symbol": "HG=F",
-        "price": 6.1295,
-        "change_pct": 3.14,
+        "price": 6.079,
+        "change_pct": 2.29,
         "prev_close": 5.943
       },
       "Wheat": {
         "symbol": "ZW=F",
-        "price": 591.5,
-        "change_pct": 0.98,
+        "price": 595.25,
+        "change_pct": 1.62,
         "prev_close": 585.75
       }
     },
     "rates": {
       "VIX": {
         "symbol": "^VIX",
-        "price": 17.83,
-        "change_pct": -4.29,
+        "price": 19.32,
+        "change_pct": 3.7,
         "prev_close": 18.63
       },
       "US 10Y Yield": {
         "symbol": "^TNX",
-        "price": 4.376,
-        "change_pct": -1.69,
+        "price": 4.372,
+        "change_pct": -1.77,
         "prev_close": 4.451
       },
       "US 2Y Yield": {
         "symbol": "^IRX",
-        "price": 3.678,
-        "change_pct": 0.55,
+        "price": 3.68,
+        "change_pct": 0.6,
         "prev_close": 3.658
       },
       "US 30Y Yield": {
         "symbol": "^TYX",
-        "price": 4.833,
-        "change_pct": -1.39,
+        "price": 4.835,
+        "change_pct": -1.35,
         "prev_close": 4.901
       },
       "2s10s Spread": {
         "symbol": "SPREAD",
-        "price": 0.698,
+        "price": 0.692,
         "change_pct": null,
         "note": "positive = normal curve, negative = inverted (recession signal)"
       }
@@ -223,93 +223,93 @@
     "large_cap": {
       "Apple": {
         "symbol": "AAPL",
-        "price": 293.08,
-        "change_pct": -0.41,
-        "prev_close": 294.3
+        "price": 279.7429,
+        "change_pct": -4.55,
+        "prev_close": 293.08
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "price": 365.46,
-        "change_pct": -2.27,
-        "prev_close": 373.94
+        "price": 358.145,
+        "change_pct": -2.0,
+        "prev_close": 365.46
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "price": 345.29,
-        "change_pct": -0.24,
-        "prev_close": 346.13
+        "price": 340.55,
+        "change_pct": -1.37,
+        "prev_close": 345.29
       },
       "Amazon": {
         "symbol": "AMZN",
-        "price": 234.27,
-        "change_pct": 0.07,
-        "prev_close": 234.11
+        "price": 228.545,
+        "change_pct": -2.44,
+        "prev_close": 234.27
       },
       "NVIDIA": {
         "symbol": "NVDA",
-        "price": 199.0,
-        "change_pct": -0.52,
-        "prev_close": 200.04
+        "price": 193.95,
+        "change_pct": -2.54,
+        "prev_close": 199.0
       },
       "Meta": {
         "symbol": "META",
-        "price": 557.67,
-        "change_pct": -0.81,
-        "prev_close": 562.2
+        "price": 549.735,
+        "change_pct": -1.42,
+        "prev_close": 557.67
       },
       "Tesla": {
         "symbol": "TSLA",
-        "price": 375.53,
-        "change_pct": -1.59,
-        "prev_close": 381.61
+        "price": 374.76,
+        "change_pct": -0.21,
+        "prev_close": 375.53
       },
       "JPMorgan": {
         "symbol": "JPM",
-        "price": 333.45,
-        "change_pct": -0.21,
-        "prev_close": 334.14
+        "price": 339.6,
+        "change_pct": 1.84,
+        "prev_close": 333.45
       },
       "Goldman Sachs": {
         "symbol": "GS",
-        "price": 1076.91,
-        "change_pct": -1.6,
-        "prev_close": 1094.4399
+        "price": 1072.0601,
+        "change_pct": -0.45,
+        "prev_close": 1076.91
       },
       "ExxonMobil": {
         "symbol": "XOM",
-        "price": 136.9,
-        "change_pct": -2.03,
-        "prev_close": 139.73
+        "price": 137.415,
+        "change_pct": 0.38,
+        "prev_close": 136.9
       },
       "Berkshire B": {
         "symbol": "BRK-B",
-        "price": 494.81,
-        "change_pct": 0.41,
-        "prev_close": 492.81
+        "price": 493.98,
+        "change_pct": -0.17,
+        "prev_close": 494.81
       },
       "Visa": {
         "symbol": "V",
-        "price": 332.23,
-        "change_pct": 1.14,
-        "prev_close": 328.48
+        "price": 336.725,
+        "change_pct": 1.35,
+        "prev_close": 332.23
       },
       "Johnson&Johnson": {
         "symbol": "JNJ",
-        "price": 241.0,
-        "change_pct": 0.8,
-        "prev_close": 239.08
+        "price": 247.24,
+        "change_pct": 2.59,
+        "prev_close": 241.0
       },
       "UnitedHealth": {
         "symbol": "UNH",
-        "price": 405.8,
-        "change_pct": -0.84,
-        "prev_close": 409.25
+        "price": 413.695,
+        "change_pct": 1.95,
+        "prev_close": 405.8
       },
       "Procter&Gamble": {
         "symbol": "PG",
-        "price": 152.04,
-        "change_pct": 0.78,
-        "prev_close": 150.86
+        "price": 150.595,
+        "change_pct": -0.95,
+        "prev_close": 152.04
       }
     }
   },
@@ -350,126 +350,126 @@
   "movers": {
     "winners": [
       {
-        "name": "UBER",
-        "symbol": "UBER",
-        "price": 73.85,
-        "change_pct": 6.0
-      },
-      {
-        "name": "HD",
-        "symbol": "HD",
-        "price": 342.86,
-        "change_pct": 5.67
+        "name": "TMO",
+        "symbol": "TMO",
+        "price": 512.58,
+        "change_pct": 4.14
       },
       {
         "name": "DHR",
         "symbol": "DHR",
-        "price": 188.87,
-        "change_pct": 5.53
+        "price": 196.35,
+        "change_pct": 3.96
       },
       {
-        "name": "TMO",
-        "symbol": "TMO",
-        "price": 492.2,
-        "change_pct": 4.87
-      },
-      {
-        "name": "LYFT",
-        "symbol": "LYFT",
-        "price": 14.4,
-        "change_pct": 4.2
-      },
-      {
-        "name": "ABNB",
-        "symbol": "ABNB",
-        "price": 144.4,
-        "change_pct": 4.0
-      },
-      {
-        "name": "LOW",
-        "symbol": "LOW",
-        "price": 221.45,
-        "change_pct": 3.7
-      },
-      {
-        "name": "GE",
-        "symbol": "GE",
-        "price": 365.88,
-        "change_pct": 2.64
-      },
-      {
-        "name": "SBUX",
-        "symbol": "SBUX",
-        "price": 103.53,
-        "change_pct": 2.45
-      },
-      {
-        "name": "PYPL",
-        "symbol": "PYPL",
-        "price": 42.48,
-        "change_pct": 1.87
-      }
-    ],
-    "losers": [
-      {
-        "name": "COIN",
-        "symbol": "COIN",
-        "price": 150.11,
-        "change_pct": -5.1
+        "name": "CAT",
+        "symbol": "CAT",
+        "price": 1032.015,
+        "change_pct": 3.78
       },
       {
         "name": "QCOM",
         "symbol": "QCOM",
-        "price": 197.41,
-        "change_pct": -3.29
+        "price": 203.61,
+        "change_pct": 3.14
       },
       {
-        "name": "BLK",
-        "symbol": "BLK",
-        "price": 982.6,
-        "change_pct": -3.22
+        "name": "UPS",
+        "symbol": "UPS",
+        "price": 108.95,
+        "change_pct": 2.65
       },
       {
-        "name": "PLD",
-        "symbol": "PLD",
-        "price": 140.87,
-        "change_pct": -3.02
+        "name": "ABBV",
+        "symbol": "ABBV",
+        "price": 241.1,
+        "change_pct": 2.64
       },
+      {
+        "name": "JNJ",
+        "symbol": "JNJ",
+        "price": 247.07,
+        "change_pct": 2.52
+      },
+      {
+        "name": "F",
+        "symbol": "F",
+        "price": 14.185,
+        "change_pct": 2.49
+      },
+      {
+        "name": "MRK",
+        "symbol": "MRK",
+        "price": 123.52,
+        "change_pct": 2.42
+      },
+      {
+        "name": "USB",
+        "symbol": "USB",
+        "price": 61.54,
+        "change_pct": 2.38
+      }
+    ],
+    "losers": [
       {
         "name": "PLTR",
         "symbol": "PLTR",
-        "price": 113.5,
-        "change_pct": -2.74
+        "price": 107.9036,
+        "change_pct": -4.93
       },
       {
-        "name": "AMT",
-        "symbol": "AMT",
-        "price": 174.46,
-        "change_pct": -2.74
+        "name": "AAPL",
+        "symbol": "AAPL",
+        "price": 279.77,
+        "change_pct": -4.54
       },
       {
-        "name": "MS",
-        "symbol": "MS",
-        "price": 219.86,
-        "change_pct": -2.73
+        "name": "INTC",
+        "symbol": "INTC",
+        "price": 127.085,
+        "change_pct": -3.47
       },
       {
-        "name": "CCI",
-        "symbol": "CCI",
-        "price": 82.14,
-        "change_pct": -2.6
+        "name": "NVDA",
+        "symbol": "NVDA",
+        "price": 193.9924,
+        "change_pct": -2.52
       },
       {
-        "name": "CVX",
-        "symbol": "CVX",
-        "price": 171.45,
-        "change_pct": -2.57
+        "name": "AMZN",
+        "symbol": "AMZN",
+        "price": 228.555,
+        "change_pct": -2.44
       },
       {
         "name": "MSFT",
         "symbol": "MSFT",
-        "price": 365.46,
-        "change_pct": -2.27
+        "price": 358.085,
+        "change_pct": -2.02
+      },
+      {
+        "name": "COIN",
+        "symbol": "COIN",
+        "price": 147.09,
+        "change_pct": -2.01
+      },
+      {
+        "name": "MCD",
+        "symbol": "MCD",
+        "price": 268.94,
+        "change_pct": -1.8
+      },
+      {
+        "name": "AMT",
+        "symbol": "AMT",
+        "price": 171.34,
+        "change_pct": -1.79
+      },
+      {
+        "name": "AVGO",
+        "symbol": "AVGO",
+        "price": 375.26,
+        "change_pct": -1.78
       }
     ]
   },
@@ -479,7 +479,7 @@
         "title": "Jamie Dimon promotes two potential successors at JPMorgan",
         "link": "https://www.ft.com/content/4f191eea-2486-4c43-9e17-0f8dcd340b23",
         "summary": "Marianne Lake leaves bank as Doug Petno and Troy Rohrbaugh handed two of its largest divisions",
-        "published": "2026-06-25T12:47:17",
+        "published": "2026-06-25T13:29:49",
         "source": "UK homepage",
         "sentiment": "neutral"
       },
@@ -500,12 +500,20 @@
         "sentiment": "neutral"
       },
       {
-        "title": "Lessons from Brexit for the world economy",
-        "link": "https://www.ft.com/content/f99c7879-cb76-4914-9ddc-38d743df1a02",
-        "summary": "Ten years on, it’s clear the warnings should have been heeded",
-        "published": "2026-06-25T08:00:08",
+        "title": "The ever weirder world of venture capital",
+        "link": "https://www.ft.com/content/f56b8b59-930b-40f5-b4ad-99e34144afb2",
+        "summary": "Why the Power Law remains a guiding principle of the high-risk, high-reward VC game",
+        "published": "2026-06-25T13:08:12",
         "source": "UK homepage",
-        "sentiment": "negative"
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Burnham needs to simplify UK taxes, says adviser Haldane",
+        "link": "https://www.ft.com/content/3f1dc9a3-33a6-4115-8bfa-09934f60caa9",
+        "summary": "Former Bank of England chief economist says ‘thicket of regulation’ must be cut to boost growth",
+        "published": "2026-06-25T13:45:30",
+        "source": "UK homepage",
+        "sentiment": "neutral"
       },
       {
         "title": "Unions combine to try to stop Ed Miliband becoming chancellor",
@@ -514,14 +522,6 @@
         "published": "2026-06-25T07:31:54",
         "source": "UK homepage",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Andy Burnham in a bind over tax as he seeks to shelter middle-earners",
-        "link": "https://www.ft.com/content/55a3c751-9e67-4ad0-b7e6-29a38adcb4c3",
-        "summary": "The new Makerfield MP has tried to reassure voters they will not face big rises if he becomes prime minister",
-        "published": "2026-06-25T04:00:30",
-        "source": "UK homepage",
-        "sentiment": "positive"
       },
       {
         "title": "Piero Cipollone: Central bank money for the digital era",
@@ -622,51 +622,59 @@
     ],
     "serbia": [
       {
-        "title": "Skupština Beograda usvojila rebalans budžeta i više urbanističkih planova, među njima i za šumu Bajdina",
-        "link": "https://n1info.rs/vesti/skupstina-beograda-usvojila-rebalans-budzeta-i-vise-urbanistickih-planova-medju-njima-i-za-sumu-bajdina/",
-        "summary": "Sednica Skupštine grada Beograda, koja je počela jutros u 10 časova je završena. Usvojen je rebalans budžeta, već drugi ove godine, kao i više urbanis",
-        "published": "2026-06-25T13:08:14",
+        "title": "Iza vesti: Raša Nedeljkov",
+        "link": "https://n1info.rs/video/iza-vesti/iza-vesti-rasa-nedeljkov-25-06-2026/",
+        "summary": "Više od godinu dana nakon protesta 15. marta, vlasti i institucije su ponovo otvorile slučaj \"zvučni top“ kako bi skrenule pažnju sa slučajeva koji po",
+        "published": "2026-06-25T14:00:00",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Statistics Office says average salaries rise",
-        "link": "https://n1info.rs/english/news/statistics-office-says-average-salaries-rise/",
-        "summary": "The Serbian national Statistics Office (RZS) said on Thursday that average salaries increased more than 11 percent between January and April this year",
-        "published": "2026-06-25T13:07:43",
-        "source": "N1 Info RS - Feed",
-        "sentiment": "positive"
-      },
-      {
-        "title": "Povlači se Pepco proizvod iz prodaje zbog rizika od povrede",
-        "link": "https://n1info.rs/biznis/povlaci-se-pepco-proizvod-iz-prodaje-zbog-rizika-od-povrede/",
-        "summary": "Narukvice za decu sa motivom kapibare, koje se prodaju u Pepco radnjama, povlače se sa tržišta Srbije zbog rizika od povreda.",
-        "published": "2026-06-25T13:02:55",
+        "title": "Istraživanje BCBP-a: Više od trećine građana smatra da u Srbiji nema demokratije",
+        "link": "https://n1info.rs/vesti/istrazivanje-bcbp-vise-od-trecine-gradjana-smatra-da-u-srbiji-nema-demokratije/",
+        "summary": "Više od jedne trećine građana smatra da u Srbiji nema demokratije, a svaki treći je dobio ponudu da proda svoj glas, pokazalo je istraživanje javnog m",
+        "published": "2026-06-25T13:50:56",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Press: Jovana Gligorijević (25.6.2026)",
-        "link": "https://n1info.rs/video/novi-dan/press-jovana-gligorijevic-25-06-2026/",
-        "summary": "\"Subotnji događaj je osveta za prošlogodišnji Vidovdan, jer Vučić mora da se osveti, a koliko će biti uspešan u tome, videćemo\", rekla je za N1 novina",
-        "published": "2026-06-25T13:00:00",
+        "title": "Trik za rashlađivanje automobila koji je nauka proglasila najefikasnijim",
+        "link": "https://n1info.rs/magazin/auto/trik-za-rashladjivanje-automobila-koji-je-nauka-proglasila-najefikasnijim/",
+        "summary": "Nauka i nekoliko jednostavnih testova otkrili su iznenađujuće efikasan metod koji štedi i vreme i gorivo.",
+        "published": "2026-06-25T13:46:54",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Novi dan: Vreo politički vikend",
-        "link": "https://n1info.rs/najave-emisija/novi-dan-vreo-politicki-vikend/",
-        "summary": "Vreo politički vikend. Srpska napredna stranka organizuje skup u Beogradu, a studenti se, samo nedelju dana posle Novog Sada, okupljaju u Kraljevu. At",
-        "published": "2026-06-25T12:59:18",
+        "title": "Ministarstvo dodelilo 2,5 miliona dinara za dom kulture i biblioteku u Kučevu",
+        "link": "https://n1info.rs/kultura/ministarstvo-kulture-dodelilo-25-miliona-dinara-dom-kulture-biblioteka-kucevo/",
+        "summary": "Ministarstvo kulture dodelilo je danas dva miliona dinara za nastavak rekonstrukcije Centra za kulturu \"Dragan Kecman\" u Kučevu i 500.000 dinara za pr",
+        "published": "2026-06-25T13:37:49",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Niška policija i dalje traga za devojčicom (16) koja je pre mesec dana napustila Dom za decu",
-        "link": "https://n1info.rs/vesti/niska-policija-i-dalje-traga-za-devojcicom/",
-        "summary": "Niška policija i dalje traga za 16-godišnjom devojčicom čiji je nestanak prijavljen 25. maja a koja je, po nezvaničnim informacijama objavljenim na dr",
-        "published": "2026-06-25T12:57:47",
+        "title": "Tepić: Moguća podrška predsedničkom kandidatu studentske liste ako nije Lompar, kartel braće Vučić davi medije i javnu scenu",
+        "link": "https://n1info.rs/vesti/marinika-tepic-braca-vucic-mediji-milo-lompar/",
+        "summary": "Davanje instrukcija medijima pred SNS skup 27. juna ogolilo je kako kartel braće Vučić davi medije i javnu scenu, kaže za N1 potpredsednica Stranke sl",
+        "published": "2026-06-25T13:35:37",
         "source": "N1 Info RS - Feed",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "MEPs urge EU intervention over crackdown on Serbian activists and protesters",
+        "link": "https://n1info.rs/english/news/meps-urge-eu-intervention-over-crackdown-on-serbian-activists-and-protesters/",
+        "summary": "MEPs called on European Commission and EU Delegation in Serbia to take immediate action to protect activists, journalists and students who they said f",
+        "published": "2026-06-25T13:33:37",
+        "source": "N1 Info RS - Feed",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Dok Evropljani plaćaju papreno, u Srbiji su cene daleko niže - evo gde se nalazimo na listi",
+        "link": "https://biznis.telegraf.rs/novcanik/4349084-dok-evropljani-placaju-papreno-u-srbiji-su-cene-daleko-nize-evo-gde-se-nalazimo-na-listi",
+        "summary": "To Srbiju svrstava među najpovoljnije zemlje za život u Evropi kada je reč o cenama",
+        "published": "2026-06-25T13:36:49",
+        "source": "Telegraf.rs",
         "sentiment": "neutral"
       },
       {
@@ -681,7 +689,7 @@
         "title": "Pepko hitno povukao proizvod za decu sa srpskog tržišta: Upozorava na rizik od povrede",
         "link": "https://biznis.telegraf.rs/info-biz/4349051-pepko-hitno-povukao-proizvod-za-decu-sa-srpskog-trzista-upozorava-na-rizik-od-povrede",
         "summary": "Kompanija Pepko hitno je povukla popularan proizvod za decu sa tržišta u Srbiji",
-        "published": "2026-06-25T12:36:49",
+        "published": "2026-06-25T13:39:46",
         "source": "Telegraf.rs",
         "sentiment": "neutral"
       },
@@ -710,11 +718,11 @@
         "sentiment": "neutral"
       },
       {
-        "title": "VRELI UDAR NA EVROPU: Ekonomija gori na +40, gubici u milijardama, Srbija rizično zbog ovoga",
-        "link": "https://biznis.telegraf.rs/info-biz/4349021-vreli-udar-na-evropu-ekonomija-gori-na-40-gubici-u-milijardama-srbija-rizicno-zbog-ovoga",
-        "summary": "U Evropi se taj udar najviše vidi u građevinarstvu, poljoprivredi, transportu i turizmu, gde rad na otvorenom postaje fizički ograničen, a radno vreme se skraćuje ili potpuno prekida",
-        "published": "2026-06-25T12:01:11",
-        "source": "Telegraf.rs",
+        "title": "Nestašica whey proteina stiže i do Srbije: Cene već porasle, dokle će ići poskupljenja?",
+        "link": "https://novaekonomija.rs/lifestyle/nestasica-whey-proteina-stize-i-do-srbije-cene-vec-porasle-dokle-ce-ici-poskupljenja",
+        "summary": "Globalna nestašica i rekordne cene proteina iz surutke (whey) već su pogodile vežbače u Americi i Kanadi, koji se suočavaju sa suženim asortimanom. Protein je poskupeo i u Srbiji, a domaći prodavci suplemenata već prave zalihe i najavljuju da će ovakvi proizvodi uskoro dodatno poskupeti. Velika potr",
+        "published": "2026-06-25T13:25:39",
+        "source": "Nova Ekonomija",
         "sentiment": "neutral"
       },
       {
@@ -754,14 +762,6 @@
         "link": "https://novaekonomija.rs/vesti-iz-zemlje/srpska-kompanija-new-look-postala-partner-globalnog-programa-automattic-for-agencies",
         "summary": "Srpska digitalna agencija New Look postala je partner programa Automattic for Agencies i uvrštena je u WordPress.com Development Services direktorijum. Za uvrštavanje u direktorijum, agencije prolaze proces prijave i evaluacije, tokom kojeg se procenjuju kvalitet rada, bezbednost, performanse i kori",
         "published": "2026-06-25T06:46:41",
-        "source": "Nova Ekonomija",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Oglasili se Studentski centar i EXPO 2027: Svi premešteni studenti dobiće smeštaj pod istim uslovima",
-        "link": "https://novaekonomija.rs/vesti-iz-zemlje/oglasili-se-studentski-centar-i-expo-2027-svi-premesteni-studenti-dobice-smestaj-pod-istim-uslovima",
-        "summary": "Studentski centar Beograd oglasio se povodom vesti da će jedan deo studenata iz Studentskog grada na Novom Beogradu biti iseljen zbog održavanja Specijalizovane izložbe Expo 2027. U saopštenju poslatom redakciji Nove ekonomije navodi se da će svi studenti koji budu privremeno premešteni iz krila F D",
-        "published": "2026-06-24T19:31:28",
         "source": "Nova Ekonomija",
         "sentiment": "neutral"
       }
@@ -820,7 +820,7 @@
     }
   ],
   "market_clock": {
-    "NYSE/NASDAQ": false,
+    "NYSE/NASDAQ": true,
     "LSE": true,
     "Frankfurt": true,
     "Tokyo": false,
@@ -829,14 +829,14 @@
   },
   "sentiment_summary": {
     "macro": {
-      "positive": 4,
-      "negative": 3,
-      "neutral": 11
+      "positive": 3,
+      "negative": 2,
+      "neutral": 13
     },
     "serbia": {
-      "positive": 1,
+      "positive": 0,
       "negative": 0,
-      "neutral": 17
+      "neutral": 18
     }
   }
 }
