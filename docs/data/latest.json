@@ -1,6 +1,6 @@
 {
   "date": "2026-07-14",
-  "generated_at": "2026-07-14T14:09:36.833680+02:00",
+  "generated_at": "2026-07-14T15:14:26.848165+02:00",
   "market": {
     "indices": {
       "S&P 500": {
@@ -23,26 +23,26 @@
       },
       "DAX": {
         "symbol": "^GDAXI",
-        "price": 24907.3398,
-        "change_pct": -0.82,
+        "price": 24977.4395,
+        "change_pct": -0.54,
         "prev_close": 25114.25
       },
       "Euro Stoxx 50": {
         "symbol": "^STOXX50E",
-        "price": 6232.25,
-        "change_pct": -0.62,
+        "price": 6246.3101,
+        "change_pct": -0.39,
         "prev_close": 6271.02
       },
       "FTSE 100": {
         "symbol": "^FTSE",
-        "price": 10470.0,
-        "change_pct": -0.27,
+        "price": 10493.3701,
+        "change_pct": -0.05,
         "prev_close": 10498.2998
       },
       "CAC 40": {
         "symbol": "^FCHI",
-        "price": 8307.0195,
-        "change_pct": -0.69,
+        "price": 8321.8203,
+        "change_pct": -0.51,
         "prev_close": 8364.6504
       },
       "Nikkei 225": {
@@ -123,99 +123,99 @@
     "fx_commodities": {
       "EUR/USD": {
         "symbol": "EURUSD=X",
-        "price": 1.141,
-        "change_pct": 0.05,
+        "price": 1.1456,
+        "change_pct": 0.45,
         "prev_close": 1.1404
       },
       "GBP/USD": {
         "symbol": "GBPUSD=X",
-        "price": 1.3386,
-        "change_pct": -0.01,
+        "price": 1.3413,
+        "change_pct": 0.19,
         "prev_close": 1.3387
       },
       "USD/CHF": {
         "symbol": "USDCHF=X",
-        "price": 0.8115,
-        "change_pct": 0.26,
+        "price": 0.8075,
+        "change_pct": -0.22,
         "prev_close": 0.8094
       },
       "USD/JPY": {
         "symbol": "USDJPY=X",
-        "price": 162.178,
-        "change_pct": 0.19,
+        "price": 161.861,
+        "change_pct": -0.01,
         "prev_close": 161.878
       },
       "Gold": {
         "symbol": "GC=F",
-        "price": 4036.1001,
-        "change_pct": 0.98,
+        "price": 4082.7,
+        "change_pct": 2.14,
         "prev_close": 3997.0
       },
       "Silver": {
         "symbol": "SI=F",
-        "price": 58.385,
-        "change_pct": 1.3,
+        "price": 59.295,
+        "change_pct": 2.88,
         "prev_close": 57.634
       },
       "Brent Crude": {
         "symbol": "BZ=F",
-        "price": 86.25,
-        "change_pct": 3.54,
+        "price": 86.93,
+        "change_pct": 4.36,
         "prev_close": 83.3
       },
       "WTI Crude": {
         "symbol": "CL=F",
-        "price": 79.7,
-        "change_pct": 2.0,
+        "price": 80.69,
+        "change_pct": 3.26,
         "prev_close": 78.14
       },
       "Natural Gas": {
         "symbol": "NG=F",
-        "price": 2.874,
-        "change_pct": -0.79,
+        "price": 2.866,
+        "change_pct": -1.07,
         "prev_close": 2.897
       },
       "Copper": {
         "symbol": "HG=F",
-        "price": 6.3765,
-        "change_pct": 2.3,
+        "price": 6.39,
+        "change_pct": 2.52,
         "prev_close": 6.233
       },
       "Wheat": {
         "symbol": "ZW=F",
-        "price": 630.0,
-        "change_pct": 0.48,
+        "price": 632.5,
+        "change_pct": 0.88,
         "prev_close": 627.0
       }
     },
     "rates": {
       "VIX": {
         "symbol": "^VIX",
-        "price": 17.32,
-        "change_pct": 0.93,
+        "price": 16.86,
+        "change_pct": -1.75,
         "prev_close": 17.16
       },
       "US 10Y Yield": {
         "symbol": "^TNX",
-        "price": 4.609,
-        "change_pct": 0.88,
-        "prev_close": 4.569
+        "price": 4.573,
+        "change_pct": -0.78,
+        "prev_close": 4.609
       },
       "US 2Y Yield": {
         "symbol": "^IRX",
-        "price": 3.728,
-        "change_pct": 0.89,
-        "prev_close": 3.695
+        "price": 3.695,
+        "change_pct": -0.89,
+        "prev_close": 3.728
       },
       "US 30Y Yield": {
         "symbol": "^TYX",
-        "price": 5.098,
-        "change_pct": 0.53,
-        "prev_close": 5.071
+        "price": 5.088,
+        "change_pct": -0.2,
+        "prev_close": 5.098
       },
       "2s10s Spread": {
         "symbol": "SPREAD",
-        "price": 0.881,
+        "price": 0.878,
         "change_pct": null,
         "note": "positive = normal curve, negative = inverted (recession signal)"
       }
@@ -476,9 +476,9 @@
   "news": {
     "macro_global": [
       {
-        "title": "JPMorgan and Goldman profits surge on blockbuster trading haul",
+        "title": "Wall Street banks post blockbuster profits as equities trading booms",
         "link": "https://www.ft.com/content/f4231724-bb67-4cfd-81e2-d20f4badb82e",
-        "summary": "Wall Street banks seize on jolt of volatility in equities markets to post stronger than expected results",
+        "summary": "JPMorgan, Goldman, Citi and BofA kick off earnings season with strong results",
         "published": "2026-07-14T09:29:58",
         "source": "UK homepage",
         "sentiment": "positive"
@@ -500,28 +500,28 @@
         "sentiment": "neutral"
       },
       {
-        "title": "Why the world should copy Trump for once",
-        "link": "https://www.ft.com/content/6ff504c6-1cee-4e37-a56d-6a06c3107819",
-        "summary": "The US is offering $1,000 to fund investment accounts for children born during the president’s second term",
-        "published": "2026-07-14T04:00:08",
+        "title": "Washington and Tehran send warnings by missile",
+        "link": "https://www.ft.com/content/42a27e37-9868-4465-9bde-8b5261088608",
+        "summary": "The foes are in their most dangerous period of fighting since a fragile April truce. Many of their strikes are designed to send signals",
+        "published": "2026-07-14T12:24:20",
         "source": "UK homepage",
-        "sentiment": "neutral"
+        "sentiment": "negative"
       },
       {
-        "title": "UK borrowing costs hit highest level since May as oil surges",
-        "link": "https://www.ft.com/content/107fc895-14db-4003-baa0-d81ed29c477f",
-        "summary": "Ten-year yield back above 5% just days before Andy Burnham set to become prime minister",
-        "published": "2026-07-14T10:48:56",
+        "title": "US inflation fell more than expected to 3.5% in June as petrol prices tumbled",
+        "link": "https://www.ft.com/content/cb3b2887-d805-402b-9c85-55e3b44d867b",
+        "summary": "Traders rein in bets on Fed rate rises as easing energy costs help tame price surges spurred by Middle East war",
+        "published": "2026-07-14T13:04:08",
         "source": "UK homepage",
         "sentiment": "positive"
       },
       {
-        "title": "Oil hits $87 as battle for Strait of Hormuz alarms energy markets",
-        "link": "https://www.ft.com/content/2d899824-5f94-4f0c-81fc-c54a0750e498",
-        "summary": "Stocks and bonds hit by higher oil price as fears rise over renewed inflation shock",
-        "published": "2026-07-14T11:54:34",
+        "title": "IBM shares set to plunge 23% as customers shift spending to AI",
+        "link": "https://www.ft.com/content/da478c37-7a32-415d-9f30-3b2981149f95",
+        "summary": "Chief executive Arvind Krishna says large deals slipped as clients redirected money into chips, servers and memory",
+        "published": "2026-07-14T13:01:54",
         "source": "UK homepage",
-        "sentiment": "neutral"
+        "sentiment": "negative"
       },
       {
         "title": "ECB selects 36 payment service providers to join digital euro pilot",
@@ -622,147 +622,99 @@
     ],
     "serbia": [
       {
-        "title": "Naše bake nisu kupovale probiotike: Umesto toga pravile su jednu namirnicu kod kuće",
-        "link": "https://n1info.rs/magazin/lifestyle/nase-bake-nisu-kupovale-probiotike-umesto-toga-pravile-su-jednu-namirnicu-kod-kuce/",
-        "summary": "Ponekad vredi poslušati mudrost starijih, koju je potvrdilo životno iskustvo. Bake su pravo bogatstvo znanja, pa i kada je reč o ishrani koja može da",
-        "published": "2026-07-14T12:00:21",
+        "title": "DS: Paunović će odgovarati zbog govora mržnje, Vučićev nalog nije olakšavajuća okolnost",
+        "link": "https://n1info.rs/vesti/ds-paunovic-ce-odgovarati-zbog-govora-mrznje/",
+        "summary": "Demokratska stranka ocenila je da izjava ministarke Snežane Paunović da bi „etnički očistila Kosovo“ nije nespretno izrečena niti izvučena iz kontekst",
+        "published": "2026-07-14T13:07:39",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "TOK: Tražili smo od MUP-a skaj poruke Kokeze, Vidića smo pozvali da da iskaz",
-        "link": "https://n1info.rs/vesti/tok-nemanja-vidic-slavisa-kokeza-predistrazni-postupak/",
-        "summary": "Javno tužilaštvo za organizovani kriminal navodi da je pozvalo proslavljenog fudbalera Nemanju Vidića da da iskaz u tužilaštvu, nakon što je podneo kr",
-        "published": "2026-07-14T11:55:35",
+        "title": "Bugarska ne želi da bude deo Koalicije voljnih za Ukrajinu",
+        "link": "https://n1info.rs/svet/bugarska-ne-zeli-da-bude-deo-koalicije-voljnih-za-ukrajinu/",
+        "summary": "Bugarski premijer Rumen Radev saopštio je da njegovoj zemlji nije mesto u Koaliciji voljnih za Ukrajinu, jer ne želi da bude deo koalicije zemalja koj",
+        "published": "2026-07-14T13:07:18",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "U Severnoj Makedoniji od danas električne trotinete smeju da voze samo punoletne osobe",
-        "link": "https://n1info.rs/region/severna-makedonija-elektricni-trotineti-punoletne-osobe/",
-        "summary": "U Severnoj Makedoniji električni trotinet od danas smeju da voze samo stariji od 18 godina, ali ne brže od 20 kilometara na sat.",
-        "published": "2026-07-14T11:50:54",
+        "title": "Odloženo ročište na suđenju Vladanu Sretenoviću, napadaču na ekipu N1",
+        "link": "https://n1info.rs/vesti/sudjenje-vladanu-sretenovicu-napadacu-na-ekupu-n1-odlozeno-rociste/",
+        "summary": "U Prvom osnovnom sudu danas je odloženo ročište na suđenju Vladanu Sretenoviću, zbog bolesti sudije.",
+        "published": "2026-07-14T13:01:49",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Uhapšen Čačanin zbog droge",
-        "link": "https://n1info.rs/vesti/uhapsen-cacanin-zbog-droge/",
-        "summary": "Policija je u Čačku uhapsila N. F. (40) iz tog grada zbog sumnje da je prodavao drogu, saopšteno je danas.",
-        "published": "2026-07-14T11:49:58",
+        "title": "Pala Vlada Ukrajine: Rada izglasala ostavku premijerke Sviridenko",
+        "link": "https://n1info.rs/svet/pala-vlada-ukrajine-rada-izglasala-ostavku-premijerke-sviridenko/",
+        "summary": "Vlada Ukrajine pala je nakon što je Skupština izglasala ostavku Julije Sviridenko na mestu premijerke.",
+        "published": "2026-07-14T13:01:34",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Dumanović: Napadači na advokata Cvejića nisu otkriveni jer policija radi po partijskom prioritetu",
-        "link": "https://n1info.rs/vesti/dumanovic-napadaci-na-advokata-cvejica-nisu-otkriveni-jer-policija-radi-po-partijskom-prioritetu/",
-        "summary": "Bivši inspektor Uprave kriminalističke policije (UKP) Milan Dumanović izjavio je danas da je policija mogla odmah i bez većih problema da otkrije bati",
-        "published": "2026-07-14T11:48:50",
+        "title": "Press: Željko Bodrožić (14.7.2026)",
+        "link": "https://n1info.rs/video/novi-dan/press-zeljko-bodrozic-1472026/",
+        "summary": "Predsednik Nezavisnog udruženja novinara Srbije Željko Bodrožić izjavio je u Novom danu, govoreći o odluci četvoro nezavisnih kandidata da uzmu učešće",
+        "published": "2026-07-14T13:00:00",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Vučić za FT: Planiram da se posle izbora, koji će biti do početka decembra, vratim na mesto premijera",
-        "link": "https://n1info.rs/vesti/vucic-za-ft-planiram-da-se-posle-izbora-koji-ce-biti-do-pocetka-decembra-vratim-na-mesto-premijera/",
-        "summary": "Predsednik Srbije Aleksandar Vučić rekao je za Fajnenšel tajms (FT) da planira da se posle prevremenih izbora koji će biti održani do početka decembra",
-        "published": "2026-07-14T11:45:14",
+        "title": "Đilas: Koliko para je Srbija dala Francuskoj realno je da predvodi vojnu paradu",
+        "link": "https://n1info.rs/vesti/djilas-srbija-francuska-vojna-parada/",
+        "summary": "Predsednik Stranke slobode i pravde (SSP) Dragan Đilas izjavio je da je pre 14 godina, kada je Srpska napredna stranka došla na vlast, Srbija bila lid",
+        "published": "2026-07-14T12:52:41",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Telekom Srbija Grupa postala član globalne koalicije protiv digitalne piraterije ACE",
-        "link": "https://biznis.telegraf.rs/info-biz/4359935-telekom-srbija-grupa-postala-clan-globalne-koalicije-protiv-digitalne-piraterije-ace",
-        "summary": "Telekom Srbija Grupa postala je novi član najveće svetske koalicije za borbu protiv digitalne piraterije - Alijanse za kreativnost i zabavu (Alliance for.",
-        "published": "2026-07-14T12:00:13",
+        "title": "Ovo je NAJVEĆI problem Srbije - posledice su smrtonosne!",
+        "link": "https://biznis.telegraf.rs/biz-odrzivost/zivotna-sredina/4359990-ovo-je-najveci-problem-srbije-posledice-su-smrtonosne",
+        "summary": "Locirane kritične tačke će narednih dana dobiti preporuke za preduzimanje preventivnih mera",
+        "published": "2026-07-14T13:07:36",
         "source": "Telegraf.rs",
         "sentiment": "neutral"
       },
       {
-        "title": "Ovo je top 10 evropskih destinacija za leto: Turisti ih masovno obilaze",
-        "link": "https://biznis.telegraf.rs/info-biz/4359911-ovo-je-top-10-evropskih-destinacija-za-leto-turisti-ih-masovno-obilaze",
-        "summary": "Sve više putnika odlučuje da putovanje pretvori u deo odmora, pa umesto direktnog odlaska do krajnje destinacije usput obilazi istorijske gradove, prirodne.",
-        "published": "2026-07-14T11:48:51",
+        "title": "POSLOVNI HOROSKOP ZA OVU NEDELJU: Bik dobija šansu života, a ovom znaku stiže novac koji nije očekivao!",
+        "link": "https://biznis.telegraf.rs/novcanik/4359977-poslovni-horoskop-za-ovu-nedelju-bik-dobija-sansu-zivota-a-ovom-znaku-stize-novac-koji-nije-ocekivao",
+        "summary": "Najviše razloga za optimizam ima Bik, kome se otvaraju vrata velikog poslovnog uspeha",
+        "published": "2026-07-14T12:52:12",
         "source": "Telegraf.rs",
         "sentiment": "neutral"
       },
       {
-        "title": "Jevrosimović o lekciji iz Japana: Zašto i kompanije moraju da pronađu ravnotežu između tradicije i promena",
-        "link": "https://biznis.telegraf.rs/ceo/4359916-jevrosimovic-o-lekciji-iz-japana-zasto-i-kompanije-moraju-da-pronadju-ravnotezu-izmedju-tradicije-i-promena",
-        "summary": "Od ove godine Japan je omogućio zajedničko starateljstvo, uz procenu suda šta je u najboljem interesu deteta",
-        "published": "2026-07-14T11:42:49",
+        "title": "Jedna lekcija vrednija je od svih petica! Milijarder tvrdi da od nje zavisi budućnost svakog deteta",
+        "link": "https://biznis.telegraf.rs/preduzetnistvo/4359954-jedna-lekcija-vrednija-je-od-svih-petica-milijarder-tvrdi-da-od-nje-zavisi-buducnost-svakog-deteta",
+        "summary": "Odrastaju previše zaštićeno? Milijarder upozorava da deci nedostaje najvažnija životna lekcija",
+        "published": "2026-07-14T12:45:14",
         "source": "Telegraf.rs",
         "sentiment": "neutral"
       },
       {
-        "title": "\"Predložiću Vladi...\": Hitno se oglasio predsednik Srbije iz Pariza!",
-        "link": "https://biznis.telegraf.rs/info-biz/4359913-predlozicu-vladi-hitno-se-oglasio-predsednik-srbije-iz-pariza",
-        "summary": "Vučić je rekao da su nastavak sukoba u Ormuškom moreuzu i pojačavanje sukoba u Ukrajini ''veoma loše vesti'', jer to, kako je naveo, dovodi do strahovitog povećanja kotacija nafte",
-        "published": "2026-07-14T11:31:39",
+        "title": "Nova pravila za velike trgovce! Uputstvo menja odnose u trgovini i način poslovanja velikih kupaca",
+        "link": "https://biznis.telegraf.rs/info-biz/4359887-nova-pravila-za-velike-trgovce-uputstvo-menja-odnose-u-trgovini-i-nacin-poslovanja-velikih-kupaca",
+        "summary": "Komsija za zaštitu konkurencije donela je Uputstvo kojim se bliže uređuje značajna pregovaračka moć kupca u odnosu na snabdevača u skladu sa Zakonom o.",
+        "published": "2026-07-14T12:20:30",
         "source": "Telegraf.rs",
         "sentiment": "neutral"
       },
       {
-        "title": "Potpisan sporazum o izradi novog sistema E-ATA karneta: Evo šta to znači za izvoz robe srpskih preduzetnika",
-        "link": "https://biznis.telegraf.rs/info-biz/4359895-potpisan-sporazum-o-izradi-novog-sistema-e-ata-karneta-evo-sta-to-znaci-za-izvoz-robe-srpskih-preduzetnika",
-        "summary": "Srbija će od 2027. godine u potpunosti digitalizovati izdavanje i upotrebu ATA karneta, pasoša za robu, radi bržeg i jeftinijeg poslovanja.",
-        "published": "2026-07-14T11:29:47",
+        "title": "\"Nema goriva u svetu!\" Srbija hitno priprema plan zbog novih udara na ruski gas",
+        "link": "https://biznis.telegraf.rs/info-biz/4359945-nema-goriva-u-svetu-srbija-hitno-priprema-plan-zbog-novih-udara-na-ruski-gas",
+        "summary": "Predsednik Aleksandar Vučić izjavio je danas u Parizu da nisu dobre vesti koje stižu o najavljenim novim tarifama za zemlje koje uvoze ruski gas i naftu, s.",
+        "published": "2026-07-14T12:18:28",
         "source": "Telegraf.rs",
         "sentiment": "neutral"
       },
       {
-        "title": "VUČIĆ NAJAVIO NOVI UDAR NA AKCIZE: Država bi mogla da se odrekne još većeg prihoda da bi sprečila skok goriva",
-        "link": "https://biznis.telegraf.rs/info-biz/4359900-vucic-najavio-novi-udar-na-akcize-drzava-bi-mogla-da-se-odrekne-jos-veceg-prihoda-da-bi-sprecila-skok-goriva",
-        "summary": "Vučić je ocenio da vesti koje poslednjih dana stižu iz sveta nisu povoljne ni za jednu zemlju, a posebno ne za Srbiju, imajući u vidu nove geopolitičke tenzije, najavljene trgovinske mere i rast cena energenat",
-        "published": "2026-07-14T11:20:39",
+        "title": "PUTIN povlači potez koji bi mogao da pokrene rusku ekonomiju!",
+        "link": "https://biznis.telegraf.rs/info-biz/4359942-putin-povlaci-potez-koji-bi-mogao-da-pokrene-rusku-ekonomiju",
+        "summary": "Elvira Nabiulina je početkom jula izjavila je da Banka Rusije vidi prostor za dalje smanjenje referentne kamatne stope, ali da će tempo i vreme zavisiti od razvoja ekonomske situacije",
+        "published": "2026-07-14T12:15:59",
         "source": "Telegraf.rs",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Srbija, zemlja čudesnog duga: Da li nas posle izbora čeka ekonomska implozija",
-        "link": "https://novaekonomija.rs/vesti-iz-zemlje/srbija-zemlja-cudesnog-duga-da-li-nas-posle-izbora-ceka-ekonomska-implozija",
-        "summary": "Priča o javnom dugu Srbije možemo da nam pomogne u ovim neizvesnim vremenima da vidimo ko nam &#8222;radi o glavi&#8220; i šta bi moglo da nas sačeka nadalje u ekonomiji. U zemlji kojoj zaduživanje zavisi od zapadnih kamatnih stopa, energetika od Rusa i a investicije od Kine &#8211; šta možete očeki",
-        "published": "2026-07-14T10:07:40",
-        "source": "Nova Ekonomija",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Raspisan javni poziv za premiju za mleko za drugi kvartal 2026. godine, a prijave traju do 14. avgusta.",
-        "link": "https://novaekonomija.rs/vesti-iz-zemlje/raspisan-javni-poziv-za-premiju-za-mleko-za-drugi-kvartal-2026-godine-a-prijave-traju-do-14-avgusta",
-        "summary": "Uprava za agrarna plaćanja Ministarstva poljoprivrede Srbije raspisala je danas javni poziv za podnošenje zahteva za ostvarivanje prava na premiju za mleko za drugi kvartal ove godine.   Zahtevi se mogu podneti do 14. avgusta putem platforme eAgrar, odnosno portala ePodsticaji. Premija se ostvaruje",
-        "published": "2026-07-14T09:18:43",
-        "source": "Nova Ekonomija",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Dvanaest saveznih država SAD pokrenule postupak protiv spajanja Vorner Brosa i Paramaunta",
-        "link": "https://novaekonomija.rs/vesti-iz-sveta/dvanaest-saveznih-drzava-sad-pokrenule-postupak-protiv-spajanja-vorner-brosa-i-paramaunta",
-        "summary": "Grupa od 12 američkih saveznih država na čelu sa Kalifornijom pokrenula je danas postupak za zaštitu konkurencije čini je cilj sprečavanje mega-spajanje Vorner Bros-Diskaverija i Paramaunt-Skajdensa u vrednosti od 81 milijardi dolara. U antitrast tužbi se navodi da bi zaključeni ugovor doveo do &#82",
-        "published": "2026-07-14T07:42:07",
-        "source": "Nova Ekonomija",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Potvrđena optužnica protiv Vesića, Tanasković i još četiri osobe: Apelacioni sud poništio odluku Višeg suda u Novom Sadu",
-        "link": "https://novaekonomija.rs/vesti-iz-zemlje/potvrdjena-optuznica-protiv-vesica-tanaskovic-i-jos-cetiri-osobe-apelacioni-sud-ponistio-odluku-viseg-suda-u-novom-sadu",
-        "summary": "Apelacioni sud u Novom Sadu saopštio je da je usvojio žalbu Višeg javnog tužioca u Novom Sadu i preinačio rešenje Višeg suda u Novom Sadu &#8211; odnosno odluku o obustavi krivičnog postupka protiv Gorana Vesića, Jelene Tanasković, Anite Dimoski, Milana Spremića, Marine Gavrilović i Dejana Todorović",
-        "published": "2026-07-13T16:07:10",
-        "source": "Nova Ekonomija",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Zašto sastav uložaka ne piše na pakovanju: Žene ih koriste svakog meseca, ali ne znaju od čega su napravljeni",
-        "link": "https://novaekonomija.rs/price-i-analize/zasto-sastav-ulozaka-ne-pise-na-pakovanju-zene-ih-koriste-svakog-meseca-ali-ne-znaju-od-cega-su-napravljeni",
-        "summary": "Iako većina žena u Srbiji svakog meseca koristi higijenske uloške, ne znaju sve šta se u njima nalazi, jer proizvođači nisu u obavezi da navedu sastav na pakovanju. Razlog za to je manjkava zakonska regulativa. U praksi, to znači da informacije o ovom higijenskom proizvodu ostaju nedovoljno dostupne",
-        "published": "2026-07-13T14:28:12",
-        "source": "Nova Ekonomija",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Beograd dobija sistem za iznajmljivanje 2.000 električnih trotineta i 600 e-bicikala",
-        "link": "https://novaekonomija.rs/vesti-iz-zemlje/beograd-dobija-sistem-za-iznajmljivanje-2-000-elektricnih-trotineta-i-600-e-bicikala",
-        "summary": "Beograd će dobiti sistem za iznajmljivanje 2.000 električnih trotineta i 600 e-bicikala, a gradska vlast je raspisala javni konkurs za izbor operatera koji će u narednih pet godina upravljati tim sistemom, piše danas eKapija. Planom je predviđeno postavljanje 238 stanica i flote od 2.000 novih elekt",
-        "published": "2026-07-13T14:21:24",
-        "source": "Nova Ekonomija",
         "sentiment": "neutral"
       }
     ]
@@ -830,13 +782,13 @@
   "sentiment_summary": {
     "macro": {
       "positive": 6,
-      "negative": 2,
-      "neutral": 10
+      "negative": 4,
+      "neutral": 8
     },
     "serbia": {
       "positive": 0,
       "negative": 0,
-      "neutral": 18
+      "neutral": 12
     }
   }
 }
