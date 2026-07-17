@@ -1,6 +1,6 @@
 {
   "date": "2026-07-17",
-  "generated_at": "2026-07-17T14:06:53.241734+02:00",
+  "generated_at": "2026-07-17T15:10:54.837273+02:00",
   "market": {
     "indices": {
       "S&P 500": {
@@ -23,26 +23,26 @@
       },
       "DAX": {
         "symbol": "^GDAXI",
-        "price": 24767.7695,
-        "change_pct": -0.59,
+        "price": 24781.4902,
+        "change_pct": -0.54,
         "prev_close": 24915.4902
       },
       "Euro Stoxx 50": {
         "symbol": "^STOXX50E",
-        "price": 6223.1802,
-        "change_pct": -0.96,
+        "price": 6221.8301,
+        "change_pct": -0.98,
         "prev_close": 6283.6099
       },
       "FTSE 100": {
         "symbol": "^FTSE",
-        "price": 10558.75,
-        "change_pct": -0.13,
+        "price": 10570.4502,
+        "change_pct": -0.02,
         "prev_close": 10572.2002
       },
       "CAC 40": {
         "symbol": "^FCHI",
-        "price": 8319.7803,
-        "change_pct": -0.69,
+        "price": 8325.9502,
+        "change_pct": -0.62,
         "prev_close": 8377.8604
       },
       "Nikkei 225": {
@@ -123,99 +123,99 @@
     "fx_commodities": {
       "EUR/USD": {
         "symbol": "EURUSD=X",
-        "price": 1.1436,
-        "change_pct": -0.3,
+        "price": 1.143,
+        "change_pct": -0.35,
         "prev_close": 1.147
       },
       "GBP/USD": {
         "symbol": "GBPUSD=X",
-        "price": 1.344,
-        "change_pct": -0.75,
+        "price": 1.3431,
+        "change_pct": -0.81,
         "prev_close": 1.3541
       },
       "USD/CHF": {
         "symbol": "USDCHF=X",
-        "price": 0.8071,
-        "change_pct": 0.31,
+        "price": 0.8079,
+        "change_pct": 0.41,
         "prev_close": 0.8047
       },
       "USD/JPY": {
         "symbol": "USDJPY=X",
-        "price": 162.34,
-        "change_pct": 0.17,
+        "price": 162.406,
+        "change_pct": 0.21,
         "prev_close": 162.072
       },
       "Gold": {
         "symbol": "GC=F",
-        "price": 3998.1001,
-        "change_pct": 0.31,
+        "price": 3973.6001,
+        "change_pct": -0.3,
         "prev_close": 3985.6001
       },
       "Silver": {
         "symbol": "SI=F",
-        "price": 55.67,
-        "change_pct": -0.41,
+        "price": 55.36,
+        "change_pct": -0.96,
         "prev_close": 55.898
       },
       "Brent Crude": {
         "symbol": "BZ=F",
-        "price": 85.94,
-        "change_pct": 2.03,
+        "price": 86.16,
+        "change_pct": 2.29,
         "prev_close": 84.23
       },
       "WTI Crude": {
         "symbol": "CL=F",
-        "price": 80.11,
-        "change_pct": 1.47,
+        "price": 80.21,
+        "change_pct": 1.6,
         "prev_close": 78.95
       },
       "Natural Gas": {
         "symbol": "NG=F",
-        "price": 2.874,
-        "change_pct": 0.56,
+        "price": 2.869,
+        "change_pct": 0.38,
         "prev_close": 2.858
       },
       "Copper": {
         "symbol": "HG=F",
-        "price": 6.207,
-        "change_pct": -1.41,
+        "price": 6.199,
+        "change_pct": -1.54,
         "prev_close": 6.296
       },
       "Wheat": {
         "symbol": "ZW=F",
-        "price": 676.5,
-        "change_pct": 0.26,
+        "price": 679.25,
+        "change_pct": 0.67,
         "prev_close": 674.75
       }
     },
     "rates": {
       "VIX": {
         "symbol": "^VIX",
-        "price": 18.14,
-        "change_pct": 8.43,
+        "price": 18.63,
+        "change_pct": 11.36,
         "prev_close": 16.73
       },
       "US 10Y Yield": {
         "symbol": "^TNX",
-        "price": 4.569,
-        "change_pct": 0.53,
-        "prev_close": 4.545
+        "price": 4.537,
+        "change_pct": -0.7,
+        "prev_close": 4.569
       },
       "US 2Y Yield": {
         "symbol": "^IRX",
-        "price": 3.697,
-        "change_pct": 0.24,
-        "prev_close": 3.688
+        "price": 3.688,
+        "change_pct": -0.24,
+        "prev_close": 3.697
       },
       "US 30Y Yield": {
         "symbol": "^TYX",
-        "price": 5.098,
-        "change_pct": 0.3,
-        "prev_close": 5.083
+        "price": 5.066,
+        "change_pct": -0.63,
+        "prev_close": 5.098
       },
       "2s10s Spread": {
         "symbol": "SPREAD",
-        "price": 0.872,
+        "price": 0.849,
         "change_pct": null,
         "note": "positive = normal curve, negative = inverted (recession signal)"
       }
@@ -492,7 +492,7 @@
         "sentiment": "neutral"
       },
       {
-        "title": "I’m suddenly not loving my UK shares like I used to",
+        "title": "The perils of relying on PE ratios",
         "link": "https://www.ft.com/content/478fe638-84d5-4eab-a2c5-5b43ec106bdf?syn-25a6b1a6=1",
         "summary": "Global gyrations in stock prices and earnings favour other markets",
         "published": "2026-07-17T11:00:08",
@@ -622,51 +622,67 @@
     ],
     "serbia": [
       {
-        "title": "(VIDEO) Dokumentarac o Novaku Đokoviću okupio svetsku elitu u Muzeju moderne umetnosti u Njujorku",
-        "link": "https://n1info.rs/magazin/showbiz/video-dokumentarac-o-novaku-djokovicu-okupio-svetsku-elitu-u-muzeju-moderne-umetnosti-u-njujorku/",
-        "summary": "Muzej moderne umetnosti u Njujorku sinoć je bio mesto susreta sportskih legendi, modnih ikona i svetske elite. Samo Novak Đoković može da okupi Zlatan",
-        "published": "2026-07-17T12:03:07",
+        "title": "Nemanja Vidić za Njujork tajms o skaj porukama: Policija je trebalo da zna za ove informacije",
+        "link": "https://n1info.rs/vesti/nemanja-vidic-njujork-tajms-skaj-poruke-policija/",
+        "summary": "Američki list \"Njujork tajms\" (The New York Times) objavio je opširan intervju sa bivšim kapitenom reprezentacije Srbije i Mančester junajteda Nemanjo",
+        "published": "2026-07-17T13:06:32",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Božo Prelević: Krivična prijava protiv Radića je progon, cilj je da se on ne vrati u zemlju",
-        "link": "https://n1info.rs/vesti/bozo-preleviz-krivicna-prijava-aleksadar-radic/",
-        "summary": "Advokat Božo Prelević, čija advokatska kancelarija zastupa Aleksandra Radića, izjavio je za Danas da krivična prijava koja je podneta protiv Radića pr",
-        "published": "2026-07-17T12:02:56",
+        "title": "Vučić pozvao političke protivnike na dijalog",
+        "link": "https://n1info.rs/vesti/vucic-pozvao-politicke-protivnike-na-dijalog/",
+        "summary": "Predsednik Srbije Aleksandar Vučić danas je ponovo pozvao političke protivnike na dijalog, navodeći da je razgovor suština demokratije i da je svima p",
+        "published": "2026-07-17T13:04:26",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "MUP: Uhapšeno pet osoba, sumnja se da su u laboratoriji u Batajnici proizvodili marihuanu",
-        "link": "https://n1info.rs/vesti/mup-uhapseno-pet-osoba-sumnja-se-da-su-u-laboratoriji-u-batajnici-proizvodili-marihuanu/",
-        "summary": "Pripadnici MUP, UKP, po nalogu Višeg javnog tužilaštva u Beogradu, uhapsili su pet pripadnika kriminalne grupe koji su, kako se sumnja, u jednoj labor",
-        "published": "2026-07-17T12:01:37",
+        "title": "Tax Administration figures show highest annual income 13.6 million Euro",
+        "link": "https://n1info.rs/english/news/tax-administration-figures-show-highest-annual-income-136-million-euro/",
+        "summary": "Serbian Tax Administration data for 2025 showed that the highest single personal annual income reported was 13.6 million Euro.",
+        "published": "2026-07-17T13:01:13",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "DS: Snežanu Paunović neće smeniti molba Vučiću u formi skupštinske inicijative, već pobeda studenata",
-        "link": "https://n1info.rs/vesti/ds-snezanu-paunovic-nece-smeniti-molba-vucicu-u-formi-skupstinske-inicijative-vec-pobeda-studenata/",
-        "summary": "Demokratska stranka (DS) kritikovala je danas inicijativu većeg dela opozicije u Skupštini Srbije za razrešenje ministarke državne uprave i lokalne sa",
-        "published": "2026-07-17T11:55:56",
+        "title": "ANEM alarm: Identifikovati i procesuirati osobu koja preti Branislavu Šovljanskom i njegovoj porodici",
+        "link": "https://n1info.rs/vesti/anem-alarm-identifikovati-i-procesuirati-osobu-koja-preti-branislavu-sovljanskom-i-njegovoj-porodici/",
+        "summary": "Asocijacija nezavisnih elektronskih medija (ANEM) najoštrije osuđuje pretnje upućene direktoru vesti N1 televizije Branislavu Šovljanskom i njegovoj p",
+        "published": "2026-07-17T13:00:57",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Privedeno 17 osoba u Turskoj u istrazi o ilegalnom klađenju i nameštanju utakmica",
-        "link": "https://n1info.rs/svet/privedeno-17-osoba-u-turskoj-u-istrazi-o-ilegalnom-kladjenju-i-namestanju-utakmica/",
-        "summary": "Turske vlasti privele su danas 17 zvaničnika fudbalskih klubova u okviru proširene istrage o navodnom ilegalnom klađenju i nameštanju utakmica, saopšt",
-        "published": "2026-07-17T11:53:40",
+        "title": "Press: Dragan Popović (17.7.2026)",
+        "link": "https://n1info.rs/video/novi-dan/press-dragan-popovic-1772026/",
+        "summary": "Istraživanje Crte pokazalo je da u Srbiji žive dva paralelna sveta, odnosno da postoji duboka društvena podela kojom ćemo morati da se pozabavimo čim",
+        "published": "2026-07-17T13:00:00",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Moldavac uhapšen u Bavarskoj, dronom pravio snimke fabrike oružja",
-        "link": "https://n1info.rs/svet/moldavac-uhapsen-u-bavarskoj-dronom-pravio-snimke-fabrike-oruzja/",
-        "summary": "Nemačka policija uhapsila je 37-godišnjeg Moldavca koji je identifikovan kao osoba koja je upravljala dronom i nadgledala jednu fabriku oružja u blizi",
-        "published": "2026-07-17T11:51:28",
+        "title": "Novi dan: Tenzije u Vranju zbog protesta LGBT zajednice",
+        "link": "https://n1info.rs/najave-emisija/novi-dan-tenzije-u-vranju-zbog-protesta-lgbt-zajednice/",
+        "summary": "U subotu u Novom danu o tenzijama izazvanim pretnjama LGBT aktivistima posle najave protesta te zajednice u Pirotu i Vranju.",
+        "published": "2026-07-17T12:49:55",
         "source": "N1 Info RS - Feed",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Pogledajte neverovatan izum Čačana: Osmislili kolevku koja kasnije može biti i sto i fotelja",
+        "link": "https://biznis.telegraf.rs/preduzetnistvo/4361955-pogledajte-neverovatan-izum-cacana-osmislili-kolevku-koja-kasnije-moze-biti-i-sto-i-fotelja",
+        "summary": "Tim mladih pronalazača iz Čačka došao je na ideju da od jedne obične stvari napravi nesvakidašnji izum, koji im je doneo i prestižnu međunarodnu nagradu Red Dot.",
+        "published": "2026-07-17T12:30:09",
+        "source": "Telegraf.rs",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "\"Ko im je kriv što nisu učili školu?\" Jedan cenovnik zapalio net! Frizer ili programer - ko je precenjen?",
+        "link": "https://biznis.telegraf.rs/preduzetnistvo/4361940-ko-im-je-kriv-sto-nisu-ucili-skolu-jedan-cenovnik-zapalio-net-frizer-ili-programer-ko-je-precenjen",
+        "summary": "Cenovnik jednog frizera izazvao je burnu raspravu na LinkedInu i društvenim mrežama.",
+        "published": "2026-07-17T12:21:58",
+        "source": "Telegraf.rs",
         "sentiment": "neutral"
       },
       {
@@ -702,19 +718,11 @@
         "sentiment": "neutral"
       },
       {
-        "title": "Đedović Handanović: Naše je da čuvamo dobre odnose i sa Sjedinjenim Američkim Državama i sa Rusijom",
-        "link": "https://biznis.telegraf.rs/info-biz/4361874-djedovic-handanovic-nase-je-da-cuvamo-dobre-odnose-i-sa-sjedinjenim-americkim-drzavama-i-sa-rusijom",
-        "summary": "Đedović Handanović: Danas u Vašingtonu počinje strateški dijalog između Srbije i Sjedinjenih Američkih Država u kojem će energetika biti jedna od važnijih oblasti saradnje",
-        "published": "2026-07-17T10:52:32",
-        "source": "Telegraf.rs",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Yettel Bank najbolja digitalna banka za korisnike u Srbiji: Euromoney nagrada iz Londona",
-        "link": "https://biznis.telegraf.rs/info-biz/4361881-yettel-bank-najbolja-digitalna-banka-za-korisnike-u-srbiji-euromoney-nagrada-iz-londona",
-        "summary": "Renomirani svetski ekonomski časopis Euromoney proglasio je Yettel Bank najboljom digitalnom bankom za korisnike u Srbiji i dodelio joj nagradu Serbia's Best.",
-        "published": "2026-07-17T10:46:43",
-        "source": "Telegraf.rs",
+        "title": "Akcionarski fond: Ko će dobiti novac i zašto nisu svi punoletni građani na spisku?",
+        "link": "https://novaekonomija.rs/vesti-iz-zemlje/akcionarski-fond-ko-ce-dobiti-novac-i-zasto-nisu-svi-punoletni-gradjani-na-spisku",
+        "summary": "Izbori se bliže, bar tako već danima najavljuje predsednik Srbije. Vreme je pokazalo da se kada se bliže izbori, najavljuje pomoć građanima, bilo u vidu novca, manjih računa za struju ili nekog drugog benefita. Ovoga puta, vlast je odlučila da &#8222;svim punoletnim građanima&#8220; isplati par hilj",
+        "published": "2026-07-17T12:26:12",
+        "source": "Nova Ekonomija",
         "sentiment": "neutral"
       },
       {
@@ -754,14 +762,6 @@
         "link": "https://novaekonomija.rs/vesti-iz-sveta/cene-nafte-u-porastu-sukob-sad-i-irana-preti-i-crvenom-moru",
         "summary": "Cene nafte su u petak zabeležile blagi rast nakon eskalacije napada Sjedinjenih Američkih Država i Irana širom Zaliva. Prekid primirja ozbiljno ograničava protok nafte kroz Ormuski prolaz, dok je Teheran dodatno zaoštrio situaciju zahtevom Hutima da budu u pripravnosti za zatvaranje izvozne rute kro",
         "published": "2026-07-17T07:47:16",
-        "source": "Nova Ekonomija",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Jorgovanka Tabakobić: NBS prebacuje u budžet 33,7 milijardi dinara",
-        "link": "https://novaekonomija.rs/vesti-iz-zemlje/tabakobic-nbs-prebacuje-u-budzet-337-milijardi-dinara",
-        "summary": "Guvernerka Narodne banke Srbije (NBS) Jorgovanka Tabaković rekla je danas u Skupštini Srbije da će NBS iz dobiti iz operativnog poslovanja u 2025. godini, u iznosu od 46,1 milijarde dinara, u republički budžet uplatiti 33,7 milijardi dinara, odnosno 70 odsto, prenosi Beta. Ona je da sednici Odbora z",
-        "published": "2026-07-16T14:00:55",
         "source": "Nova Ekonomija",
         "sentiment": "neutral"
       }
