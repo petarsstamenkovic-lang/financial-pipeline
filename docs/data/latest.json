@@ -1,6 +1,6 @@
 {
   "date": "2026-07-21",
-  "generated_at": "2026-07-21T14:23:46.119302+02:00",
+  "generated_at": "2026-07-21T15:21:56.727632+02:00",
   "market": {
     "indices": {
       "S&P 500": {
@@ -23,26 +23,26 @@
       },
       "DAX": {
         "symbol": "^GDAXI",
-        "price": 24899.9609,
-        "change_pct": 0.21,
+        "price": 24874.0098,
+        "change_pct": 0.11,
         "prev_close": 24846.6895
       },
       "Euro Stoxx 50": {
         "symbol": "^STOXX50E",
-        "price": 6257.8701,
-        "change_pct": 0.49,
+        "price": 6252.4399,
+        "change_pct": 0.4,
         "prev_close": 6227.3999
       },
       "FTSE 100": {
         "symbol": "^FTSE",
-        "price": 10543.7002,
-        "change_pct": 0.18,
+        "price": 10539.21,
+        "change_pct": 0.14,
         "prev_close": 10524.7998
       },
       "CAC 40": {
         "symbol": "^FCHI",
-        "price": 8344.2598,
-        "change_pct": 0.05,
+        "price": 8338.04,
+        "change_pct": -0.02,
         "prev_close": 8340.1104
       },
       "Nikkei 225": {
@@ -123,99 +123,99 @@
     "fx_commodities": {
       "EUR/USD": {
         "symbol": "EURUSD=X",
-        "price": 1.1421,
-        "change_pct": -0.06,
+        "price": 1.1417,
+        "change_pct": -0.09,
         "prev_close": 1.1428
       },
       "GBP/USD": {
         "symbol": "GBPUSD=X",
-        "price": 1.3396,
-        "change_pct": -0.37,
+        "price": 1.3388,
+        "change_pct": -0.43,
         "prev_close": 1.3446
       },
       "USD/CHF": {
         "symbol": "USDCHF=X",
-        "price": 0.8107,
-        "change_pct": 0.29,
+        "price": 0.8112,
+        "change_pct": 0.35,
         "prev_close": 0.8084
       },
       "USD/JPY": {
         "symbol": "USDJPY=X",
-        "price": 162.749,
-        "change_pct": 0.15,
+        "price": 162.772,
+        "change_pct": 0.16,
         "prev_close": 162.512
       },
       "Gold": {
         "symbol": "GC=F",
-        "price": 4064.6001,
-        "change_pct": 1.35,
+        "price": 4063.1001,
+        "change_pct": 1.32,
         "prev_close": 4010.3
       },
       "Silver": {
         "symbol": "SI=F",
-        "price": 59.255,
-        "change_pct": 4.32,
+        "price": 59.21,
+        "change_pct": 4.24,
         "prev_close": 56.802
       },
       "Brent Crude": {
         "symbol": "BZ=F",
-        "price": 90.21,
-        "change_pct": 1.11,
+        "price": 91.11,
+        "change_pct": 2.12,
         "prev_close": 89.22
       },
       "WTI Crude": {
         "symbol": "CL=F",
-        "price": 83.37,
-        "change_pct": 0.17,
+        "price": 84.45,
+        "change_pct": 1.47,
         "prev_close": 83.23
       },
       "Natural Gas": {
         "symbol": "NG=F",
-        "price": 2.87,
-        "change_pct": 0.35,
+        "price": 2.862,
+        "change_pct": 0.07,
         "prev_close": 2.86
       },
       "Copper": {
         "symbol": "HG=F",
-        "price": 6.521,
-        "change_pct": 3.52,
+        "price": 6.539,
+        "change_pct": 3.81,
         "prev_close": 6.299
       },
       "Wheat": {
         "symbol": "ZW=F",
-        "price": 670.0,
-        "change_pct": -0.59,
+        "price": 669.0,
+        "change_pct": -0.74,
         "prev_close": 674.0
       }
     },
     "rates": {
       "VIX": {
         "symbol": "^VIX",
-        "price": 17.81,
-        "change_pct": -4.5,
+        "price": 17.84,
+        "change_pct": -4.34,
         "prev_close": 18.65
       },
       "US 10Y Yield": {
         "symbol": "^TNX",
-        "price": 4.598,
-        "change_pct": 1.26,
-        "prev_close": 4.541
+        "price": 4.604,
+        "change_pct": 0.13,
+        "prev_close": 4.598
       },
       "US 2Y Yield": {
         "symbol": "^IRX",
-        "price": 3.705,
-        "change_pct": -0.05,
-        "prev_close": 3.707
+        "price": 3.72,
+        "change_pct": 0.4,
+        "prev_close": 3.705
       },
       "US 30Y Yield": {
         "symbol": "^TYX",
-        "price": 5.118,
-        "change_pct": 1.07,
-        "prev_close": 5.064
+        "price": 5.121,
+        "change_pct": 0.06,
+        "prev_close": 5.118
       },
       "2s10s Spread": {
         "symbol": "SPREAD",
-        "price": 0.893,
+        "price": 0.884,
         "change_pct": null,
         "note": "positive = normal curve, negative = inverted (recession signal)"
       }
@@ -622,99 +622,123 @@
     ],
     "serbia": [
       {
-        "title": "Nemačka železnica zabranjuje konzumiranje alkohola na stanicama",
-        "link": "https://n1info.rs/svet/nemacka-zeleznica-zabranjuje-konzumiranje-alkohola-na-stanicama/",
-        "summary": "Nemačka železnica (Deutsche Bahn) saopštila je danas da će zabraniti konzumiranje alkohola na svim svojim stanicama kako bi se poboljšala bezbednost i",
-        "published": "2026-07-21T12:22:23",
+        "title": "Velika Gorica nudi pedijatrima dodatak na platu od 1.200 evra ako dođu u njihov dom zdravlja",
+        "link": "https://n1info.rs/region/velika-gorica-nudi-pedijatrima-dodatak-na-platu-od-1200-evra-ako-dodju-u-njihov-dom-zdravlja/",
+        "summary": "Grad Velika Gorica u Hrvatskoj objavio je da će ove godine subvencionisati rad pedijatara u lokalnom domu zdravlja sa 1.200 evra mesečno ukoliko rade",
+        "published": "2026-07-21T13:20:46",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Advokat Rajić pokrenuo postupke protiv Medicinskog fakulteta i više osoba zbog izbora dekana",
-        "link": "https://n1info.rs/vesti/advokat-rajic-pokrenuo-postupke-protiv-medicinskog-fakulteta-i-vise-osoba-zbog-izbora-dekana/",
-        "summary": "Jovan Rajić, advokat profesorke Vesne Bjegović Mikanović, saopštio je da je protiv beogradskog Medicinskog fakulteta i više odgovornih lica pokrenuto",
-        "published": "2026-07-21T12:20:20",
+        "title": "Član Saveta REM veruje da će predsednik biti izabran na sledećoj sednci",
+        "link": "https://n1info.rs/vesti/clan-saveta-rem-veruje-da-ce-predsednik-biti-izabran-na-sledecoj-sednci/",
+        "summary": "Član Regulatornog tela za elektronske medije (REM) Miloš Garić, jedan od dva predložena kandidata za predsednika Saveta na jučerašnjoj konstitutivnoj",
+        "published": "2026-07-21T13:18:36",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "UKCS: Prvi put u Srbiji ugrađen venski stent u mozgu",
-        "link": "https://n1info.rs/magazin/zdravlje/ukcs-prvi-put-u-srbiji-ugradjen-venski-stent-u-mozgu/",
-        "summary": "U Univerzitetskom kliničkom centru Srbije prvi put je izvedena endovaskularna implantacija intrakranijalnog venskog stenta, minimalno invazivna proced",
-        "published": "2026-07-21T12:18:23",
+        "title": "Borko Stefanović: Šef JZO čestitao rođendan Zvezdanu Jovanoviću, ubici premijera Đinđića",
+        "link": "https://n1info.rs/vesti/borko-stefanovic-sef-jzo-cestitao-rodjendan-zvezdanu-jovanovicu/",
+        "summary": "Ivan Ristić, šef Jedinice za obezbeđenje objekata i lica (JZO) MUP-a Srbije, na aplikaciji \"Voc ap\" (WhatsApp) je čestitao rođendan Zvezdanu Jovanović",
+        "published": "2026-07-21T13:15:42",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Branilac: Interpol neće da sarađuje sa režimom u vezi sa studentima u političkom egzilu",
-        "link": "https://n1info.rs/vesti/interpol-odbio-da-raspise-poternicu-za-studentima-u-politickom-egzilu/",
-        "summary": "Advokat Željko Kočić, jedan od branilaca studenata i aktivista iz Novog Sada, koji su optuženi za pokušaj rušenja ustavnog poretka, saopštio je danas",
-        "published": "2026-07-21T12:16:09",
+        "title": "UNS: U prvih šest meseci 98 slučajeva ugrožavanja novinara - samo dva manje nego cele 2025.",
+        "link": "https://n1info.rs/vesti/uns-u-prvih-sest-meseci-98-slucajeva-ugrozavanja-novinara/",
+        "summary": "Udruženje novinara Srbije (UNS) saopštilo je danas da je u prvih šest meseci ove godine zabeležilo 98 slučajeva ugrožavanja novinara, samo dva manje u",
+        "published": "2026-07-21T13:13:12",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Raspisan tender za projektante RHE Đerdap 3 vredne više milijardi evra",
-        "link": "https://n1info.rs/biznis/raspisan-tender-za-projekat-reverzibilne-hidroelektrane-djerdap-3/",
-        "summary": "Ministarstvo rudarstva i energetike Srbije raspisalo je javnu nabavku za izradu planske i dela tehničke dokumentacije za realizaciju projekta izgradnj",
-        "published": "2026-07-21T12:10:50",
+        "title": "Ugašen Jutjub kanal \"Faraona\", influensera koji kroz muziku promoviše pedofiliju",
+        "link": "https://n1info.rs/vesti/ugasen-jutjub-kanal-faraon-pedofilija/",
+        "summary": "Ugašen je Jutjub kanal \"Faraona\", muškarca koji je osumnjičen da je na onlajn platformama promovisao pedofiliju i zloupotrebu maloletnih lica u pornog",
+        "published": "2026-07-21T13:03:07",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Počela onlajn prodaja karata za međunarodne vozove, neke će morati da budu odštampane",
-        "link": "https://n1info.rs/biznis/karte-za-voz-beograd---bar-i-subotica---segedin/",
-        "summary": "Akcionarsko društvo za železnički prevoz putnika „Srbijavoz“ omogućilo je od danas internet kupovinu voznih karata za međunarodne vozove prema Crnoj G",
-        "published": "2026-07-21T12:09:29",
+        "title": "Novi dan: Slučaj \"Faraon\" - na meti predatora",
+        "link": "https://n1info.rs/najave-emisija/novi-dan-slucaj-faraon-na-meti-predatora/",
+        "summary": "Hapšenje pevača i tiktokera pod imenom “Faraon”, zbog sumnji na krivična dela povezana sa seksualnim iskorišćavanjem maloletnika, ponovo je otvorilo p",
+        "published": "2026-07-21T12:58:07",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Mračna istina internet prevara: Pao azijski milijarder, hiljade ljudi primoravane da učestvuju u prevarama!",
-        "link": "https://biznis.telegraf.rs/info-biz/4363402-mracna-istina-internet-prevara-pao-azijski-milijarder-hiljade-ljudi-primoravane-da-ucestvuju-u-prevarama",
-        "summary": "Hiljade ljudi primorane da varaju preko interneta: Pad tajkuna uzdrmao mračnu industriju vrednu milijarde",
-        "published": "2026-07-21T11:54:14",
+        "title": "Čim padnu prve kapi, njima kreće zarada: Evo ko u Beogradu najviše profitira od pljuskova",
+        "link": "https://biznis.telegraf.rs/novcanik/4364152-cim-padnu-prve-kapi-njima-krece-zarada-evo-ko-u-beogradu-najvise-profitira-od-pljuskova",
+        "summary": "Svaki jači letnji pljusak gotovo po pravilu izaziva isti scenario. Građani koji bi inače pešačili ili koristili gradski prevoz u poslednjem trenutku odlučuju da pozovu taksi",
+        "published": "2026-07-21T13:17:44",
         "source": "Telegraf.rs",
         "sentiment": "neutral"
       },
       {
-        "title": "KUPUJETE NA RATE? Stižu nova pravila - i građani Srbije moraće da prolaze dodatne provere pre svake kupovine?!",
-        "link": "https://biznis.telegraf.rs/info-biz/4364084-kupujete-na-rate-stizu-nova-pravila-i-gradjani-srbije-morace-da-prolaze-dodatne-provere-pre-svake-kupovine",
-        "summary": "Povod za dodatno pojašnjenje bili su brojni medijski napisi, netačne informacije i pitanja građana i trgovaca o tome da li će svaka kupovina na rate ubuduće zahtevati proveru finansijskog stanja kupca",
-        "published": "2026-07-21T12:20:33",
+        "title": "Od danas vozne karte za ove destinacije možete kupiti preko aplikacije \"Srbijavoz\"",
+        "link": "https://biznis.telegraf.rs/info-biz/4364090-od-danas-vozne-karte-za-ove-destinacije-mozete-kupiti-preko-aplikacije-srbijavoz",
+        "summary": "Vozne karte za međunarodne vozove prema Crnoj Gori, kao i za vozove koji saobraćaju na relaciji Subotica - Segedin - Subotica od danas se mogu kupiti putem.",
+        "published": "2026-07-21T13:11:40",
         "source": "Telegraf.rs",
         "sentiment": "neutral"
       },
       {
-        "title": "Kapitalizam u jednom kadru? Ima posla ko hoće da radi - turistu nose na ramenima uz 10.000 kamenih stepenika!",
-        "link": "https://biznis.telegraf.rs/info-biz/4364070-kapitalizam-u-jednom-kadru-ima-posla-ko-hoce-da-radi-turistu-nose-na-ramenima-uz-10000-kamenih-stepenika",
-        "summary": "Turistu nose četiri čoveka uz 10.000 stepenika: Snimak iz Indije podelio svet – luksuz ili goli opstanak?",
-        "published": "2026-07-21T11:56:52",
+        "title": "POSLOVNI HOROSKOP ZA OVU NEDELJU: Nekome stiže veliki novac, a jedan znak mora da pripazi na pogrešnu procenu",
+        "link": "https://biznis.telegraf.rs/info-biz/4364149-poslovni-horoskop-za-ovu-nedelju-nekome-stize-veliki-novac-a-jedan-znak-mora-da-pripazi-na-pogresnu-procenu",
+        "summary": "Evo šta zvezde poručuju kada su posao i novac u pitanju.",
+        "published": "2026-07-21T13:11:07",
         "source": "Telegraf.rs",
         "sentiment": "neutral"
       },
       {
-        "title": "Uskoro kreće bitka za veštačku inteligenciju! Amerika i Kina prvi put sedaju za isti sto, ulog su milijarde",
-        "link": "https://biznis.telegraf.rs/info-biz/4364048-uskoro-krece-bitka-za-vestacku-inteligenciju-amerika-i-kina-prvi-put-sedaju-za-isti-sto-ulog-su-milijarde",
-        "summary": "Sjedinjene Američke Države i Kina planiraju da u septembru održe prve značajnije zajedničke razgovore o veštačkoj inteligenciji kako bi pronašli način za.",
-        "published": "2026-07-21T11:17:02",
+        "title": "Komšije objavile nove plate: Evo kolika je prosečna zarada u Hrvatskoj i ko zarađuje najviše!",
+        "link": "https://biznis.telegraf.rs/info-biz/4364137-komsije-objavile-nove-plate-evo-kolika-je-prosecna-zarada-u-hrvatskoj-i-ko-zaradjuje-najvise",
+        "summary": "Nove brojke iz Hrvatske: Prosečna plata premašila 1.550 evra, evo gde se zarađuje najbolje",
+        "published": "2026-07-21T13:09:34",
         "source": "Telegraf.rs",
         "sentiment": "neutral"
       },
       {
-        "title": "Šta je bio moćni SDK - motor Titove Jugoslavije?! Decenijama držao pod kontrolom novac cele zemlje!",
-        "link": "https://biznis.telegraf.rs/info-biz/4364052-sta-je-bio-mocni-sdk-motor-titove-jugoslavije-decenijama-drzao-pod-kontrolom-novac-cele-zemlje",
-        "summary": "Bio je jači od mnogih ministarstava: Kako je SDK decenijama držao pod kontrolom novac cele Jugoslavije",
-        "published": "2026-07-21T11:26:20",
+        "title": "Student zaradio 34.000 evra za šest meseci uživanja: Ovo je posao kojim se bavio",
+        "link": "https://biznis.telegraf.rs/info-biz/4364082-student-zaradio-34000-evra-za-sest-meseci-uzivanja-ovo-je-posao-kojim-se-bavio",
+        "summary": "Nakon završetka škole, fakulteta ili obuke, mnogi mladi ljudi traže neobične karijerne puteve koji se jasno razlikuju od klasičnih kancelarijskih poslova.",
+        "published": "2026-07-21T12:42:53",
         "source": "Telegraf.rs",
         "sentiment": "neutral"
       },
       {
-        "title": "\"Gde afrička kuga uđe...\": U Srbiji uginula 29.241 svinja - virus prisutan u sedam okruga",
-        "link": "https://biznis.telegraf.rs/agro-biz/4364029-gde-africka-kuga-udje-u-srbiji-uginula-29241-svinja",
-        "summary": "Afrička kuga svinja potvrđena u 7 okruga u Srbiji: Uginulo blizu 30.000 grla. Ministar Glamočić upozorava da će zaraza trajati godinama i najavljuje oštrije kazne",
-        "published": "2026-07-21T10:59:05",
+        "title": "Milijarde i dalje idu u gas, ne samo u AI: Abu Dabi ulaže milijarde dolara u novo polje i uvećava proizvodnju!",
+        "link": "https://biznis.telegraf.rs/info-biz/4364091-milijarde-i-dalje-idu-u-gas-ne-samo-u-ai-abu-dabi-ulaze-milijarde-dolara-u-novo-polje-i-uvecava-proizvodnju",
+        "summary": "Nacionalna naftna kompanija Abu Dabija (ADNOC) odobrila je danas investiciju od 6,2 milijarde dolara u razvoj velikog gasnog projekta Um Šaif.",
+        "published": "2026-07-21T12:27:01",
         "source": "Telegraf.rs",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Država ide dalje sa planom gradnje Đerdapa 3 u saradnji sa SAD: Tender za projekat košta 5,3 miliona evra",
+        "link": "https://novaekonomija.rs/vesti-iz-zemlje/drzava-ide-dalje-sa-planom-gradnje-djerdapa-3-u-saradnji-sa-sad-tender-za-projekat-kosta-53-miliona-evra",
+        "summary": "Ministarstvo rudarstva i energetike raspisalo je javnu nabavku za izradu planske i dela tehničke dokumentacije za realizaciju projekta izgradnje reverzibilne hidroelektrane Đerdap 3. Procenjena vrednost nabavke iznosi 625 miliona dinara, odnosno oko 5,3 miliona evra, piše eKapija. Predmet nabavke je",
+        "published": "2026-07-21T13:03:26",
+        "source": "Nova Ekonomija",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Junajted grupa nastavila s prodajom biznisa u Srbiji: Kurirsku službu D-ekspres kupila austrijska pošta",
+        "link": "https://novaekonomija.rs/vesti-iz-zemlje/junajted-grupa-nastavila-s-prodajom-biznisa-u-srbiji-kurirsku-sluzbu-d-ekspres-kupila-austrijska-posta",
+        "summary": "Kompanija D Ekspres saopštila je danas da je postignut sporazum između United Grupe i Austrijske pošte (Austrian post) o preuzimanju te kompanije. Navedeno je da će se City Ekspres, kompanija u stopostotnom vlasništvu Austrian post, spojiti sa D Ekspresom u jedinstvenu kompaniju, čime će nastati jed",
+        "published": "2026-07-21T12:49:55",
+        "source": "Nova Ekonomija",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Srbin koji je skoro isisan kroz prozor aviona nije jedini kome se to desilo, prethodni putnik preminuo: Da li su low-cost letovi bezbedni?",
+        "link": "https://novaekonomija.rs/vesti-iz-zemlje/srbin-koji-je-isisan-kroz-prozor-aviona-nije-jedini-kome-se-to-desilo-prethodni-putnik-preminuo-da-li-su-low-cost-letovi-bezbedni",
+        "summary": "Na nedavnom letu od Soluna do Memingena srpski državljanin Ljubiša Karović skoro da je isisan kroz prozor Rajanerovog (Ryanair) aviona. Deo motora putničkog Boing 737 NG aviona otpao je tokom leta i slomio prozor pored kog je Karović sedeo. Ovaj događaj koji je zbog ogromne opasnosti i same neobično",
+        "published": "2026-07-21T12:24:13",
+        "source": "Nova Ekonomija",
         "sentiment": "neutral"
       },
       {
@@ -738,30 +762,6 @@
         "link": "https://novaekonomija.rs/vesti-iz-zemlje/neplacena-alimentacija-kako-fond-preuzima-isplate-i-naplatu",
         "summary": "Do nedavno je država godinama nemo posmatrala “kreativno” izbegavanje roditeljskih obaveza, ali je novi zakonski mehanizam drastično promenio pravila igre. Osnivanjem Alimentacionog fonda napravljen je aktivan finansijski štit, čiji je cilj da preseče lance ekonomskog nasilja. Kako je za Novu ekonom",
         "published": "2026-07-21T11:25:18",
-        "source": "Nova Ekonomija",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Sindikat Apoteke Beograd najavio protest ispred Skupštine grada Beograda 24. jula",
-        "link": "https://novaekonomija.rs/vesti-iz-zemlje/sindikat-apoteke-beograd-najavio-protest-ispred-skupstine-grada-beograda-24-jula",
-        "summary": "Sindikat &#8222;Opstanak&#8220; Apoteke Beograd najavio je da će 24. jula održati novi protest ispred Skupštine grada Beograda, nezadovoljan činjenicom da na vanrednoj sednici gradskog parlamenta, koja je zakazana istog dana, nije predviđena nijedna tačka dnevnog reda koja se odnosi na probleme te u",
-        "published": "2026-07-21T11:14:16",
-        "source": "Nova Ekonomija",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Glamočić: Virus afričke kuge aktivan u sedam okruga, broj uginulih i eutanaziranih se smanjuje",
-        "link": "https://novaekonomija.rs/vesti-iz-zemlje/glamocic-virus-africke-kuge-aktivan-u-sedam-okruga-broj-uginulih-i-eutanaziranih-se-smanjuje",
-        "summary": "Ministar poljoprivrede Dragan Glamočić rekao je danas u Skupštini Srbije da je zaključno sa jučerašnjim danom, 20. jula zbog afričke kuge eutanazirana i uginula 29.241 svinja, te da je taj virus aktivan u sedam okruga, ali da se situacija stabilizuje. On je na sednici skupštinskog Odbora za poljopri",
-        "published": "2026-07-21T10:57:54",
-        "source": "Nova Ekonomija",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Cene polovnjaka u padu, najpopularnije godište sve govori o standardu srpskog kupca",
-        "link": "https://novaekonomija.rs/vesti-iz-zemlje/analiza-cena-polovnih-automobila-u-padu-trziste-se-stabilizuje",
-        "summary": "Cene polovnih automobila u Srbiji u blagom su padu od početka 2026. godine, ali su i dalje za oko pet odsto više u poređenju sa prvom polovinom 2025. godine. Sa druge strane, broj prodatih polovnih automobila iz uvoza u prvih šest meseci ove godine gotovo je identičan kao u istom periodu 2025, pokaz",
-        "published": "2026-07-21T09:32:10",
         "source": "Nova Ekonomija",
         "sentiment": "neutral"
       }
