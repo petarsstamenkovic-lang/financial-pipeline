@@ -1,6 +1,6 @@
 {
   "date": "2026-07-22",
-  "generated_at": "2026-07-22T14:26:28.466711+02:00",
+  "generated_at": "2026-07-22T15:27:26.110979+02:00",
   "market": {
     "indices": {
       "S&P 500": {
@@ -23,26 +23,26 @@
       },
       "DAX": {
         "symbol": "^GDAXI",
-        "price": 25071.3203,
-        "change_pct": 0.24,
+        "price": 25170.7891,
+        "change_pct": 0.64,
         "prev_close": 25011.3496
       },
       "Euro Stoxx 50": {
         "symbol": "^STOXX50E",
-        "price": 6296.1499,
-        "change_pct": 0.17,
+        "price": 6310.3999,
+        "change_pct": 0.39,
         "prev_close": 6285.6299
       },
       "FTSE 100": {
         "symbol": "^FTSE",
-        "price": 10725.3896,
-        "change_pct": 1.32,
+        "price": 10739.4502,
+        "change_pct": 1.45,
         "prev_close": 10585.9004
       },
       "CAC 40": {
         "symbol": "^FCHI",
-        "price": 8437.8896,
-        "change_pct": 0.89,
+        "price": 8450.0303,
+        "change_pct": 1.04,
         "prev_close": 8363.1396
       },
       "Nikkei 225": {
@@ -123,99 +123,99 @@
     "fx_commodities": {
       "EUR/USD": {
         "symbol": "EURUSD=X",
-        "price": 1.1414,
-        "change_pct": -0.03,
+        "price": 1.1418,
+        "change_pct": 0.0,
         "prev_close": 1.1418
       },
       "GBP/USD": {
         "symbol": "GBPUSD=X",
-        "price": 1.3369,
-        "change_pct": -0.47,
+        "price": 1.3375,
+        "change_pct": -0.42,
         "prev_close": 1.3432
       },
       "USD/CHF": {
         "symbol": "USDCHF=X",
-        "price": 0.8121,
-        "change_pct": 0.25,
+        "price": 0.8119,
+        "change_pct": 0.23,
         "prev_close": 0.81
       },
       "USD/JPY": {
         "symbol": "USDJPY=X",
-        "price": 163.053,
-        "change_pct": 0.35,
+        "price": 163.073,
+        "change_pct": 0.36,
         "prev_close": 162.487
       },
       "Gold": {
         "symbol": "GC=F",
-        "price": 4129.1001,
-        "change_pct": 1.42,
+        "price": 4127.2998,
+        "change_pct": 1.38,
         "prev_close": 4071.1001
       },
       "Silver": {
         "symbol": "SI=F",
-        "price": 59.645,
-        "change_pct": 1.38,
+        "price": 59.67,
+        "change_pct": 1.42,
         "prev_close": 58.835
       },
       "Brent Crude": {
         "symbol": "BZ=F",
-        "price": 85.14,
-        "change_pct": -6.45,
+        "price": 94.26,
+        "change_pct": 3.57,
         "prev_close": 91.01
       },
       "WTI Crude": {
         "symbol": "CL=F",
-        "price": 87.19,
-        "change_pct": 2.69,
+        "price": 87.17,
+        "change_pct": 2.66,
         "prev_close": 84.91
       },
       "Natural Gas": {
         "symbol": "NG=F",
-        "price": 2.913,
-        "change_pct": 1.68,
+        "price": 2.905,
+        "change_pct": 1.4,
         "prev_close": 2.865
       },
       "Copper": {
         "symbol": "HG=F",
-        "price": 6.518,
-        "change_pct": 0.11,
+        "price": 6.5125,
+        "change_pct": 0.02,
         "prev_close": 6.511
       },
       "Wheat": {
         "symbol": "ZW=F",
-        "price": 695.25,
-        "change_pct": 2.54,
+        "price": 698.0,
+        "change_pct": 2.95,
         "prev_close": 678.0
       }
     },
     "rates": {
       "VIX": {
         "symbol": "^VIX",
-        "price": 17.64,
-        "change_pct": 3.46,
+        "price": 17.35,
+        "change_pct": 1.76,
         "prev_close": 17.05
       },
       "US 10Y Yield": {
         "symbol": "^TNX",
-        "price": 4.628,
-        "change_pct": 0.65,
-        "prev_close": 4.598
+        "price": 4.642,
+        "change_pct": 0.3,
+        "prev_close": 4.628
       },
       "US 2Y Yield": {
         "symbol": "^IRX",
-        "price": 3.73,
-        "change_pct": 0.67,
-        "prev_close": 3.705
+        "price": 3.735,
+        "change_pct": 0.13,
+        "prev_close": 3.73
       },
       "US 30Y Yield": {
         "symbol": "^TYX",
-        "price": 5.13,
-        "change_pct": 0.23,
-        "prev_close": 5.118
+        "price": 5.14,
+        "change_pct": 0.19,
+        "prev_close": 5.13
       },
       "2s10s Spread": {
         "symbol": "SPREAD",
-        "price": 0.898,
+        "price": 0.907,
         "change_pct": null,
         "note": "positive = normal curve, negative = inverted (recession signal)"
       }
@@ -622,51 +622,83 @@
     ],
     "serbia": [
       {
-        "title": "Lovac na manekenke, povezan sa Epstinom, pronađen mrtav u svom domu u Parizu",
-        "link": "https://n1info.rs/svet/lovac-na-manekenke-povezan-sa-epstinom-pronadjen-mrtav-u-svom-domu-u-parizu/",
-        "summary": "Danijel Sijad (69), skaut za manekenke, povezan sa pokojnim osuđenim seksualnim prestupnikom Džefrijem Epstinom, pronađen je mrtav u svom domu u Pariz",
-        "published": "2026-07-22T12:21:36",
+        "title": "Problemi na Dunavu kod Novog Sada - vodostaj sve niži",
+        "link": "https://n1info.rs/vesti/problemi-na-dunavu-kod-novog-sada-vodostaj-sve-nizi/",
+        "summary": "Vodostaj Dunava u Novom Sadu nastavlja da opada. Povlačenje vode je otkrilo nove sprudove, veliki broj čamaca na Ribarcu ostao je na suvom, ali se naz",
+        "published": "2026-07-22T13:26:25",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Trener Sautemptona optužen za nedolično ponašanje zbog špijunske afere",
-        "link": "https://n1info.rs/sport-klub/fudbal/trener-sautemptona-optuzen-za-nedolicno-ponasanje-zbog-spijunske-afere/",
-        "summary": "Glavni trener Sautemptona Tonda Ekert optužen je za nedolično ponašanje od strane Fudbalskog saveza Engleske (FA) zbog špijunske afere koja je rezulti",
-        "published": "2026-07-22T12:14:09",
+        "title": "Nedeljnik: Država prodaje Jat apartmane na Kopaoniku za 5,2 miliona evra",
+        "link": "https://n1info.rs/biznis/nedeljnik-drzava-prodaje-jat-apartmane-na-kopaoniku-za-52-miliona-evra/",
+        "summary": "Ministarstvo privrede Srbije objavilo je poziv za privatizaciju preduzeća \"Jat apartmani Kopaonik\", po početnoj ceni od 5,2 miliona evra, a kupac mora",
+        "published": "2026-07-22T13:25:39",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "NUNS calls for urgent prosecution over new threats to Becejski Mozaik",
-        "link": "https://n1info.rs/english/news/nuns-calls-for-urgent-prosecution-over-new-threats-to-becejski-mozaik/",
-        "summary": "The Independent Journalists’ Association of Serbia (NUNS) strongly condemns the new threats directed via social media at the newsroom of Becejski Moza",
-        "published": "2026-07-22T12:11:47",
+        "title": "Viz Er otvara bazu na aerodromu u Prištini",
+        "link": "https://n1info.rs/vesti/viz-er-otvara-bazu-na-aerodromu-u-pristini/",
+        "summary": "Mađarski niskotarifni avio prevoznik Viz Er otvoriće bazu na aerodromu u Prištini, a najavljuje i mogućnost zatvaranja baze u Beogradu, navodi danas K",
+        "published": "2026-07-22T13:17:26",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Američka ambasada: Ustav Kosova garantuje zastupljenost Srba u institucijama",
-        "link": "https://n1info.rs/vesti/americka-ambasada-ustav-kosova-garantuje-zastupljenost-srba-u-institucijama/",
-        "summary": "Ambasada Sjedinjenih Američkih Država (SAD) u Prištini je danas, povodom odluke vršioca dužnosti predsednice Kosova da prihvati zahtev Tužilačkog save",
-        "published": "2026-07-22T12:11:08",
+        "title": "EU zahteva hitnu obustavu daljih rušenja na Gazivodama",
+        "link": "https://n1info.rs/vesti/eu-zahteva-hitnu-obustavu-daljih-rusenja-na-gazivodama/",
+        "summary": "Evropska unija pozvala je danas kosovske vlasti da odmah obustave sva dalja rušenja, prinudna uklanjanja objekata i preuzimanje imovine na području Ga",
+        "published": "2026-07-22T13:09:37",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "SAD prikupile oko 13 milijardi dolara od venecuelanske nafte, ali se ne zna gde je novac",
-        "link": "https://n1info.rs/svet/sad-prikupile-oko-13-milijardi-dolara-od-venecuelanske-nafte-ali-se-ne-zna-gde-je-novac/",
-        "summary": "Administracija predsednika SAD Donalda Trampa ove godine je prikupila više od 13 milijardi dolara prihoda od prodaje venecuelanske nafte, prema prorač",
-        "published": "2026-07-22T11:56:31",
+        "title": "US Embassy: Kosovo Constitution guarantees representation of Serbs in institutions",
+        "link": "https://n1info.rs/english/news/us-embassy-kosovo-constitution-guarantees-representation-of-serbs-in-institutions/",
+        "summary": "Commenting on the decision by Kosovo’s acting president to accept the Kosovo Prosecutorial Council’s request to dismiss Serb prosecutors, the US Embas",
+        "published": "2026-07-22T13:02:06",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Kako je jedan YouTube snimak slučajno dokazao postojanje libijskih \"pustinjskih duhova\"",
-        "link": "https://n1info.rs/magazin/lifestyle/kako-je-jedan-youtube-snimak-slucajno-dokazao-postojanje-libijskih-pustinjskih-duhova/",
-        "summary": "Ne dešava se često da jedan video na YouTube dovede do velikog naučnog otkrića o divljim životinjama, ali upravo je to nesvesno učinio Mohamed Almunta",
-        "published": "2026-07-22T11:47:39",
+        "title": "Gledanje televizije povezano sa promenama u mozgu i većim rizikom od demencije",
+        "link": "https://n1info.rs/magazin/zdravlje/gledanje-televizije-povezano-sa-promenama-u-mozgu-i-vecim-rizikom-od-demencije/",
+        "summary": "Često gledanje televizije u  srednjem životnom dobu moglo bi da bude povezano sa zabrinjavajućim  promenama u mozgu koje se javljaju decenijama kasnij",
+        "published": "2026-07-22T13:00:57",
         "source": "N1 Info RS - Feed",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Putin objavio brojke koje su mnoge iznenadile! Evo šta se dešava sa ruskom ekonomijom",
+        "link": "https://biznis.telegraf.rs/info-biz/4364860-putin-otkrio-nove-brojke-iz-ruske-ekonomije-budzet-u-plusu-rastu-prihodi-i-stizu-nova-ulaganja",
+        "summary": "On je dodao da je ubrzano kreditiranje doprinelo rastu novčane mase, koja je zaključno sa 1. julom bila 13 odsto veća nego godinu dana ranije",
+        "published": "2026-07-22T13:23:48",
+        "source": "Telegraf.rs",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Odlazite na more, a nemate kome da ostavite mačku? Sve više vlasnika bira ovo rešenje za svoje ljubimce",
+        "link": "https://biznis.telegraf.rs/info-biz/4364843-odlazite-na-more-a-nemate-kome-da-ostavite-macku-sve-vise-vlasnika-bira-ovo-resenje-za-svoje-ljubimce",
+        "summary": "Leto je vreme godišnjih odmora, ali dok mnogi razmišljaju o tome šta će poneti u kofer, vlasnici kućnih ljubimaca imaju još jednu važnu dilemu – ko će brinuti o.",
+        "published": "2026-07-22T13:05:51",
+        "source": "Telegraf.rs",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Penzija sa 65 godina odlazi u istoriju? Ova zemlja najavljuje velika pravila koja bi mogla da promene sve",
+        "link": "https://biznis.telegraf.rs/info-biz/4364826-penzija-sa-65-godina-odlazi-u-istoriju-ova-zemlja-najavljuje-velika-pravila-koja-bi-mogla-da-promene-sve",
+        "summary": "Prema njegovim rečima, zbog toga će biti sve važnije da građani mnogo ranije počnu da planiraju penziju i da o tome razmišljaju još dok su u radnom odnosu",
+        "published": "2026-07-22T12:43:30",
+        "source": "Telegraf.rs",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "700 svinja eutanazirano zbog zaraze samo u ovom delu Srbije",
+        "link": "https://biznis.telegraf.rs/agro-biz/4364822-700-svinja-eutanazirano-zbog-zaraze-samo-u-ovom-delu-srbije",
+        "summary": "Na delu teritorije grada Sremska Mitrovica na snazi je vanredna situacija zbog pojave afričke kuge svinja u mačvanskim selima Noćaj i Salaš Noćajski, a u cilju.",
+        "published": "2026-07-22T12:44:54",
+        "source": "Telegraf.rs",
         "sentiment": "neutral"
       },
       {
@@ -682,38 +714,6 @@
         "link": "https://biznis.telegraf.rs/info-biz/4364776-policija-stigla-na-vrata-dojce-banke-sumnja-na-poresku-prevaru-povezana-sa-postbankom",
         "summary": "Pripadnici nemačkog tužilaštva izvršili su danas pretres u sedištu Dojče banke u Frankfurtu zbog sumnje na poreske malverzacije povezane s poslovanjem.",
         "published": "2026-07-22T12:12:43",
-        "source": "Telegraf.rs",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Poznat rok za isplatu pomoći penzionerima! Evo do kada će novac leći na račune",
-        "link": "https://biznis.telegraf.rs/novcanik/4364780-poznat-rok-za-isplatu-pomoci-penzionerima-evo-do-kada-ce-novac-leci-na-racune",
-        "summary": "Republički fond za penzijsko i invalidsko osiguranje organizovao je danas 43. tribinu sa više od 300 penzionera sa teritorije opštine Rakovica, a direktor Fonda.",
-        "published": "2026-07-22T12:05:13",
-        "source": "Telegraf.rs",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Rumunija odbila da plati otkup, haker obrisao zemljišne knjige",
-        "link": "https://biznis.telegraf.rs/nekretnine/4364766-rumunija-odbila-da-plati-otkup-haker-obrisao-zemljisne-knjige",
-        "summary": "Građani Rumunije trenutno ne mogu da dobiju izvod iz zemljišnih knjiga niti da dokažu vlasništvo nad nekretninama, dok su kupoprodaje praktično zaustavljene.",
-        "published": "2026-07-22T11:52:56",
-        "source": "Telegraf.rs",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Ljudi besni zbog ležaljki u Crnoj Gori: \"Ne bih potrošila tamo 1 evro. Hvala lepo. Doviđenja!\"",
-        "link": "https://biznis.telegraf.rs/info-biz/4364478-ljudi-besni-zbog-lezaljki-u-crnoj-gori-ne-bih-potrosila-tamo-1-evro",
-        "summary": "Rasprava o ležaljkama na crnogorskom primorju izazvala je brojne reakcije na društvenim mrežama. Mnogi građani i turisti oštro kritikuju praksu na plažama",
-        "published": "2026-07-22T11:39:50",
-        "source": "Telegraf.rs",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Maldivi dobili konkurenciju usred Kine: Iz hotelske sobe izlazi se direktno u \"Veneciju\" dugu 1,5 kilometara!",
-        "link": "https://biznis.telegraf.rs/info-biz/4364739-maldivi-dobili-konkurenciju-usred-kine-iz-hotelske-sobe-izlazi-se-direktno-u-veneciju-dugu-15-kilometara",
-        "summary": "Maldivi dobili konkurenciju usred Kine: Iz hotelske sobe izlazi se direktno u vodeni kanal",
-        "published": "2026-07-22T11:30:02",
         "source": "Telegraf.rs",
         "sentiment": "neutral"
       },
@@ -769,6 +769,11 @@
   },
   "key_events": [
     {
+      "title": "Squad Gold Rush Offers Top Bybit Referral Teams a Share of Up to 100,000 USDT Airdrop, Plus XAUT Lucky-Draw Rewards",
+      "link": "https://www.investing.com/news/cryptocurrency-news/squad-gold-rush-offers-top-bybit-referral-teams-a-share-of-up-to-100000-usdt-airdrop-plus-xaut-luckydraw-rewards-4805822",
+      "summary": ""
+    },
+    {
       "title": "Bitcoin steadies at $66k with focus on CLARITY Act, Iran tensions",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-near-66k-with-focus-on-clarity-act-iran-tensions-4804751",
       "summary": ""
@@ -811,11 +816,6 @@
     {
       "title": "BITmarkets Publishes an Overview of Football’s Top 10 Champions of Crypto in 2026",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitmarkets-publishes-an-overview-of-footballs-top-10-champions-of-crypto-in-2026-4800919",
-      "summary": ""
-    },
-    {
-      "title": "Strategy sells MSTR shares, holds 843,775 bitcoin as of July 19, made no bitcoin purchases",
-      "link": "https://www.investing.com/news/cryptocurrency-news/strategy-sells-mstr-shares-holds-843775-bitcoin-as-of-july-19-made-no-bitcoin-purchases-432SI-4800862",
       "summary": ""
     }
   ],
