@@ -1,6 +1,6 @@
 {
   "date": "2026-07-23",
-  "generated_at": "2026-07-23T14:22:44.528146+02:00",
+  "generated_at": "2026-07-23T15:30:09.822680+02:00",
   "market": {
     "indices": {
       "S&P 500": {
@@ -23,26 +23,26 @@
       },
       "DAX": {
         "symbol": "^GDAXI",
-        "price": 24986.9805,
-        "change_pct": -0.67,
+        "price": 24784.3203,
+        "change_pct": -1.48,
         "prev_close": 25155.4102
       },
       "Euro Stoxx 50": {
         "symbol": "^STOXX50E",
-        "price": 6255.46,
-        "change_pct": -0.97,
+        "price": 6206.6699,
+        "change_pct": -1.75,
         "prev_close": 6316.9902
       },
       "FTSE 100": {
         "symbol": "^FTSE",
-        "price": 10697.7197,
-        "change_pct": -0.18,
+        "price": 10611.9404,
+        "change_pct": -0.98,
         "prev_close": 10717.0
       },
       "CAC 40": {
         "symbol": "^FCHI",
-        "price": 8339.6904,
-        "change_pct": -1.16,
+        "price": 8283.6396,
+        "change_pct": -1.83,
         "prev_close": 8437.8896
       },
       "Nikkei 225": {
@@ -123,99 +123,99 @@
     "fx_commodities": {
       "EUR/USD": {
         "symbol": "EURUSD=X",
-        "price": 1.1392,
-        "change_pct": -0.1,
+        "price": 1.1377,
+        "change_pct": -0.24,
         "prev_close": 1.1404
       },
       "GBP/USD": {
         "symbol": "GBPUSD=X",
-        "price": 1.3351,
-        "change_pct": -0.21,
+        "price": 1.3331,
+        "change_pct": -0.36,
         "prev_close": 1.3379
       },
       "USD/CHF": {
         "symbol": "USDCHF=X",
-        "price": 0.8162,
-        "change_pct": 0.47,
+        "price": 0.8172,
+        "change_pct": 0.59,
         "prev_close": 0.8124
       },
       "USD/JPY": {
         "symbol": "USDJPY=X",
-        "price": 163.497,
-        "change_pct": 0.19,
+        "price": 163.814,
+        "change_pct": 0.38,
         "prev_close": 163.186
       },
       "Gold": {
         "symbol": "GC=F",
-        "price": 4086.0,
-        "change_pct": -1.47,
+        "price": 4044.5,
+        "change_pct": -2.47,
         "prev_close": 4146.8999
       },
       "Silver": {
         "symbol": "SI=F",
-        "price": 58.74,
-        "change_pct": -2.13,
+        "price": 57.43,
+        "change_pct": -4.31,
         "prev_close": 60.019
       },
       "Brent Crude": {
         "symbol": "BZ=F",
-        "price": 92.92,
-        "change_pct": -1.22,
+        "price": 86.72,
+        "change_pct": -7.81,
         "prev_close": 94.07
       },
       "WTI Crude": {
         "symbol": "CL=F",
-        "price": 90.63,
-        "change_pct": 4.38,
+        "price": 91.35,
+        "change_pct": 5.21,
         "prev_close": 86.83
       },
       "Natural Gas": {
         "symbol": "NG=F",
-        "price": 2.957,
-        "change_pct": 1.09,
+        "price": 2.963,
+        "change_pct": 1.3,
         "prev_close": 2.925
       },
       "Copper": {
         "symbol": "HG=F",
-        "price": 6.4565,
-        "change_pct": 0.09,
+        "price": 6.38,
+        "change_pct": -1.1,
         "prev_close": 6.451
       },
       "Wheat": {
         "symbol": "ZW=F",
-        "price": 709.25,
-        "change_pct": 0.5,
+        "price": 707.25,
+        "change_pct": 0.21,
         "prev_close": 705.75
       }
     },
     "rates": {
       "VIX": {
         "symbol": "^VIX",
-        "price": 18.15,
-        "change_pct": 9.07,
+        "price": 19.22,
+        "change_pct": 15.5,
         "prev_close": 16.64
       },
       "US 10Y Yield": {
         "symbol": "^TNX",
-        "price": 4.657,
-        "change_pct": 0.63,
-        "prev_close": 4.628
+        "price": 4.711,
+        "change_pct": 1.16,
+        "prev_close": 4.657
       },
       "US 2Y Yield": {
         "symbol": "^IRX",
-        "price": 3.745,
-        "change_pct": 0.4,
-        "prev_close": 3.73
+        "price": 3.763,
+        "change_pct": 0.48,
+        "prev_close": 3.745
       },
       "US 30Y Yield": {
         "symbol": "^TYX",
-        "price": 5.147,
-        "change_pct": 0.33,
-        "prev_close": 5.13
+        "price": 5.19,
+        "change_pct": 0.84,
+        "prev_close": 5.147
       },
       "2s10s Spread": {
         "symbol": "SPREAD",
-        "price": 0.912,
+        "price": 0.948,
         "change_pct": null,
         "note": "positive = normal curve, negative = inverted (recession signal)"
       }
@@ -476,10 +476,10 @@
   "news": {
     "macro_global": [
       {
-        "title": "Oil jumps to $99 after Houthis attack two Saudi Arabian tankers",
-        "link": "https://www.ft.com/content/1ddfbe42-b8e8-487c-a156-505879469926?syn-25a6b1a6=1",
-        "summary": "Yemeni rebels said they used missiles and drones to target the vessels Encelia and Layla",
-        "published": "2026-07-23T10:42:50",
+        "title": "Oil hits $100 for first time since May",
+        "link": "https://www.ft.com/content/3fd494d1-ee74-4c0f-9cd6-34e2283961df",
+        "summary": "Attack by Houthis on Saudi Arabian tankers in Red Sea threatens further squeeze on energy supplies",
+        "published": "2026-07-23T13:09:29",
         "source": "UK homepage",
         "sentiment": "neutral"
       },
@@ -487,17 +487,17 @@
         "title": "Oil price surge drives global bond sell-off",
         "link": "https://www.ft.com/content/66bf810f-c1c0-488d-bd02-f8eba3acd743?syn-25a6b1a6=1",
         "summary": "Brent crude’s rise towards $100 threatens a prolonged surge in inflation and resetting interest rate expectations",
-        "published": "2026-07-23T10:49:16",
+        "published": "2026-07-23T12:40:45",
         "source": "UK homepage",
         "sentiment": "positive"
       },
       {
-        "title": "Houthi attacks threaten to cut off Saudi Arabia’s oil lifeline",
+        "title": "Houthi attacks threaten Saudi Arabia’s oil lifeline",
         "link": "https://www.ft.com/content/02bf3e4d-7719-4482-9f2b-ab14bd3fe9c3?syn-25a6b1a6=1",
         "summary": "Asian refiners may wait an extra month for crude as tankers abandon the route through Bab al-Mandab",
         "published": "2026-07-23T09:51:03",
         "source": "UK homepage",
-        "sentiment": "negative"
+        "sentiment": "neutral"
       },
       {
         "title": "Japan awakes",
@@ -508,6 +508,14 @@
         "sentiment": "positive"
       },
       {
+        "title": "The return of the political professional",
+        "link": "https://www.ft.com/content/d6926044-2e10-4f8d-ae1e-16218307b840?syn-25a6b1a6=1",
+        "summary": "After years of duds and dilettantes, true operators have returned to Downing Street — but that won’t guarantee success",
+        "published": "2026-07-23T10:35:28",
+        "source": "UK homepage",
+        "sentiment": "neutral"
+      },
+      {
         "title": "A stealth fighter jet could blow a hole in Healey’s budget",
         "link": "https://www.ft.com/content/41959a4e-f542-4225-a149-abe4fd9ba810?syn-25a6b1a6=1",
         "summary": "To fly, Tempest and the GCAP need to defy the history of failed joint national projects",
@@ -516,11 +524,11 @@
         "sentiment": "neutral"
       },
       {
-        "title": "Betting account in Cottrell’s name received $9mn in crypto from unidentified sources",
-        "link": "https://www.ft.com/content/b74cbc54-c6ae-4f4a-9350-3dab1f2758d0?syn-25a6b1a6=1",
-        "summary": "Deposits in Polymarket wallet came as convicted fraudster was providing gifts to Farage",
-        "published": "2026-07-23T04:00:12",
-        "source": "UK homepage",
+        "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement",
+        "link": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is260723~b6fadd48f4.en.html",
+        "summary": "",
+        "published": "2026-07-23T13:00:00",
+        "source": "ECB - European Central Bank",
         "sentiment": "neutral"
       },
       {
@@ -560,14 +568,6 @@
         "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp260717~b6a156dc40.en.html",
         "summary": "",
         "published": "2026-07-17T10:00:00",
-        "source": "ECB - European Central Bank",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Piero Cipollone: Interview with Ouest-France",
-        "link": "https://www.ecb.europa.eu//press/inter/date/2026/html/ecb.in260715~ab95a43007.en.html",
-        "summary": "",
-        "published": "2026-07-15T06:00:00",
         "source": "ECB - European Central Bank",
         "sentiment": "neutral"
       },
@@ -622,51 +622,91 @@
     ],
     "serbia": [
       {
-        "title": "Vlasnici benzinskih pumpi u Srbiji: Snabdevanje gorivom normalizovaće se iz rezervi",
-        "link": "https://n1info.rs/biznis/vlasnici-benzinskih-pumpi-u-srbiji-snabdevanje-gorivom-normalizovace-se-iz-rezervi/",
-        "summary": "Snabdevanje naftnim derivatima pumpi u Srbiji će se normalizovati u narednih dan-dva jer je Ministarstvo rudarstva i energetike odobrilo Naftnoj indus",
-        "published": "2026-07-23T12:17:53",
+        "title": "Pronađena granata u niškom naselju Čalije",
+        "link": "https://n1info.rs/vesti/pronadjena-granata-u-niskom-naselju-calije/",
+        "summary": "U Ulici lala u niškom naselju Čalije danas oko 13.30 pronađena je eksplozivna naprava, potvrdili su Policijskoj upravi u Nišu za agenciju Beta.",
+        "published": "2026-07-23T13:24:48",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Cena nafte skočila na 98 dolara nakon što su Huti napali dva saudijska tankera",
-        "link": "https://n1info.rs/svet/cena-nafte-skok-huti-napad-tanker-saudijska-arabija/",
-        "summary": "Cena nafte porasla je iznad 98 dolara po barelu prvi put od početka juna, nakon što su militanti Huti, koje podržava Iran, saopštili da su napali dva",
-        "published": "2026-07-23T12:15:16",
+        "title": "Britanski milioneri traže od premijera da ih više oporezuje",
+        "link": "https://n1info.rs/svet/britanski-milioneri-traze-od-premijera-da-ih-vise-oporezuje/",
+        "summary": "Britanski milioneri, uključujući bivšeg fudbalera Garija Linekera i muzičkog producenta Brajana Ina, pisali su novom premijeru Endiju Bernamu tražeći",
+        "published": "2026-07-23T13:15:54",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Wildberries, \"ruski Amazon\", postao nova redovna meta Ukrajine",
-        "link": "https://n1info.rs/svet/wildberries-ruski-amazon-postao-nova-redovna-meta-ukrajine/",
-        "summary": "Od skromnih početaka kao porodični biznis koji se vodio iz stana u blizini Moskve, Vajldberiz (Wildberries) je za manje od dve decenije izrastao u vod",
-        "published": "2026-07-23T12:14:10",
+        "title": "Olivera Katarina ostavila Kan bez daha - njeno pojavljivanje i danas se prepričava",
+        "link": "https://n1info.rs/magazin/showbiz/olivera-katarina-ostavila-kan-bez-daha-njeno-pojavljivanje-i-danas-se-prepricava/",
+        "summary": "Vest da je preminula Olivera Katarina rastužila je region i podsetila javnost na karijeru jedne od najvećih diva jugoslovenskog glumišta i muzike.",
+        "published": "2026-07-23T13:14:51",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Vucic, Czech PM discuss economic cooperation and investments",
-        "link": "https://n1info.rs/english/news/vucic-czech-pm-discuss-economic-cooperation-and-investments/",
-        "summary": "Serbian President Aleksandar Vucic said that he and Czech Prime Minister Andrej Babis discussed enhancing bilateral cooperation in Belgrade, focusing",
-        "published": "2026-07-23T12:08:28",
+        "title": "Milan Šarić se vraća na N1",
+        "link": "https://n1info.rs/vesti/milan-saric-se-vraca-na-n1/",
+        "summary": "Novinar, producent i prezenter Milan Šarić vraća se na televiziju N1. Šarić je bio među novinarima koji su učestvovali u pokretanju N1 2014. godine i",
+        "published": "2026-07-23T13:05:53",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Šapić najavio još novih kružnih tokova: Velike promene na Autokomandi i u Omladinskih brigada",
-        "link": "https://n1info.rs/biznis/sapic-kruzni-tokovi-autokomanda-omladinskih-brigada/",
-        "summary": "Gradonačelnik Beograda Aleksandar Šapić najavio je izgradnju većeg broja novih kružnih tokova u glavnom gradu koji, između ostalog, podrazumevaju reor",
-        "published": "2026-07-23T12:06:27",
+        "title": "Šapić obelodanio ko je autor skulpture na Terazijama, koliko je koštala i ko ju je platio",
+        "link": "https://n1info.rs/vesti/skulptura-terazije-cena-sapic-donacija/",
+        "summary": "Gradonačelnik Beograda Aleksandar Šapić izjavio je da je projekat skulpture vage na kružnom toku na Terazijama izradio Projektni biro Grada Beograda,",
+        "published": "2026-07-23T12:58:20",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Novi dan: Integrisani bezbednosni sistem Beograda",
-        "link": "https://n1info.rs/najave-emisija/novi-dan-integrisani-bezbednosni-sistem-beograda/",
-        "summary": "U petak u Novom danu o integrisanom bezbednosnom sistemu Beogradu o čijem će predlogu rasrpavljati odbornici Skupštine grada Beograda.",
-        "published": "2026-07-23T12:04:11",
+        "title": "Simić: Nijedna vlast ne sme da prisvoji Bitef, očuvanje kulture mora biti iznad politike",
+        "link": "https://n1info.rs/kultura/psg-stefan-simic-nijedna-vlast-ne-sme-da-prisvoji-bitef/",
+        "summary": "Beogradski odbornik i predsednik Gradskog odbora Pokreta slobodnih građana (PSG) Stefan Simić je danas ocenio da je nijedna vlast ne sme da prisvoji B",
+        "published": "2026-07-23T12:57:10",
         "source": "N1 Info RS - Feed",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Objavljena nova lista najmoćnijih pasoša: Evo na kom mestu je Srbija, a kako stoje komšije",
+        "link": "https://biznis.telegraf.rs/info-biz/4365466-objavljena-nova-lista-najmocnijih-pasosa-evo-gde-je-srbija",
+        "summary": "Objavljena je najnovija rang-lista najmoćnijih pasoša na svetu! Saznajte na kom mestu se nalazi Srbija, kako se kotiraju zemlje regiona i ko drži ubedljivo prvo mesto..",
+        "published": "2026-07-23T13:24:16",
+        "source": "Telegraf.rs",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Izgradnja brane \"Svračkovo\" odviјa se nesmetano, angažovanje podizvođača ne menja glavnog izvođača radova",
+        "link": "https://biznis.telegraf.rs/biz-odrzivost/briga-o-vodama-briga-o-srbiji/4365460-izgradnja-brane-svrackovo-odvija-se-nesmetano-angazovanje-podizvodjaca-ne-menja-glavnog-izvodjaca-radova",
+        "summary": "Izgradnja brane \"Svračkovo\" јednog od naјznačaјniјih vodoprivrednih i strateških infrastrukturnih proјekata Republike Srbiјe, nastavlja se u skladu sa utvrđenom.",
+        "published": "2026-07-23T13:07:32",
+        "source": "Telegraf.rs",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Gde je nestao novac Jugoskandik banke? Misterija koja ni posle tri decenije ne prestaje da intrigira Balkan",
+        "link": "https://biznis.telegraf.rs/info-biz/4365418-gde-je-nestao-novac-jugoskandik-banke-misterija-koja-ni-posle-tri-decenije-ne-prestaje-da-intrigira-balkan",
+        "summary": "Bila je to jedna od najvećih finansijskih priča devedesetih. Hiljade građana svakodnevno su stajale u redovima ispred filijala Jugoskandik banke.",
+        "published": "2026-07-23T13:00:01",
+        "source": "Telegraf.rs",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Šta se dešava sa kreditom i hipotekom nakon razvoda? Banku ne zanima vaš dogovor - evo kakva su pravila",
+        "link": "https://biznis.telegraf.rs/info-biz/4365407-razvod-i-kredit-sta-se-desava-sa-ratama-i-hipotekom-nakon-rastanka",
+        "summary": "Razvod ne menja ugovor sa bankom automatski. Saznajte ko plaća rate nakon raskida braka, kako reaguje banka i šta kaže Vrhovni sud",
+        "published": "2026-07-23T12:53:20",
+        "source": "Telegraf.rs",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Godinama su ovo čekali: U Bač stiže važna infrastrukturna investicija!",
+        "link": "https://biznis.telegraf.rs/info-biz/4365397-godinama-su-ovo-cekali-u-bac-stize-vazna-infrastrukturna-investicija",
+        "summary": "Ministarka zaštite životne sredine Sara Pavkov potpisala je danas ugovor o izgradnji nedostajuće kanalizacione mreže u opštini Bač, u okviru kojeg će u naselju.",
+        "published": "2026-07-23T12:35:28",
+        "source": "Telegraf.rs",
         "sentiment": "neutral"
       },
       {
@@ -678,43 +718,11 @@
         "sentiment": "neutral"
       },
       {
-        "title": "Svi idu na ista mesta, a propuštaju ove evropske bisere: Ovde nema gužvi, a cene su pravo iznenađenje!",
-        "link": "https://biznis.telegraf.rs/novcanik/4365321-svi-idu-na-ista-mesta-a-propustaju-ove-evropske-bisere-ovde-nema-guzvi-a-cene-su-pravo-iznenadjenje",
-        "summary": "Evropa van razglednica: Mesta bez gužvi, visokih cena i masovnog turizma koja će vas prijatno iznenaditi",
-        "published": "2026-07-23T11:20:10",
-        "source": "Telegraf.rs",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Kada žene same idu na odmor: Globalni trend u turizmu donosi stotine milijardi i ruši sve rekorde",
-        "link": "https://biznis.telegraf.rs/info-biz/4365346-kada-zene-same-idu-na-odmor-trend-koji-donosi-stotine-milijardi",
-        "summary": "Solo velnes putovanja za žene ruše sve rekorde i donose stotine milijardi dolara. Otkrijte zašto sve više žena putuje ovako i šta je to \"meko umrežavanje\"",
-        "published": "2026-07-23T10:54:29",
-        "source": "Telegraf.rs",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Evropska unija ponovo udarila na Gugl, ni tehnološki giganti nisu povlašćeni: Kazna blizu milijardu evra!",
-        "link": "https://biznis.telegraf.rs/info-biz/4365342-evropska-unija-ponovo-udarila-na-gugl-ni-tehnoloski-giganti-nisu-povlasceni-kazna-blizu-milijardu-evra",
-        "summary": "Evropska komisija (EK) izrekla je danas dve kazne kompaniji Gugl u ukupnom iznosu od 890 miliona evra zbog kršenja Zakona o digitalnim tržištima (DMA).",
-        "published": "2026-07-23T10:42:44",
-        "source": "Telegraf.rs",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Pazite šta objavljujete: Zbog fotografije kolača preti im kazna do 3.000 evra",
-        "link": "https://biznis.telegraf.rs/info-biz/4365332-pazite-sta-objavljujete-zbog-fotke-kolaca-preti-kazna-do-3000",
-        "summary": "Saznajte kako obična fotografija kolača na društvenim mrežama može da vas košta i do 3.000 evra. Detalji neobičnog pravila koje je šokiralo javnost",
-        "published": "2026-07-23T10:31:19",
-        "source": "Telegraf.rs",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Vozači, oprez! Popularni Citroen povlači se sa tržišta Srbije zbog opasnog kvara, evo koji model je u pitanju!",
-        "link": "https://biznis.telegraf.rs/info-biz/4365322-vozaci-oprez-popularni-citroen-povlaci-se-sa-trzista-srbije-zbog-opasnog-kvara-evo-koji-model-je-u-pitanju",
-        "summary": "Vlasnici pojedinih modela Citroen Jumper u Srbiji trebalo bi što pre da provere da li je i njihovo vozilo obuhvaćeno opozivom, nakon što je Nacionalna.",
-        "published": "2026-07-23T11:37:37",
-        "source": "Telegraf.rs",
+        "title": "Kako teče projekat Svoj na svome: RGZ do sada postupio po 219.000 prijava od ukupno 2,5 miliona prijava",
+        "link": "https://novaekonomija.rs/vesti-iz-zemlje/kako-tece-projekat-svoj-na-svome-rgz-do-sada-postupio-po-219-000-prijava-od-ukupno-25-miliona-prijava",
+        "summary": "Republički geodetski zavod (RGZ) saopštio je danas da je započeo objavljivanje dnevne statistike sprovođenja projekta upisa vlasništva na nepokretnostima koje nisu upisane u kastar &#8222;Svoj na svome&#8220;, a prema objavljenim podacima dostavljeno je 239.679 potvrda za upis. Te potvrde dostavljka",
+        "published": "2026-07-23T12:26:53",
+        "source": "Nova Ekonomija",
         "sentiment": "neutral"
       },
       {
@@ -754,14 +762,6 @@
         "link": "https://novaekonomija.rs/vesti-iz-zemlje/grad-beograd-raspisao-tender-od-250-miliona-dinara-za-obnovu-saobracajnica-od-betonskih-ploca",
         "summary": "Preduzeće za upravljanje javnim putevima &#8222;Putevi Beograda&#8220; raspisalo je tender za izvođenje radova na popravci postojećih i izradi novih javnih saobraćajnih površina od betonskih ploča i kocke, na period od dve godine, procenjene vrednosti 250 miliona dinara, piše danas portal eKapija. N",
         "published": "2026-07-23T11:01:33",
-        "source": "Nova Ekonomija",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Šapić najavio još osam kružnih raskrsnica u Zemunu i Novom Beogradu",
-        "link": "https://novaekonomija.rs/vesti-iz-zemlje/sapic-najavio-jos-osam-kruznih-raskrsnica-u-zemunu-i-novom-beogradu",
-        "summary": "Gradonačelnik Beograda Aleksandar Šapić je danas najavio izgradnju još osam kružnih raskrisnica od Pupinovog mosta u Zemunu, do Vojvođanske ulice u Novom Beogradu. On je na konferenciji za novinare u Skupštini Grada rekao da je to &#8222;jedan izuzetno kompleksan projekat i očekujem da ćemo u toku j",
-        "published": "2026-07-23T10:41:22",
         "source": "Nova Ekonomija",
         "sentiment": "neutral"
       }
@@ -820,7 +820,7 @@
     }
   ],
   "market_clock": {
-    "NYSE/NASDAQ": false,
+    "NYSE/NASDAQ": true,
     "LSE": true,
     "Frankfurt": true,
     "Tokyo": false,
@@ -830,8 +830,8 @@
   "sentiment_summary": {
     "macro": {
       "positive": 5,
-      "negative": 3,
-      "neutral": 10
+      "negative": 2,
+      "neutral": 11
     },
     "serbia": {
       "positive": 0,
