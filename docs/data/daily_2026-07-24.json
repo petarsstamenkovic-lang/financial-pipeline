@@ -1,6 +1,6 @@
 {
   "date": "2026-07-24",
-  "generated_at": "2026-07-24T14:16:55.270578+02:00",
+  "generated_at": "2026-07-24T15:23:44.629339+02:00",
   "market": {
     "indices": {
       "S&P 500": {
@@ -23,25 +23,26 @@
       },
       "DAX": {
         "symbol": "^GDAXI",
-        "price": 24934.7891,
-        "change_pct": 0.69,
+        "price": 24935.5801,
+        "change_pct": 0.7,
         "prev_close": 24763.1191
       },
       "Euro Stoxx 50": {
         "symbol": "^STOXX50E",
-        "price": null,
-        "change_pct": null
+        "price": 6250.3501,
+        "change_pct": 0.65,
+        "prev_close": 6210.1699
       },
       "FTSE 100": {
         "symbol": "^FTSE",
-        "price": 10662.0303,
-        "change_pct": 0.21,
+        "price": 10675.3701,
+        "change_pct": 0.34,
         "prev_close": 10639.2002
       },
       "CAC 40": {
         "symbol": "^FCHI",
-        "price": 8323.3701,
-        "change_pct": 0.29,
+        "price": 8326.5703,
+        "change_pct": 0.33,
         "prev_close": 8299.0898
       },
       "Nikkei 225": {
@@ -122,99 +123,99 @@
     "fx_commodities": {
       "EUR/USD": {
         "symbol": "EURUSD=X",
-        "price": 1.1382,
-        "change_pct": -0.26,
+        "price": 1.1375,
+        "change_pct": -0.32,
         "prev_close": 1.1412
       },
       "GBP/USD": {
         "symbol": "GBPUSD=X",
-        "price": 1.3325,
-        "change_pct": -0.37,
+        "price": 1.3313,
+        "change_pct": -0.47,
         "prev_close": 1.3375
       },
       "USD/CHF": {
         "symbol": "USDCHF=X",
-        "price": 0.8175,
-        "change_pct": 0.41,
+        "price": 0.818,
+        "change_pct": 0.46,
         "prev_close": 0.8142
       },
       "USD/JPY": {
         "symbol": "USDJPY=X",
-        "price": 163.828,
-        "change_pct": 0.46,
+        "price": 163.843,
+        "change_pct": 0.47,
         "prev_close": 163.081
       },
       "Gold": {
         "symbol": "GC=F",
-        "price": 4056.1001,
-        "change_pct": 0.23,
+        "price": 4049.6001,
+        "change_pct": 0.07,
         "prev_close": 4046.6001
       },
       "Silver": {
         "symbol": "SI=F",
-        "price": 58.64,
-        "change_pct": 1.46,
+        "price": 58.245,
+        "change_pct": 0.77,
         "prev_close": 57.798
       },
       "Brent Crude": {
         "symbol": "BZ=F",
-        "price": 91.73,
-        "change_pct": -8.9,
+        "price": 97.77,
+        "change_pct": -2.9,
         "prev_close": 100.69
       },
       "WTI Crude": {
         "symbol": "CL=F",
-        "price": 89.43,
-        "change_pct": -2.99,
+        "price": 89.87,
+        "change_pct": -2.52,
         "prev_close": 92.19
       },
       "Natural Gas": {
         "symbol": "NG=F",
-        "price": 2.929,
-        "change_pct": 0.45,
+        "price": 2.976,
+        "change_pct": 2.06,
         "prev_close": 2.916
       },
       "Copper": {
         "symbol": "HG=F",
-        "price": 6.358,
-        "change_pct": 0.84,
+        "price": 6.3345,
+        "change_pct": 0.47,
         "prev_close": 6.305
       },
       "Wheat": {
         "symbol": "ZW=F",
-        "price": 688.75,
-        "change_pct": -1.08,
+        "price": 674.5,
+        "change_pct": -3.12,
         "prev_close": 696.25
       }
     },
     "rates": {
       "VIX": {
         "symbol": "^VIX",
-        "price": 18.92,
-        "change_pct": 1.18,
+        "price": 18.9,
+        "change_pct": 1.07,
         "prev_close": 18.7
       },
       "US 10Y Yield": {
         "symbol": "^TNX",
-        "price": 4.703,
-        "change_pct": 0.99,
-        "prev_close": 4.657
+        "price": 4.681,
+        "change_pct": -0.47,
+        "prev_close": 4.703
       },
       "US 2Y Yield": {
         "symbol": "^IRX",
-        "price": 3.8,
-        "change_pct": 1.47,
-        "prev_close": 3.745
+        "price": 3.793,
+        "change_pct": -0.18,
+        "prev_close": 3.8
       },
       "US 30Y Yield": {
         "symbol": "^TYX",
-        "price": 5.171,
-        "change_pct": 0.47,
-        "prev_close": 5.147
+        "price": 5.16,
+        "change_pct": -0.21,
+        "prev_close": 5.171
       },
       "2s10s Spread": {
         "symbol": "SPREAD",
-        "price": 0.903,
+        "price": 0.888,
         "change_pct": null,
         "note": "positive = normal curve, negative = inverted (recession signal)"
       }
@@ -475,12 +476,20 @@
   "news": {
     "macro_global": [
       {
-        "title": "Top UK law firm partners take home record pay",
-        "link": "https://www.ft.com/content/c91339fb-4f42-4cbe-910b-d2d42612afd1?syn-25a6b1a6=1",
-        "summary": "Spate of listings in Hong Kong boosted IPO work and related transactions",
-        "published": "2026-07-24T09:52:12",
+        "title": "Europe wins and Brazil loses in Trump tariff overhaul",
+        "link": "https://www.ft.com/content/2ba28daf-2ceb-44bb-9330-7ec070fb2a80?syn-25a6b1a6=1",
+        "summary": "Some countries are relatively better off but the reprieve may only be temporary",
+        "published": "2026-07-24T12:38:43",
         "source": "UK homepage",
-        "sentiment": "positive"
+        "sentiment": "neutral"
+      },
+      {
+        "title": "The next phase of Trump’s trade war",
+        "link": "https://www.ft.com/content/38341bcb-0c45-432a-bd04-fa0b9f2b790a",
+        "summary": "It is shifting from a shakedown to a lock-in",
+        "published": "2026-07-24T12:53:56",
+        "source": "UK homepage",
+        "sentiment": "neutral"
       },
       {
         "title": "Met Office chief Penny Endersby: ‘There is not going to be a usual summer’",
@@ -507,19 +516,19 @@
         "sentiment": "neutral"
       },
       {
-        "title": "Russian online retailer Wildberries becomes target for Ukraine’s drones",
-        "link": "https://www.ft.com/content/5c9ae967-8e85-470f-974b-43667cc6f1c1?syn-25a6b1a6=1",
-        "summary": "Strikes on Wildberries have killed nine people and left small sellers facing millions of roubles in losses",
-        "published": "2026-07-24T06:48:37",
+        "title": "Top UK law firm partners take home record pay",
+        "link": "https://www.ft.com/content/c91339fb-4f42-4cbe-910b-d2d42612afd1?syn-25a6b1a6=1",
+        "summary": "Spate of listings in Hong Kong boosted IPO work and related transactions",
+        "published": "2026-07-24T09:52:12",
         "source": "UK homepage",
-        "sentiment": "negative"
+        "sentiment": "positive"
       },
       {
-        "title": "Reckitt to take £175mn hit from sale of Russian hygiene business",
-        "link": "https://www.ft.com/content/34171e34-2122-461a-8fd1-88897854062b?syn-25a6b1a6=1",
-        "summary": "Consumer goods group began process to dispose of division more than four years ago",
-        "published": "2026-07-24T08:27:05",
-        "source": "UK homepage",
+        "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+        "link": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc260724~eebbc30622.en.html",
+        "summary": "",
+        "published": "2026-07-24T13:00:00",
+        "source": "ECB - European Central Bank",
         "sentiment": "neutral"
       },
       {
@@ -559,14 +568,6 @@
         "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260724_1~fa277eb6fe.en.html",
         "summary": "",
         "published": "2026-07-24T08:00:00",
-        "source": "ECB - European Central Bank",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "ECB reveals shortlisted designs for new banknotes and launches public survey",
-        "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr260723~c2d43f9170.en.html",
-        "summary": "",
-        "published": "2026-07-23T14:15:00",
         "source": "ECB - European Central Bank",
         "sentiment": "neutral"
       },
@@ -621,50 +622,50 @@
     ],
     "serbia": [
       {
-        "title": "Zaposleni u Jetelu uhapšen zbog pronevere: Kupio nepokretnosti u Novom Sadu",
-        "link": "https://n1info.rs/vesti/zaposleni-u-jetelu-uhapsen-zbog-pronevere-kupio-nepokretnosti-u-novom-sadu/",
-        "summary": "Uhapšen je M. G. zbog sumnje da je kompaniju \"Yettel\" oštetio za 36,8 miliona dinara, saopštilo je Više javno tužilaštvo u Novom Sadu, prenosi 021.rs.",
-        "published": "2026-07-24T12:15:43",
+        "title": "Tender EPS-a od 14,4 miliona dinara za praćenje javnog mnjenja na društvenim mrežama",
+        "link": "https://n1info.rs/biznis/tender-eps-a-od-144-miliona-dinara-za-pracenje-javnog-mnjenja-na-drustvenim-mrezama/",
+        "summary": "Elektroprivreda Srbije (EPS) raspisala je javnu nabavku vrednu 14,4 miliona dinara za uslugu praćenja javnog mnjenja na društvenim mrežama i onlajn za",
+        "published": "2026-07-24T13:20:05",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "UKC Niš: Majka povređena u Crnoj Gori je operisana, sina očekuje još jedna intervencija",
-        "link": "https://n1info.rs/vesti/ukc-nis-majka-povredjena-u-crnoj-gori-je-operisana-sina-ocekuje-jos-jedna-intervencija/",
-        "summary": "Pomoćnik direktora Univerzitetskog kliničkog centra u Nišu Aleksandar Nikolić izjavio je da se u toj zdravstvenoj ustanovi trenutno leči dvoje povređe",
-        "published": "2026-07-24T12:15:29",
+        "title": "DS o imenovanju Ristića za v.d. direktora Ateljea 212: Povratak devedesetih kao kadrovska politika",
+        "link": "https://n1info.rs/vesti/ds-o-imenovanju-ristica-za-vd-direktora-ateljea-212-povratak-devedesetih-kao-kadrovska-politika/",
+        "summary": "Demokratska stranka (DS) ocenila je da je imenovanje Ljubiše Ristića za vršioca dužnosti direktora Ateljea 212 u Beogradu još jedna politička interven",
+        "published": "2026-07-24T13:09:18",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Simulacija otkriva kako injekcije za mršavljenje kontrolišu glad i šta rade organizmu (VIDEO)",
-        "link": "https://n1info.rs/magazin/zdravlje/simulacija-otkriva-kako-injekcije-za-mrsavljenje-kontrolisu-glad-i-sta-rade-organizmu-video/",
-        "summary": "Lekovi za mršavljenje poslednjih godina postali su izuzetno popularni, ali mnogi ih koriste bez stvarnog razumevanja procesa koje pokreću u organizmu.",
-        "published": "2026-07-24T12:11:15",
+        "title": "SRCE and LSV on sonic cannons: Interior Ministry selling LRADs to destroy evidence of potential March 15 use",
+        "link": "https://n1info.rs/english/news/srce-and-lsv-on-sonic-cannons-interior-ministry-selling-lrads-to-destroy-evidence-of-potential-march-15-use/",
+        "summary": "Petar Boskovic, a member of the Presidency of the Serbia Center (SRCE) party, said that Serbian Interior Minister Ivica Dacic’s announcement that Serb",
+        "published": "2026-07-24T13:06:47",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Sprečen pokušaj krijumčarenja robe i novca na Horgošu",
-        "link": "https://n1info.rs/vesti/sprecen-pokusaj-krijumcarenja-robe-i-novca-na-horgosu/",
-        "summary": "Srpski carinici na graničnom prelazu Horgoš sprečili su pokušaj krijumčarenja neprijavljene robe i novca ukupne vrednosti više od 60.000 evra, saopšti",
-        "published": "2026-07-24T12:11:02",
+        "title": "\"Na 100.000 stanovnika oko 600 policajaca\": Da li je Beogradu potrebno privatno obezbeđenje i ko ne radi svoj posao?",
+        "link": "https://n1info.rs/vesti/na-100000-stanovnika-oko-600-policajaca-da-li-je-beogradu-potrebno-privatno-obezbedjenje-i-ko-ne-radi-svoj-posao/",
+        "summary": "Sa dnevnog reda sednice Skupštine grada Beograda danas su povučene izmene Poslovnika i Predlog projekta javno-privatnog partnerstva za uspostavljanje",
+        "published": "2026-07-24T13:01:40",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Novi dan: Rekordno nizak vodostaj Dunava",
-        "link": "https://n1info.rs/najave-emisija/novi-dan-rekordno-nizak-vodostaj-dunava/",
-        "summary": "U subotu u Novom danu o rekordno niskom vodostaju Dunava i otežanom snabdevanju strujom i vodom.",
-        "published": "2026-07-24T12:08:46",
+        "title": "Postali su najbolji prijatelji, a onda otkrili da su brat i sestra",
+        "link": "https://n1info.rs/magazin/lifestyle/postali-su-najbolji-prijatelji-a-onda-otkrili-da-su-brat-i-sestra/",
+        "summary": "Dejv Grin i Andrea Urmston odmah su se zbližili kada su im se putevi ukrstili dok su radili na aerodromu u Mančesteru, svako na svom radnom mestu.",
+        "published": "2026-07-24T12:48:48",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Ministarstvo prosvete: Vlada će finansirati 6.612 studenata prve godine master i akademskih studija",
-        "link": "https://n1info.rs/vesti/koliko-ce-se/",
-        "summary": "Ministarstvo prosvete Srbije saopštilo je danas da će u narednoj školskoj godini Vlada Srbije finansirati 6.612 studenata prve godine studijskih progr",
-        "published": "2026-07-24T12:06:54",
+        "title": "Nagli porast šumskih požara u Evropi od januara do jula ove godine",
+        "link": "https://n1info.rs/svet/nagli-porast-sumskih-pozara-u-evropi-od-januara-do-jula-ove-godine/",
+        "summary": "Novi podaci potvrđuju nagli porast šumskih požara u delovima evropskog regiona od januara do jula ove godine, a Portugalija i Španija su zabeležile po",
+        "published": "2026-07-24T12:41:03",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
@@ -717,6 +718,14 @@
         "sentiment": "neutral"
       },
       {
+        "title": "Nove cene goriva: Poskupeli i benzin i dizel",
+        "link": "https://novaekonomija.rs/vesti-iz-zemlje/nove-cene-goriva-poskupeli-i-benzin-i-dizel-2",
+        "summary": "Benzin i dizel na pumpama u Srbiji od danas u 15.00 do 31. jula u isto vreme biće skuplji za po dva dinara po litru, pa će dizel koštati 224 dinara po litru, a benzin 200 dinara. Cena dizela za poljoprivrednike ostala je nepromenjena, litar košta 184 dinara. Uredba o ograničenju visine cena derivata",
+        "published": "2026-07-24T12:44:32",
+        "source": "Nova Ekonomija",
+        "sentiment": "neutral"
+      },
+      {
         "title": "Er Srbija: Preusmeravanje letova sa aerodroma Tivat zbog nemogućnosti bezbednog poletanja i sletanja",
         "link": "https://novaekonomija.rs/vesti-iz-zemlje/er-srbija-preusmeravanje-letova-sa-aerodroma-tivat-zbog-nemogucnosti-bezbednog-poletanja-i-sletanja",
         "summary": "Nacionalna avio-kompanija Er Srbija saopštila je da je danas primorana da preusmeri svoje letove sa aerodroma u Tivtu na alternativne aerodrome u regionu, usled nemogućnosti da se vazdušni saobraćaj odvija u potpuno bezbednim uslovima zbog neregulisanog naleta jata ptica u zoni tog crnogorskog aerod",
@@ -755,18 +764,20 @@
         "published": "2026-07-24T09:38:41",
         "source": "Nova Ekonomija",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Zbog rata na Bliskom istoku Indija dobija veće limenke koka-kole",
-        "link": "https://novaekonomija.rs/lifestyle/zbog-rata-na-bliskom-istoku-indija-dobija-vece-limenke-koka-kole",
-        "summary": "Američko-izraelski rat protiv Irana najpre je izazvao nestašicu dijetalne kole (Diet Coke) u Indiji, jer je otežao nabavku aluminijumskih limenki, a kompanija je sada samo za to tržište uvela veće limenke i podigla cene, prenosi Rojters.  Kompanija je povećala cenu dijetalne kole za više od 10 odsto",
-        "published": "2026-07-24T08:04:47",
-        "source": "Nova Ekonomija",
-        "sentiment": "neutral"
       }
     ]
   },
   "key_events": [
+    {
+      "title": "RISEx Launches ’Ignite’ Season 1 Points Program, Following $3B in Volume During the Early Access Phase",
+      "link": "https://www.investing.com/news/cryptocurrency-news/risex-launches-ignite-season-1-points-program-following-3b-in-volume-during-the-early-access-phase-4811707",
+      "summary": ""
+    },
+    {
+      "title": "BTCC Exchange Closes World Cup Showdown with Over 80,000 Participants and 22% Trading Volume Surge",
+      "link": "https://www.investing.com/news/cryptocurrency-news/btcc-exchange-closes-world-cup-showdown-with-over-80000-participants-and-22-trading-volume-surge-4811706",
+      "summary": ""
+    },
     {
       "title": "Bitcoin squeezed near $65.5K: Live breakout levels",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-trapped-in-64k-range-doji-at-resistance-live-levels-93CH-4800901",
@@ -806,16 +817,6 @@
       "title": "Hashi Testnet Is Live, Bringing Native Bitcoin Finance One Step Closer to Global Adoption",
       "link": "https://www.investing.com/news/cryptocurrency-news/hashi-testnet-is-live-bringing-native-bitcoin-finance-one-step-closer-to-global-adoption-4806090",
       "summary": ""
-    },
-    {
-      "title": "Squad Gold Rush Offers Top Bybit Referral Teams a Share of Up to 100,000 USDT Airdrop, Plus XAUT Lucky-Draw Rewards",
-      "link": "https://www.investing.com/news/cryptocurrency-news/squad-gold-rush-offers-top-bybit-referral-teams-a-share-of-up-to-100000-usdt-airdrop-plus-xaut-luckydraw-rewards-4805822",
-      "summary": ""
-    },
-    {
-      "title": "Bybit Presents Exclusive $1M Prize Pool for Stock-Themed Trading As Wall Street Enters Earnings Season",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bybit-presents-exclusive-1m-prize-pool-for-stockthemed-trading-as-wall-street-enters-earnings-season-4805346",
-      "summary": ""
     }
   ],
   "market_clock": {
@@ -829,8 +830,8 @@
   "sentiment_summary": {
     "macro": {
       "positive": 4,
-      "negative": 3,
-      "neutral": 11
+      "negative": 2,
+      "neutral": 12
     },
     "serbia": {
       "positive": 0,
