@@ -1,6 +1,6 @@
 {
   "date": "2026-07-30",
-  "generated_at": "2026-07-30T14:27:40.997652+02:00",
+  "generated_at": "2026-07-30T15:32:58.124407+02:00",
   "market": {
     "indices": {
       "S&P 500": {
@@ -23,25 +23,25 @@
       },
       "DAX": {
         "symbol": "^GDAXI",
-        "price": 25536.0703,
-        "change_pct": 0.3,
+        "price": 25540.1406,
+        "change_pct": 0.31,
         "prev_close": 25460.4805
       },
       "Euro Stoxx 50": {
         "symbol": "^STOXX50E",
-        "price": 6311.2402,
-        "change_pct": 1.0,
+        "price": 6322.1401,
+        "change_pct": 1.17,
         "prev_close": 6248.8398
       },
       "FTSE 100": {
         "symbol": "^FTSE",
-        "price": 10948.2402,
-        "change_pct": 0.37,
+        "price": 10962.9805,
+        "change_pct": 0.5,
         "prev_close": 10908.4004
       },
       "CAC 40": {
         "symbol": "^FCHI",
-        "price": 8498.6602,
+        "price": 8499.1504,
         "change_pct": 1.08,
         "prev_close": 8408.2695
       },
@@ -123,99 +123,99 @@
     "fx_commodities": {
       "EUR/USD": {
         "symbol": "EURUSD=X",
-        "price": 1.148,
-        "change_pct": 0.82,
+        "price": 1.1484,
+        "change_pct": 0.85,
         "prev_close": 1.1387
       },
       "GBP/USD": {
         "symbol": "GBPUSD=X",
-        "price": 1.3387,
-        "change_pct": 0.75,
+        "price": 1.3372,
+        "change_pct": 0.64,
         "prev_close": 1.3287
       },
       "USD/CHF": {
         "symbol": "USDCHF=X",
-        "price": 0.8121,
-        "change_pct": -0.9,
+        "price": 0.8117,
+        "change_pct": -0.95,
         "prev_close": 0.8195
       },
       "USD/JPY": {
         "symbol": "USDJPY=X",
-        "price": 162.9,
-        "change_pct": -0.59,
+        "price": 162.782,
+        "change_pct": -0.66,
         "prev_close": 163.864
       },
       "Gold": {
         "symbol": "GC=F",
-        "price": 4134.0,
-        "change_pct": 2.46,
+        "price": 4133.3999,
+        "change_pct": 2.45,
         "prev_close": 4034.7
       },
       "Silver": {
         "symbol": "SI=F",
-        "price": 58.365,
-        "change_pct": 0.87,
+        "price": 58.21,
+        "change_pct": 0.6,
         "prev_close": 57.863
       },
       "Brent Crude": {
         "symbol": "BZ=F",
-        "price": 90.1,
-        "change_pct": -0.71,
+        "price": 89.1,
+        "change_pct": -1.81,
         "prev_close": 90.74
       },
       "WTI Crude": {
         "symbol": "CL=F",
-        "price": 83.66,
-        "change_pct": -0.95,
+        "price": 83.29,
+        "change_pct": -1.39,
         "prev_close": 84.46
       },
       "Natural Gas": {
         "symbol": "NG=F",
-        "price": 2.707,
-        "change_pct": -0.66,
+        "price": 2.692,
+        "change_pct": -1.21,
         "prev_close": 2.725
       },
       "Copper": {
         "symbol": "HG=F",
-        "price": 6.45,
-        "change_pct": 2.81,
+        "price": 6.4435,
+        "change_pct": 2.71,
         "prev_close": 6.2735
       },
       "Wheat": {
         "symbol": "ZW=F",
-        "price": 679.5,
-        "change_pct": 2.84,
+        "price": 678.5,
+        "change_pct": 2.69,
         "prev_close": 660.75
       }
     },
     "rates": {
       "VIX": {
         "symbol": "^VIX",
-        "price": 19.02,
-        "change_pct": -7.94,
+        "price": 18.93,
+        "change_pct": -8.37,
         "prev_close": 20.66
       },
       "US 10Y Yield": {
         "symbol": "^TNX",
-        "price": 4.622,
-        "change_pct": 0.39,
-        "prev_close": 4.604
+        "price": 4.679,
+        "change_pct": 1.23,
+        "prev_close": 4.622
       },
       "US 2Y Yield": {
         "symbol": "^IRX",
         "price": 3.658,
-        "change_pct": -2.71,
-        "prev_close": 3.76
+        "change_pct": 0.0,
+        "prev_close": 3.658
       },
       "US 30Y Yield": {
         "symbol": "^TYX",
-        "price": 5.143,
-        "change_pct": 0.92,
-        "prev_close": 5.096
+        "price": 5.217,
+        "change_pct": 1.44,
+        "prev_close": 5.143
       },
       "2s10s Spread": {
         "symbol": "SPREAD",
-        "price": 0.964,
+        "price": 1.021,
         "change_pct": null,
         "note": "positive = normal curve, negative = inverted (recession signal)"
       }
@@ -484,6 +484,22 @@
         "sentiment": "neutral"
       },
       {
+        "title": "Warsh’s stripped-back Fed communication ‘already backfiring’, say investors",
+        "link": "https://www.ft.com/content/57aac838-baee-406d-b4ac-c0ffda351aee?syn-25a6b1a6=1",
+        "summary": "Traders warn lack of guidance on interest rates erodes US central bank’s influence on Treasury market",
+        "published": "2026-07-30T10:24:26",
+        "source": "UK homepage",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Trying to make sense of Warsh",
+        "link": "https://www.ft.com/content/17bcdc30-a59f-4a1f-afa7-f2c759fe588b",
+        "summary": "Abdicating responsibility or fortifying the markets with anti-fragility serum?",
+        "published": "2026-07-30T12:18:38",
+        "source": "UK homepage",
+        "sentiment": "neutral"
+      },
+      {
         "title": "DR Congo’s cobalt boom carries an unwanted cargo: uranium",
         "link": "https://www.ft.com/content/77815def-6f50-4adf-8ba3-3643de7bf8ab?syn-25a6b1a6=1",
         "summary": "Radioactive ores have become a proliferation risk in the land that supplied material for second world war atomic bombs",
@@ -500,28 +516,12 @@
         "sentiment": "neutral"
       },
       {
-        "title": "US borrowing costs hit 19-year high as Fed defies inflation fears",
-        "link": "https://www.ft.com/content/c4eedbe8-6345-48b6-8d44-5cc5b0bea2c7?syn-25a6b1a6=1",
-        "summary": "Central bank holds rates even as investors worry Iran war will ignite jolt of price growth",
-        "published": "2026-07-30T09:03:36",
-        "source": "UK homepage",
-        "sentiment": "positive"
-      },
-      {
-        "title": "Warsh’s stripped-back Fed communication ‘already backfiring’, say investors",
-        "link": "https://www.ft.com/content/57aac838-baee-406d-b4ac-c0ffda351aee?syn-25a6b1a6=1",
-        "summary": "Traders warn lack of guidance on interest rates erodes US central bank’s influence on Treasury market",
-        "published": "2026-07-30T10:24:26",
+        "title": "Fifa not ‘selling the World Cup’ in $20bn commercial plan, says adviser",
+        "link": "https://www.ft.com/content/d2807eaf-8310-4099-bb4d-b9b2d2889f2a?syn-25a6b1a6=1",
+        "summary": "Greg Maffei defends contentious proposal he helped shape as body’s move to bring in outside investors is hit by backlash",
+        "published": "2026-07-30T12:36:55",
         "source": "UK homepage",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Meta shares tumble as Zuckerberg tries to sell his vision for AI ‘agents’",
-        "link": "https://www.ft.com/content/06d941ed-8136-46a4-a2ec-44bea1b35c3b?syn-25a6b1a6=1",
-        "summary": "Social media chief defends strategy based on personalised bots as costs rise and revenue projections disappoint",
-        "published": "2026-07-30T10:48:45",
-        "source": "UK homepage",
-        "sentiment": "positive"
       },
       {
         "title": "Digital euro app to incorporate highest accessibility standards",
@@ -622,99 +622,115 @@
     ],
     "serbia": [
       {
-        "title": "N1 na Gazivodama posle rušenja: Više nema nikoga, vlasnik kaže da je 30 godina uložio u hotel",
-        "link": "https://n1info.rs/vesti/n1-na-gazivodama-posle-rusenja-vise-nema-nikoga-vlasnik-kaze-da-je-30-godina-ulozio-u-hotel/",
-        "summary": "Motel \"Jezero\" na Gazivodama, jedan od najpoznatijih izletničkih objekata na ovom jezeru, srušili su danas radnici koje je angažovala firma \"Ibar-Lepe",
-        "published": "2026-07-30T12:20:56",
+        "title": "Počeo novi toplotni talas u Srbiji: U kojim gradovima su u 15 sati izmerene najviše temperature",
+        "link": "https://n1info.rs/vesti/poceo-novi-toplotni-talas-u-srbiji-u-kojim-gradovima-su-u-15-sati-izmerene-najvise-temperature/",
+        "summary": "Novi toplotni talas u Srbiji počeo je danas. Prema upozorenju Republičkog hidro-meteorološkog zavoda, biće dugotrajan i jak, a vanredne situacije mogu",
+        "published": "2026-07-30T13:29:51",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Još jedno povlačenje predstave sa Bitefa: \"Znak solidarnosti sa srpskim umetnicima\"",
-        "link": "https://n1info.rs/kultura/jos-jedno-povlacenje-predstave-sa-bitefa-znak-solidarnosti-sa-srpskim-umetnicima/",
-        "summary": "Koreograf i reditelj Ali Šahrur saopštio jeda povlači predstavu \"When I Saw the Sea\" sa ovogodišnjeg Beogradskog internacionalnog teatarskog festivala",
-        "published": "2026-07-30T12:14:54",
+        "title": "Druga sednica saveta REM-a: Glasanje za predsednika očekuje se nakon pauze",
+        "link": "https://n1info.rs/vesti/druga-sednica-saveta-rem-a-glasanje-za-predsednika-ocekuje-se-nakon-pauze/",
+        "summary": "Članovi Saveta Regulatornog tela za elektronske medije (REM) dogovorili su se danas, posle dvočasovne rasprave u nastavku konstitutivne sednice, o dvo",
+        "published": "2026-07-30T13:29:27",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Slede dani sa veoma visokim temperaturama - preporuke kako da se rashladite i zaštitite",
-        "link": "https://n1info.rs/magazin/zdravlje/slede-dani-sa-veoma-visokim-temperaturama-preporuke-kako-da-se-rashladimo-i-zastitimo/",
-        "summary": "Savsko jezero je tradicionalno pogodno mesto za spas od visokih temperatura gde građani odlaze da se rashlade, ali i pripreme za odlazak na more.",
-        "published": "2026-07-30T12:08:14",
+        "title": "EU izdvaja 10 milijardi evra za izgradnju gigafabrika veštačke inteligencije",
+        "link": "https://n1info.rs/biznis/eu-izdvaja-10-milijardi-evra-za-izgradnju-gigafabrika-vestacke-inteligencije/",
+        "summary": "Evropska unija nudi 10 milijardi evra za finansiranje firmi za izgradnju sedam gigafabrika za veštačku inteligenciju (AI) u nastojanju da nadoknadi ka",
+        "published": "2026-07-30T13:28:00",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Bin Zayed on visit to Serbia",
-        "link": "https://n1info.rs/english/news/bin-zayed-on-visit-to-serbia/",
-        "summary": "<blockquote class=\"instagram-media\" data-instgrm-captioned data-instgrm-permalink=\"https://www.instagram.com/reel/DbabRRHu-5c/?utm_source=ig_embed&amp;amp",
-        "published": "2026-07-30T12:02:57",
+        "title": "Direktor policije Crne Gore: Nema informacija da je Miloš Medenica u Hrvatskoj",
+        "link": "https://n1info.rs/region/direktor-policije-crne-gore-nema-informacija-da-je-milos-medenica-u-hrvatskoj/",
+        "summary": "Direktor Uprave policije Crne Gore Lazar Šćepanović rekao je danas da nema informacija da je odbegli Miloš Medenica u Hrvatskoj, komentarišući medijsk",
+        "published": "2026-07-30T13:24:42",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "SRCE: Vučić pokušava da zastraši birače",
-        "link": "https://n1info.rs/vesti/srce-vucic-pokusava-da-zastrasi-birace/",
-        "summary": "Srbija centar (SRCE) ocenio je danas da je izjava predsednika Srbije Aleksandra Vučića o spremnosti da \"pruži ruku i čestita na pobedi\" opoziciji pror",
-        "published": "2026-07-30T12:02:10",
+        "title": "Novi dan: Rušenje na Gazivodama",
+        "link": "https://n1info.rs/najave-emisija/novi-dan-rusenje-na-gazivodama/",
+        "summary": "Trideset godina ulaganja i života sravnjeno je sa zemljom u jednom danu. Po nalogu kompanije “Ibar Lepenac”, u pratnji Kosovske policije, u prisustvu",
+        "published": "2026-07-30T13:23:04",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Gorivo u Srbiji skuplje nego u drugim državama zbog visoke akcize,  kaže predsednik i pita N1 zašto ne poredi cene hleba",
-        "link": "https://n1info.rs/biznis/gorivo-u-srbiji-skuplje-nego-u-drugim-drzavama-zbog-visoke-akcize-kaze-predsednik-i-pita-n1-zasto-ne-poredi-cene-hleba/",
-        "summary": "Predsednik Srbije Aleksandar Vučić rekao je danas da je gorivo u Srbiji skuplje nego u regionu zbog visoke akcize.",
-        "published": "2026-07-30T11:59:58",
+        "title": "Glamočić: Od početka godine zbog afričke kuge uginulo i eutanazirano 33.850 svinja",
+        "link": "https://n1info.rs/vesti/glamocic-od-pocetka-godine-zbog-africke-kuge-uginulo-i-eutanazirano-33850-svinja/",
+        "summary": "Ministar poljoprivrede, šumarstva i vodoprivrede Srbije Dragan Glamočić izjavio je danas da je afrička kuga svinja trenutno potvrđena u osam okruga, 1",
+        "published": "2026-07-30T13:17:52",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Vanredna situacija u delu Srbije zbog vodostaja Dunava: Premijer Macut otkrio koje su mere preduzete",
-        "link": "https://biznis.telegraf.rs/info-biz/4369313-vanredna-situacija-u-delu-srbije-zbog-vodostaja-dunava",
-        "summary": "Premijer Srbije prof. dr Đuro Macut je danas tokom obilaska trafostanice Beograd 44 u Surčinu izjavio da su zbog ekstremno niskog vodostaja Dunava i toplotnog.",
-        "published": "2026-07-30T12:22:15",
+        "title": "Bliski istok uzima danak: Saudijska Arabija posrnula zbog udara na naftni sektor, gubi tron u Zalivu",
+        "link": "https://biznis.telegraf.rs/info-biz/4369352-bliski-istok-uzima-danak-saudijska-arabija-posrnula-zbog-udara-na-naftni-sektor-gubi-tron-u-zalivu",
+        "summary": "Bliski istok uzima danak: Saudijska Arabija ušla u recesiju nakon kolapsa naftnog sektora",
+        "published": "2026-07-30T13:19:25",
         "source": "Telegraf.rs",
         "sentiment": "neutral"
       },
       {
-        "title": "Virus afričke kuge se širi: Ovo je broj zaraženih gazdinstava u Srbiji, poslednji podaci sa terena",
-        "link": "https://biznis.telegraf.rs/agro-biz/4369310-virus-africke-kuge-se-siri-ovo-je-broj-zarazenih-gazdinstava-u-srbiji-poslednji-podaci-sa-terena",
-        "summary": "Ministar poljoprivrede, šumarstva i vodoprivrede Srbije Dragan Glamočić izjavio je danas da je virus afričke kuge u Srbiji trenutno prisutan u osam okruga, u 13.",
-        "published": "2026-07-30T12:10:46",
+        "title": "Bankrotirao, izgubio sve, pa se vratio među milijardere: Malo ko zna njegovu tajnu",
+        "link": "https://biznis.telegraf.rs/ceo/4369359-bankrotirao-izgubio-sve-pa-se-vratio-medju-milijardere-malo-ko-zna-njegovu-tajnu",
+        "summary": "Njegova karijera pokazuje kako se bogatstvo može stvoriti, izgubiti i ponovo izgraditi zahvaljujući spremnosti na rizik i ulaganju u tržišta od kojih su drugi zazirali",
+        "published": "2026-07-30T13:16:17",
         "source": "Telegraf.rs",
         "sentiment": "neutral"
       },
       {
-        "title": "Apple ispisao istoriju! Druga kompanija koja je premašila vrednost od 5 biliona, ponovo je najveća na svetu!",
-        "link": "https://biznis.telegraf.rs/info-biz/4369303-apple-ispisao-istoriju-druga-kompanija-koja-je-premasila-vrednost-od-5-triliona-ponovo-je-najveca-na-svetu",
-        "summary": "Apple je zvanično postao druga kompanija u istoriji koja je premašila tržišnu vrednost od 5 biliona dolara, čime je ponovo zauzeo prvo mesto na listi.",
-        "published": "2026-07-30T12:05:37",
+        "title": "Ako imate ovaj šećer kod kuće, ne koristite ga! Hitno sklonjen iz prodaje, HAPIH upozorava na opasnost",
+        "link": "https://biznis.telegraf.rs/info-biz/4369348-ako-imate-ovaj-secer-kod-kuce-ne-koristite-ga-hitno-sklonjen-iz-prodaje",
+        "summary": "Državni inspektorat Republike Hrvatske obavestio je potrošače o opozivu proizvoda Palmin šećer, 1kg, brenda Royal Orient, AE 685400, zbog prekoračenja.",
+        "published": "2026-07-30T13:15:12",
         "source": "Telegraf.rs",
         "sentiment": "neutral"
       },
       {
-        "title": "Ko više zaslužuje pomoć - ljudi ili životinje? Zbog 300 milijardi dolara donacija, otvorena je velika rasprava",
-        "link": "https://biznis.telegraf.rs/info-biz/4369286-ko-vise-zasluzuje-pomoc-ljudi-ili-zivotinje-zbog-300-milijardi-dolara-donacija-otvorena-je-velika-rasprava",
-        "summary": "Veštačka inteligencija mogla bi da promeni i humanitarnu pomoć: Čak 300 milijardi dolara moglo bi da završi tamo gde ih niko nije očekivao",
-        "published": "2026-07-30T11:48:37",
+        "title": "Hrane će biti više, ali ne od istih proizvođača: Ko će hraniti svet u narednih 10 godina?",
+        "link": "https://biznis.telegraf.rs/agro-biz/4369340-hrane-ce-biti-vise-ali-ne-od-istih-proizvodjaca-ko-ce-hraniti-svet-u-narednih-10-godina",
+        "summary": "Ko će hraniti svet u narednih 10 godina? Nova mapa svetske poljoprivrede već se crta",
+        "published": "2026-07-30T12:57:16",
         "source": "Telegraf.rs",
         "sentiment": "neutral"
       },
       {
-        "title": "Evo koliko je koštala najatraktivnija turistička investicija u Srbiji! Cifra će mnoge iznenaditi",
-        "link": "https://biznis.telegraf.rs/info-biz/4369276-evo-koliko-je-kostala-najatraktivnija-turisticka-investicija-u-srbiji",
-        "summary": "Posle višegodišnjih radova, Srbija je dobila jednu od najupečatljivijih turističkih atrakcija – stakleni vidikovac na Kablaru, projekat čija je vrednost oko 150.",
-        "published": "2026-07-30T11:16:37",
+        "title": "Premijer Macut obišao trafostanicu \"Beograd 44\": Inženjerski poduhvat vredan 23 miliona evra",
+        "link": "https://biznis.telegraf.rs/info-biz/4369326-premijer-macut-obisao-trafostanicu-beograd-44",
+        "summary": "Predsednik Vlade Srbije prof. dr Đuro Macut obišao je danas novu trafostanicu \"Beograd 442 u Surčinu",
+        "published": "2026-07-30T12:43:15",
         "source": "Telegraf.rs",
         "sentiment": "neutral"
       },
       {
-        "title": "\"Može da izdrži i 150 tona!\" Predsednik Srbije otkrio detalj koji je sve ostavio bez teksta",
-        "link": "https://biznis.telegraf.rs/info-biz/4369270-moze-da-izdrzi-i-150-tona-predsednik-srbije-otkrio-detalj-koji-je-sve-ostavio-bez-teksta",
-        "summary": "Dodao je da sada postoji i Moravski koridor koji te od Kraljeva ide ka Nišu i Pojatama, i tako dalje",
-        "published": "2026-07-30T11:04:10",
+        "title": "Veštačka inteligencija gura Evropu napred: Milijarde uložene u AI daju rezultat, Evrozona nadmašila očekivanja",
+        "link": "https://biznis.telegraf.rs/info-biz/4369263-vestacka-inteligencija-gura-evropu-napred-milijarde-ulozene-u-ai-daju-rezultat-evrozona-nadmasila-ocekivanja",
+        "summary": "Ekonomija evrozone porasla je brže nego što se očekivalo u drugom kvartalu 2026. godine, za 0,4 odsto u odnosu na prethodno tromesečje, zahvaljujući snažnim.",
+        "published": "2026-07-30T12:28:32",
         "source": "Telegraf.rs",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Da li etereum konačno može da prestigne bitkoin u 2026?",
+        "link": "https://novaekonomija.rs/vesti-iz-sveta/da-li-etereum-konacno-moze-da-prestigne-bitkoin-u-2026",
+        "summary": "Rasprava &#8222;Bitcoin ili Ethereum&#8220; vodi se godinama, najčešće kroz sudar ekstremnih stavova. Odobrenje spot ETF fondova 2024. godine označilo je, međutim, prekretnicu koja je promenila sve: ono što je ličilo na plemenski rat pretvorilo se u legitimno investitorsko pitanje &#8211; koji od dv",
+        "published": "2026-07-30T13:17:30",
+        "source": "Nova Ekonomija",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Vlada usvojila Strategiju zaštite životne sredine do 2033. godine",
+        "link": "https://novaekonomija.rs/vesti-iz-zemlje/vlada-usvojila-strategiju-zastite-zivotne-sredine-do-2033-godine",
+        "summary": "Vlada Srbije usvojila je danas Strategiju zaštite životne sredine &#8222;Zelenu agendu za Srbiju&#8220; do 2033. godine, koji predstavlja sveobuhvatan strateški dokument za dalje unapređenje stanja životne sredine, održivog razvoja i sprovođenje mera koje će doprineti boljem kvalitetu života svih gr",
+        "published": "2026-07-30T13:17:11",
+        "source": "Nova Ekonomija",
         "sentiment": "neutral"
       },
       {
@@ -748,28 +764,12 @@
         "published": "2026-07-30T09:39:30",
         "source": "Nova Ekonomija",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Zašto su radnici u Srbiji u stalnoj ucenjivačkoj zamci: Gost Nove ekonomije danas Mario Reljanović",
-        "link": "https://novaekonomija.rs/video/zasto-su-radnici-u-srbiji-u-stalnoj-ucenjivackoj-zamci-gost-nove-ekonomije-danas-mario-reljanovic",
-        "summary": "Srbija je po broju radnika na ugovorima na određeno vreme u samom vrhu Evrope, dok hiljade ljudi živi u neprekidnom strahu od iznenadnog otkaza i ucena poslodavaca. U Novoj ekonomiji danas Mario Reljanović govori o ovom i drugim važnjim pitanjima koja muče radnike. Iako zakon formalno garantuje ista",
-        "published": "2026-07-29T16:00:39",
-        "source": "Nova Ekonomija",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Paušalac ili d.o.o.: Gde je granica u 2026. godini",
-        "link": "https://novaekonomija.rs/vesti-iz-zemlje/pausalac-ili-d-o-o-gde-je-granica-u-2026-godini",
-        "summary": "Za veliki deo srpskih frilensera u IT-u i za male osnivače, izbor između paušalnog oporezivanja i društva s ograničenom odgovornošću i dalje je najvažnija poslovna odluka u prvoj godini rada. Odluka se retko donosi na osnovu brojeva — češće na osnovu onoga što je neko čuo od kolege. A brojevi u 2026",
-        "published": "2026-07-29T15:53:12",
-        "source": "Nova Ekonomija",
-        "sentiment": "neutral"
       }
     ]
   },
   "key_events": [
     {
-      "title": "Bitcoin flat at $64.6k amid rates, Iran jitters; Strategy earnings on tap",
+      "title": "Bitcoin slightly up near $65k amid rates, Iran jitters; Strategy earnings on tap",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-falls-to-64k-amid-rates-iran-jitters-strategy-earnings-on-tap-4822491",
       "summary": ""
     },
@@ -820,7 +820,7 @@
     }
   ],
   "market_clock": {
-    "NYSE/NASDAQ": false,
+    "NYSE/NASDAQ": true,
     "LSE": true,
     "Frankfurt": true,
     "Tokyo": false,
@@ -829,9 +829,9 @@
   },
   "sentiment_summary": {
     "macro": {
-      "positive": 5,
+      "positive": 3,
       "negative": 3,
-      "neutral": 10
+      "neutral": 12
     },
     "serbia": {
       "positive": 0,
