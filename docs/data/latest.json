@@ -1,6 +1,6 @@
 {
   "date": "2026-08-07",
-  "generated_at": "2026-08-07T13:42:45.826291+02:00",
+  "generated_at": "2026-08-07T14:45:10.567667+02:00",
   "market": {
     "indices": {
       "S&P 500": {
@@ -23,26 +23,26 @@
       },
       "DAX": {
         "symbol": "^GDAXI",
-        "price": 26371.6895,
+        "price": 26373.4492,
         "change_pct": 0.89,
         "prev_close": 26140.1309
       },
       "Euro Stoxx 50": {
         "symbol": "^STOXX50E",
-        "price": 6547.02,
-        "change_pct": 0.68,
+        "price": 6548.5601,
+        "change_pct": 0.71,
         "prev_close": 6502.5601
       },
       "FTSE 100": {
         "symbol": "^FTSE",
-        "price": 10945.0303,
-        "change_pct": 0.71,
+        "price": 10946.4102,
+        "change_pct": 0.72,
         "prev_close": 10867.9004
       },
       "CAC 40": {
         "symbol": "^FCHI",
-        "price": 8737.2197,
-        "change_pct": 0.43,
+        "price": 8740.6699,
+        "change_pct": 0.47,
         "prev_close": 8699.71
       },
       "Nikkei 225": {
@@ -123,99 +123,99 @@
     "fx_commodities": {
       "EUR/USD": {
         "symbol": "EURUSD=X",
-        "price": 1.1533,
-        "change_pct": -0.21,
+        "price": 1.1577,
+        "change_pct": 0.17,
         "prev_close": 1.1557
       },
       "GBP/USD": {
         "symbol": "GBPUSD=X",
-        "price": 1.3444,
-        "change_pct": -0.19,
+        "price": 1.3496,
+        "change_pct": 0.2,
         "prev_close": 1.347
       },
       "USD/CHF": {
         "symbol": "USDCHF=X",
-        "price": 0.8104,
-        "change_pct": 0.46,
+        "price": 0.8069,
+        "change_pct": 0.03,
         "prev_close": 0.8067
       },
       "USD/JPY": {
         "symbol": "USDJPY=X",
-        "price": 158.323,
-        "change_pct": 0.46,
+        "price": 157.148,
+        "change_pct": -0.29,
         "prev_close": 157.6
       },
       "Gold": {
         "symbol": "GC=F",
-        "price": 4386.7002,
-        "change_pct": 3.41,
+        "price": 4401.5,
+        "change_pct": 3.76,
         "prev_close": 4242.0
       },
       "Silver": {
         "symbol": "SI=F",
-        "price": 64.435,
-        "change_pct": 4.88,
+        "price": 65.035,
+        "change_pct": 5.85,
         "prev_close": 61.439
       },
       "Brent Crude": {
         "symbol": "BZ=F",
-        "price": 81.82,
-        "change_pct": -0.81,
+        "price": 81.99,
+        "change_pct": -0.61,
         "prev_close": 82.49
       },
       "WTI Crude": {
         "symbol": "CL=F",
-        "price": 76.76,
-        "change_pct": -0.69,
+        "price": 77.08,
+        "change_pct": -0.27,
         "prev_close": 77.29
       },
       "Natural Gas": {
         "symbol": "NG=F",
-        "price": 2.637,
-        "change_pct": -0.11,
+        "price": 2.643,
+        "change_pct": 0.11,
         "prev_close": 2.64
       },
       "Copper": {
         "symbol": "HG=F",
-        "price": 6.6325,
-        "change_pct": -0.82,
+        "price": 6.674,
+        "change_pct": -0.19,
         "prev_close": 6.687
       },
       "Wheat": {
         "symbol": "ZW=F",
-        "price": 633.5,
-        "change_pct": 0.36,
+        "price": 636.0,
+        "change_pct": 0.75,
         "prev_close": 631.25
       }
     },
     "rates": {
       "VIX": {
         "symbol": "^VIX",
-        "price": 15.22,
-        "change_pct": 0.46,
+        "price": 15.14,
+        "change_pct": -0.07,
         "prev_close": 15.15
       },
       "US 10Y Yield": {
         "symbol": "^TNX",
-        "price": 4.67,
-        "change_pct": 1.15,
-        "prev_close": 4.617
+        "price": 4.664,
+        "change_pct": -0.13,
+        "prev_close": 4.67
       },
       "US 2Y Yield": {
         "symbol": "^IRX",
-        "price": 3.732,
-        "change_pct": 0.19,
-        "prev_close": 3.725
+        "price": 3.73,
+        "change_pct": -0.05,
+        "prev_close": 3.732
       },
       "US 30Y Yield": {
         "symbol": "^TYX",
         "price": 5.213,
-        "change_pct": 0.75,
-        "prev_close": 5.174
+        "change_pct": 0.0,
+        "prev_close": 5.213
       },
       "2s10s Spread": {
         "symbol": "SPREAD",
-        "price": 0.938,
+        "price": 0.934,
         "change_pct": null,
         "note": "positive = normal curve, negative = inverted (recession signal)"
       }
@@ -476,18 +476,10 @@
   "news": {
     "macro_global": [
       {
-        "title": "Google’s AI shake-up boosts Brin as DeepMind’s Hassabis steps aside",
-        "link": "https://www.ft.com/content/1453e9c2-4922-482f-8720-0bafd7e07df7?syn-25a6b1a6=1",
-        "summary": "Silicon Valley parent consolidates control as the London lab’s scientific culture gives way to urgency to build AI products",
-        "published": "2026-08-06T21:40:54",
-        "source": "UK homepage",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Google seeks a sharper focus in AI after Hassabis move",
-        "link": "https://www.ft.com/content/f860d189-7def-4c7a-8ce3-4e96b3371d1f?syn-25a6b1a6=1",
-        "summary": "New role for the DeepMind co-founder comes as the competitive frontier in the technology is shifting",
-        "published": "2026-08-06T16:55:52",
+        "title": "US economy undershoots forecasts to shed 23,000 jobs in July",
+        "link": "https://www.ft.com/content/54adfc90-f555-44d3-8a81-4f39a07b5473?syn-25a6b1a6=1",
+        "summary": "Lacklustre figure complicates Fed’s decision over raising rates",
+        "published": "2026-08-07T12:36:03",
         "source": "UK homepage",
         "sentiment": "neutral"
       },
@@ -519,9 +511,17 @@
         "title": "Saudi Arabia, Turkey and Pakistan sign defence pact in Mecca",
         "link": "https://www.ft.com/content/a988ae61-a218-4872-a4d7-a3061c6ca7ab?syn-25a6b1a6=1",
         "summary": "Three allies seek to deepen regional security co-operation to deal with wars and instability",
-        "published": "2026-08-07T11:18:43",
+        "published": "2026-08-07T11:37:33",
         "source": "UK homepage",
         "sentiment": "neutral"
+      },
+      {
+        "title": "Watchdog moves to stop Aldi and Lidl blocking rival UK store openings",
+        "link": "https://www.ft.com/content/9d9e8f82-1626-429c-9434-a8540ca2ed64?syn-25a6b1a6=1",
+        "summary": "CMA proposes changes to clamp down on discounters’ use of anti-competitive property covenants",
+        "published": "2026-08-07T10:52:54",
+        "source": "UK homepage",
+        "sentiment": "negative"
       },
       {
         "title": "ECB publishes consolidated banking data for end-March 2026",
@@ -622,51 +622,91 @@
     ],
     "serbia": [
       {
-        "title": "Hil: Isporuka srpskog oružja Ukrajini važnija od usklađivanja sa sankcijama EU Moskvi",
-        "link": "https://n1info.rs/vesti/hil-isporuka-srpskog-oruzja-ukrajini-vaznija-od-uskladjivanja-sa-sankcijama-eu-moskvi/",
-        "summary": "Ukrajina je već dugo zainteresovana za proizvodnju oružja u Srbiji, a u uspostavljanju kontakata između Kijeva i Beograda značajnu ulogu igrao je bivš",
-        "published": "2026-08-07T11:39:46",
+        "title": "Nova kazna za Metu: Moraće da plati 567 miliona dolara fondu za mentalno zdravlje tinejdžera",
+        "link": "https://n1info.rs/svet/kompanija-meta-kazna-mentalno-zdravlje/",
+        "summary": "Kompanija Meta mora da plati još 567 miliona dolara zbog toga što nije upozorila javnost na opasnosti koje njene platforme predstavljaju za decu, što",
+        "published": "2026-08-07T12:36:08",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "VJT: Pokrenuta istraga protiv tri osobe zbog držanja 85 kilograma droge",
-        "link": "https://n1info.rs/vesti/vjt-pokrenuta-istraga-protiv-tri-lica-zbog-drzanja-85-kilograma-droge/",
-        "summary": "Više javno tužilaštvo (VJT) u Beogradu saopštilo je danas da je pokrenulo istragu protiv trojice osumnjičenih zbog postojanja osnova sumnje da su 5. a",
-        "published": "2026-08-07T11:36:56",
+        "title": "Petoro nastavnika ubijeno u školi na Tajlandu: Napadač učenik škole, pre pucnjave ubio i babu i dedu",
+        "link": "https://n1info.rs/svet/petoro-nastavnika-ubijeno-u-skoli-na-tajlandu-napadac-ucenik-skole-pre-pucnjave-ubio-i-babu-i-dedu/",
+        "summary": "U pucnjavi u školi na Tajlandu ubijeno je pet osoba, a najmanje 23 su ranjene, saopštila je policija. Napadač, četrnaestogodišnji učenik škole, izvrši",
+        "published": "2026-08-07T12:33:09",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Belgija najveći izvoznik piva u EU",
-        "link": "https://n1info.rs/biznis/belgija-najveci-izvoznik-piva-u-eu/",
-        "summary": "Belgija je prošle godine izvezla u zemlje u i van EU 1,5 milijardi litara piva sa alkoholom i bila je najveći izvoznik u bloku, saopštio je Eurostat p",
-        "published": "2026-08-07T11:34:48",
+        "title": "Prvo potpuno pomračenje Sunca u Španiji od 1912: Istorijski trenutak u zaboravljenom selu",
+        "link": "https://n1info.rs/magazin/lifestyle/prvo-potpuno-pomracenje-sunca-u-spaniji-od-1912-istorijski-trenutak-u-zaboravljenom-selu/",
+        "summary": "Skoro bez stanovnika, bez kafane i prodavnice, jedva s ponekim posetiocem, malo špansko selo sprema se za jednu izvanrednu noć, piše BBC.",
+        "published": "2026-08-07T12:32:23",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Zasedao Štab za vanredne situacije: Dodatne mere za sprečavanje posledica nepovoljnih vremenskih uslova",
-        "link": "https://n1info.rs/vesti/zasedao-stab-za-vanredne-situacije-dodatne-mere-za-sprecavanje-posledica-nepovoljnih-vremenskih-uslova/",
-        "summary": "Republički štab za vanredne situacije analizirao je na današnjoj sednici aktuelnu hidrološku i meteorološku situaciju, kao i najnovije informacije u v",
-        "published": "2026-08-07T11:29:12",
+        "title": "Evakuisani meštani naselja kod Deliblatske peščare: \"Ovo je strašno i žalosno, molimo boga da sve bude kako treba\"",
+        "link": "https://n1info.rs/vesti/evakuisani-mestani-naselja-kod-deliblatske-pescare-ovo-je-strasno-i-zalosno-molimo-boga-da-sve-bude-kako-treba/",
+        "summary": "Dalje od ulaska u naselje Šumarak kod Deliblatske peščare se ne može jer je u toku evakuacija zbog požara koji tinja već tri dana, a meštani ovog nase",
+        "published": "2026-08-07T12:30:33",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Alumni zajednica FDU osudila napad na Stevana Filipovića: Sutra to može biti bilo ko od nas",
-        "link": "https://n1info.rs/vesti/alumni-zajednica-fdu-osudila-napad-na-stevana-filipovica-sutra-to-moze-biti-bilo-ko-od-nas/",
-        "summary": "Alumni zajednica FDU osudila je danas brutalni fizički napad na umetnika i profesora Fakulteta dramskih umetnosti Stevana Filipovića, koji je pretučen",
-        "published": "2026-08-07T11:29:03",
+        "title": "Former Belgrade negotiator: Students are right - Vucic, you betrayed Kosovo for all generations",
+        "link": "https://n1info.rs/english/news/former-belgrade-negotiator-students-are-right-vucic-you-betrayed-kosovo-for-all-generations/",
+        "summary": "In an open letter to Serbian President Aleksandar Vucic, Marko Jaksic, a former member of Belgrade’s negotiating team for Kosovo and a former MP, said",
+        "published": "2026-08-07T12:26:49",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Polovina svetskih hidroelektrana bi mogla da postane nefunkcionalna do 2060. godine",
-        "link": "https://n1info.rs/magazin/scitech/polovina-svetskih-hidroelektrana-bi-mogla-da-postane-nefunkcionalna-do-2060-godine/",
-        "summary": "Akumulaciona jezera širom sveta gube kapacitet za skladištenje vode prosečnom stopom od 7,3 odsto po deceniji, pri čemu su nesrazmerno pogođene manje",
-        "published": "2026-08-07T11:15:53",
+        "title": "\"Šamar u lice Rusima\", diplomatski potez ili dronovi? Šta se očekuje od posete Zelenskog Beogradu",
+        "link": "https://n1info.rs/vesti/volodimir-zelenski-poseta-srbija-ocekivanja/",
+        "summary": "Nazivajući Volodimira Zelenskog \"vođom kijevskog režima\" mediji na ruskom jeziku šturo prenose informaciju da će predsednik Ukrajine sutra (8. avgusta",
+        "published": "2026-08-07T12:22:50",
         "source": "N1 Info RS - Feed",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Skoro svaki drugi preduzetnik ostao bez posla, mnogima preti gašenje firmi: Upalio se alarm u Nemačkoj!",
+        "link": "https://biznis.telegraf.rs/info-biz/4374052-skoro-svaki-drugi-preduzetnik-ostao-bez-posla-mnogima-preti-gasenje-firmi-upalio-se-alarm-u-nemackoj",
+        "summary": "Više od jedne petine samostalnih preduzetnika i mikro-firmi do devet zaposlenih, tačnije 21,2 odsto, ocenjuju da je njihov ekonomski opstanak akutno ugrožen",
+        "published": "2026-08-07T12:42:43",
+        "source": "Telegraf.rs",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Srpski turisti spremite novčanike: Stižu nove cene goriva u Hrvatskoj!",
+        "link": "https://biznis.telegraf.rs/novcanik/4374015-srpski-turisti-spremite-novcanike-stizu-nove-cene-goriva-u-hrvatskoj",
+        "summary": "Kako javljaju hrvatski mediji, vozače bi od sledećeg utorka trebale da sačekaju nove cene goriva. Prema nezvaničnim informacijama RTL-a Danas, benzin bi trebalo.",
+        "published": "2026-08-07T12:08:39",
+        "source": "Telegraf.rs",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Zamislite da zemlja ostane bez struje? Francuska već priprema veliku nacionalnu vežbu, simulaciju bez struje",
+        "link": "https://biznis.telegraf.rs/info-biz/4373826-zamislite-da-zemlja-ostane-bez-struje-francuska-vec-priprema-veliku-nacionalnu-vezbu-simulaciju-bez-struje",
+        "summary": "Francuska vlada planira da u drugoj polovini 2027. godine sprovede simulaciju velikog nestanka struje širom zemlje kako bi testirala spremnost za krizne.",
+        "published": "2026-08-07T12:07:44",
+        "source": "Telegraf.rs",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Amerikanci kupuju evropskog avio-giganta za 6,6 milijardi evra: Evo šta čeka putnike",
+        "link": "https://biznis.telegraf.rs/info-biz/4374006-amerikanci-kupuju-evropskog-avio-giganta-za-66-milijardi-evra-evo-sta-ceka-putnike",
+        "summary": "Ovim je završena višemesečna neizvesnost oko budućnosti britanskog avio-prevoznika, nakon što je iz trke za kupovinu kompanije odustao konkurentski američki investicioni fond Kastlkejk (Castlelake)",
+        "published": "2026-08-07T11:46:08",
+        "source": "Telegraf.rs",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "I danas se pamti kada je dinar vredeo kao marka! Zašto pokušaj da se spase jugoslovenska ekonomija nije uspeo?",
+        "link": "https://biznis.telegraf.rs/info-biz/4373995-i-danas-se-pamti-kada-je-dinar-vredeo-kao-marka-zasto-pokusaj-da-se-spase-jugoslovenska-ekonomija-nije-uspeo",
+        "summary": "I danas se pamti kada je dinar vredeo kao marka: Kako je Ante Marković preko noći promenio ekonomsku svakodnevicu miliona ljudi",
+        "published": "2026-08-07T11:45:23",
+        "source": "Telegraf.rs",
         "sentiment": "neutral"
       },
       {
@@ -678,43 +718,19 @@
         "sentiment": "neutral"
       },
       {
-        "title": "Izvoz piva iz EU drastično pao, ali ova zemlja i dalje vlada tržištem: Popili i konkurenciju",
-        "link": "https://biznis.telegraf.rs/info-biz/4373959-izvoz-piva-iz-eu-drasticno-pao-ali-ova-zemlja-i-dalje-vlada-trzistem-popili-i-konkurenciju",
-        "summary": "Uvoz piva iz trećih zemalja u Evropsku uniju porastao je istovremeno za šest odsto, na 500 miliona litara, pokazuju podaci Evrostata",
-        "published": "2026-08-07T10:38:38",
-        "source": "Telegraf.rs",
+        "title": "Belgija najveći izvoznik piva u EU",
+        "link": "https://novaekonomija.rs/vesti-iz-sveta/belgija-najveci-izvoznik-piva-u-eu",
+        "summary": "Belgija je prošle godine izvezla u zemlje u i van EU 1,5 milijardi litara piva sa alkoholom i bila je najveći izvoznik u bloku, saopštio je Eurostat povodom Međunarodnog dana piva koji se obeležava danas. Međunarodni dan piva proslavlja se svakog prvog petka u avgustu od 2007. Holandija je druga po",
+        "published": "2026-08-07T12:20:11",
+        "source": "Nova Ekonomija",
         "sentiment": "neutral"
       },
       {
-        "title": "Najskuplja porodična svađa: Verovala je bratu, a završila sa dugom od milion evra!",
-        "link": "https://biznis.telegraf.rs/preduzetnistvo/4373952-najskuplja-porodicna-svadja-verovala-je-bratu-a-zavrsila-sa-dugom-od-milion-evra",
-        "summary": "Porodični biznisi se najviše od svih grade na poverenju, zajedničkom radu i uverenju da su najbliži ljudi ujedno i najsigurniji poslovni partneri.",
-        "published": "2026-08-07T10:38:10",
-        "source": "Telegraf.rs",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Stigle su nove cene goriva: Poskupeo jedan derivat!",
-        "link": "https://biznis.telegraf.rs/novcanik/4373895-stigle-su-nove-cene-goriva-poskupeo-jedan-derivat",
-        "summary": "Stigle su nove cene goriva, tako da će od danas od 15 časova na pumpama u Srbiji i narednih sedam dana litar evrodizela koštati maksimalno 227 dinara za litar,.",
-        "published": "2026-08-07T11:28:48",
-        "source": "Telegraf.rs",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Jedna zemlja drži gotovo četvrtinu ekonomije Evropske unije: Novi podaci otkrivaju ko vuče kontinent napred!",
-        "link": "https://biznis.telegraf.rs/info-biz/4373934-jedna-zemlja-drzi-gotovo-cetvrtinu-ekonomije-evropske-unije-novi-podaci-otkrivaju-ko-vuce-kontinent-napred",
-        "summary": "Vrednost bruto domaćeg proizvoda (BDP) Evropske unije dostigla je 18,8 biliona evra u 2025. godini, a najveća ekonomija Unije je nadalje Nemačka, čiji je BDP.",
-        "published": "2026-08-07T10:15:17",
-        "source": "Telegraf.rs",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Ratari spasavaju što se spasti može! Toplotni talas pustoši Banat i Srem, rod se suši i propada",
-        "link": "https://biznis.telegraf.rs/agro-biz/4373931-ratari-spasavaju-sto-se-spasti-moze-toplotni-talas-pustosi-banat-i-srem-rod-se-susi-i-propada",
-        "summary": "Mehanizacija je već u atarima Banata i Srema, ali ne zbog rekordnog roda, već da bi se spaslo šta se spasti može.",
-        "published": "2026-08-07T10:14:02",
-        "source": "Telegraf.rs",
+        "title": "Doneta odluka o visini akciza na gorivo",
+        "link": "https://novaekonomija.rs/vesti-iz-zemlje/doneta-odluka-o-visini-akciza-na-gorivo",
+        "summary": "Vlada Srbije produžila je smanjenje akciza na naftne derivate za još sedam dana, do 16. avgusta, objavio je danas RTS, a prenosi Beta. Postojeće smanjenje akciza važi do 9. avgusta kao mera ublažavanja posledica skupe nafte i derivata na svetskom tržištu. Odluka predstavlja jednu od mera usmerenih n",
+        "published": "2026-08-07T12:04:22",
+        "source": "Nova Ekonomija",
         "sentiment": "neutral"
       },
       {
@@ -748,22 +764,6 @@
         "published": "2026-08-07T09:49:54",
         "source": "Nova Ekonomija",
         "sentiment": "positive"
-      },
-      {
-        "title": "MOL ostvario profit od 786 miliona dolara u druga tri meseca ove godine",
-        "link": "https://novaekonomija.rs/vesti-iz-sveta/mol-ostvario-profit-od-786-miliona-dolara-u-druga-tri-meseca-ove-godine",
-        "summary": "MOL grupa je danas objavila finansijske rezultate za drugi kvartal 2026. godine. Kompanija je tokom ovog tromesečja ostvarila dobit nakon oporezivanja u iznosu od 786 miliona američkih dolara. Rezultatima su doprinele visoke cene sirove nafte i prirodnog gasa, izuzetno povoljne rafinerijske marže i",
-        "published": "2026-08-07T07:47:30",
-        "source": "Nova Ekonomija",
-        "sentiment": "positive"
-      },
-      {
-        "title": "Papua Nova Gvineja potvrdila učešće na Ekspo 2027",
-        "link": "https://novaekonomija.rs/vesti-iz-zemlje/papua-nova-gvineja-potvrdila-ucesce-na-ekspo-2027",
-        "summary": "Papua Nova Gvineja jedna je od 141 međunarodne učesnice koje su do sada potvrdile učešće na specijalizovanoj međunarodnoj izložbi &#8222;Ekspu 2027&#8220; Beograd, gde će predstaviti i kao državu sa najvećom jezičkom raznovrsnošću na planeti, trećom najvećom prašumom na svetu i kulturama koje su vek",
-        "published": "2026-08-06T14:30:56",
-        "source": "Nova Ekonomija",
-        "sentiment": "neutral"
       }
     ]
   },
@@ -825,18 +825,18 @@
     "Frankfurt": true,
     "Tokyo": false,
     "Hong Kong": false,
-    "Belgrade": true
+    "Belgrade": false
   },
   "sentiment_summary": {
     "macro": {
       "positive": 5,
-      "negative": 2,
-      "neutral": 11
+      "negative": 3,
+      "neutral": 10
     },
     "serbia": {
-      "positive": 2,
+      "positive": 1,
       "negative": 0,
-      "neutral": 16
+      "neutral": 17
     }
   }
 }
