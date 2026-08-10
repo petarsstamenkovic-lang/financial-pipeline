@@ -1,6 +1,6 @@
 {
   "date": "2026-08-10",
-  "generated_at": "2026-08-10T13:46:05.540553+02:00",
+  "generated_at": "2026-08-10T14:49:22.805686+02:00",
   "market": {
     "indices": {
       "S&P 500": {
@@ -23,26 +23,26 @@
       },
       "DAX": {
         "symbol": "^GDAXI",
-        "price": 26411.7402,
-        "change_pct": 0.35,
+        "price": 26383.1895,
+        "change_pct": 0.24,
         "prev_close": 26319.4492
       },
       "Euro Stoxx 50": {
         "symbol": "^STOXX50E",
-        "price": 6552.7998,
-        "change_pct": 0.44,
+        "price": 6553.4102,
+        "change_pct": 0.45,
         "prev_close": 6523.8599
       },
       "FTSE 100": {
         "symbol": "^FTSE",
-        "price": 10872.8896,
-        "change_pct": -0.26,
+        "price": 10874.4502,
+        "change_pct": -0.24,
         "prev_close": 10901.0996
       },
       "CAC 40": {
         "symbol": "^FCHI",
-        "price": 8722.54,
-        "change_pct": 0.09,
+        "price": 8725.4502,
+        "change_pct": 0.12,
         "prev_close": 8714.9297
       },
       "Nikkei 225": {
@@ -123,99 +123,99 @@
     "fx_commodities": {
       "EUR/USD": {
         "symbol": "EURUSD=X",
-        "price": 1.1555,
-        "change_pct": 0.27,
+        "price": 1.155,
+        "change_pct": 0.22,
         "prev_close": 1.1525
       },
       "GBP/USD": {
         "symbol": "GBPUSD=X",
-        "price": 1.3503,
-        "change_pct": 0.35,
+        "price": 1.3493,
+        "change_pct": 0.28,
         "prev_close": 1.3455
       },
       "USD/CHF": {
         "symbol": "USDCHF=X",
-        "price": 0.8085,
-        "change_pct": -0.48,
+        "price": 0.8093,
+        "change_pct": -0.39,
         "prev_close": 0.8124
       },
       "USD/JPY": {
         "symbol": "USDJPY=X",
-        "price": 158.812,
-        "change_pct": 0.25,
+        "price": 158.852,
+        "change_pct": 0.28,
         "prev_close": 158.409
       },
       "Gold": {
         "symbol": "GC=F",
-        "price": 4395.7998,
-        "change_pct": 1.27,
+        "price": 4385.8999,
+        "change_pct": 1.04,
         "prev_close": 4340.7002
       },
       "Silver": {
         "symbol": "SI=F",
-        "price": 64.235,
-        "change_pct": 1.43,
+        "price": 64.015,
+        "change_pct": 1.08,
         "prev_close": 63.332
       },
       "Brent Crude": {
         "symbol": "BZ=F",
-        "price": 84.45,
-        "change_pct": 1.08,
+        "price": 84.98,
+        "change_pct": 1.71,
         "prev_close": 83.55
       },
       "WTI Crude": {
         "symbol": "CL=F",
-        "price": 79.04,
-        "change_pct": 1.1,
+        "price": 79.56,
+        "change_pct": 1.77,
         "prev_close": 78.18
       },
       "Natural Gas": {
         "symbol": "NG=F",
-        "price": 2.764,
-        "change_pct": 3.83,
+        "price": 2.775,
+        "change_pct": 4.24,
         "prev_close": 2.662
       },
       "Copper": {
         "symbol": "HG=F",
-        "price": 6.6295,
-        "change_pct": 0.9,
+        "price": 6.624,
+        "change_pct": 0.81,
         "prev_close": 6.5705
       },
       "Wheat": {
         "symbol": "ZW=F",
-        "price": 648.5,
-        "change_pct": 1.37,
+        "price": 650.25,
+        "change_pct": 1.64,
         "prev_close": 639.75
       }
     },
     "rates": {
       "VIX": {
         "symbol": "^VIX",
-        "price": 15.46,
-        "change_pct": 3.76,
+        "price": 15.4,
+        "change_pct": 3.36,
         "prev_close": 14.9
       },
       "US 10Y Yield": {
         "symbol": "^TNX",
-        "price": 4.66,
-        "change_pct": -0.21,
-        "prev_close": 4.67
+        "price": 4.666,
+        "change_pct": 0.13,
+        "prev_close": 4.66
       },
       "US 2Y Yield": {
         "symbol": "^IRX",
-        "price": 3.71,
-        "change_pct": -0.59,
-        "prev_close": 3.732
+        "price": 3.715,
+        "change_pct": 0.13,
+        "prev_close": 3.71
       },
       "US 30Y Yield": {
         "symbol": "^TYX",
-        "price": 5.211,
-        "change_pct": -0.04,
-        "prev_close": 5.213
+        "price": 5.21,
+        "change_pct": -0.02,
+        "prev_close": 5.211
       },
       "2s10s Spread": {
         "symbol": "SPREAD",
-        "price": 0.95,
+        "price": 0.951,
         "change_pct": null,
         "note": "positive = normal curve, negative = inverted (recession signal)"
       }
@@ -472,20 +472,28 @@
   "news": {
     "macro_global": [
       {
-        "title": "China bypasses shipping chokepoints with ‘Ice Silk Road’ through Arctic",
-        "link": "https://www.ft.com/content/4456f475-f2c8-4cb7-8312-0c47c5f781b8?syn-25a6b1a6=1",
-        "summary": "First scheduled container service between Europe and Asia will significantly reduce voyage times",
-        "published": "2026-08-10T04:00:07",
+        "title": "Yen sinks as effect of US-Japan intervention fades",
+        "link": "https://www.ft.com/content/47d2ab3c-0423-49ed-89ca-68683761ed98?syn-25a6b1a6=1",
+        "summary": "Currency gives up nearly half of gains from joint action with investors citing lack of ‘unified voice’ among central banks",
+        "published": "2026-08-10T12:13:45",
+        "source": "UK homepage",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Hong Kong’s plan to clear rural villages for a new gateway to China",
+        "link": "https://www.ft.com/content/61a23058-730d-4b13-bbbe-d491770d2a76?syn-25a6b1a6=1",
+        "summary": "Evictions under way near mainland border as city strives to reinvent economy",
+        "published": "2026-08-10T07:57:31",
         "source": "UK homepage",
         "sentiment": "neutral"
       },
       {
-        "title": "How the UAE won over Washington",
-        "link": "https://www.ft.com/content/ec5f7351-7aec-4fe1-80dc-b02c62045109?syn-25a6b1a6=1",
-        "summary": "The Gulf state has deployed a mixture of cash and charm to become one of America’s most important Middle East allies",
-        "published": "2026-08-10T04:00:07",
+        "title": "Trump and the failure of the Fafo doctrine",
+        "link": "https://www.ft.com/content/1a7a6919-b056-4155-9520-1088564f7119?syn-25a6b1a6=1",
+        "summary": "The president’s flawed decision-making is finally catching up with him",
+        "published": "2026-08-10T11:51:43",
         "source": "UK homepage",
-        "sentiment": "neutral"
+        "sentiment": "positive"
       },
       {
         "title": "New York is having a summer for the ages",
@@ -496,18 +504,10 @@
         "sentiment": "neutral"
       },
       {
-        "title": "Finance groups could help solve Burnham’s social care conundrum",
-        "link": "https://www.ft.com/content/6a46592b-2eef-4830-9db5-4fbbfaee5576?syn-25a6b1a6=1",
-        "summary": "A new system needs to replicate the universal appeal of the NHS without requiring commensurate public-sector spending",
-        "published": "2026-08-10T04:00:15",
-        "source": "UK homepage",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Putin’s war machine scours the home front for recruits",
-        "link": "https://www.ft.com/content/45289802-848f-4fa6-9769-6971b4b69bcc?syn-25a6b1a6=1",
-        "summary": "Moscow turns to raids, pressure and deception to enlist soldiers to fight against Ukraine",
-        "published": "2026-08-10T04:00:15",
+        "title": "Ukrainian drone strike on oil-refining city in central Russia kills 13",
+        "link": "https://www.ft.com/content/ad0602c3-224f-422c-b052-ff96e2f9054c?syn-25a6b1a6=1",
+        "summary": "Death toll one of highest in a single attack by Kyiv since 2022",
+        "published": "2026-08-10T11:45:31",
         "source": "UK homepage",
         "sentiment": "neutral"
       },
@@ -618,51 +618,91 @@
     ],
     "serbia": [
       {
-        "title": "Vucic considers changing course of Ibar river, Kosovo minister Pacolli reacts",
-        "link": "https://n1info.rs/english/news/vucic-considers-changing-course-of-ibar-river-kosovo-minister-pacolli-reacts/",
-        "summary": "Serbian President Aleksandar Vucic said that the Belgrade authorities are considering changing the course of the Ibar River inside Serbia before it fl",
-        "published": "2026-08-10T11:42:54",
+        "title": "Prodaja klima uređaja u Belgiji udvostručena i pre toplotnih talasa",
+        "link": "https://n1info.rs/svet/prodaja-klima-uredjaja-u-belgiji-udvostrucena/",
+        "summary": "U prvoj polovini godine u Belgiji je instalirano dva puta više klima uređaja nego u isto vreme prošle godine i to pre nego što su zemlju pogodila dva",
+        "published": "2026-08-10T12:39:09",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Štala kao spas - zašto su seoska deca zdravija",
-        "link": "https://n1info.rs/magazin/zdravlje/stala-kao-spas-zasto-su-seoska-deca-zdravija/",
-        "summary": "Istraživači iz Minhena došli su do revolucionarnog otkrića i dokazali zašto deca koja rastu na seoskim gazdinstvima imaju bolji imunitet. Tajna je u b",
-        "published": "2026-08-10T11:38:46",
+        "title": "EULEX gets new chief",
+        "link": "https://n1info.rs/english/news/eulex-gets-new-chief/",
+        "summary": "The EULEX mission said on Monday that Portuguese senior international executive Antero Lopes took over as head of mission.",
+        "published": "2026-08-10T12:34:13",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "VJT o smrti Cvijana: I za samoubistvo se koristi termin \"nasilna smrt\"",
-        "link": "https://n1info.rs/vesti/vise-javno-tuzilastvo-u-beogradu-vladimir-cvijan-samoubistvo-smrt/",
-        "summary": "Više javno tužilaštvo u Beogradu reagovalo je na izjavu grupe advokata \"Ustavobranitelji\" koja je prethodno saopštenje VJT o smrti Vladimira Cvijana o",
-        "published": "2026-08-10T11:34:06",
+        "title": "Genetika i karcinom – koliko su naši geni zaista presudni?",
+        "link": "https://n1info.rs/magazin/zdravlje/genetika-i-karcinom-koliko-su-nasi-geni-zaista-presudni/",
+        "summary": "Porodična istorija karcinoma povećava verovatnoću, ali ne predstavlja garanciju da će osoba oboleti od karcinoma.",
+        "published": "2026-08-10T12:32:07",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Temperature u 13h: U tri grada izmereno 35 stepeni",
-        "link": "https://n1info.rs/vesti/nastavlja-se-toplotni-talas-u-srbiji/",
-        "summary": "Toplotni talas koji u Srbiji traje već nedeljama nastavlja se i danas. U 13 časova najviša temperatura, 35 stepeni, izmerena je u Somboru, Novom Sadu",
-        "published": "2026-08-10T11:21:49",
+        "title": "Šošanica najnepristupačniji deo požarišta na Stolovima: Vatra još nije ugašena, sprečeno širenje na borovu šumu",
+        "link": "https://n1info.rs/vesti/sosanica-stolovi-vatra-jos-nije-ugasena-spreceno-sirenje/",
+        "summary": "Požar u mestu Šošanica na Stolovima, jednom od pet lokacija zahvaćenih vatrom, još nije ugašen zbog jakog vetra i izuzetno nepristupačnog terena. Vatr",
+        "published": "2026-08-10T12:31:34",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Rada Trajković: Nadam se da je Vučićeva izjava o promeni toka Ibra deo predizborne kampanje",
-        "link": "https://n1info.rs/vesti/rada-trajkovic-nadam-se-da-je-vuciceva-izjava-o-promeni-toka-ibra-deo-predizborne-kampanje/",
-        "summary": "Političarka s Kosova i Metohije Rada Trajković izjavila je danas da bi promenom toka reke Ibar bilo ugroženo vodosnadbevanje oko 800.000 stanovnika Ko",
-        "published": "2026-08-10T11:19:22",
+        "title": "(VIDEO) Tajfun Delfin u Kini: Dečaka odneo ogroman talas pred roditeljima",
+        "link": "https://n1info.rs/svet/video-tajfun-delfin-u-kini-decaka-odneo-ogroman-talas-pred-roditeljima/",
+        "summary": "Devetogodišnji dečak vodi se kao nestao pošto ga je ogroman talas povukao u more usred šetnje u Venlingu za istoku Kine.",
+        "published": "2026-08-10T12:27:06",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Srdan Golubović: Čast je ne dobiti novac od ovakvog Ministarstva, ministar kulture je dokazana neznalica",
-        "link": "https://n1info.rs/kultura/srdan-golubovic-cast-je-ne-dobiti-novac-od-ovakvog-ministarstva/",
-        "summary": "\"Nije me ni najmanje iznenadila vest da Festival autorskog filma nije dobio podršku na konkursu Ministarstva kulture“, kaže za Danas Srdan Golubović,",
-        "published": "2026-08-10T11:18:19",
+        "title": "Devet rudara već šest noći spava u rudniku u Zenici: Protestuju zbog neisplaćenih plata i najavljuju radikalizaciju",
+        "link": "https://n1info.rs/region/rudari-zenica-rudnik-protest-jama/",
+        "summary": "Devet rudara Rudnika mrkog uglja Zenica šestu noć provelo je u jami Raspotočje, odbijajući da izađu dok ne dobiju pisane garancije i tačne datume ispl",
+        "published": "2026-08-10T12:26:08",
         "source": "N1 Info RS - Feed",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Bio je simbol jedne industrije više od veka: Posle više od 100 godina rada proizvodnju seli u Srbiju!",
+        "link": "https://biznis.telegraf.rs/info-biz/4375626-bio-je-simbol-jedne-industrije-vise-od-veka-posle-vise-od-100-godina-rada-proizvodnju-seli-u-srbiju",
+        "summary": "Nekadašnji industrijski gigant gasi proizvodnju posle 106 godina: Fabrika seli pogone u Srbiju i Sloveniju",
+        "published": "2026-08-10T12:44:43",
+        "source": "Telegraf.rs",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Veliki korak za srpsku namensku industriju: Počinje proizvodnja dronova - prvo idu našoj vojsci",
+        "link": "https://biznis.telegraf.rs/info-biz/4375615-pocinje-proizvodnja-dronova-idu-prvo-nasoj-vojsci",
+        "summary": "Počinje proizvodnja novih dronova u Srbiji: Prvo idu za našu vojsku, tržišni viškovi će se prodavati u inostranstvu",
+        "published": "2026-08-10T12:35:37",
+        "source": "Telegraf.rs",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Vraća se internet kakav pamtimo? Paradoks - konkurent vraća u život nekada najpopularniju društvenu mrežu!",
+        "link": "https://biznis.telegraf.rs/info-biz/4375607-vraca-se-internet-kakav-pamtimo-paradoks-konkurent-vraca-u-zivot-nekada-najpopularniju-drustvenu-mrezu",
+        "summary": "Vlasnici nekada najpopularnije društvene mreže na svetu Majspejs (Myspace) najavili su da bi ova platforma mogla da se vrati u život, na talasu nostalgije i.",
+        "published": "2026-08-10T12:17:15",
+        "source": "Telegraf.rs",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Ko ima najveći minimalac u regionu? Srbija prestigla i pojedine EU zemlje",
+        "link": "https://biznis.telegraf.rs/info-biz/4375569-ko-ima-najveci-minimalac-u-regionu-srbija-prestigla-i-pojedine-eu-zemlje",
+        "summary": "Crna Gora je i u drugoj polovini 2026. godine ostala u grupi evropskih zemalja sa bruto mesečnom minimalnom zaradom nižom od 1.",
+        "published": "2026-08-10T12:17:08",
+        "source": "Telegraf.rs",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Novi minimalac još nije dogovoren: Vlada nudi 9,2 odsto, evo koliko povećanje traže sindikati",
+        "link": "https://biznis.telegraf.rs/novcanik/4375597-novi-minimalac-jos-nije-dogovoren",
+        "summary": "Pregovori o minimalnoj zaradi za sledeću godinu počeli su bez dogovora. Vlada Srbije nudi povećanje od 9,2 odsto, dok sindikati traže dvociferni rast.",
+        "published": "2026-08-10T12:16:12",
+        "source": "Telegraf.rs",
         "sentiment": "neutral"
       },
       {
@@ -674,43 +714,19 @@
         "sentiment": "neutral"
       },
       {
-        "title": "Velika zaplena mesa: Inspektori otkrili 15 nelegalnih objekata, skoro četiri tone mesa uništeno!",
-        "link": "https://biznis.telegraf.rs/info-biz/4375556-velika-zaplena-mesa-inspektori-otkrili-15-nelegalnih-objekata-skoro-cetiri-tone-mesa-unisteno",
-        "summary": "Inspektori upali u 15 nelegalnih objekata: Uništeno skoro četiri tone mesa, izrečene kazne od 73.400 evra",
-        "published": "2026-08-10T11:11:23",
-        "source": "Telegraf.rs",
+        "title": "Skok vrednosti izvedenih građevinskih radova u Srbiji devet odsto – Beograd „vuče“ sve",
+        "link": "https://novaekonomija.rs/vesti-iz-zemlje/skok-vrednosti-izvedenih-gradjevinskih-radova-u-srbiji-devet-odsto-beograd-vuce-sve",
+        "summary": "Republički zavod za statistiku (RZS) saopštio je danas da je vrednost građevinskih radova izvedenih na teritoriji Srbije u drugom kvartalu ove godine veća 20,6 odsto u tekućim cenama u odnosu na isti period prošle godine, dok je u stalnim cenama rast bio devet odsto. Posmatrano prema vrsti građevina",
+        "published": "2026-08-10T12:36:45",
+        "source": "Nova Ekonomija",
         "sentiment": "neutral"
       },
       {
-        "title": "Nema više rekordne sezone? Hrvatskoj palo više od 800.000 turističkih noćenja za samo mesec dana",
-        "link": "https://biznis.telegraf.rs/info-biz/4375541-nema-vise-rekordne-sezone-hrvatskoj-palo-vise-od-800000-turistickih-nocenja-za-samo-mesec-dana",
-        "summary": "Hrvatski turizam zabeležio je pad u junu ove godine, pokazuju najnoviji podaci Državnog zavoda za statistiku.",
-        "published": "2026-08-10T10:53:46",
-        "source": "Telegraf.rs",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Stiže više od 800.000 evra za nekretnine: 53 majke u Srbiji dobile subvencije za stan ili kuću",
-        "link": "https://biznis.telegraf.rs/novcanik/4375537-stize-vise-od-800000-evra-za-nekretnine-53-majke-u-srbiji-dobile-subvencije-za-stan-ili-kucu",
-        "summary": "Kako je rekla Tanjugu, ukupna vrednost dodeljenih subvencija je viša od 800 hiljada evra",
-        "published": "2026-08-10T10:42:02",
-        "source": "Telegraf.rs",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Nisu joj odobrili godišnji, zbog toga dala otkaz: \"Bila je to najbolja životna odluka\", evo i zbog čega!",
-        "link": "https://biznis.telegraf.rs/info-biz/4375449-nisu-joj-odobrili-godisnji-zbog-toga-dala-otkaz-bila-je-to-najbolja-zivotna-odluka-evo-i-zbog-cega",
-        "summary": "Nisu joj odobrili godišnji, pa je dala otkaz: Danas je obišla 51 državu i ne planira da stane",
-        "published": "2026-08-10T10:30:25",
-        "source": "Telegraf.rs",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Poznato kad počinje isplata uvećanih penzija u Srbiji i koliko će biti više!",
-        "link": "https://biznis.telegraf.rs/novcanik/4375520-poznato-kad-pocinje-isplata-uvecanih-penzija-u-srbiji-i-koliko-ce-biti-vise",
-        "summary": "Nakon tih mera, kako je naveo, sledi povećanje penzija",
-        "published": "2026-08-10T10:23:01",
-        "source": "Telegraf.rs",
+        "title": "Afička kuga registrovana u sedam okruga, uginula ili eutanazirana 36.101 svinja",
+        "link": "https://novaekonomija.rs/vesti-iz-zemlje/u-srbiji-aficka-kuga-registrovana-u-sedam-okruga-uginula-ili-eutanazirana-36-101-svinja",
+        "summary": "U Srbiji je, prema poslednjem preseku podataka, afrička kuga svinja prisutna u sedam okruga, 13 opština i 62 naseljena mesta, a da je od početka godine uginulo ili eutanazirano ukupno 36.101 grlo, izjavio je danas vršilac dužnosti direktora Uprave za šume Vladimir Nikolić.  &#8222;Ohrabruje to što p",
+        "published": "2026-08-10T12:20:18",
+        "source": "Nova Ekonomija",
         "sentiment": "neutral"
       },
       {
@@ -744,26 +760,20 @@
         "published": "2026-08-10T09:45:53",
         "source": "Nova Ekonomija",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Posao u NVO sektoru deluje kao obećana zemlja, ali oni koji tamo rade znaju za drugo: Koji su najveći problemi rada u nevladinim organizacijama",
-        "link": "https://novaekonomija.rs/vesti-iz-zemlje/posao-u-nvo-sektoru-deluje-kao-obecana-zemlja-ali-oni-koji-tamo-rade-znaju-za-drugo-koji-su-najveci-problemi-rada-u-nevladinim-organizacijama",
-        "summary": "Ugovori zbog kojih nisu prepoznati kao zaposleni, previše obaveza i finansijska neizvesnost &#8211; to su neki od ključnih problema sa kojima se susreću radnici u nevladinom sektoru. Iako javnost često smatra da je u NVO sektoru sve sjajno, u realnosti, radnici se susreću sa problemima, baš kao i u",
-        "published": "2026-08-10T09:35:10",
-        "source": "Nova Ekonomija",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Glovo danas obustavlja poslovanje u BiH",
-        "link": "https://novaekonomija.rs/vesti-iz-sveta/glovo-danas-obustavlja-poslovanje-u-bih",
-        "summary": "Španska kompanija za dostavu hrane i drugih proizvoda &#8222;Glovo&#8220; odlučila je da obustavi poslovanje u Bosni i Hercegovini (BiH), a danas je poslednji dan poslovanja u ovoj zemlji, piše banjalučki poslovni portal Kapital (Capital.ba), a prenosi Beta.  &#8222;Ovim putem vas obaveštavamo da je",
-        "published": "2026-08-10T07:36:23",
-        "source": "Nova Ekonomija",
-        "sentiment": "neutral"
       }
     ]
   },
   "key_events": [
+    {
+      "title": "Strategy sells 6.6M shares and 1,690 bitcoin in weekly ATM update",
+      "link": "https://www.investing.com/news/cryptocurrency-news/strategy-sells-66m-shares-and-1690-bitcoin-in-weekly-atm-update-432SI-4848989",
+      "summary": ""
+    },
+    {
+      "title": "This cryptocurrency could surge more than 2,000% by 2030, analyst predicts",
+      "link": "https://www.investing.com/news/cryptocurrency-news/this-cryptocurrency-could-surge-more-than-2000-by-2030-analyst-predicts-4848858",
+      "summary": ""
+    },
     {
       "title": "Bitcoin steady above $65k with U.S. inflation, Iran risks in focus",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-65k-with-us-inflation-iran-risks-in-focus-4847903",
@@ -803,16 +813,6 @@
       "title": "CoinMarketCap Expands Its Pro API With Real-World Asset Data Endpoints",
       "link": "https://www.investing.com/news/cryptocurrency-news/coinmarketcap-expands-its-pro-api-with-realworld-asset-data-endpoints-4845510",
       "summary": ""
-    },
-    {
-      "title": "Bitcoin slightly lower, holds at $64k amid hit to risk sentiment from oil prices",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-nears-65k-amid-hormuz-hopes-improving-etf-flows-4840150",
-      "summary": ""
-    },
-    {
-      "title": "Cardano Climbs 10% In Bullish Trade",
-      "link": "https://www.investing.com/news/cryptocurrency-news/cardano-climbs-10-in-bullish-trade-4843212",
-      "summary": ""
     }
   ],
   "market_clock": {
@@ -821,13 +821,13 @@
     "Frankfurt": true,
     "Tokyo": false,
     "Hong Kong": false,
-    "Belgrade": true
+    "Belgrade": false
   },
   "sentiment_summary": {
     "macro": {
-      "positive": 3,
+      "positive": 5,
       "negative": 2,
-      "neutral": 13
+      "neutral": 11
     },
     "serbia": {
       "positive": 0,
