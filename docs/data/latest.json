@@ -1,6 +1,6 @@
 {
   "date": "2026-08-12",
-  "generated_at": "2026-08-12T13:43:33.582346+02:00",
+  "generated_at": "2026-08-12T14:48:57.981564+02:00",
   "market": {
     "indices": {
       "S&P 500": {
@@ -23,26 +23,26 @@
       },
       "DAX": {
         "symbol": "^GDAXI",
-        "price": 26532.6094,
-        "change_pct": 0.53,
+        "price": 26520.9707,
+        "change_pct": 0.49,
         "prev_close": 26391.4199
       },
       "Euro Stoxx 50": {
         "symbol": "^STOXX50E",
-        "price": 6566.3599,
-        "change_pct": 0.23,
+        "price": 6567.04,
+        "change_pct": 0.24,
         "prev_close": 6551.2202
       },
       "FTSE 100": {
         "symbol": "^FTSE",
-        "price": 10850.5195,
-        "change_pct": 0.06,
+        "price": 10852.1396,
+        "change_pct": 0.07,
         "prev_close": 10844.2002
       },
       "CAC 40": {
         "symbol": "^FCHI",
-        "price": 8705.5703,
-        "change_pct": -0.11,
+        "price": 8704.4102,
+        "change_pct": -0.12,
         "prev_close": 8714.9404
       },
       "Nikkei 225": {
@@ -103,15 +103,15 @@
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "price": 44.4,
-        "change_pct": -1.29,
-        "prev_close": 44.98
+        "price": 44.08,
+        "change_pct": -0.72,
+        "prev_close": 44.4
       },
       "Comm Services": {
         "symbol": "XLC",
-        "price": 111.83,
-        "change_pct": 0.52,
-        "prev_close": 111.25
+        "price": 111.27,
+        "change_pct": -0.5,
+        "prev_close": 111.83
       },
       "Consumer Stap": {
         "symbol": "XLP",
@@ -123,99 +123,99 @@
     "fx_commodities": {
       "EUR/USD": {
         "symbol": "EURUSD=X",
-        "price": 1.1542,
-        "change_pct": -0.04,
+        "price": 1.1563,
+        "change_pct": 0.15,
         "prev_close": 1.1546
       },
       "GBP/USD": {
         "symbol": "GBPUSD=X",
-        "price": 1.352,
-        "change_pct": 0.06,
+        "price": 1.354,
+        "change_pct": 0.22,
         "prev_close": 1.3511
       },
       "USD/CHF": {
         "symbol": "USDCHF=X",
-        "price": 0.8119,
-        "change_pct": 0.25,
+        "price": 0.8103,
+        "change_pct": 0.06,
         "prev_close": 0.8098
       },
       "USD/JPY": {
         "symbol": "USDJPY=X",
-        "price": 159.114,
-        "change_pct": -0.03,
+        "price": 158.801,
+        "change_pct": -0.22,
         "prev_close": 159.156
       },
       "Gold": {
         "symbol": "GC=F",
-        "price": 4472.5,
-        "change_pct": 2.04,
+        "price": 4483.7002,
+        "change_pct": 2.3,
         "prev_close": 4383.0
       },
       "Silver": {
         "symbol": "SI=F",
-        "price": 66.505,
-        "change_pct": 2.68,
+        "price": 66.67,
+        "change_pct": 2.94,
         "prev_close": 64.769
       },
       "Brent Crude": {
         "symbol": "BZ=F",
-        "price": 88.87,
-        "change_pct": -0.04,
+        "price": 89.25,
+        "change_pct": 0.38,
         "prev_close": 88.91
       },
       "WTI Crude": {
         "symbol": "CL=F",
-        "price": 83.36,
-        "change_pct": 0.19,
+        "price": 83.73,
+        "change_pct": 0.64,
         "prev_close": 83.2
       },
       "Natural Gas": {
         "symbol": "NG=F",
-        "price": 2.783,
-        "change_pct": 0.58,
+        "price": 2.823,
+        "change_pct": 2.02,
         "prev_close": 2.767
       },
       "Copper": {
         "symbol": "HG=F",
-        "price": 6.685,
-        "change_pct": 1.1,
+        "price": 6.691,
+        "change_pct": 1.19,
         "prev_close": 6.612
       },
       "Wheat": {
         "symbol": "ZW=F",
-        "price": 649.25,
-        "change_pct": 3.01,
+        "price": 646.0,
+        "change_pct": 2.5,
         "prev_close": 630.25
       }
     },
     "rates": {
       "VIX": {
         "symbol": "^VIX",
-        "price": 15.39,
-        "change_pct": 0.72,
+        "price": 15.36,
+        "change_pct": 0.52,
         "prev_close": 15.28
       },
       "US 10Y Yield": {
         "symbol": "^TNX",
-        "price": 4.684,
-        "change_pct": -0.32,
-        "prev_close": 4.699
+        "price": 4.65,
+        "change_pct": -0.73,
+        "prev_close": 4.684
       },
       "US 2Y Yield": {
         "symbol": "^IRX",
-        "price": 3.73,
-        "change_pct": 0.32,
-        "prev_close": 3.718
+        "price": 3.72,
+        "change_pct": -0.27,
+        "prev_close": 3.73
       },
       "US 30Y Yield": {
         "symbol": "^TYX",
-        "price": 5.236,
-        "change_pct": -0.13,
-        "prev_close": 5.243
+        "price": 5.209,
+        "change_pct": -0.52,
+        "prev_close": 5.236
       },
       "2s10s Spread": {
         "symbol": "SPREAD",
-        "price": 0.954,
+        "price": 0.93,
         "change_pct": null,
         "note": "positive = normal curve, negative = inverted (recession signal)"
       }
@@ -253,9 +253,9 @@
       },
       "Meta": {
         "symbol": "META",
-        "price": 594.92,
-        "change_pct": 0.48,
-        "prev_close": 592.1
+        "price": 599.12,
+        "change_pct": 0.71,
+        "prev_close": 594.92
       },
       "Tesla": {
         "symbol": "TSLA",
@@ -350,18 +350,6 @@
   "movers": {
     "winners": [
       {
-        "name": "UBER",
-        "symbol": "UBER",
-        "price": 78.03,
-        "change_pct": 4.01
-      },
-      {
-        "name": "ABNB",
-        "symbol": "ABNB",
-        "price": 184.7,
-        "change_pct": 3.72
-      },
-      {
         "name": "GILD",
         "symbol": "GILD",
         "price": 135.77,
@@ -380,16 +368,16 @@
         "change_pct": 1.92
       },
       {
-        "name": "PLTR",
-        "symbol": "PLTR",
-        "price": 175.23,
-        "change_pct": 1.87
-      },
-      {
         "name": "DUK",
         "symbol": "DUK",
         "price": 123.19,
         "change_pct": 1.65
+      },
+      {
+        "name": "LYFT",
+        "symbol": "LYFT",
+        "price": 17.54,
+        "change_pct": 1.62
       },
       {
         "name": "GM",
@@ -408,6 +396,18 @@
         "symbol": "SRE",
         "price": 85.48,
         "change_pct": 1.39
+      },
+      {
+        "name": "NEE",
+        "symbol": "NEE",
+        "price": 85.74,
+        "change_pct": 1.23
+      },
+      {
+        "name": "LOW",
+        "symbol": "LOW",
+        "price": 221.25,
+        "change_pct": 1.08
       }
     ],
     "losers": [
@@ -416,12 +416,6 @@
         "symbol": "GOOGL",
         "price": 343.8,
         "change_pct": -3.84
-      },
-      {
-        "name": "COIN",
-        "symbol": "COIN",
-        "price": 148.68,
-        "change_pct": -3.2
       },
       {
         "name": "BRK-B",
@@ -448,12 +442,6 @@
         "change_pct": -1.5
       },
       {
-        "name": "LYFT",
-        "symbol": "LYFT",
-        "price": 17.26,
-        "change_pct": -1.15
-      },
-      {
         "name": "AAPL",
         "symbol": "AAPL",
         "price": 304.91,
@@ -470,6 +458,18 @@
         "symbol": "COST",
         "price": 944.32,
         "change_pct": -0.88
+      },
+      {
+        "name": "PG",
+        "symbol": "PG",
+        "price": 145.21,
+        "change_pct": -0.84
+      },
+      {
+        "name": "JNJ",
+        "symbol": "JNJ",
+        "price": 259.8,
+        "change_pct": -0.77
       }
     ]
   },
@@ -492,18 +492,18 @@
         "sentiment": "neutral"
       },
       {
+        "title": "Why must a socialist also be woke?",
+        "link": "https://www.ft.com/content/1b0a8ed9-d55a-49ea-971e-39e01e588632?syn-25a6b1a6=1",
+        "summary": "If the left could separate economics from culture, capitalism would have more to fear",
+        "published": "2026-08-12T11:30:00",
+        "source": "UK homepage",
+        "sentiment": "negative"
+      },
+      {
         "title": "World prepares for one of nature’s greatest spectacles: a total solar eclipse",
         "link": "https://www.ft.com/content/007b5ff6-e8fe-47f6-ba34-40cd6520e9fd?syn-25a6b1a6=1",
         "summary": "Spectators and scientists gather to witness full or partial blocking of the Sun across the northern hemisphere",
         "published": "2026-08-12T07:17:34",
-        "source": "UK homepage",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "How to stop global warming",
-        "link": "https://www.ft.com/content/e16ec916-08ad-4f87-9b62-e42e9f28a59c?syn-25a6b1a6=1",
-        "summary": "The answer is obvious to all except the real climate change zealots: the anti-net zero movement",
-        "published": "2026-08-12T04:00:27",
         "source": "UK homepage",
         "sentiment": "neutral"
       },
@@ -516,12 +516,12 @@
         "sentiment": "positive"
       },
       {
-        "title": "Moderate Democrat unexpectedly beats socialist in tight Wisconsin primary race",
-        "link": "https://www.ft.com/content/565bd314-0803-40a2-88b3-9070f574d933?syn-25a6b1a6=1",
-        "summary": "David Crowley defeats Francesca Hong for party’s gubernatorial candidate",
-        "published": "2026-08-12T09:46:38",
+        "title": "The way to fix global warming",
+        "link": "https://www.ft.com/content/e16ec916-08ad-4f87-9b62-e42e9f28a59c?syn-25a6b1a6=1",
+        "summary": "The answer is obvious to all except the real climate change zealots: the anti-net zero movement",
+        "published": "2026-08-12T04:00:27",
         "source": "UK homepage",
-        "sentiment": "positive"
+        "sentiment": "neutral"
       },
       {
         "title": "ECB and Frankfurt Radio Symphony invite the public to Europa Open Air concert on 20 August 2026",
@@ -622,51 +622,91 @@
     ],
     "serbia": [
       {
-        "title": "Platfroma za Evropsku Srbiju: Vučićeva frustracija ne sme biti prepreka odnosima Srbije i Crne Gore",
-        "link": "https://n1info.rs/vesti/platfroma-za-evropsku-srbiju-vuciceva-frustracija-ne-sme-biti-prepreka-odnosima-srbije-i-crne-gore/",
-        "summary": "Platforma za evropsku Srbiju, koju čine Stranka slobode i pravde (SSP), Srbija centar (SRCE), Pokret slobodnih građana (PSG) i Građanski pokret Solida",
-        "published": "2026-08-12T11:35:55",
+        "title": "Putin: Rusija će uzvratiti istom merom, ako EU počne da zaplenjuje naša plovila",
+        "link": "https://n1info.rs/svet/rusija-vladimir-putin-zaplena-brodova/",
+        "summary": "Ruski predsednik Vladimir Putin rekao je u sredu da će Rusija uzvratiti istom merom ako evropske zemlje počnu da zaplenjuju ruske trgovačke brodove, d",
+        "published": "2026-08-12T12:46:55",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Nenad Rašković pretučen u Drenu prebačen iz KBC Kosovska Mitrovica u Beograd",
-        "link": "https://n1info.rs/vesti/nenad-raskovic-pretucen-u-drenu-prebacen-u-beograd/",
-        "summary": "Nenad Rašković iz sela Dren kod Zubinog Potoka, koga je navodno pretukla Kosovska policija, zbog težine povreda i teškog opšteg zdravstvenog stanja, n",
-        "published": "2026-08-12T11:34:55",
+        "title": "Vatra se tokom noći razbuktala na Stolovima, vatrogasci brane četinarsku šumu",
+        "link": "https://n1info.rs/vesti/pozar-na-stolovima-dobrovoljni-vatrogasci/",
+        "summary": "Požar na planini Stolovi kod Kraljeva zahvatio je oko 200 hektara. Teren je izuzetno nepristupačan, kamenit i bez pristupnih puteva, a vatrogascima do",
+        "published": "2026-08-12T12:45:39",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Agencija za bezbednost saobraćaja: Od početka godine poginulo 57 mladih ljudi",
-        "link": "https://n1info.rs/vesti/agencija-za-bezbednost-saobracaja-od-pocetka-godine-poginulo-57-mladih-ljudi/",
-        "summary": "Agencija za bezbednost saobraćaja (ABS) upozorila je, povodom Međunarodnog dana mladih, da je od početka godine do jula na putevima u Srbiji poginulo",
-        "published": "2026-08-12T11:28:03",
+        "title": "Milivojević u Valjevu: Vučićeve batinaše čeka socijalno izopštenje, po promeni vlasti procesuiranje",
+        "link": "https://n1info.rs/vesti/milivojevic-u-valjevu-vuciceve-batinase-ceka-socijalno-izopstenje-po-promeni-vlasti-procesuiranje/",
+        "summary": "Predsednik Demokratske stranke (DS) Srđan Milivojević izjavio je danas u Valjevu, uoči protesta povodom godišnjice \"policijske brutalnosti nad građani",
+        "published": "2026-08-12T12:43:52",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Temperature u 13h: U pojedinim gradovima i 35 stepeni, na Kopaoniku - 22",
-        "link": "https://n1info.rs/vesti/temperature-u-13h-u-pojedinim-gradovima-i-35-stepeni-na-kopaoniku-22/",
-        "summary": "U Srbiji je u 13 časova najviša temperatura izmerena u Negotinu, Leskovcu, Zaječaru i Vranju - 35 stepeni.",
-        "published": "2026-08-12T11:17:18",
+        "title": "Major publishers tell N1 they are boycotting Belgrade Book Fair",
+        "link": "https://n1info.rs/english/news/major-publishers-tell-n1-they-are-boycotting-belgrade-book-fair/",
+        "summary": "Six major Serbian publishers told N1 that they will not be taking in this year’s Belgrade Book Fair, citing bad conditions and low visitor numbers at",
+        "published": "2026-08-12T12:38:00",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Inflacija u julu usporila na 1,9 odsto: Vodosnabdevanje za godinu dana poskupelo za 21 procenat",
-        "link": "https://n1info.rs/biznis/inflacija-u-julu-usporila-na-19-odsto-vodosnabdevanje-za-godinu-dana-poskupelo-za-21-procenat/",
-        "summary": "Potrošačke cene u julu 2026. godine su, u odnosu na isti mesec 2025, povećane 1,9 odsto, objavio je Republički zavod za statistiku. Na mesečnom nivou",
-        "published": "2026-08-12T11:15:19",
+        "title": "RHMZ: Ekstremna suša i toplotni talas ugrožavaju useve u severnoj Srbiji",
+        "link": "https://n1info.rs/vesti/rhmz-ekstremna-susa-toplotni-talas-usevi-severna-srbija/",
+        "summary": "Republički hidrometerološki zavod (RHMZ) upozorio je da će ekstremna suša, praćena dugotrajnim toplotnim talasom, najteže pogoditi severnu Srbiju i ut",
+        "published": "2026-08-12T12:37:00",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Hrvatski poslanik: U Varažidnu odlagan obrađeni medicinski otpad iz Italije i Slovenije",
-        "link": "https://n1info.rs/region/hrvatski-poslanik-u-varazidnu-odlagan-medicinski-otpad-iz-italije-i-slovenije/",
-        "summary": "U istrazi hrvatskog državnog tužilaštva grad Varaždin navodi se kao jedna od tri lokacije za odlaganje otpada, uz Gospić, kazao je zamenik varaždinsko",
-        "published": "2026-08-12T10:58:20",
+        "title": "Novi dan: \"Kobre\" - epizoda koja se pamti",
+        "link": "https://n1info.rs/najave-emisija/novi-dan-kobre-epizoda-koja-se-pamti/",
+        "summary": "\"Neki bi da se taj dan zaboravi, a neki bi da se pamti\", poručuju građani Novog Sada u objavi povodom godišnjice od događaja ispred prostorija Srpske",
+        "published": "2026-08-12T12:36:03",
         "source": "N1 Info RS - Feed",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "AI menja finansije, ali ovo zanimanje tek dobija na značaju: Ko su finansijski analitičari budućnosti?",
+        "link": "https://biznis.telegraf.rs/karijera/4376930-ai-menja-finansije-ali-ovo-zanimanje-tek-dobija-na-znacaju-ko-su-finansijski-analiticari-buducnosti",
+        "summary": "Šta zapravo radi finansijski analitičar i zašto ovo zanimanje postaje sve zanimljivije mladima?",
+        "published": "2026-08-12T12:36:55",
+        "source": "Telegraf.rs",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Alarmantne brojke sezone u Hrvatskoj: Milioni turista zaobišli Jadransku obalu, čak i Nemci izostaju",
+        "link": "https://biznis.telegraf.rs/info-biz/4376945-alarmantne-brojke-sezone-u-hrvatskoj-milioni-turista-zaobisli-jadransku-obalu",
+        "summary": "U Hrvatskoj je u junu zabeleženo tri miliona dolazaka turista, što je za 6,6 odsto manje nego prošle godine, dok je broj noćenja pao za 6,1 odsto međugodišnje.",
+        "published": "2026-08-12T12:36:13",
+        "source": "Telegraf.rs",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Putovanje koje dolazi iz srca: Er Srbija i organizacija \"Dečje srce\" nastavljaju saradnju novim proizvodom",
+        "link": "https://biznis.telegraf.rs/info-biz/4376835-putovanje-koje-dolazi-iz-srca-er-srbija-i-organizacija-decje-srce-nastavljaju-saradnju-novim-proizvodom",
+        "summary": "U okviru projekta \"Uniforme dobijaju novu svrhu\" izrađen je jastuk za putovanja, što predstavlja nastavak saradnje Er Srbije i Humanitarne organizacije Dečje.",
+        "published": "2026-08-12T12:01:51",
+        "source": "Telegraf.rs",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Zašto ekonomija ne izlazi iz mode? Diploma otvara mnogo više vrata nego što se obično misli",
+        "link": "https://biznis.telegraf.rs/karijera/4376881-zasto-ekonomija-ne-izlazi-iz-mode-diploma-otvara-mnogo-vise-vrata-nego-sto-se-obicno-misli",
+        "summary": "Tržište rada menja se brže nego ikada. Tehnologija menja način na koji radimo, pojavljuju se zanimanja koja do pre nekoliko godina praktično nisu postojala, a.",
+        "published": "2026-08-12T11:53:25",
+        "source": "Telegraf.rs",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Loznički recept za svetski uspeh: Kako nastaje čokolada koju biraju zahtevni kupci",
+        "link": "https://biznis.telegraf.rs/info-biz/4376899-loznicki-recept-za-svetski-uspeh-kako-nastaje-cokolada-koju-biraju-zahtevni-kupci",
+        "summary": "Nekada je bilo dovoljno napraviti dobru mlečnu čokoladu i ponuditi je kupcima. Danas to više nije dovoljno.",
+        "published": "2026-08-12T11:44:26",
+        "source": "Telegraf.rs",
         "sentiment": "neutral"
       },
       {
@@ -678,43 +718,43 @@
         "sentiment": "neutral"
       },
       {
-        "title": "Blagi pad cena u julu: Hrana među jeftinijim kategorijama, zabeležena i poskupljenja, evo gde su cene pale!",
-        "link": "https://biznis.telegraf.rs/info-biz/4376838-blagi-pad-cena-u-julu-hrana-medju-jeftinijim-kategorijama-zabelezena-i-poskupljenja-evo-gde-su-cene-pale",
-        "summary": "Cene proizvoda i usluga lične potrošnje u julu ove godine u proseku su snižene za 0,2 odsto u odnosu na jun, objavio je danas Republički zavod za statistiku.",
-        "published": "2026-08-12T11:14:59",
-        "source": "Telegraf.rs",
+        "title": "Odbijeni zahtevi predstavnika ,,Sačuvajmo Ušće“ u postupku za Beogradski akvarijum",
+        "link": "https://novaekonomija.rs/vesti-iz-zemlje/odbijeni-zahtevi-predstavnika-sacuvajmo-usce-u-postupku-za-beogradski-akvarijum",
+        "summary": "Grad Beograd je juče odbio zahteve potpisnika inicijative „Sačuvajmo Ušće“ da im se prizna svojstvo stranke u postupku izdavanja građevinske dozvole za izvođenje pripremnih radovu za izgradnju javnog akvarijuma u Beogradu. Potpisnici inicijative ,,Sačuvajmo ušće&#8220; podneli su dva zahtva, a Grad",
+        "published": "2026-08-12T12:29:08",
+        "source": "Nova Ekonomija",
         "sentiment": "neutral"
       },
       {
-        "title": "Kako se živi u prestonici Hrvatske? Plate više od proseka zemlje, jedna delatnost donosi više od 2.500 evra",
-        "link": "https://biznis.telegraf.rs/novcanik/4376863-kako-se-zivi-u-prestonici-hrvatske-plate-vise-od-proseka-zemlje-jedna-delatnost-donosi-vise-od-2500-evra",
-        "summary": "Prosečna mesečna isplaćena neto plata po zaposlenom u Gradu Zagrebu za maj ove godine iznosila je 1.758 evra, što je pad od 1,3 odsto u odnosu na mesec pre i.",
-        "published": "2026-08-12T11:01:14",
-        "source": "Telegraf.rs",
+        "title": "Forbs Srbija: Jasmin iz Beograda preuzima parfimeriju Jasmin iz Skoplja",
+        "link": "https://novaekonomija.rs/vesti-iz-zemlje/forbs-srbija-jasmin-iz-beograda-preuzima-parfimeriju-jasmin-iz-skoplja",
+        "summary": "Parfimerija Jasmin iz Beograda namerava da preuzme kontrolu nad Jasmin parfimerijom DOOEl iz Skoplja, čiji je jedini vlasnik firma Matoss grupa, objavio je danas Forbs Srbija. Komisija za zaštitu konkurencije Severne Makedonije primila je prijavu koncentracije kojom Jasmin iz Beograda namerava da st",
+        "published": "2026-08-12T12:12:33",
+        "source": "Nova Ekonomija",
         "sentiment": "neutral"
       },
       {
-        "title": "Oštar pad cena poljoprivrednih proizvoda u Srbiji: Voće i stoka zabeležili najveći minus",
-        "link": "https://biznis.telegraf.rs/agro-biz/4376857-ostar-pad-cena-poljoprivrednih-proizvoda-u-srbiji-voce-i-stoka-zabelezili-najveci-minus",
-        "summary": "Cene proizvođača proizvoda poljoprivrede i ribarstva u junu ove godine su bile manje za 6,8 odsto u odnosu na isti mesec 2025.",
-        "published": "2026-08-12T10:49:47",
-        "source": "Telegraf.rs",
+        "title": "Srbija uzima kredit od još pet milijardi dinara: Još novca za Dunavski koridor – koji već godinama kasni",
+        "link": "https://novaekonomija.rs/vesti-iz-zemlje/srbija-uzima-kredit-od-jos-pet-milijardi-dinara-jos-novca-za-dunavski-koridor-koji-vec-godinama-kasni",
+        "summary": "Srbija planira novo zaduživanje &#8211; ovog puta, pet milijardi dinara za projekat Dunavski koridor, koji će povezati Beograd sa Golupcem. U pitanju je projekat koji se godinama najavljuje i odlaže. Ipak, prema poslednjim najavama, trebalo bi da bude gotov do kraja godine. U skupštinsku proceduru s",
+        "published": "2026-08-12T12:05:20",
+        "source": "Nova Ekonomija",
         "sentiment": "neutral"
       },
       {
-        "title": "Budimpešta ima \"elektranu\" na svojim krovovima: Potencijal čak 2,5 puta veći od elektrane Pakš",
-        "link": "https://biznis.telegraf.rs/biz-odrzivost/obnovljiva-energija/4376833-budimpesta-ima-elektranu-na-svojim-krovovima-potencijal-cak-25-puta-veci-od-elektrane-paks",
-        "summary": "Krovovi Budimpešte potencijalno bi mogli da generišu energiju koja je dva i po puta veća od one koju proizvodi nuklearna elektrana Pakš, kroz instalaciju.",
-        "published": "2026-08-12T10:52:40",
-        "source": "Telegraf.rs",
+        "title": "Vetropark Kostolac kasni dve godine",
+        "link": "https://novaekonomija.rs/vesti-iz-zemlje/vetropark-kostolac-kasni-dve-godine",
+        "summary": "Vetropark &#8222;Kostolac&#8220;, projekat vredan gotovo 145 miliona evra, većinski finansiran iz kredita Nemačke razvojne banke (KfW), trebalo je da proradi u oktobru 2024, ali i dalje ne proizvodi električnu energiju, a nije jasno ni da li ga je Elektroprivreda Srbije (EPS) preuzela, piše N1. EPS",
+        "published": "2026-08-12T12:00:05",
+        "source": "Nova Ekonomija",
         "sentiment": "neutral"
       },
       {
-        "title": "Turistički adut istoka Srbije: U ovoj termalnoj oazi kupali su se i Rimljani, danas uživanje košta 300 dinara!",
-        "link": "https://biznis.telegraf.rs/novcanik/4376821-turisticki-adut-istoka-srbije-u-ovoj-termalnoj-oazi-kupali-su-se-i-rimljani-danas-uzivanje-kosta-300-dinara",
-        "summary": "Turistički adut istoka Srbije: U ovoj termalnoj oazi kupali su se i Rimljani, danas uživanje košta 300 dinara, za banju i welness dnevna karta 500 dinara",
-        "published": "2026-08-12T10:25:19",
-        "source": "Telegraf.rs",
+        "title": "KRIK: Agencija za sprečavanje korupcije proverava imovinu Gorana Vesića",
+        "link": "https://novaekonomija.rs/vesti-iz-zemlje/krik-agencija-za-sprecavanje-korupcije-proverava-imovinu-gorana-vesica",
+        "summary": "Agencija za sprečavanje korupcije pokrenula je vanrednu kontrolu imovine Gorana Vesića, bivšeg ministra građevine i jednog od optuženih za pad nadstrešnice u Novom Sad kad je poginulo 16 osoba, otkriva KRIK. „Razlog za pokretanje vanredne provere koja se u konkretnom slučaju primenjuje na Izveštaje",
+        "published": "2026-08-12T11:54:48",
+        "source": "Nova Ekonomija",
         "sentiment": "neutral"
       },
       {
@@ -722,46 +762,6 @@
         "link": "https://novaekonomija.rs/vesti-iz-zemlje/pomozite-nam-da-istrazimo-probleme-gradjana-sa-hitnom-pomoci-u-beogradu",
         "summary": "Nova ekonomija istražuje probleme koje su građani u Beogradu imali sa Hitnom pomoći. Odbijanje da se izađe na teren, dugo čekanje ili neadekvatno ponašanje ekipe neki su od problema koji su isplivali u javnost. Izdvojite par minuta i pomozite nam da istražimo ove probleme, tako što ćete sa nama pode",
         "published": "2026-08-12T10:40:46",
-        "source": "Nova Ekonomija",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "30 miliona evra gore-dole: Vučić sam podigao cenu još jednog projekta koji će platiti građani Srbije",
-        "link": "https://novaekonomija.rs/vesti-iz-zemlje/30-miliona-evra-gore-dole-vucic-sam-podigao-cenu-jos-jednog-projekta-koji-ce-platiti-gradjani-srbije",
-        "summary": "Predsednik Srbije Aleksandar Vučić rekao je juče obilazeći jugozapadnu Srbiju da će brana sa akumulacijom Svračkovo na reci Veliki Rzav kod Arilja biti jedan od najvažnijih objekata kada se završi jer će se rešiti problem snabdevanja pijaćom vodom 410.000 stanovnika. Iz te akumulacije će se, prema r",
-        "published": "2026-08-12T08:47:52",
-        "source": "Nova Ekonomija",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Izdato odobrenje za energetsku sanaciju Fakulteta veterinarske medicine u Beogradu",
-        "link": "https://novaekonomija.rs/vesti-iz-zemlje/izdato-odobrenje-za-energetsku-sanaciju-fakulteta-veterinarske-medicine-u-beogradu",
-        "summary": "Sekretarijat za urbanizam i građevinske poslove Grada Beograda izdao je državi kao investitoru rešenje za adaptaciju i energetsku sanaciju zgrade Fakulteta veterinarske medicine u Beogradu, čija je vrednost 586,7 miliona dinara, objavil je danas eKapija. Ovim projektom je, kako je precizirano, plani",
-        "published": "2026-08-12T08:43:09",
-        "source": "Nova Ekonomija",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Ko je Dalibor Babić, novi v.d. direktora Republičkog geodetskog zavoda, koji je došao na mesto smenjenog Borka Draškovića",
-        "link": "https://novaekonomija.rs/vesti-iz-zemlje/ko-je-dalibor-babic-novi-v-d-direktora-republickog-geodetskog-zavoda-koji-je-dosao-na-mesto-smenjenog-borka-draskovica",
-        "summary": "Dalibor Babić preuzeo je dužnost vršioca dužnosti direktora Republičkog geodetskog zavoda. Kako je najavio, jedan od ključnih prioriteta u radu te državne institucije u narednom periodu biće unapređenje odnosa i komunikacije sa građanima. Novi v.d. Direktora RGZ-a, Dalibor Babić, geodetski je inspek",
-        "published": "2026-08-12T08:34:43",
-        "source": "Nova Ekonomija",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Država svesno guši konkurenciju Er Srbiji i Vansiju: Kakve nas cene avio-karata čekaju kad odu Vizer i Rajaner?",
-        "link": "https://novaekonomija.rs/vesti-iz-zemlje/drzava-svesno-gusi-konkurenciju-er-srbiji-i-vansiju-kakve-nas-cene-avio-karata-cekaju-kad-odu-vizer-i-rajaner",
-        "summary": "Osim što iz Srbije praktično ne možete nigde vozom u inostranstvo osim do Crne Gore, od ove godine će napeto stanje u avio-industriji naterati građane da dva puta mere pre nego što uopšte krenu da razmišljaju o putovanju. Cene karata su već otišle uvis zbog opšteg stanja sa cenama goriva u svetu, ka",
-        "published": "2026-08-12T08:28:46",
-        "source": "Nova Ekonomija",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Dačić: Situacija bolja u Deliblatskoj pešćari, u požaru nema žrtava, ni izgorelih kuća",
-        "link": "https://novaekonomija.rs/vesti-iz-zemlje/dacic-situacija-bolja-u-deliblatskoj-pescari-u-pozaru-nema-zrtava-ni-izgorelih-kuca",
-        "summary": "Ministar unutrašnjih poslova Ivica Dačić izjavio je danas da u požaru u Deliblatskoj peščari nije bilo žrtava niti izgorelih kuća i da, u odnosu na prethodne dane, gašenje ide bolja, &#8222;ali i dalje je veoma teško&#8220; jer je teren nepristupačan. Dačić je novinarima rekao da je formiran Komandn",
-        "published": "2026-08-11T15:00:12",
         "source": "Nova Ekonomija",
         "sentiment": "neutral"
       }
@@ -825,12 +825,12 @@
     "Frankfurt": true,
     "Tokyo": false,
     "Hong Kong": false,
-    "Belgrade": true
+    "Belgrade": false
   },
   "sentiment_summary": {
     "macro": {
-      "positive": 5,
-      "negative": 2,
+      "positive": 4,
+      "negative": 3,
       "neutral": 11
     },
     "serbia": {
