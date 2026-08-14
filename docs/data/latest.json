@@ -1,6 +1,6 @@
 {
   "date": "2026-08-14",
-  "generated_at": "2026-08-14T13:41:26.075959+02:00",
+  "generated_at": "2026-08-14T14:46:17.126818+02:00",
   "market": {
     "indices": {
       "S&P 500": {
@@ -23,26 +23,26 @@
       },
       "DAX": {
         "symbol": "^GDAXI",
-        "price": 26494.2109,
-        "change_pct": 0.74,
+        "price": 26518.2305,
+        "change_pct": 0.83,
         "prev_close": 26299.7402
       },
       "Euro Stoxx 50": {
         "symbol": "^STOXX50E",
-        "price": 6563.02,
-        "change_pct": 0.27,
+        "price": 6561.7402,
+        "change_pct": 0.25,
         "prev_close": 6545.4702
       },
       "FTSE 100": {
         "symbol": "^FTSE",
-        "price": 10766.4004,
-        "change_pct": -0.06,
+        "price": 10773.4297,
+        "change_pct": 0.01,
         "prev_close": 10772.7002
       },
       "CAC 40": {
         "symbol": "^FCHI",
-        "price": 8653.3701,
-        "change_pct": 0.03,
+        "price": 8657.1699,
+        "change_pct": 0.08,
         "prev_close": 8650.5596
       },
       "Nikkei 225": {
@@ -123,68 +123,68 @@
     "fx_commodities": {
       "EUR/USD": {
         "symbol": "EURUSD=X",
-        "price": 1.1571,
-        "change_pct": 0.36,
+        "price": 1.157,
+        "change_pct": 0.35,
         "prev_close": 1.153
       },
       "GBP/USD": {
         "symbol": "GBPUSD=X",
-        "price": 1.354,
-        "change_pct": 0.31,
+        "price": 1.3539,
+        "change_pct": 0.3,
         "prev_close": 1.3498
       },
       "USD/CHF": {
         "symbol": "USDCHF=X",
-        "price": 0.812,
-        "change_pct": -0.1,
+        "price": 0.8116,
+        "change_pct": -0.16,
         "prev_close": 0.8129
       },
       "USD/JPY": {
         "symbol": "USDJPY=X",
-        "price": 159.125,
-        "change_pct": -0.13,
+        "price": 158.896,
+        "change_pct": -0.27,
         "prev_close": 159.328
       },
       "Gold": {
         "symbol": "GC=F",
-        "price": 4409.7002,
-        "change_pct": 1.06,
+        "price": 4440.2002,
+        "change_pct": 1.76,
         "prev_close": 4363.6001
       },
       "Silver": {
         "symbol": "SI=F",
-        "price": 64.9,
-        "change_pct": 0.04,
+        "price": 65.165,
+        "change_pct": 0.45,
         "prev_close": 64.873
       },
       "Brent Crude": {
         "symbol": "BZ=F",
-        "price": 87.16,
-        "change_pct": 0.1,
+        "price": 87.27,
+        "change_pct": 0.23,
         "prev_close": 87.07
       },
       "WTI Crude": {
         "symbol": "CL=F",
-        "price": 81.64,
-        "change_pct": 0.48,
+        "price": 81.62,
+        "change_pct": 0.46,
         "prev_close": 81.25
       },
       "Natural Gas": {
         "symbol": "NG=F",
-        "price": 2.747,
-        "change_pct": 0.73,
+        "price": 2.768,
+        "change_pct": 1.5,
         "prev_close": 2.727
       },
       "Copper": {
         "symbol": "HG=F",
-        "price": 6.5965,
-        "change_pct": 0.06,
+        "price": 6.5995,
+        "change_pct": 0.11,
         "prev_close": 6.5925
       },
       "Wheat": {
         "symbol": "ZW=F",
-        "price": 682.25,
-        "change_pct": 4.52,
+        "price": 680.0,
+        "change_pct": 4.17,
         "prev_close": 652.75
       }
     },
@@ -197,25 +197,25 @@
       },
       "US 10Y Yield": {
         "symbol": "^TNX",
-        "price": 4.641,
-        "change_pct": -0.88,
-        "prev_close": 4.682
+        "price": 4.645,
+        "change_pct": 0.09,
+        "prev_close": 4.641
       },
       "US 2Y Yield": {
         "symbol": "^IRX",
-        "price": 3.705,
-        "change_pct": -0.05,
-        "prev_close": 3.707
+        "price": 3.697,
+        "change_pct": -0.22,
+        "prev_close": 3.705
       },
       "US 30Y Yield": {
         "symbol": "^TYX",
-        "price": 5.213,
-        "change_pct": -0.65,
-        "prev_close": 5.247
+        "price": 5.233,
+        "change_pct": 0.38,
+        "prev_close": 5.213
       },
       "2s10s Spread": {
         "symbol": "SPREAD",
-        "price": 0.936,
+        "price": 0.948,
         "change_pct": null,
         "note": "positive = normal curve, negative = inverted (recession signal)"
       }
@@ -508,18 +508,18 @@
         "sentiment": "positive"
       },
       {
-        "title": "Pakistan and the new great game of Risk",
-        "link": "https://www.ft.com/content/a9573d72-7bb2-462f-83d7-c0fe36f8c98d?syn-25a6b1a6=1",
-        "summary": "Islamabad has bold ambitions to play a more proactive role in the world",
-        "published": "2026-08-14T04:00:14",
+        "title": "Everyone but me is getting excited about European equities",
+        "link": "https://www.ft.com/content/63ac111b-c841-4134-9751-f7cc419ae5c5",
+        "summary": "It doesn’t matter which index you buy, and that tells you everything you need to know",
+        "published": "2026-08-14T10:59:55",
         "source": "UK homepage",
-        "sentiment": "negative"
+        "sentiment": "neutral"
       },
       {
-        "title": "The quest to find the world’s best honey",
-        "link": "https://www.ft.com/content/77816bbf-0316-4a73-8121-cfa22e6235be?syn-25a6b1a6=1",
-        "summary": "Since ancient times, Turkey has sought to make the world’s finest and now most expensive product",
-        "published": "2026-08-14T04:00:05",
+        "title": "Why Homer will outlast us all",
+        "link": "https://www.ft.com/content/2a2a8eed-3986-42b5-acde-230dcdffaf25?syn-25a6b1a6=1",
+        "summary": "Heated rows over $1bn-grossing movie reflect The Odyssey’s enduring force",
+        "published": "2026-08-14T12:19:49",
         "source": "UK homepage",
         "sentiment": "neutral"
       },
@@ -622,51 +622,83 @@
     ],
     "serbia": [
       {
-        "title": "Policija u Staroj Pazovi uhapsila muškarca, u stanu pronađeno 270 grama amfetamina",
-        "link": "https://n1info.rs/vesti/policija-u-staroj-pazovi-uhapsila-muskarca-u-stanu-pronadjeno-270-grama-amfetamina/",
-        "summary": "Policija iz Stare Pazove uhapsila je tridesetsedmogodišnjeg M.M, pošto je u stanu gde boravi pronašla i oduzela oko 270 grama amfetamina, saopštilo je",
-        "published": "2026-08-14T11:35:56",
+        "title": "Grbović: Ako izbori budu u oktobru, penzioneri dobijaju jednokratnu pomoć u toku kampanje",
+        "link": "https://n1info.rs/vesti/grbovic-ako-izbori-budu-u-oktobru-penzioneri-dobijaju-jednokratnu-pomoc-u-toku-kampanje/",
+        "summary": "Predsednik Pokreta slobodnih građana (PSG) Pavle Grbović je, komentarišući najavu predsednika Srbije Aleksandra Vučića da će penzionerima biti isplaće",
+        "published": "2026-08-14T12:43:11",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Pokrenuta humanitarna akcija prikupljanja knjiga za decu u Zrenjaninu",
-        "link": "https://n1info.rs/vesti/pokrenuta-humanitarna-akcija-prikupljanja-knjiga-za-decu-u-zrenjaninu/",
-        "summary": "Neformalno udruženje \"Tate za decu\" iz Zrenjanina pokrenulo je humanitarnu akciju \"Za svako dete jedna knjiga\".",
-        "published": "2026-08-14T11:35:15",
+        "title": "Krtice za metro polaze iz Kine ka Srbiji, očekuje se da stignu u Evropu do oktobra",
+        "link": "https://n1info.rs/vesti/krtice-za-metro-polaze-iz-kine-ka-srbiji-ocekuje-se-da-stignu-u-evropu-do-oktobra/",
+        "summary": "Javno-komunalno preduzeće \"Beogradski voz i metro\" saopštilo je danas da dve mašine za bušenje tunela (Tunnel Boring Machine - TBM), poznatije kao \"kr",
+        "published": "2026-08-14T12:34:28",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Na respiratoru i tinejdžerka, pojedinima 60 odsto tela u opekotinama: Stanje povređenih u velikom požaru u Omišu",
-        "link": "https://n1info.rs/region/povredjeni-omis-pozar-hrvatska/",
-        "summary": "U splitskoj bolnici tokom noći i petka zbrinuto je ukupno 40 pacijenata povređenih u požaru u Omišu, od kojih je 14 hospitalizovano, a sedam ih je na",
-        "published": "2026-08-14T11:33:17",
+        "title": "Mađarski Ustavni sud odbacio prigovor na ustavni amandman, odluka o 16,4 milijarde evra iz EU tek sledi",
+        "link": "https://n1info.rs/svet/madjarski-ustavni-sud-ustavni-amandman-164-milijarde-evra-eu/",
+        "summary": "Ustavni sud Mađarske je bez razmatranja njegove suštine, odnosno sadržaja odbacio u četvrtak, 13. avgusta predlog parlamentarnih poslanika Fides-KDNP",
+        "published": "2026-08-14T12:25:46",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Petrović: Vlast ne može da sakrije policijsku brutalnost, zlostavljanje i mučenje u Valjevu - zato pravi inverziju stvarnosti",
-        "link": "https://n1info.rs/vesti/petrovic-vlast-ne-moze-da-sakrije-policijsku-brutalnost-u-valjevu/",
-        "summary": "Vlast ne može da sakrije policijsku brutalnost, koja je zapravo bila zlostavljanje i mučenje građana u Valjevu prošlog avgusta, kaže Predrag Petrović",
-        "published": "2026-08-14T11:29:54",
+        "title": "Izraz solidarnosti i poštovanja prema ljudskim životima - a ne \"satanistički čin\": Valjevski studenti o Vučićevoj kvalifikaciji 16 minuta tišine",
+        "link": "https://n1info.rs/vesti/studenti-valjevo-vucic-16-minuta-tisine/",
+        "summary": "Studenti koji žive i studiraju u Valjevu, večeras organizuju veliki protest u ovom gradu, a pred sam skup pozvali su ministra policije Ivicu Dačića da",
+        "published": "2026-08-14T12:25:09",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Turska opoziciona Nova partija ozbiljan izazov za Erdogana",
-        "link": "https://n1info.rs/svet/turska-opoziciona-nova-partija-ozbiljan-izazov-za-erdogana/",
-        "summary": "Turski predsednik Redžep Tajip Erdogan suočio se sa ozbiljnim izazovom pošto je tek nedavno osnovana partija opozicionog političara Ozgura Ozela u naj",
-        "published": "2026-08-14T11:27:10",
+        "title": "Statistics Office says farming expenses up",
+        "link": "https://n1info.rs/english/news/statistics-office-says-farming-expenses-up/",
+        "summary": "The Serbian Statistics Office (RZS) said on Friday that agricultural expenses rose 2.5% in Q2 2026 compared with the same period a year earlier.",
+        "published": "2026-08-14T12:20:38",
+        "source": "N1 Info RS - Feed",
+        "sentiment": "positive"
+      },
+      {
+        "title": "\"Verski influenser\" Elvedin Pezić uhapšen na Kosovu istog dana kada i čovek osumnjičen za saradnju sa BIA",
+        "link": "https://n1info.rs/vesti/verski-influenser-elvedin-pezic-uhapsen-na-kosovu/",
+        "summary": "Islamski propovednik iz Bosne i Hercegovine Elvedin Pezić priveden je juče popodne u Vitomirici kod Peći, što je od sinoć jedna od ključnih vesti više",
+        "published": "2026-08-14T12:17:31",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "\"Thank you\", od porodice iz Srbije: Poruka zahvalnosti grčkim pilotima za njihov predan rad tokom gašenja požara",
-        "link": "https://n1info.rs/vesti/poruka-zahvalnosti-grckim-pilotima/",
-        "summary": "Beogradska porodica napisala je poruku zahvalnosti u pesku kanaderima koji su gasili požar pored njihovog smeštaja u Siviri, Grčkoj - \"Thank you\".",
-        "published": "2026-08-14T11:22:16",
-        "source": "N1 Info RS - Feed",
+        "title": "Vlada Srbije iznela nov predlog za minimalnu zaradu - povećanje od 9,2 odsto",
+        "link": "https://biznis.telegraf.rs/novcanik/4378302-vlada-srbije-iznela-nov-predlog-za-minimalnu-zaradu-povecanje-od-92-odsto",
+        "summary": "Predstavnici Vlade Srbije su na današnjem sastanku sa predstavnicima poslodavaca i sindikata o minimalnoj ceni rada za narednu godinu predložili da se minimalac.",
+        "published": "2026-08-14T12:12:24",
+        "source": "Telegraf.rs",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Stiže 40 miliona dinara za privredu na selu: Hiljade preduzetnika će moći da konkurišu, evo detalja!",
+        "link": "https://biznis.telegraf.rs/info-biz/4378264-stize-40-miliona-dinara-za-privredu-na-selu-hiljade-preduzetnika-ce-moci-da-konkurisu-evo-detalja",
+        "summary": "Ministar za brigu o selu Milan Krkobabić svečano je danas potpisao ugovore sa prestavnicima 13 lokalnih samouprava koje su dobitnici sredstava za podršku.",
+        "published": "2026-08-14T12:00:57",
+        "source": "Telegraf.rs",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "\"Krtice\" koje će kopati tunele za beogradski metro krenule put Srbije",
+        "link": "https://biznis.telegraf.rs/info-biz/4378291-krtice-koje-ce-kopati-tunele-za-beogradski-metro-krenule-put-srbije",
+        "summary": "Dve TBM mašine, poznatije kao \"krtice\", koje će graditi podzemne tunele prve linije beogradskog metroa, kreću iz Kine ka Srbiji.",
+        "published": "2026-08-14T12:12:50",
+        "source": "Telegraf.rs",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Srbija nadmašila sedam članica EU: Evo koliko vredi naš minimalac kada se uporedi kupovna moć!",
+        "link": "https://biznis.telegraf.rs/info-biz/4378286-srbija-nadmasila-sedam-clanica-eu-evo-koliko-vredi-nas-minimalac-kada-se-uporedi-kupovna-moc",
+        "summary": "Srbija je po kupovnoj moći minimalne zarade nadmašila sedam članica Evropske unije, pokazuje izveštaj Evrostata.",
+        "published": "2026-08-14T11:44:03",
+        "source": "Telegraf.rs",
         "sentiment": "neutral"
       },
       {
@@ -678,43 +710,19 @@
         "sentiment": "neutral"
       },
       {
-        "title": "Jedna era Instagrama je završena - posle decenije stigao novi izgled: \"Vreme je za osveženje\"",
-        "link": "https://biznis.telegraf.rs/info-biz/4378233-jedna-era-instagrama-je-zavrsena-posle-decenije-stigao-novi-izgled-vreme-je-za-osvezenje",
-        "summary": "Društvena mreža i kompanija Instagram, u vlasništvu korporacije Meta, predstavila je novi tekstualni logo, odnosno način na koji se ispisuje naziv platforme,.",
-        "published": "2026-08-14T10:35:53",
+        "title": "Prekretnica u najvećem projektu Moskve i Pekinga: Počelo punjenje nuklearnog goriva u 7. blok NE \"Tjanvan\"",
+        "link": "https://biznis.telegraf.rs/biz-odrzivost/obnovljiva-energija/4378324-prekretnica-u-najvecem-projektu-moskve-i-pekinga-pocelo-punjenje-nuklearnog-goriva-u-7-blok-ne-tjanvan",
+        "summary": "Nuklearna elektrana \"Tjanvan\" u Kini, najveći projekat ekonomske i energetske saradnje između Rusije i Kine, ušla je u završnu fazu realizacije izgradnje sedmog.",
+        "published": "2026-08-14T12:27:14",
         "source": "Telegraf.rs",
         "sentiment": "neutral"
       },
       {
-        "title": "Glamočić: \"Ne može više svako da dobija isto“ - Nova pravila za podsticaje u poljoprivredi",
-        "link": "https://biznis.telegraf.rs/agro-biz/4378217-glamocic-ne-moze-vise-svako-da-dobija-isto-nova-pravila-za-podsticaje-u-poljoprivredi",
-        "summary": "Strategija poljoprivrede do 2034. godine koju je usvojila Vlada Srbije doneće važne promene, jer poljoprivreda više neće da se meri time koliko je novca.",
-        "published": "2026-08-14T10:24:19",
-        "source": "Telegraf.rs",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Penzionerima i do 35.000 dinara, građanima 6.000: Predsednik Srbije otkrio detaljan kalendar isplata",
-        "link": "https://biznis.telegraf.rs/novcanik/4378213-penzionerima-i-do-35000-dinara-gradjanima-6000-predsednik-srbije-otkrio-detaljan-kalendar-isplata",
-        "summary": "Prijava za 6.000 dinara počinje 7. septembra, dok isplate za penzionere kreću 14. septembra. Predsednik Srbije otkrio tačan kalendar i detalje.",
-        "published": "2026-08-14T10:43:57",
-        "source": "Telegraf.rs",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Da li umete da prepoznate falsifikovanu novčanicu? Stručnjak otkriva jednostavan test",
-        "link": "https://biznis.telegraf.rs/novcanik/4378197-da-li-umete-da-prepoznate-falsifikovanu-novcanicu-nbs-otkriva-jednostavan-test",
-        "summary": "Saznajte kako da na dodir proverite da li je novčanica lažna i koji se apoen dinara najčešće falsifikuje u Srbiji. Stručnjak iz NBS objašnjava jednostavan trik.",
-        "published": "2026-08-14T09:51:15",
-        "source": "Telegraf.rs",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Milijarde ostale na evropskoj strani: Evrozona ponovo u plusu, suficit dostigao 8,6 milijardi evra",
-        "link": "https://biznis.telegraf.rs/info-biz/4378198-milijarde-ostale-na-evropskoj-strani-evrozona-ponovo-u-plusu-suficit-dostigao-86-milijardi-evra",
-        "summary": "Evrozona je u junu ostvarila suficit u trgovini robom sa ostatkom sveta od 8,6 milijardi evra, pokazuje danas objavljena prva procena Evrostata.",
-        "published": "2026-08-14T09:49:00",
-        "source": "Telegraf.rs",
+        "title": "Objavljeno kada „krtice“ za metro stižu u Srbiju i počinju sa radom",
+        "link": "https://novaekonomija.rs/vesti-iz-zemlje/objavljeno-kada-krtice-za-metro-stizu-u-srbiju-i-pocinju-sa-radom",
+        "summary": "Javno-komunalno preduzeće &#8222;Beogradski voz i metro&#8220; saopštilo je danas da dve mašine za bušenje tunela (Tunnel Boring Machine &#8211; TBM), poznatije kao &#8222;krtice&#8220; koje će kopati tunele prve linije beogradskog metroa, kreću iz Kine ka Srbiji, i da se očekuje da u Evropu stignu",
+        "published": "2026-08-14T12:26:15",
+        "source": "Nova Ekonomija",
         "sentiment": "neutral"
       },
       {
@@ -754,14 +762,6 @@
         "link": "https://novaekonomija.rs/vesti-iz-zemlje/srbiji-uskoro-sledi-poskupljenje-hrane-opsta-inflacija-i-slaba-privreda-sta-nas-sve-ceka-zbog-suse-i-vodostaja",
         "summary": "Dok se u Evropskoj uniji presabiru i ocenjuju da će suša ove godine skoro pa poništiti sav rast privrede koju su očekivali, u Srbiji je situacija, kao i uvek, malo drugačija. Pojedinačni sektori poput energetike i agrara direktno su pogođeni sušom i niskim vodostajem, ali skoro niko ne pominje utica",
         "published": "2026-08-14T08:37:14",
-        "source": "Nova Ekonomija",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Raiffeisen banka osvojila šest priznanja Global Finance za digitalno bankarstvo u Srbiji",
-        "link": "https://novaekonomija.rs/vesti-iz-zemlje/raiffeisen-banka-osvojila-sest-priznanja-global-finance-za-digitalno-bankarstvo-u-srbiji",
-        "summary": "Raiffeisen banka proglašena je za Najbolju digitalnu banku za stanovništvo u Srbiji za 2026. godinu, u okviru izbora renomiranog međunarodnog finansijskog magazina Global Finance. Banka je osvojila još pet priznanja u okviru nagrada World’s Best Consumer Digital Bank Awards 2026 i to za: najbolju ap",
-        "published": "2026-08-14T07:00:00",
         "source": "Nova Ekonomija",
         "sentiment": "neutral"
       }
@@ -825,18 +825,18 @@
     "Frankfurt": true,
     "Tokyo": false,
     "Hong Kong": false,
-    "Belgrade": true
+    "Belgrade": false
   },
   "sentiment_summary": {
     "macro": {
       "positive": 4,
-      "negative": 3,
-      "neutral": 11
+      "negative": 2,
+      "neutral": 12
     },
     "serbia": {
-      "positive": 0,
+      "positive": 1,
       "negative": 0,
-      "neutral": 18
+      "neutral": 17
     }
   }
 }
