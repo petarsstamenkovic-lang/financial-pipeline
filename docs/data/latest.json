@@ -1,6 +1,6 @@
 {
   "date": "2026-08-17",
-  "generated_at": "2026-08-17T13:19:58.858495+02:00",
+  "generated_at": "2026-08-17T14:27:15.284985+02:00",
   "market": {
     "indices": {
       "S&P 500": {
@@ -23,26 +23,26 @@
       },
       "DAX": {
         "symbol": "^GDAXI",
-        "price": 26449.6094,
-        "change_pct": 0.04,
+        "price": 26435.0605,
+        "change_pct": -0.02,
         "prev_close": 26440.3105
       },
       "Euro Stoxx 50": {
         "symbol": "^STOXX50E",
-        "price": 6560.4399,
-        "change_pct": 0.32,
+        "price": 6553.2202,
+        "change_pct": 0.21,
         "prev_close": 6539.5898
       },
       "FTSE 100": {
         "symbol": "^FTSE",
-        "price": 10763.4697,
-        "change_pct": 0.12,
+        "price": 10754.1504,
+        "change_pct": 0.04,
         "prev_close": 10750.0996
       },
       "CAC 40": {
         "symbol": "^FCHI",
-        "price": 8626.9502,
-        "change_pct": -0.11,
+        "price": 8613.21,
+        "change_pct": -0.27,
         "prev_close": 8636.7998
       },
       "Nikkei 225": {
@@ -123,76 +123,76 @@
     "fx_commodities": {
       "EUR/USD": {
         "symbol": "EURUSD=X",
-        "price": 1.1594,
-        "change_pct": 0.56,
+        "price": 1.1597,
+        "change_pct": 0.58,
         "prev_close": 1.153
       },
       "GBP/USD": {
         "symbol": "GBPUSD=X",
-        "price": 1.3556,
-        "change_pct": 0.49,
+        "price": 1.356,
+        "change_pct": 0.52,
         "prev_close": 1.3491
       },
       "USD/CHF": {
         "symbol": "USDCHF=X",
-        "price": 0.8104,
-        "change_pct": -0.46,
+        "price": 0.8099,
+        "change_pct": -0.52,
         "prev_close": 0.8141
       },
       "USD/JPY": {
         "symbol": "USDJPY=X",
-        "price": 159.192,
-        "change_pct": -0.15,
+        "price": 159.223,
+        "change_pct": -0.13,
         "prev_close": 159.426
       },
       "Gold": {
         "symbol": "GC=F",
-        "price": 4457.6001,
-        "change_pct": 1.76,
+        "price": 4450.0,
+        "change_pct": 1.59,
         "prev_close": 4380.3999
       },
       "Silver": {
         "symbol": "SI=F",
-        "price": 65.75,
-        "change_pct": 1.17,
+        "price": 65.8,
+        "change_pct": 1.25,
         "prev_close": 64.988
       },
       "Brent Crude": {
         "symbol": "BZ=F",
-        "price": 89.29,
-        "change_pct": 0.87,
+        "price": 88.7,
+        "change_pct": 0.2,
         "prev_close": 88.52
       },
       "WTI Crude": {
         "symbol": "CL=F",
-        "price": 82.86,
-        "change_pct": 0.56,
+        "price": 82.32,
+        "change_pct": -0.1,
         "prev_close": 82.4
       },
       "Natural Gas": {
         "symbol": "NG=F",
-        "price": 2.657,
-        "change_pct": -2.78,
+        "price": 2.671,
+        "change_pct": -2.27,
         "prev_close": 2.733
       },
       "Copper": {
         "symbol": "HG=F",
-        "price": 6.6985,
-        "change_pct": 1.5,
+        "price": 6.672,
+        "change_pct": 1.1,
         "prev_close": 6.5995
       },
       "Wheat": {
         "symbol": "ZW=F",
-        "price": 682.75,
-        "change_pct": 1.19,
+        "price": 685.5,
+        "change_pct": 1.59,
         "prev_close": 674.75
       }
     },
     "rates": {
       "VIX": {
         "symbol": "^VIX",
-        "price": 14.92,
-        "change_pct": 4.7,
+        "price": 14.94,
+        "change_pct": 4.84,
         "prev_close": 14.25
       },
       "US 10Y Yield": {
@@ -504,18 +504,18 @@
         "sentiment": "neutral"
       },
       {
-        "title": "Kushner to hold talks with Netanyahu after meeting Hamas leader",
-        "link": "https://www.ft.com/content/eea1da3e-1c1c-4957-ad9d-f0372b2694f0?syn-25a6b1a6=1",
-        "summary": "Donald Trump’s son-in-law and envoy is pushing Washington’s peace plan for Gaza",
-        "published": "2026-08-17T08:26:57",
+        "title": "Trump threatens to bomb Oman if it ‘gets in the way’ of US-Iran negotiations",
+        "link": "https://www.ft.com/content/d4d07198-498d-48d1-9e54-85f1febcd070",
+        "summary": "Remarks come as Gulf state has been in talks with Tehran over provisional arrangement to manage Strait of Hormuz",
+        "published": "2026-08-17T11:25:49",
         "source": "UK homepage",
         "sentiment": "neutral"
       },
       {
-        "title": "Far-right Israeli minister advocates killing ‘30 to 40’ Gazans each night",
-        "link": "https://www.ft.com/content/f6b953fc-a6ad-48cd-bed1-d42619b57d94?syn-25a6b1a6=1",
-        "summary": "Itamar Ben-Gvir also calls for re-establishment of Jewish settlements in the Palestinian enclave",
-        "published": "2026-08-16T18:43:10",
+        "title": "Burnham exchanged texts with person posing as Trump’s chief of staff",
+        "link": "https://www.ft.com/content/a1079593-c334-444e-84a1-2ef65839f1a7?syn-25a6b1a6=1",
+        "summary": "UK prime minister was contacted by someone claiming to be Susie Wiles",
+        "published": "2026-08-17T08:11:01",
         "source": "UK homepage",
         "sentiment": "neutral"
       },
@@ -618,58 +618,90 @@
     ],
     "serbia": [
       {
-        "title": "Novi dan u utorak: Šta se krije iza pada na Šangajskoj listi",
-        "link": "https://n1info.rs/najave-emisija/novi-dan-u-utorak-sta-se-krije-iza-pada-na-sangajskoj-listi/",
-        "summary": "Univerzitet u Beogradu i Univerzitet u Novom Sadu pali su na Šangajskoj listi, što  otvara pitanja finansiranja nauke, položaja profesora i budućnosti",
-        "published": "2026-08-17T11:18:38",
+        "title": "Slobodna Dalamacija: Oprosti Dragana, umesto da noću pališ, ti si došla čistiti naše apartmane",
+        "link": "https://n1info.rs/region/dragana-antesevic-omis-slobodna-dalmacija/",
+        "summary": "Dragana Antešević (34) iz Kotor Varoši stradala je u velikom požaru u Omišu, gde je boravila kao sezonska radnica.",
+        "published": "2026-08-17T12:25:19",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Pavkov: Predlog plana obnove Delibatske peščare trebalo bi da bude spreman za nedelju dana",
-        "link": "https://n1info.rs/zeleni-kutak/sara-pavkov-predlog-plana-obnove-delibatske-pescare-pozar/",
-        "summary": "Ministarka zaštite životne sredine Sara Pavkov izjavila je da bi prvi predlog plana sanacije i obnove Deliblatske peščare, za period od 2027. do 2031.",
-        "published": "2026-08-17T11:16:01",
+        "title": "U utorak sednica SES o minimalcu: Sindikati traže 650 evra, država nudi 600",
+        "link": "https://n1info.rs/biznis/u-utorak-sednica-ses-o-minimalcu-sindikati-traze-650-evra-drzava-nudi-600/",
+        "summary": "Vlada Srbije najavila je za sutra sednicu Socijalno-ekonomskog saveta o minimalnoj ceni rada u 2027. godini.",
+        "published": "2026-08-17T12:24:25",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Iran tvrdi da je postigao sporazum sa Omanom o tranzitu brodova kroz Ormuski moreuz",
-        "link": "https://n1info.rs/svet/iran-sporazum-oman-ormuski-moreuz/",
-        "summary": "Iran tvrdi da je postigao sporazum sa Omanom o planu za tranzit brodova kroz Ormuski moreuz i da sada dve zemlje rade na finalizaciji zajedničke izjav",
-        "published": "2026-08-17T11:15:48",
+        "title": "Narodni muzej organizuje izložbe, radionice i koncerte na više lokacija u Beogradu",
+        "link": "https://n1info.rs/vesti/narodni-muzej-organizuje-izlozbe-radionice-i-koncerte/",
+        "summary": "Narodni muzej Srbije najavio je da će ove nedelje na više lokacija u Beogradu biti organizovane izložbe, radionice, razgovori i koncerti u okviru prog",
+        "published": "2026-08-17T12:15:34",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Netanjahuov Likud na bilbord stavio gradonačelnika Njujorka, uz Erdogana, iranskog vrhovnog vođu i lidera iz Hezbolaha: \"Ne dajte im da pobede\"",
-        "link": "https://n1info.rs/svet/netanjahuov-likud-na-bilbord-stavio-gradonacelnika-njujorka-uz-erdogana-iranskog-vrhovnog-vodju-i-lidera-iz-hezbolaha-ne-dajte-im-da-pobede/",
-        "summary": "Partija Likud Benjamina Netanjahua stavila je na reklamni poster gradonačelnika Njujorka Zorana Mamdanija uz lidere Irana i Hezbolaha, u sklopu kampan",
-        "published": "2026-08-17T11:14:13",
+        "title": "Valjevo prosecutor to N1: My first step is moving my family out of town",
+        "link": "https://n1info.rs/english/news/valjevo-prosecutor-to-n1-my-first-step-is-moving-my-family-out-of-town/",
+        "summary": "Following the arson attack on his car over the weekend, Valjevo prosecutor Vukasin Vujicic told N1 that his immediate priority is relocating his wife",
+        "published": "2026-08-17T12:12:15",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Hrvatska policija: Osumnjičene četiri osobe za izazivanje požara na 10 lokacija kod Zadra",
-        "link": "https://n1info.rs/region/hrvatska-policija-osumnjicene-cetiri-osobe-za-izazivanje-pozara-na-10-lokacija-kod-zadra/",
-        "summary": "Hrvatska policija uhapsila je četiri osobe zbog sumnje da su izazvali požare na deset lokacija u rejonu Zadra. Kod dvojice uhapšenih, prilikom pretres",
-        "published": "2026-08-17T11:11:24",
+        "title": "Fil Kolins o borbi sa alkoholizmom: \"Bio sam blizu smrti\"",
+        "link": "https://n1info.rs/magazin/showbiz/fil-kolins-progovorio-o-borbi-sa-alkoholizmom-bio-sam-blizu-smrti/",
+        "summary": "Bivši član Genesisa otkrio da su mu jetra i bubrezi bili pred otkazivanjem, i da već tri godine ne pije.",
+        "published": "2026-08-17T12:04:05",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Akademski plenum: Šangajska lista ne meri političku podobnost rektora Đokića",
-        "link": "https://n1info.rs/vesti/akademski-plenum-sangajska-lista-ne-meri-politicku-podobnost-rektora-djokica/",
-        "summary": "Kampanja koju vlast vodi protiv visokog obrazovanja, a posebno protiv Univerziteta u Beogradu, dobila je novi oblik tvrdnjom predsednika Vlade Đure Ma",
-        "published": "2026-08-17T11:09:49",
+        "title": "A11: Komunalna inspekcija najavila protivzakonito iseljenje na Voždovcu, ugrožen jedini dom za više od 30 građana",
+        "link": "https://n1info.rs/vesti/inicijativa-a11-prinudno-iseljenje-romi-vozdovac/",
+        "summary": "Više od 30 Roma i Romkinja, među kojima je 15 dece - uključujući tromesečnu bebu i staricu od preko osamdeset godina, na meti su prinudnog iseljenja i",
+        "published": "2026-08-17T12:00:48",
         "source": "N1 Info RS - Feed",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Dobri signali iz srpske privrede, dva rizika ostaju - energenti i globalne tenzije: Evo šta je najpozitivnije",
+        "link": "https://biznis.telegraf.rs/info-biz/4379839-dobri-signali-iz-srpske-privrede-dva-rizika-ostaju-energenti-i-globalne-tenzije-evo-sta-je-najpozitivnije",
+        "summary": "Podrška inovacijama, digitalizaciji i primeni veštačke inteligencije u privredi, kao i malim biznisima, ženskom i socijalnom preduzetništvu, među ključnim su.",
+        "published": "2026-08-17T12:21:29",
+        "source": "Telegraf.rs",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Kritičan dan u Deliblatskoj peščari: Vatra preti farmi sa više od 100 životinja",
+        "link": "https://biznis.telegraf.rs/agro-biz/4379837-kritican-dan-u-deliblatskoj-pescari-vatra-preti-farmi-sa-vise-od-100-zivotinja",
+        "summary": "Ministar poljoprivrede, vodoprivrede i šumarstva Dragan Glamočić posetio je danas farmu stoke u okviru područja Specijalnog rezervata prirode Deliblatska.",
+        "published": "2026-08-17T12:11:54",
+        "source": "Telegraf.rs",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Australijanku zapanjio prizor na jadranskoj plaži: \"Ovakvo nešto ne bih pronašla nigde drugde u Evropi\"",
+        "link": "https://biznis.telegraf.rs/info-biz/4378375-australijanku-zapanjio-prizor-na-jadranskoj-plazi-ovakvo-nesto-ne-bih-pronasla-nigde-drugde-u-evropi",
+        "summary": "Neke svakodnevne stvari koje su lokalcima potpuno normalne strancima mogu izgledati prilično neobično.",
+        "published": "2026-08-17T11:49:16",
+        "source": "Telegraf.rs",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Mislite da znate šta jedete? Ovo svi imamo u kuhinji, plaćate premium cenu, a dobijate jeftinu zamenu",
+        "link": "https://biznis.telegraf.rs/info-biz/4379800-mislite-da-znate-sta-jedete-ovo-svi-imamo-u-kuhinji-placate-premium-cenu-a-dobijate-jeftinu-zamenu",
+        "summary": "Mislite da znate šta jedete? Krivotvore čak i pirinač, kafu i sir, a razliku je gotovo nemoguće primetiti",
+        "published": "2026-08-17T11:42:46",
+        "source": "Telegraf.rs",
         "sentiment": "neutral"
       },
       {
         "title": "Sutra odluka o minimalcu? Poslodavci pristali na 600 evra, sindikati traže još - evo šta vam sleduje",
         "link": "https://biznis.telegraf.rs/info-biz/4379755-sutra-odluka-o-minimalcu-poslodavci-pristali-na-600-evra-sindikati-traze-jos-evo-sta-vam-sleduje",
         "summary": "Sednica Socijalno-ekonomskog saveta (SES) Srbije biće održana u utorak, 18. avgusta u 10 časova, objavljeno je danas na sajtu SES-a, a kako je ranije za Tanjug.",
-        "published": "2026-08-17T10:59:19",
+        "published": "2026-08-17T11:44:12",
         "source": "Telegraf.rs",
         "sentiment": "neutral"
       },
@@ -682,35 +714,27 @@
         "sentiment": "neutral"
       },
       {
-        "title": "Hrvati se obogatili čak 29% za samo pet godina: Po rastu imovine treći na svetu, evo i šta stoji iza toga",
-        "link": "https://biznis.telegraf.rs/info-biz/4379702-hrvati-se-obogatili-cak-29-za-samo-pet-godina-po-rastu-imovine-treci-na-svetu-evo-i-sta-stoji-iza-toga",
-        "summary": "Verovali ili ne, Hrvati su među najvećim dobitnicima na svetu: Imovina im porasla čak 29% za pet godina",
-        "published": "2026-08-17T10:20:35",
-        "source": "Telegraf.rs",
+        "title": "Nastavlja se nesmetani rast na tržištu nekretnina: Za tri meseca dato čak 742 miliona evra na kupovinu stanova",
+        "link": "https://novaekonomija.rs/vesti-iz-zemlje/rgz-vrednost-trzista-nepokretnosti-u-srbiji-u-drugom-kvartalu-22-milijarde-evra-rast-81-odsto",
+        "summary": "Vrednost tržišta nepokretnosti u Srbiji u drugom kvartalu ove godine iznosi je 2,2 milijarde evra, što je rast od 8,1 odsto u odnosu na isti period prethodne godine, objavio je danas Republički geodetski zavod (RGZ). Sklopljeno je 30.495 kupoprodajnih ugovora, 5,4 odsto manje nego u drugom kvartalu",
+        "published": "2026-08-17T11:30:57",
+        "source": "Nova Ekonomija",
         "sentiment": "neutral"
       },
       {
-        "title": "Deliblatska peščara dobija veliki plan obnove: Sanacija od 2027. do 2031. godine",
-        "link": "https://biznis.telegraf.rs/info-biz/4379693-deliblatska-pescara-dobija-veliki-plan-obnove-sanacija-od-2027-do-2031-godine",
-        "summary": "Prvi predlog plana sanacije i obnove Deliblatske peščare, koji će obuhvatiti period od 2027. do 2031.",
-        "published": "2026-08-17T10:41:04",
-        "source": "Telegraf.rs",
+        "title": "Udruženje poljoprivrednika Stig pozvalo proizvođače suncokreta na sastanak zbog niske otkupne cene",
+        "link": "https://novaekonomija.rs/vesti-iz-zemlje/udruzenje-poljoprivrednika-stig-pozvalo-proizvodjace-suncokreta-na-sastanak-zbog-niske-otkupne-cene",
+        "summary": "Predsednik udruženja poljoprivrednika &#8222;Stig&#8220; Nedeljko Savić pozvao je danas udruženja poljoprivrednika iz Srbije na sastanak kako bi doneli odluku šta da preduzmu zbog niske akontne otkupne cene suncokreta. Uljare su se, kako je naveo, dogovorile da ponude jedinstvenzu akontnu (početnu)",
+        "published": "2026-08-17T11:24:26",
+        "source": "Nova Ekonomija",
         "sentiment": "neutral"
       },
       {
-        "title": "Važna vest za srpske turiste: Od ponoći na hrvatskim pumpama važe nove cene goriva",
-        "link": "https://biznis.telegraf.rs/info-biz/4379695-vazna-vest-za-srpske-turiste-od-ponoci-na-hrvatskim-pumpama-vaze-nove-cene-goriva",
-        "summary": "Vlada Hrvatske donela je nove uredbe o regulisanju cena goriva. Saznajte za koliko su poskupeli benzin, dizel i TNG i koje će cene važiti u narednih 7 dana.",
-        "published": "2026-08-17T10:22:43",
-        "source": "Telegraf.rs",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Voće staro 2.000 godina donelo im 48 miliona evra: Sada žele da osvoje svetsko tržište",
-        "link": "https://biznis.telegraf.rs/agro-biz/4379652-voce-staro-2000-godina-donelo-im-48-miliona-evra-sada-zele-da-osvoje-svetsko-trziste",
-        "summary": "Azerbejdžan pretvara nar, voće sa kulturnom istorijom dugom 2.000 godina, u globalni brend, sa 48,2 miliona evra izvoza i više od 200 uzgajanih sorti, čime.",
-        "published": "2026-08-17T09:55:25",
-        "source": "Telegraf.rs",
+        "title": "Vlada donela odluku o izradi Prostornog plana razvoja rudnika Jama Bor",
+        "link": "https://novaekonomija.rs/vesti-iz-zemlje/vlada-donela-odluku-o-izradi-prostornog-plana-razvoja-rudnika-jama-bor",
+        "summary": "Vlada Srbije donela je odluku o izradi Prostornog plana područja posebne namene razvoja rudnika Jama Bor čime je otvoren put za dalje širenje rudarskih kapaciteta u Boru, piše danas portal eKapija. Kako je navedeno, Prostorni plan obuhvatiće delove katastarskih opština Bor 1, Bor 2 i Oštrelj, a njeg",
+        "published": "2026-08-17T11:20:24",
+        "source": "Nova Ekonomija",
         "sentiment": "neutral"
       },
       {
@@ -736,34 +760,15 @@
         "published": "2026-08-17T08:55:27",
         "source": "Nova Ekonomija",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Novi Beograd na vodi: Između Gazele i Mosta na Adi niču kule do 100 metara",
-        "link": "https://novaekonomija.rs/vesti-iz-zemlje/novi-beograd-na-vodi-izmedju-gazele-i-mosta-na-adi-nicu-kule-do-100-metara",
-        "summary": "Agencija za prostorno planiranje i urbanizam oglasila je javni uvid u nacrt izmena i dopuna Prostornog plana područja posebne namene (PPPPN) za projekat &#8222;Beograd na vodi&#8220; koje se najvećim delom odnose na širenje ovog naselja na novobeogradsku obalu Save, gde je planirana izgradnja kula v",
-        "published": "2026-08-16T18:53:50",
-        "source": "Nova Ekonomija",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "IŽS ruši železničke stanice u Crepaji, Kuzminu i Banji Koviljači, gradnja novih nije u planu",
-        "link": "https://novaekonomija.rs/vesti-iz-zemlje/izs-rusi-zeleznicke-stanice-u-crepaji-kuzminu-i-banji-koviljaci-gradnja-novih-nije-u-planu",
-        "summary": "&#8222;Infrastruktura železnice Srbije&#8220; (IŽS) raspisala je tender za rušenje tri objekta objekata železničkih stanica, u Crepaji, Kuzminu i Banji Koviljači. Nakon rušenja, na tim lokacijama nije planirana izgradnja novih objekata, već samo uređenje terena. Na spisku su Železnička stanica Crepa",
-        "published": "2026-08-16T12:33:25",
-        "source": "Nova Ekonomija",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Poljoprivrednici iz okoline Zrenjanina protestovali zbog otkupne cene žitarica",
-        "link": "https://novaekonomija.rs/vesti-iz-zemlje/poljoprivrednici-iz-okoline-zrenjanina-protestvovali-zbog-otkupne-cene-zitarica",
-        "summary": "Poljoprivrednici iz Aradca organizovali su danas protest na putu Zrenjanin – Novi Sad u blizini tog sela zato što nisu zadovoljni otkupnom cenom žitarica i odnosom države prema poljoprivrednim proizvođačima. Okupljeni nisu blokirali put, iako su ranije najavili da će to učiniti, objavila je Beta. Ka",
-        "published": "2026-08-16T09:08:18",
-        "source": "Nova Ekonomija",
-        "sentiment": "neutral"
       }
     ]
   },
   "key_events": [
+    {
+      "title": "Bitcoin Infinity Day Study by crypto4me: Bitcoin Is Now Twice as Scarce as Gold",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-infinity-day-study-by-crypto4me-bitcoin-is-now-twice-as-scarce-as-gold-4862912",
+      "summary": ""
+    },
     {
       "title": "Bitcoin up slightly at $63.4k; Iran tensions, U.S. regulations in focus",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-635k-iran-tensions-us-regulations-in-focus-4862213",
@@ -808,11 +813,6 @@
       "title": "BTCC Exchange Joins TOKEN2049 Singapore as Platinum Sponsor, Unveiling Flagship Theme “0-Barrier Trading”",
       "link": "https://www.investing.com/news/cryptocurrency-news/btcc-exchange-joins-token2049-singapore-as-platinum-sponsor-unveiling-flagship-theme-0barrier-trading-4861142",
       "summary": ""
-    },
-    {
-      "title": "MyEtherWallet (MEW) Integrates Ondo Perps, Unlocking 24/7 Leveraged Trading for Onchain Equities, & ETFs.",
-      "link": "https://www.investing.com/news/cryptocurrency-news/myetherwallet-mew-integrates-ondo-perps-unlocking-247-leveraged-trading-for-onchain-equities--etfs-4859505",
-      "summary": ""
     }
   ],
   "market_clock": {
@@ -821,7 +821,7 @@
     "Frankfurt": true,
     "Tokyo": false,
     "Hong Kong": false,
-    "Belgrade": true
+    "Belgrade": false
   },
   "sentiment_summary": {
     "macro": {
