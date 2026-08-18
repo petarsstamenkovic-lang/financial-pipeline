@@ -1,6 +1,6 @@
 {
   "date": "2026-08-18",
-  "generated_at": "2026-08-18T13:20:38.600851+02:00",
+  "generated_at": "2026-08-18T14:29:18.560921+02:00",
   "market": {
     "indices": {
       "S&P 500": {
@@ -23,26 +23,26 @@
       },
       "DAX": {
         "symbol": "^GDAXI",
-        "price": 26259.7305,
+        "price": 26259.8594,
         "change_pct": -0.68,
         "prev_close": 26440.3105
       },
       "Euro Stoxx 50": {
         "symbol": "^STOXX50E",
-        "price": 6498.3599,
-        "change_pct": -0.63,
+        "price": 6503.6401,
+        "change_pct": -0.55,
         "prev_close": 6539.5898
       },
       "FTSE 100": {
         "symbol": "^FTSE",
-        "price": 10725.0,
-        "change_pct": -0.23,
+        "price": 10739.3496,
+        "change_pct": -0.1,
         "prev_close": 10750.0996
       },
       "CAC 40": {
         "symbol": "^FCHI",
-        "price": 8540.7002,
-        "change_pct": -1.11,
+        "price": 8544.4004,
+        "change_pct": -1.07,
         "prev_close": 8636.7998
       },
       "Nikkei 225": {
@@ -123,76 +123,76 @@
     "fx_commodities": {
       "EUR/USD": {
         "symbol": "EURUSD=X",
-        "price": 1.1578,
-        "change_pct": 0.04,
+        "price": 1.1581,
+        "change_pct": 0.06,
         "prev_close": 1.1574
       },
       "GBP/USD": {
         "symbol": "GBPUSD=X",
-        "price": 1.3524,
-        "change_pct": -0.17,
+        "price": 1.353,
+        "change_pct": -0.12,
         "prev_close": 1.3547
       },
       "USD/CHF": {
         "symbol": "USDCHF=X",
-        "price": 0.8125,
-        "change_pct": -0.01,
+        "price": 0.8122,
+        "change_pct": -0.05,
         "prev_close": 0.8127
       },
       "USD/JPY": {
         "symbol": "USDJPY=X",
-        "price": 159.722,
-        "change_pct": 0.31,
+        "price": 159.653,
+        "change_pct": 0.27,
         "prev_close": 159.223
       },
       "Gold": {
         "symbol": "GC=F",
-        "price": 4450.0,
-        "change_pct": 0.73,
+        "price": 4447.1001,
+        "change_pct": 0.66,
         "prev_close": 4417.7998
       },
       "Silver": {
         "symbol": "SI=F",
-        "price": 65.155,
-        "change_pct": -1.46,
+        "price": 65.105,
+        "change_pct": -1.54,
         "prev_close": 66.121
       },
       "Brent Crude": {
         "symbol": "BZ=F",
-        "price": 90.7,
-        "change_pct": -0.19,
+        "price": 91.3,
+        "change_pct": 0.47,
         "prev_close": 90.87
       },
       "WTI Crude": {
         "symbol": "CL=F",
-        "price": 83.95,
-        "change_pct": -0.65,
+        "price": 84.36,
+        "change_pct": -0.17,
         "prev_close": 84.5
       },
       "Natural Gas": {
         "symbol": "NG=F",
-        "price": 2.696,
-        "change_pct": 0.22,
+        "price": 2.714,
+        "change_pct": 0.89,
         "prev_close": 2.69
       },
       "Copper": {
         "symbol": "HG=F",
-        "price": 6.5535,
-        "change_pct": -0.76,
+        "price": 6.5545,
+        "change_pct": -0.75,
         "prev_close": 6.604
       },
       "Wheat": {
         "symbol": "ZW=F",
-        "price": 693.25,
-        "change_pct": 2.74,
+        "price": 688.25,
+        "change_pct": 2.0,
         "prev_close": 674.75
       }
     },
     "rates": {
       "VIX": {
         "symbol": "^VIX",
-        "price": 15.78,
-        "change_pct": 10.74,
+        "price": 15.68,
+        "change_pct": 10.04,
         "prev_close": 14.25
       },
       "US 10Y Yield": {
@@ -492,20 +492,20 @@
         "sentiment": "neutral"
       },
       {
+        "title": "AI phobia is America’s new consensus",
+        "link": "https://www.ft.com/content/7d5f7e30-88de-4dcb-9fd5-f41a4ff03804?syn-25a6b1a6=1",
+        "summary": "Trump is uncharacteristically deaf to voter fears over the technology",
+        "published": "2026-08-18T10:57:48",
+        "source": "UK homepage",
+        "sentiment": "negative"
+      },
+      {
         "title": "The difficult truth about Jason Arday",
         "link": "https://www.ft.com/content/5f927594-03a1-4652-8189-2aa7a19dcec4?syn-25a6b1a6=1",
         "summary": "From the beginning, investigations were accompanied by a cloud of excessive references to his race",
         "published": "2026-08-18T04:00:23",
         "source": "UK homepage",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Why eyewear stores are taking over London’s high streets",
-        "link": "https://www.ft.com/content/4fcd8647-e3ba-4cd8-8dc0-4b0ff473cf39?syn-25a6b1a6=1",
-        "summary": "Private equity-backed brands such as Cubitts, Ace & Tate and Jimmy Fairly compete for scale in financially alluring sector",
-        "published": "2026-08-18T04:00:23",
-        "source": "UK homepage",
-        "sentiment": "positive"
       },
       {
         "title": "UK employers shed jobs as labour market weakens further",
@@ -622,51 +622,75 @@
     ],
     "serbia": [
       {
-        "title": "Grčka napravila ambiciozni plan kako da vrati naučnike u zemlju - pa ga sama sabotirala",
-        "link": "https://n1info.rs/svet/grcka-odliv-mozgova-plan/",
-        "summary": "Pokušaj Grčke da vrati vrhunske naučnike u zemlju posle traume sa finansijskom krizom zaustavljen je, nakon što je ambiciozni program za preokretanje",
-        "published": "2026-08-18T11:19:29",
+        "title": "CRTA: Vučić oborio sopstveni rekord, u avgustu imao već 64 uživo uključenja na TV",
+        "link": "https://n1info.rs/vesti/crta-vucic-oborio-sopstveni-rekord-u-avgustu-imao-vec-64-uzivo-ukljucenja-na-tv/",
+        "summary": "Centar za istraživanje, transparentnost i odgovornost (CRTA) objavio je da je predsednik Srbije Aleksandar Vučić u avgustu, do danas, imao 64 tv uklju",
+        "published": "2026-08-18T12:12:42",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "North Mitrovica mayor: Security poor, basis for Ibar Bridge reopening unclear",
-        "link": "https://n1info.rs/english/news/north-mitrovica-mayor-security-poor-basis-for-ibar-bridge-reopening-unclear/",
-        "summary": "North Mitrovica Mayor Milan Radojevic said on Tuesday that the issue of the main bridge over the Ibar River in the northern Kosovo city of Mitrovica i",
-        "published": "2026-08-18T11:18:59",
+        "title": "Izdata građevinska dozvola za novi proizvodni kompleks kompanije Minth u Šapcu",
+        "link": "https://n1info.rs/vesti/gradjevinska-dozvola-kompanija-minth-u-sapcu/",
+        "summary": "Ministarstvo građevinarstva, saobraćaja i infrastrukture Srbije izdalo je kompaniji Minth Metal Parts Balkan (delu kineske Minth grupacije za proizvod",
+        "published": "2026-08-18T12:07:43",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Socijalno-ekonomski savet nije doneo odluku o povećanju minimalca, Vučić kaže da će se smanjiti porezi i doprinosi",
-        "link": "https://n1info.rs/biznis/socijalno-ekonomski-savet-nije-doneo-odluku-o-povecanju-minimalca-vucic-kaze-da-ce-se-smanjiti-porezi-i-doprinosi/",
-        "summary": "Vlada Srbije do 15. septembra doneće konačnu odluku o visini minimalne zarade za 2027. godinu jer na današnjoj sednici Socijalno-ekonomskog saveta nis",
-        "published": "2026-08-18T11:18:14",
+        "title": "Vucic on SPS decision: No reason for drama, we expect no help in forming government after election",
+        "link": "https://n1info.rs/english/news/vucic-on-sps-decision-no-reason-for-drama-we-expect-no-help-in-forming-government-after-election/",
+        "summary": "Serbian President Aleksandar Vucic said he sees no reason for any drama over the Socialist Party of Serbia’s (SPS) decision to run independently in th",
+        "published": "2026-08-18T12:06:27",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "BIRODI traži od Skupštine Srbije da razreši direktora Agencije za sprečavanje korupcije",
-        "link": "https://n1info.rs/vesti/birodi-smena-dejan-damjanovic-agencija-za-sprecavanje-korupcije/",
-        "summary": "Biro za društvena istraživanja (BIRODI) saopštio je danas da je direktor Agencije za sprečavanje korupcije Dejan Damnjanović gotovo 22 meseca istovrem",
-        "published": "2026-08-18T11:06:10",
+        "title": "Raste popularnost ekstremno desne partije AfD u Nemačkoj",
+        "link": "https://n1info.rs/svet/raste-popularnost-ekstremno-desne-partije-afd-u-nemackoj/",
+        "summary": "Ekstremno desna Alternativa za Nemačku (AfD) ostala je i u avgustu ubedljivo najjača partija, sa velikom prednošću ispred vladajućih nemačkih demohriš",
+        "published": "2026-08-18T11:59:43",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Šta se dešava sa Arenom: Uprava demantuje navode o prodaji, a Vučić ponovo pominje koncesiju i 50 miliona evra",
-        "link": "https://n1info.rs/biznis/sta-se-desava-sa-arenom-uprava-demantuje-prodaju-vucic-koncesija/",
-        "summary": "\"Arena se ne prodaje. O tome se ne pregovara\", odgovor je Beogradske arene za N1 nakon navoda Nikole Jovanovića da to sledi, kako je naveo, zbog lošeg",
-        "published": "2026-08-18T11:04:33",
+        "title": "Novi dan: Minimalac - između obećanja i ponude",
+        "link": "https://n1info.rs/najave-emisija/novi-dan-minimalac-izmedju-obecanja-i-ponude/",
+        "summary": "Nema dogovora o minimalnoj zaradi za 2027. Kolika je razlika između obećanja i ponude vlasti? Gosti Teme jutra su počasni predsednik Unije poslodavaca",
+        "published": "2026-08-18T11:42:39",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Posle devet godina Džoni Dep bi mogao ponovo da zaigra Džeka Speroa",
-        "link": "https://n1info.rs/magazin/showbiz/posle-devet-godina-dzoni-dep-bi-mogao-ponovo-da-zaigra-dzeka-speroa/",
-        "summary": "Producent Džeri Brukhajmer potvrdio je da su razgovori sa glumcem u toku, dok se radi na scenariju za šesti nastavak.",
-        "published": "2026-08-18T11:04:21",
+        "title": "Lavrov: Rusija i Severna Koreja bore se za „novi, pravedni svetski poredak“",
+        "link": "https://n1info.rs/svet/sergej-lavrov-rusija-severna-koreja-svetski-poredak/",
+        "summary": "Ruski ministar spoljnih poslova Sergej Lavrov rekao je svom severnokorejskom kolegi da njihove zemlje rade na uspostavljanju „novog i pravednog svetsk",
+        "published": "2026-08-18T11:41:19",
         "source": "N1 Info RS - Feed",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Srpski grad ima Hrvatski dom: Ovo zdanje uskoro dobija novo ruho",
+        "link": "https://biznis.telegraf.rs/nekretnine/4380505-srpski-grad-ima-hrvatski-dom-ovo-zdanje-uskoro-dobija-novo-ruho",
+        "summary": "Hrvatski dom u Somboru dobija novo ruho.",
+        "published": "2026-08-18T12:24:24",
+        "source": "Telegraf.rs",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Ko odlučuje koliki će biti minimalac? Predstavnici sindikata i Vlade nisu postigli dogovor danas na sednici",
+        "link": "https://biznis.telegraf.rs/info-biz/4380459-ko-odlucuje-koliki-ce-biti-minimalac-predstavnici-sindikata-i-vlade-nisu-postigli-dogovor-danas-na-sednici",
+        "summary": "Na današnjoj sednici Socijalno-ekonomskog saveta Srbije (SES) na kojoj se razmatrala minimalna cena rada za narednu godinu, nije postignut konsenzus.",
+        "published": "2026-08-18T11:58:20",
+        "source": "Telegraf.rs",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Tražite polovan automobil? Pošta prodaje rashodovana vozila, evo gde će biti licitacije, kreću od 1.septembra!",
+        "link": "https://biznis.telegraf.rs/info-biz/4380453-trazite-polovan-automobil-posta-prodaje-rashodovana-vozila-evo-gde-ce-biti-licitacije-krecu-od-1septembra",
+        "summary": "Pošta Srbije organizuje javnu prodaju 14 grupa rashodovanih vozila putem javnih licitacija koje će se od 1. septembra do 6.",
+        "published": "2026-08-18T12:19:42",
+        "source": "Telegraf.rs",
         "sentiment": "neutral"
       },
       {
@@ -694,27 +718,11 @@
         "sentiment": "neutral"
       },
       {
-        "title": "Menjaju se pravila za taksi prevoz, cena vožnje mogla bi da izgleda drugačije: Evo šta to znači za putnike",
-        "link": "https://biznis.telegraf.rs/info-biz/4380385-menjaju-se-pravila-za-taksi-prevoz-cena-voznje-mogla-bi-da-izgleda-drugacije-evo-sta-to-znaci-za-putnike",
-        "summary": "Menjaju se pravila za taksi prevoz: Cena vožnje mogla bi da izgleda drugačije, evo šta čeka putnike",
-        "published": "2026-08-18T10:16:19",
-        "source": "Telegraf.rs",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Završena sednica SES-a: Nema konsenzusa - sindikalci odbili predlog Vlade o iznosu minimalca!",
-        "link": "https://biznis.telegraf.rs/info-biz/4380355-zavrsena-sednica-ses-a-nema-konsenzusa-sindikalci-odbili-predlog-vlade-o-iznosu-minimalca",
-        "summary": "Sednica Socijalno-ekonomskog saveta Srbije (SES), na kojoj je razmatran iznos minimalne cene rada za narednu godinu, upravo je završena.",
-        "published": "2026-08-18T11:18:06",
-        "source": "Telegraf.rs",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "\"Vredi li to, lomiti kičmu u tuđini?\": Rasprava o penziji od 1.100 evra u Nemačkoj zapalila Balkan",
-        "link": "https://biznis.telegraf.rs/novcanik/4380360-vredi-li-to-lomiti-kicmu-u-tudjini-penzija-od-1100-zapalila-mreze",
-        "summary": "Pitanje o radu u Nemačkoj i penziji od 1.100 evra pokrenulo je burnu raspravu. Evo šta gastarbajteri kažu o štednji, nekretninama i povratku na Balkan.",
-        "published": "2026-08-18T10:01:42",
-        "source": "Telegraf.rs",
+        "title": "Nova pravila za penzionerske kartice, šta se menja za penzionere?",
+        "link": "https://novaekonomija.rs/vesti-iz-zemlje/nova-pravila-za-penzionerske-kartice-sta-se-menja-za-penzionere",
+        "summary": "Penzioneri koji čekaju da im se izradi penzionerska kartica, ubuduće će moći da dobiju potvrdu da je postupak izrade u toku, i na taj način ostvare prava koja imaju zahvaljujući kartici. Kako je objavljeno u Službenom glasniku, izmenama Pravilnika o penzionerskoj kartici, ova potvrda će imati ista p",
+        "published": "2026-08-18T11:44:31",
+        "source": "Nova Ekonomija",
         "sentiment": "neutral"
       },
       {
@@ -756,14 +764,6 @@
         "published": "2026-08-18T09:58:38",
         "source": "Nova Ekonomija",
         "sentiment": "positive"
-      },
-      {
-        "title": "Bager se povukao: Obustavljeno rušenje baraka na Voždovcu nakon odluke Evropskog suda za ljuska prava",
-        "link": "https://novaekonomija.rs/vesti-iz-zemlje/bager-se-povukao-obustavljeno-rusenje-naselja-na-vozdovcu-nakon-odluke-evropskog-suda-za-ljuska-prava",
-        "summary": "Bager i vozilo „Gradske čistoće“, koji su jutros bili postavljeni zbog najavljenog rušenja naselja na Voždovcu, kod okretnice autobuske linije 26, povukli su se, a rušenje je obustavljeno do 1. septembra u skladu sa privremenom merom Evropskog suda za ljudska prava (ESLJP), kaže Uroš Ranđelović iz I",
-        "published": "2026-08-18T09:37:41",
-        "source": "Nova Ekonomija",
-        "sentiment": "neutral"
       }
     ]
   },
@@ -825,12 +825,12 @@
     "Frankfurt": true,
     "Tokyo": false,
     "Hong Kong": false,
-    "Belgrade": true
+    "Belgrade": false
   },
   "sentiment_summary": {
     "macro": {
-      "positive": 6,
-      "negative": 3,
+      "positive": 5,
+      "negative": 4,
       "neutral": 9
     },
     "serbia": {
