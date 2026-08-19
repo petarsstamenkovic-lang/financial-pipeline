@@ -1,6 +1,6 @@
 {
   "date": "2026-08-19",
-  "generated_at": "2026-08-19T13:20:36.068708+02:00",
+  "generated_at": "2026-08-19T14:29:49.320729+02:00",
   "market": {
     "indices": {
       "S&P 500": {
@@ -23,26 +23,26 @@
       },
       "DAX": {
         "symbol": "^GDAXI",
-        "price": 26101.5391,
-        "change_pct": -0.1,
+        "price": 26076.4902,
+        "change_pct": -0.2,
         "prev_close": 26128.3594
       },
       "Euro Stoxx 50": {
         "symbol": "^STOXX50E",
-        "price": 6472.9199,
-        "change_pct": 0.07,
+        "price": 6468.98,
+        "change_pct": 0.01,
         "prev_close": 6468.1699
       },
       "FTSE 100": {
         "symbol": "^FTSE",
-        "price": 10714.6504,
-        "change_pct": -0.12,
+        "price": 10721.5195,
+        "change_pct": -0.06,
         "prev_close": 10728.0
       },
       "CAC 40": {
         "symbol": "^FCHI",
-        "price": 8540.71,
-        "change_pct": 0.37,
+        "price": 8537.5596,
+        "change_pct": 0.33,
         "prev_close": 8509.3604
       },
       "Nikkei 225": {
@@ -73,9 +73,8 @@
       },
       "Healthcare": {
         "symbol": "XLV",
-        "price": 169.73,
-        "change_pct": 1.6,
-        "prev_close": 167.05
+        "price": null,
+        "change_pct": null
       },
       "Industrials": {
         "symbol": "XLI",
@@ -123,76 +122,76 @@
     "fx_commodities": {
       "EUR/USD": {
         "symbol": "EURUSD=X",
-        "price": 1.1609,
-        "change_pct": 0.23,
+        "price": 1.1612,
+        "change_pct": 0.25,
         "prev_close": 1.1583
       },
       "GBP/USD": {
         "symbol": "GBPUSD=X",
-        "price": 1.3555,
-        "change_pct": 0.04,
+        "price": 1.3563,
+        "change_pct": 0.09,
         "prev_close": 1.355
       },
       "USD/CHF": {
         "symbol": "USDCHF=X",
-        "price": 0.8103,
-        "change_pct": -0.03,
+        "price": 0.8096,
+        "change_pct": -0.13,
         "prev_close": 0.8106
       },
       "USD/JPY": {
         "symbol": "USDJPY=X",
-        "price": 159.118,
-        "change_pct": -0.14,
+        "price": 158.992,
+        "change_pct": -0.22,
         "prev_close": 159.34
       },
       "Gold": {
         "symbol": "GC=F",
-        "price": 4425.7002,
-        "change_pct": 1.37,
+        "price": 4423.2002,
+        "change_pct": 1.31,
         "prev_close": 4366.0
       },
       "Silver": {
         "symbol": "SI=F",
-        "price": 63.45,
-        "change_pct": -0.77,
+        "price": 63.81,
+        "change_pct": -0.2,
         "prev_close": 63.941
       },
       "Brent Crude": {
         "symbol": "BZ=F",
-        "price": 91.79,
-        "change_pct": 0.85,
+        "price": 91.52,
+        "change_pct": 0.55,
         "prev_close": 91.02
       },
       "WTI Crude": {
         "symbol": "CL=F",
-        "price": 84.91,
-        "change_pct": -0.04,
+        "price": 84.57,
+        "change_pct": -0.44,
         "prev_close": 84.94
       },
       "Natural Gas": {
         "symbol": "NG=F",
-        "price": 2.792,
-        "change_pct": 0.58,
+        "price": 2.848,
+        "change_pct": 2.59,
         "prev_close": 2.776
       },
       "Copper": {
         "symbol": "HG=F",
-        "price": 6.4295,
-        "change_pct": -0.82,
+        "price": 6.426,
+        "change_pct": -0.87,
         "prev_close": 6.4825
       },
       "Wheat": {
         "symbol": "ZW=F",
-        "price": 680.5,
-        "change_pct": 2.41,
+        "price": 683.75,
+        "change_pct": 2.9,
         "prev_close": 664.5
       }
     },
     "rates": {
       "VIX": {
         "symbol": "^VIX",
-        "price": 15.82,
-        "change_pct": -0.13,
+        "price": 15.71,
+        "change_pct": -0.82,
         "prev_close": 15.84
       },
       "US 10Y Yield": {
@@ -271,8 +270,9 @@
       },
       "Goldman Sachs": {
         "symbol": "GS",
-        "price": null,
-        "change_pct": null
+        "price": 1040.47,
+        "change_pct": -1.03,
+        "prev_close": 1051.3101
       },
       "ExxonMobil": {
         "symbol": "XOM",
@@ -499,6 +499,14 @@
         "sentiment": "neutral"
       },
       {
+        "title": "Europe should wish Marco Rubio a bright future",
+        "link": "https://www.ft.com/content/763bf6a1-31de-4c6a-9591-963440f0562b?syn-25a6b1a6=1",
+        "summary": "Americans who support reckless wars are sometimes also the likeliest to defend Europe",
+        "published": "2026-08-19T11:20:13",
+        "source": "UK homepage",
+        "sentiment": "neutral"
+      },
+      {
         "title": "Why Britain needs a Messi budget",
         "link": "https://www.ft.com/content/117e3a76-0b5c-4e99-a6da-3421cb8d5da7?syn-25a6b1a6=1",
         "summary": "The playing style of the great Argentine footballer demonstrates that less can be more",
@@ -507,20 +515,12 @@
         "sentiment": "neutral"
       },
       {
-        "title": "Remigration binds Maga to Europe’s far right",
-        "link": "https://www.ft.com/content/34a99573-0fa1-422b-9263-147f9ed7be6c?syn-25a6b1a6=1",
-        "summary": "Once-taboo idea of mass expulsions returns to European nations after Trump embrace",
-        "published": "2026-08-19T04:00:13",
+        "title": "Ukraine anti-corruption team raids home of top Zelenskyy aide",
+        "link": "https://www.ft.com/content/5799e5fa-c836-443b-935d-eb9fb58681b6?syn-25a6b1a6=1",
+        "summary": "Searches come hours after ousted defence minister launches a blistering attack on wartime president",
+        "published": "2026-08-19T11:16:58",
         "source": "UK homepage",
         "sentiment": "neutral"
-      },
-      {
-        "title": "UK inflation accelerates to 2.9% in July amid Middle East energy shock",
-        "link": "https://www.ft.com/content/5a606279-3473-4c5b-a16e-ad9db6debafb?syn-25a6b1a6=1",
-        "summary": "Rising energy costs push price growth further above BoE target",
-        "published": "2026-08-19T08:20:26",
-        "source": "UK homepage",
-        "sentiment": "positive"
       },
       {
         "title": "Christine Lagarde: Panel remarks about the European economy during a discussion on the global economic outlook at the World Economic Forum",
@@ -621,51 +621,75 @@
     ],
     "serbia": [
       {
-        "title": "Sindikati bi dvocifreno povećanje minimalca, poslodavcima je mnogo i predloženih 9,2 odsto",
-        "link": "https://n1info.rs/biznis/sindikati-minimalac-poslodavci-povecanje/",
-        "summary": "Na sednici Socijalno-ekonomskog saveta nisu usaglašeni stavovi poslodavaca i sindikata o predloženom povećanju minimalca. Počasni predsednik Unije pos",
-        "published": "2026-08-19T11:20:19",
+        "title": "Francuski predsednik potpisao zakon o potpomognutom umiranju",
+        "link": "https://n1info.rs/svet/francuski-predsednik-potpisao-zakon-o-potpomognutom-umiranju/",
+        "summary": "Zakon kojim se stvara pravo na potpomognuto umiranje u Francuskoj objavljen je danas u Službenom glasniku nakon što ga je potpisao predsednik Emanuel",
+        "published": "2026-08-19T12:28:25",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Fondacija: Mladi hemičari Srbije osvojili pet medelja na turniru u Južnoj Koreji",
-        "link": "https://n1info.rs/vesti/fondacija-mladi-hemicari-srbije-osvojili-pet-medelja-na-turniru-u-juznoj-koreji/",
-        "summary": "Mladi hemičari Srbije osvojili su pet medalja i jedno specijalno priznanje na Međunarodnom hemijskom turniru u Južnoj Koreji, saopštila je danas \"Fond",
-        "published": "2026-08-19T11:18:21",
+        "title": "Studenti u blokadi: Menjaju izgled biračkih mesta da omoguće neometano slikanje listića i pritiske",
+        "link": "https://n1info.rs/vesti/studenti-u-blokadi-menjaju-izgled-birackih-mesta-da-omoguce-neometano-slikanje-listica-i-pritiske/",
+        "summary": "Studenti u blokadi saopštili su da Republička izborna komisija (RIK) planira da na današnjoj sednici promeni izgled biračkih mesta u Srbiji uvođenjem",
+        "published": "2026-08-19T12:23:51",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Sveti Hubert i pitbul u jednom: Vučić rekao da ima \"osobine dva psa\"",
-        "link": "https://n1info.rs/vesti/sveti-hubert-pitbul-vucic/",
-        "summary": "Tokom obilaska Topličkog okruga, predsednik Srbije Aleksandar Vučić izjavio je za medije da on ima osobine dva psa - Svetog Huberta i Pitbula.",
-        "published": "2026-08-19T11:03:15",
+        "title": "Genge.rs - mesto za praktične finansijske informacije i korisne kalkulatore",
+        "link": "https://n1info.rs/biznis/gengers-mesto-za-prakticne-finansijske-informacije-i-korisne-kalkulatore/",
+        "summary": "U vremenu kada se svakodnevne finansijske odluke sve više oslanjaju na dostupne informacije, kvalitetni i razumljivi finansijski sadržaji  postaju važ",
+        "published": "2026-08-19T12:17:23",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Hladna tirkizna voda i netaknuta priroda - idealno mesto u Srbiji za beg od gradske vreve",
-        "link": "https://n1info.rs/magazin/lifestyle/hladna-tirkizna-voda-i-netaknuta-priroda-idealno-mesto-u-srbiji-za-beg-od-gradske-vreve/",
-        "summary": "Dok temperature u gradovima rastu, ovde vas dočekuju hladna voda, šuma i svež vazduh.",
-        "published": "2026-08-19T11:01:41",
+        "title": "Visoki savet tužilaštva osudio paljenje automobila tužioca Vujičića",
+        "link": "https://n1info.rs/vesti/visoki-savet-tuzilastva-osudio-paljenje-automobila-tuzioca-vujicica/",
+        "summary": "Visoki savet tužilaštva (VST) osudio je danas paljenje vozila tužioca u Osnovnom javnom tužilaštvu u Valjevu Vukašina Vujičića i zatražio da nadležni",
+        "published": "2026-08-19T12:01:41",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Kada i kako je počeo požar u Deliblatskoj peščari: Prvi put uočen 21. jula, 5. avgusta vatra opkolila gasioce i otrgla se kontroli",
-        "link": "https://n1info.rs/vesti/pozar-u-deliblatskoj-pescari-hronologija-2026-vojvodinasume/",
-        "summary": "Vatrogasci se već duže od pola meseca bore sa požarom u Deliblatskoj peščari koji se zbog jakog vetra koji često menja pravac razbuktava, a prema posl",
-        "published": "2026-08-19T11:01:38",
+        "title": "Nakon požara kod Deliblata meštani traže odgovore: \"Ne znamo šta radi Opštinski štab za vanredne situacije“",
+        "link": "https://n1info.rs/vesti/pozar-kod-deliblata-mestani-opstinski-stab-za-vanredne-situacije/",
+        "summary": "Nakon požara koji je zahvatio i vikend-naselje Vrela kod Deliblata, situacija je trenutno stabilna, ali meštani i dalje traže odgovore nadležnih, kako",
+        "published": "2026-08-19T11:58:49",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Advokat traži odlaganje suđenja optuženim za napad na policiju u Novom Pazaru, studenti zovu na protest",
-        "link": "https://n1info.rs/vesti/sudjenje-napad-policija-studenti-novi-pazar-protest/",
-        "summary": "Studenti Državnog univerziteta u Novom Pazaru pozvali su građane da se sutra okupe ispred Osnovnog suda u tom gradu, povodom početka suđenja grupi opt",
-        "published": "2026-08-19T10:55:17",
+        "title": "U Brčkom uhapšene četiri osobe zbog napada na maloletnike, jer su nosili majice s ljiljanima - ratnim simbolom Armije BiH",
+        "link": "https://n1info.rs/region/u-brckom-uhapsene-cetiri-osobe-zbog-napada-na-maloletnike-jer-su-nosili-majice-s-ljiljanima-ratnim-simbolom-armije-bih/",
+        "summary": "Policija Distrikta Brčko u BiH je uhapsila četiri osobe koje su napale dva maloletnika, jer su nosili majice sa ljiljanima, ratnim simbolom Armije Bos",
+        "published": "2026-08-19T11:57:29",
         "source": "N1 Info RS - Feed",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Ponovo radi jedna od tri najveće nuklearne elektrane na Balkanu",
+        "link": "https://biznis.telegraf.rs/biz-odrzivost/zivotna-sredina/4381063-ponovo-radi-jedna-od-tri-najvece-nuklearne-elektrane-na-balkanu",
+        "summary": "Nuklearna elektrana Krško od utorka uveče ponovo radi punom snagom nakon poboljšanja vremenskih i hidroloških uslova, kao i pada temperature Save, ali kako bi.",
+        "published": "2026-08-19T12:11:54",
+        "source": "Telegraf.rs",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Venecuela izvozi polovinu svoje nafte u SAD: \"Radi se o prekrasnom energetskom partnerstvu\"",
+        "link": "https://biznis.telegraf.rs/info-biz/4381040-venecuela-izvozi-polovinu-svoje-nafte-u-sad-radi-se-o-prekrasnom-energetskom-partnerstvu",
+        "summary": "Otprilike polovina nafte proizvedene u Venecueli trenutno se izvozi u Sjedinjene Američke Države (SAD), rekao je juče zamenik američkog ministra energetike Kajl.",
+        "published": "2026-08-19T11:50:36",
+        "source": "Telegraf.rs",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Novčana pomoć države stiže 7. septembra: Proverite važi li vam ovaj dokument - posebna procedura za dijasporu",
+        "link": "https://biznis.telegraf.rs/novcanik/4381030-novcana-pomoc-drzave-stize-7-septembra-proverite-vazi-li-vam-ovaj-dokument-posebna-procedura-za-dijasporu",
+        "summary": "Prijava za novu jednokratnu pomoć države samo što nije počela, a pravo na novac imaju i svi punoletni građani koji žive van granica Srbije.",
+        "published": "2026-08-19T11:35:00",
+        "source": "Telegraf.rs",
         "sentiment": "neutral"
       },
       {
@@ -688,32 +712,16 @@
         "title": "Kina otvorila novu arktičku rutu: Roba do Evrope stiže za samo 20 dana",
         "link": "https://biznis.telegraf.rs/info-biz/4381005-kina-otvorila-novu-arkticku-rutu-roba-do-evrope-stize-za-samo-20-dana",
         "summary": "Kineski teretni brod \"Dubai Tower\" isplovio je iz luke Ningbo-Džoušan, čime je otvorena prva redovna linija kojom će roba arktičkom rutom stizati iz Kine do.",
-        "published": "2026-08-19T10:39:50",
+        "published": "2026-08-19T11:51:56",
         "source": "Telegraf.rs",
         "sentiment": "neutral"
       },
       {
-        "title": "Penzijski fond Norveške pravi čuda: Za samo šest meseci zaradio istorijskih 159 milijardi evra",
-        "link": "https://biznis.telegraf.rs/info-biz/4380925-penzijski-fond-norveske-pravi-cuda-za-samo-sest-meseci-zaradio-istorijskih-159-milijardi-evra",
-        "summary": "Državni penzijski fond Norveške (Statens pensjonsfond utland) zabeležio je u prvih šest meseci 2026. godine najveći polugodišnji prinos u istoriji meren u.",
-        "published": "2026-08-19T10:24:58",
-        "source": "Telegraf.rs",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Raiffeisen banka osvojila šest Global Finance priznanja za digitalno poslovanje sa privrednicima",
-        "link": "https://biznis.telegraf.rs/info-biz/4380564-raiffeisen-banka-osvojila-sest-global-finance-priznanja-za-digitalno-poslovanje-sa-privrednicima",
-        "summary": "Raiffeisen banka osvojila je šest priznanja za Srbiju u izboru renomiranog svetskog ekonomskog magazina Global Finance World’s Best Corporate Digital Bank.",
-        "published": "2026-08-19T09:58:00",
-        "source": "Telegraf.rs",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Guvernerka NBS otkrila podatke o inflaciji: Evo koliko iznosi i kako se kreće u odnosu na projekciju",
-        "link": "https://biznis.telegraf.rs/info-biz/4380971-guvernerka-nbs-otkrila-podatke-o-inflaciji-evo-koliko-iznosi-i-kako-se-krece-u-odnosu-na-projekciju",
-        "summary": "Međugodišnja inflacija u junu u Srbiji vratila se na nivo pre energetskog šoka, odnosno ispod centralne vrednosti cilja od tri odsto i u julu u uslovima.",
-        "published": "2026-08-19T09:59:23",
-        "source": "Telegraf.rs",
+        "title": "Smenjen posle protesta radnika GSP-a pred sastanak sa Vučićem: „Dirnuli smo u nečiji interes“, kaže Slobodan Jovančević",
+        "link": "https://novaekonomija.rs/vesti-iz-zemlje/smenjen-posle-protesta-radnika-gsp-a-pred-sastanak-sa-vucicem-dirnuli-smo-u-neciji-interes-kaze-slobodan-jovancevic",
+        "summary": "Skup radnika Gradskog saobraćajnog preduzeća Beograd održan je danas ispred direkcije GSP-a povodom smene Slobodana Jovančevića, šefa Službe rasporeda u pogonu &#8222;Dorćol&#8220; i poverenika reprezentativnog Samostalnog sindikata GSP-a. Jovančević je o smeni obavešten 14. avgusta, nakon što je to",
+        "published": "2026-08-19T12:21:42",
+        "source": "Nova Ekonomija",
         "sentiment": "neutral"
       },
       {
@@ -753,14 +761,6 @@
         "link": "https://novaekonomija.rs/lepsi-zivot/da-li-i-dalje-moze-povoljno-da-se-letuje-last-minute-ponude-i-more-van-sezone-nude-opcije-za-ustedu",
         "summary": "Usled sve skupljih letovanja, pojedini građani često biraju last minute ponude, zahvaljujući kojima mogu da uštete. Pored takvih ponuda, ima i građana koji biraju da letuju van sezone, u septembru, i oni uglavnom najbolje prolaze. Iako je letnja sezona pri kraju, to za pojedine putnike ne znači ništ",
         "published": "2026-08-18T15:16:36",
-        "source": "Nova Ekonomija",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Ekspo 2027 štampa dva miliona ulaznica u Zavodu za izradu novčanica ‘Topčider’",
-        "link": "https://novaekonomija.rs/vesti-iz-zemlje/ekspo-2027-dodelio-ugovor-za-stampanje-ulaznica-zavodu-za-izradu-novcanica-topcider",
-        "summary": "Kompanija Ekspo 2027 saopštila je danas da je ugovor za proizvodnju i štampanje ulaznica za specijalizovanu izložbu dodelila Zavodu za izradu novčanica i kovanog novca &#8222;Topčider&#8220;, u vrednosti od 38,2 miliona dinara, prenosi Beta. Kako je navedeno, u okviru ugovora predviđena je proizvodn",
-        "published": "2026-08-18T13:54:24",
         "source": "Nova Ekonomija",
         "sentiment": "neutral"
       }
@@ -824,13 +824,13 @@
     "Frankfurt": true,
     "Tokyo": false,
     "Hong Kong": false,
-    "Belgrade": true
+    "Belgrade": false
   },
   "sentiment_summary": {
     "macro": {
-      "positive": 5,
+      "positive": 4,
       "negative": 3,
-      "neutral": 10
+      "neutral": 11
     },
     "serbia": {
       "positive": 0,
