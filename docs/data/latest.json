@@ -1,6 +1,6 @@
 {
   "date": "2026-08-21",
-  "generated_at": "2026-08-21T13:21:24.645071+02:00",
+  "generated_at": "2026-08-21T14:31:37.053811+02:00",
   "market": {
     "indices": {
       "S&P 500": {
@@ -23,26 +23,26 @@
       },
       "DAX": {
         "symbol": "^GDAXI",
-        "price": 26020.6602,
-        "change_pct": 0.14,
+        "price": 26063.6094,
+        "change_pct": 0.31,
         "prev_close": 25983.0391
       },
       "Euro Stoxx 50": {
         "symbol": "^STOXX50E",
-        "price": 6435.2998,
-        "change_pct": 0.21,
+        "price": 6445.9702,
+        "change_pct": 0.37,
         "prev_close": 6422.0601
       },
       "FTSE 100": {
         "symbol": "^FTSE",
-        "price": 10758.7998,
-        "change_pct": 0.1,
+        "price": 10770.8301,
+        "change_pct": 0.21,
         "prev_close": 10748.2002
       },
       "CAC 40": {
         "symbol": "^FCHI",
-        "price": 8458.5,
-        "change_pct": 0.06,
+        "price": 8467.2598,
+        "change_pct": 0.17,
         "prev_close": 8453.0898
       },
       "Nikkei 225": {
@@ -123,76 +123,76 @@
     "fx_commodities": {
       "EUR/USD": {
         "symbol": "EURUSD=X",
-        "price": 1.1708,
-        "change_pct": 0.3,
+        "price": 1.1701,
+        "change_pct": 0.24,
         "prev_close": 1.1674
       },
       "GBP/USD": {
         "symbol": "GBPUSD=X",
-        "price": 1.3657,
-        "change_pct": 0.42,
+        "price": 1.3655,
+        "change_pct": 0.41,
         "prev_close": 1.36
       },
       "USD/CHF": {
         "symbol": "USDCHF=X",
-        "price": 0.7991,
-        "change_pct": 0.17,
+        "price": 0.7995,
+        "change_pct": 0.22,
         "prev_close": 0.7978
       },
       "USD/JPY": {
         "symbol": "USDJPY=X",
-        "price": 158.713,
-        "change_pct": 0.28,
+        "price": 158.699,
+        "change_pct": 0.27,
         "prev_close": 158.276
       },
       "Gold": {
         "symbol": "GC=F",
-        "price": 4650.8999,
-        "change_pct": 2.98,
+        "price": 4649.5,
+        "change_pct": 2.95,
         "prev_close": 4516.2998
       },
       "Silver": {
         "symbol": "SI=F",
-        "price": 69.7,
-        "change_pct": 2.46,
+        "price": 69.545,
+        "change_pct": 2.23,
         "prev_close": 68.026
       },
       "Brent Crude": {
         "symbol": "BZ=F",
-        "price": 93.98,
-        "change_pct": 0.21,
+        "price": 94.13,
+        "change_pct": 0.37,
         "prev_close": 93.78
       },
       "WTI Crude": {
         "symbol": "CL=F",
-        "price": 87.15,
-        "change_pct": -0.77,
+        "price": 87.09,
+        "change_pct": -0.84,
         "prev_close": 87.83
       },
       "Natural Gas": {
         "symbol": "NG=F",
-        "price": 2.794,
-        "change_pct": 2.23,
+        "price": 2.772,
+        "change_pct": 1.43,
         "prev_close": 2.733
       },
       "Copper": {
         "symbol": "HG=F",
-        "price": 6.592,
-        "change_pct": 2.04,
+        "price": 6.612,
+        "change_pct": 2.35,
         "prev_close": 6.46
       },
       "Wheat": {
         "symbol": "ZW=F",
-        "price": 697.25,
-        "change_pct": 2.12,
+        "price": 695.0,
+        "change_pct": 1.79,
         "prev_close": 682.75
       }
     },
     "rates": {
       "VIX": {
         "symbol": "^VIX",
-        "price": 15.69,
-        "change_pct": -2.0,
+        "price": 15.47,
+        "change_pct": -3.37,
         "prev_close": 16.01
       },
       "US 10Y Yield": {
@@ -500,10 +500,18 @@
         "sentiment": "positive"
       },
       {
-        "title": "London cabbies plot ‘skulduggery’ to take on robotaxis",
-        "link": "https://www.ft.com/content/7f2d4be3-5879-439e-8060-339bac53ab40?syn-25a6b1a6=1",
-        "summary": "Private-hire drivers are bracing for a new wave of technological change",
-        "published": "2026-08-21T04:00:13",
+        "title": "Errol Musk: ‘I’m Elon’s father, not his pal’",
+        "link": "https://www.ft.com/content/ded0ef2a-fb61-4960-981d-5bcf5f0c6bf2?syn-25a6b1a6=1",
+        "summary": "The far-right convener on his violent upbringing in South Africa, why he admires Vladimir Putin and Tommy Robinson — and his on-off relationship with his son",
+        "published": "2026-08-21T11:30:05",
+        "source": "UK homepage",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Burnham’s summer tour turns into a cut-price honeymoon",
+        "link": "https://www.ft.com/content/ff13d879-8dbc-419c-9c5f-ceb3bbe564c9?syn-25a6b1a6=1",
+        "summary": "UK prime minister has managed to win over many voters despite offering only pledges that come with a low cost",
+        "published": "2026-08-21T11:52:29",
         "source": "UK homepage",
         "sentiment": "neutral"
       },
@@ -514,14 +522,6 @@
         "published": "2026-08-21T04:00:21",
         "source": "UK homepage",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Burnham should beware the perils of cost of living policy",
-        "link": "https://www.ft.com/content/61a06f4b-f661-4a05-9b73-bc43f22f86db?syn-25a6b1a6=1",
-        "summary": "Like Starmer and Sunak before him, he risks focusing too much on things beyond his control",
-        "published": "2026-08-21T04:00:21",
-        "source": "UK homepage",
-        "sentiment": "negative"
       },
       {
         "title": "ECB Consumer Expectations Survey results – July 2026",
@@ -622,51 +622,91 @@
     ],
     "serbia": [
       {
-        "title": "Milićević (IOM) o situaciji u Seuti: Ključno je da fokus ostane na humanitarnom aspektu",
-        "link": "https://n1info.rs/vesti/milicevic-seuta-migranti-humanitarni-aspekt/",
-        "summary": "Šef kancelarije Internacionalne organizacije za migracije (IOM) u Srbiji Marko Milićević ocenio je, komentarišući situaciju sa migrantima i izbeglicam",
-        "published": "2026-08-21T11:16:42",
+        "title": "U Skupštini Srbije javno slušanje o Predlogu zakona o Pravosudnoj akademiji",
+        "link": "https://n1info.rs/vesti/u-skupstini-srbije-javno-slusanje-o-predlogu-zakona-o-pravosudnoj-akademiji/",
+        "summary": "Ministar pravde Nenad Vujić izjavio je da će Predlogom zakona o Pravosudnoj akademiji biti regulisani uslovi za izbor sudija i tužilaca, ističući da j",
+        "published": "2026-08-21T12:20:50",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "U 13 sati u nekoliko mesta 38 stepeni, najsvežije na Kopaoniku",
-        "link": "https://n1info.rs/vesti/u-13-sati-u-nekoliko-gradova-38-stepeni-najsvezije-na-kopaoniku/",
-        "summary": "U 13 časova u Srbiji izmereno je 38 stepeni u Banatskom Karlovcu, Smederevskoj Palanci i Velikom Gradištu, dok je najniža temperatura, 24 stepena, izm",
-        "published": "2026-08-21T11:14:35",
+        "title": "Srpski državljanin uhapšen sa tonom i po kokaina u Portugalu",
+        "link": "https://n1info.rs/vesti/uros-milosevic-kokain-portugal-hapsenje/",
+        "summary": "Uroš Milošević (31) iz Beograda uhapšen je u akciji portugalske policije u trenutku dok je prevozio tonu i po kokaina vrednu preko 70 miliona evra, ob",
+        "published": "2026-08-21T12:19:55",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Uhapšen zastupnik udruženja građana zbog sumnje oštetio budžet Novog Sada za 5.580.000 dinara",
-        "link": "https://n1info.rs/vesti/uhapsen-zastupnik-udruzenja-gradjana-zbog-sumnje-ostetio-budzet-novog-sada-za-5580000-dinara/",
-        "summary": "Policija je uhapsila zastupnika Udruženja građana iz Kovilja I. B. (1988), zbog postojanja osnova sumnje da je izvršio krivično delo zloupotreba polož",
-        "published": "2026-08-21T11:14:06",
+        "title": "U 14 sati 39 stepeni izmereno u tri grada, najsvežije na Kopaoniku",
+        "link": "https://n1info.rs/vesti/u-14-sati-39-stepeni-izmereno-u-tri-grada-najsveije-na-kopaoniku/",
+        "summary": "U 14 časova u Srbiji je najviša temperatura izmerena u Ćupriji, Kruševcu i Velikom Gradištu - 39 stepeni, dok je najniža temperatura, 25 stepena, izme",
+        "published": "2026-08-21T12:18:45",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Tužilac Vujičić: Ima značajnih pomaka u istrazi o paljenju mog automobila",
-        "link": "https://n1info.rs/vesti/tuzilac-vujicic-ima-znacajnih-pomaka-u-istrazi-o-paljenju-mog-automobila/",
-        "summary": "Tužilac iz Valjeva Vukašin Vujičić, kojem je u noći između 15. i 16. avgusta zapaljen automobil u blizini zgrade u kojoj živi, izjavio je danas FoNetu",
-        "published": "2026-08-21T11:13:32",
+        "title": "ANEM: Ruling against Portal 021 could have devastating consequences for media freedom",
+        "link": "https://n1info.rs/english/news/anem-ruling-against-portal-021-could-have-devastating-consequences-for-media-freedom/",
+        "summary": "The Novi Sad-based news outlet Portal 021 has been found liable in a lawsuit filed by politician and journalist Nemanja Sarovic after it carried a sta",
+        "published": "2026-08-21T12:14:16",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "NUNS: Pismo ministra Bratine vlasniku Alpac Capitala je nedopustiv politički pritisak na N1 i Novu",
-        "link": "https://n1info.rs/vesti/nuns-pismo-ministra-bratine-vlasniku-alpac-capitala-nedopustiv-politicki-pritisak-na-n1-i-novu/",
-        "summary": "Nezavisno udruženje novinara Srbije (NUNS) upozorava da otvoreno pismo ministra informisanja i telekomunikacija Borisa Bratine vlasniku Alpac Capitala",
-        "published": "2026-08-21T11:07:33",
+        "title": "Leks specijalis za isplatu novca građanima: Ko se, kad i gde prijavljuje za 6.000 dinara, a koje isplate ne mogu da se dupliraju",
+        "link": "https://n1info.rs/biznis/ko-se-kad-i-gde-prijavljuje-za-6000-dinara-a-koje-isplate-ne-mogu-da-se-dupliraju/",
+        "summary": "Predlog leks specijalisa, posebnog zakona kojim se reguliše isplata najavljene novčane pomoći građanima - od penzionera, preko korisnika dečjeg dodatk",
+        "published": "2026-08-21T12:09:48",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Nemački novinar na ruskoj poternici zbog pitanja koje je u Beogradu postavio Zelenskom",
-        "link": "https://n1info.rs/svet/nemacki-novinar-na-ruskoj-poternici-zbog-pitanja-koje-je-u-beogradu-postavio-zelenskom/",
-        "summary": "Nemački novinar Mihael Martens sada je na ruskoj poternici zbog jednog pitanja koje je u Beogradu postavio Volodimiru Zelenskom. No, barem iz Nemačke",
-        "published": "2026-08-21T11:07:01",
+        "title": "Ne prestaje \"rat\" transparentima u Kragujevcu: Naprednjaci zakačili baner kako bi zaklonili studentski",
+        "link": "https://n1info.rs/vesti/ne-prestaje-rat-transparentima-u-kragujevcu-naprednjaci-zakacili-baner-kako-bi-zaklonili-studentski/",
+        "summary": "Studenti u blokadi i zborovi građana čuvaju osmi dan transparent \"Studenti pobeđuju\" na pasareli u Bulevaru kraljice Marije u Kragujevcu, dok u blizin",
+        "published": "2026-08-21T12:06:16",
         "source": "N1 Info RS - Feed",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Kamate i troškovi skaču za privredu: Koji krediti su najteže pogođeni, a kome su uslovi nepromenjeni?",
+        "link": "https://biznis.telegraf.rs/info-biz/4382342-kamate-i-troskovi-skacu-za-privredu-koji-krediti-su-najteze-pogodjeni-a-kome-su-uslovi-nepromenjeni",
+        "summary": "Banke u Srbiji su u drugom kvartalu ove godine pooštrile uslove po kojima su odobravale kredite privredi, dok su standardi za stanovništvo ostali nepromenjeni,.",
+        "published": "2026-08-21T12:29:01",
+        "source": "Telegraf.rs",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Mesečni hladan tuš za vozače: Dizel i benzin poskupeli u EU, rekordi u Poljskoj i Nemačkoj više od 12%",
+        "link": "https://biznis.telegraf.rs/info-biz/4382316-mesecni-hladan-tus-za-vozace-dizel-i-benzin-poskupeli-u-eu-rekordi-u-poljskoj-i-nemackoj-vise-od-12",
+        "summary": "Cene goriva i maziva za lični transport u Evropskoj uniji porasle su u julu prosečno za 16,9 odsto u odnosu na isti mesec prošle godine, pokazuju danas.",
+        "published": "2026-08-21T12:15:03",
+        "source": "Telegraf.rs",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Finansijski sektor očekuje nižu inflaciju sledeće godine: Da li će se rast cena zaustaviti?",
+        "link": "https://biznis.telegraf.rs/info-biz/4382295-finansijski-sektor-ocekuje-nizu-inflaciju-sledece-godine-da-li-ce-se-rast-cena-zaustaviti",
+        "summary": "Finansijski sektor, prema rezultatima julske ankete agencije Ninamedija, za godinu dana očekuje inflaciju od 3,5 odsto što je manje od junskih 3,6 odsto,.",
+        "published": "2026-08-21T11:31:06",
+        "source": "Telegraf.rs",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "SAD dale Lukoilu još vremena: Produžena dozvola za prodaju strane imovine",
+        "link": "https://biznis.telegraf.rs/info-biz/4382308-sad-dale-lukoilu-jos-vremena-produzena-dozvola-za-prodaju-strane-imovine",
+        "summary": "Američka Kancelarija za kontrolu strane imovine (OFAC) pri Ministarstvu finansija Sjedinjenih Američkih Država produžila je licencu koja omogućava ruskom.",
+        "published": "2026-08-21T11:36:48",
+        "source": "Telegraf.rs",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Nemački biznis gubi strpljenje: Od vlade traže brže reforme zbog sve većeg pritiska sa tržišta",
+        "link": "https://biznis.telegraf.rs/info-biz/4382298-nemacki-biznis-gubi-strpljenje-od-vlade-traze-brze-reforme-zbog-sve-veceg-pritiska-sa-trzista",
+        "summary": "Nemački privredni giganti danas su javno pojačali pritisak na vladu u Berlinu, nakon što je objavljeno njihovo zajedničko pismo kojim traže hitno sprovođenje.",
+        "published": "2026-08-21T11:24:51",
+        "source": "Telegraf.rs",
         "sentiment": "neutral"
       },
       {
@@ -678,43 +718,19 @@
         "sentiment": "neutral"
       },
       {
-        "title": "Građani Srbije sve više uzimaju kredite ali rast polako usporava: Evo šta to znači za vaš novčanik!",
-        "link": "https://biznis.telegraf.rs/info-biz/4382287-gradjani-srbije-sve-vise-uzimaju-kredite-ali-rast-polako-usporava-evo-sta-to-znaci-za-vas-novcanik",
-        "summary": "Kreditna aktivnost u Srbiji nastavila je da beleži visok međugodišnji rast tokom drugog tromesečja a ovaj rast je u junu iznosio 16,6 odsto i bio je blago niži.",
-        "published": "2026-08-21T11:06:05",
-        "source": "Telegraf.rs",
+        "title": "Američki državni dug prešao granicu od 40 hiljada milijardi dolara",
+        "link": "https://novaekonomija.rs/vesti-iz-sveta/americki-drzavni-dug-presao-granicu-od-40-hiljada-milijardi-dolara",
+        "summary": "Ukupni državni dug Sjedinjenih Američkih Država premašio je istorijsku granicu od 40 biliona dolara, piše Rojters. Ovaj dramatični porast pokrenuo je nova upozorenja o nadolazećoj fiskalnoj krizi, budući da troškovi socijalnih programa i plaćanja kamata rastu znatno brže od prihoda koji su ograničen",
+        "published": "2026-08-21T11:56:35",
+        "source": "Nova Ekonomija",
         "sentiment": "neutral"
       },
       {
-        "title": "Kapacitet prerade sirove nafte u Pančevu od danas 13.000 tona dnevno! Evo šta to znači za snabdevanje",
-        "link": "https://biznis.telegraf.rs/info-biz/4382272-kapacitet-prerade-sirove-nafte-u-pancevu-od-danas-13000-tona-dnevno-evo-sta-to-znaci-za-snabdevanje",
-        "summary": "Rafinerija Pančevo od danas podiže kapacitet prerade sirove nafte na oko 13.000 tona dnevno",
-        "published": "2026-08-21T10:48:06",
-        "source": "Telegraf.rs",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Yettel mreža - najbolja mobilna mreža u Srbiji na sva tri međunarodna testa",
-        "link": "https://biznis.telegraf.rs/info-biz/4382276-yettel-mreza-najbolja-mobilna-mreza-u-srbiji-na-sva-tri-medjunarodna-testa",
-        "summary": "Jedna mreža, tri priznanja",
-        "published": "2026-08-21T10:42:44",
-        "source": "Telegraf.rs",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Stigle su nove cene goriva: Poskupela oba derivata!",
-        "link": "https://biznis.telegraf.rs/novcanik/4382109-stigle-su-nove-cene-goriva-poskupela-oba-derivata",
-        "summary": "Stigle su nove cene goriva, tako da će od danas od 15 časova na pumpama u Srbiji i narednih sedam dana litar evrodizela koštati maksimalno 231 dinara za litar,.",
-        "published": "2026-08-21T10:54:58",
-        "source": "Telegraf.rs",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Dizel skuplji od kerozina: Šta stoji iza neobičnog obrta na evropskom tržištu goriva",
-        "link": "https://biznis.telegraf.rs/info-biz/4382237-dizel-skuplji-od-kerozina-sta-stoji-iza-neobicnog-obrta-na-evropskom-trzistu-goriva",
-        "summary": "Nedostatak dizela na evropskom tržištu doveo je do neobičnog obrta. To ne znači da je kerozin pojeftinio, već da je dizela sve manje upravo u trenutku kada je.",
-        "published": "2026-08-21T09:55:08",
-        "source": "Telegraf.rs",
+        "title": "Gorivo opet poskupelo",
+        "link": "https://novaekonomija.rs/vesti-iz-zemlje/gorivo-opet-poskupelo",
+        "summary": "Dizel će u Srbiji od danas u 15.00 sati do 28. avgusta u isto vreme biti skuplji dva dinara po litru, a toliko će biti veća cena i benzina. Dizel će koštati 231 dinar, a benzin 203 dinara po litru. Cena dizela za poljoprivrednike ostala je nepromenjena, litar košta 184 dinara, prenosi Beta. &#160;",
+        "published": "2026-08-21T11:36:18",
+        "source": "Nova Ekonomija",
         "sentiment": "neutral"
       },
       {
@@ -746,22 +762,6 @@
         "link": "https://novaekonomija.rs/vesti-iz-zemlje/srbija-u-problemu-sa-ugljem-industriju-iznad-nule-drzi-samo-fijat",
         "summary": "Industrija se trenutno održava iznad nule gotovo samo zahvaljujući prerađivačkoj industriji, dok je energetika u sve dubljem minusu, a rudarstvo je u junu takođe skliznulo ispod nule zbog uglja. Ukupni rast industrije u maju usporio je na svega 0,3 odsto, a u junu je iznosio 0,8 odsto. Tako je od tr",
         "published": "2026-08-21T08:10:57",
-        "source": "Nova Ekonomija",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Siniša Mali se „presabrao“: Daćemo milijardu evra za pomoć građanima, a ne 600 miliona kako smo mislili“",
-        "link": "https://novaekonomija.rs/vesti-iz-zemlje/sinisa-mali-se-presabrao-dacemo-milijardu-evra-za-pomoc-gradjanima-a-ne-600-miliona-kako-smo-mislili",
-        "summary": "Ministar finansija Siniša Mali rekao je danas da je rebalansom budžeta za ovu godinu predviđeno oko milijardu evra za pomoć građanima i da je za sedam meseci naplaćeno 112,5 milijardi dinara više poreza od planiranog, što je omogućilo dodatno finansiranje prioritetnih mera. &#8222;Sada kada smo sabr",
-        "published": "2026-08-21T07:49:03",
-        "source": "Nova Ekonomija",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Kako da se prijavite za 6.000 dinara koje daje država punoletnim građanima?",
-        "link": "https://novaekonomija.rs/vesti-iz-zemlje/kako-da-se-prijavite-za-6-000-dinara-koje-dodeljuje-drzava-punoletnim-gradjanima-pomoc",
-        "summary": "Vlada Srbije objavila je da će punoletni građani Srbije moći od 7. septembra da se prijave za novčanu podršku od 6.000 dinara. Prijava će se obavljati putem portala Uprave za trezor, a isplata će početi 22. septembra. Pravo na novčanu pomoć imaju svi punoletni građani, pod uslovom da su državljani R",
-        "published": "2026-08-21T07:31:14",
         "source": "Nova Ekonomija",
         "sentiment": "neutral"
       }
@@ -825,13 +825,13 @@
     "Frankfurt": true,
     "Tokyo": false,
     "Hong Kong": false,
-    "Belgrade": true
+    "Belgrade": false
   },
   "sentiment_summary": {
     "macro": {
       "positive": 6,
-      "negative": 3,
-      "neutral": 9
+      "negative": 2,
+      "neutral": 10
     },
     "serbia": {
       "positive": 0,
