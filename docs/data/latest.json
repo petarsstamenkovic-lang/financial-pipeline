@@ -1,6 +1,6 @@
 {
   "date": "2026-08-24",
-  "generated_at": "2026-08-24T13:22:29.219530+02:00",
+  "generated_at": "2026-08-24T14:32:10.283951+02:00",
   "market": {
     "indices": {
       "S&P 500": {
@@ -23,26 +23,26 @@
       },
       "DAX": {
         "symbol": "^GDAXI",
-        "price": 26129.3203,
+        "price": 26128.3301,
         "change_pct": -0.03,
         "prev_close": 26136.5605
       },
       "Euro Stoxx 50": {
         "symbol": "^STOXX50E",
-        "price": 6457.6401,
-        "change_pct": -0.07,
+        "price": 6454.6299,
+        "change_pct": -0.12,
         "prev_close": 6462.2202
       },
       "FTSE 100": {
         "symbol": "^FTSE",
-        "price": 10835.5898,
-        "change_pct": 0.18,
+        "price": 10820.7402,
+        "change_pct": 0.04,
         "prev_close": 10816.5996
       },
       "CAC 40": {
         "symbol": "^FCHI",
-        "price": 8480.7002,
-        "change_pct": -0.04,
+        "price": 8467.9697,
+        "change_pct": -0.19,
         "prev_close": 8484.4297
       },
       "Nikkei 225": {
@@ -123,76 +123,76 @@
     "fx_commodities": {
       "EUR/USD": {
         "symbol": "EURUSD=X",
-        "price": 1.1669,
-        "change_pct": -0.16,
+        "price": 1.1674,
+        "change_pct": -0.12,
         "prev_close": 1.1688
       },
       "GBP/USD": {
         "symbol": "GBPUSD=X",
-        "price": 1.3627,
-        "change_pct": -0.12,
+        "price": 1.3643,
+        "change_pct": -0.0,
         "prev_close": 1.3643
       },
       "USD/CHF": {
         "symbol": "USDCHF=X",
-        "price": 0.8026,
-        "change_pct": 0.38,
+        "price": 0.8017,
+        "change_pct": 0.26,
         "prev_close": 0.7996
       },
       "USD/JPY": {
         "symbol": "USDJPY=X",
-        "price": 159.212,
-        "change_pct": 0.21,
+        "price": 158.944,
+        "change_pct": 0.04,
         "prev_close": 158.883
       },
       "Gold": {
         "symbol": "GC=F",
-        "price": 4698.2998,
-        "change_pct": 1.6,
+        "price": 4713.6001,
+        "change_pct": 1.94,
         "prev_close": 4624.1001
       },
       "Silver": {
         "symbol": "SI=F",
-        "price": 68.835,
-        "change_pct": -0.91,
+        "price": 69.245,
+        "change_pct": -0.32,
         "prev_close": 69.466
       },
       "Brent Crude": {
         "symbol": "BZ=F",
-        "price": 92.93,
-        "change_pct": -1.55,
+        "price": 93.11,
+        "change_pct": -1.36,
         "prev_close": 94.39
       },
       "WTI Crude": {
         "symbol": "CL=F",
-        "price": 85.21,
-        "change_pct": -2.12,
+        "price": 85.47,
+        "change_pct": -1.83,
         "prev_close": 87.06
       },
       "Natural Gas": {
         "symbol": "NG=F",
-        "price": 2.838,
-        "change_pct": 2.34,
+        "price": 2.876,
+        "change_pct": 3.71,
         "prev_close": 2.773
       },
       "Copper": {
         "symbol": "HG=F",
-        "price": 6.586,
-        "change_pct": 0.1,
+        "price": 6.596,
+        "change_pct": 0.25,
         "prev_close": 6.5795
       },
       "Wheat": {
         "symbol": "ZW=F",
-        "price": 712.0,
-        "change_pct": 4.48,
+        "price": 712.5,
+        "change_pct": 4.55,
         "prev_close": 681.5
       }
     },
     "rates": {
       "VIX": {
         "symbol": "^VIX",
-        "price": 16.01,
-        "change_pct": 5.82,
+        "price": 15.93,
+        "change_pct": 5.29,
         "prev_close": 15.13
       },
       "US 10Y Yield": {
@@ -472,18 +472,10 @@
   "news": {
     "macro_global": [
       {
-        "title": "Warsh seeks to soothe investors’ nerves as signs of economic strain mount",
-        "link": "https://www.ft.com/content/40ae9cd3-fbc8-4a55-adaa-c24bc80481c9?syn-25a6b1a6=1",
-        "summary": "Economists criticise Fed chair’s communication strategy as policymakers prepare to gather at Jackson Hole symposium",
-        "published": "2026-08-24T06:35:35",
-        "source": "UK homepage",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Can AI glasses replace the smartphone?",
-        "link": "https://www.ft.com/content/3f25f892-2de2-40e6-9592-a7ac18682c6c?syn-25a6b1a6=1",
-        "summary": "Big Tech thinks wearables are the gateway to artificial intelligence. Critics call it cringe stalkerware",
-        "published": "2026-08-24T04:00:14",
+        "title": "Iran threatens 46 ships in Strait of Hormuz transit crackdown",
+        "link": "https://www.ft.com/content/9ebcd1d7-9959-468b-af96-987ef5bf83a8?syn-25a6b1a6=1",
+        "summary": "Tehran said vessels violated protocols for travelling across waterway and could face fines or confiscation",
+        "published": "2026-08-24T11:14:56",
         "source": "UK homepage",
         "sentiment": "neutral"
       },
@@ -496,6 +488,22 @@
         "sentiment": "neutral"
       },
       {
+        "title": "Can AI glasses replace the smartphone?",
+        "link": "https://www.ft.com/content/3f25f892-2de2-40e6-9592-a7ac18682c6c?syn-25a6b1a6=1",
+        "summary": "Big Tech thinks wearables are the gateway to artificial intelligence. Critics call it cringe stalkerware",
+        "published": "2026-08-24T04:00:14",
+        "source": "UK homepage",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "How New Zealand’s biggest city solved its housing crisis",
+        "link": "https://www.ft.com/content/ec25a937-3dbd-417c-82a1-db223b62cca6?syn-25a6b1a6=1",
+        "summary": "Rezoning has changed the face of Auckland though critics warn lessons hard to replicate",
+        "published": "2026-08-23T21:00:01",
+        "source": "UK homepage",
+        "sentiment": "negative"
+      },
+      {
         "title": "A ‘democratised’ financial crisis is still a crisis",
         "link": "https://www.ft.com/content/f3f51071-3c6e-49ee-a984-92d8d7af99b2?syn-25a6b1a6=1",
         "summary": "Private credit’s insurance boom could have hidden costs",
@@ -504,18 +512,10 @@
         "sentiment": "negative"
       },
       {
-        "title": "Iran threatens 46 ships in Strait of Hormuz transit crackdown",
-        "link": "https://www.ft.com/content/9ebcd1d7-9959-468b-af96-987ef5bf83a8?syn-25a6b1a6=1",
-        "summary": "Tehran said vessels violated protocols for travelling across waterway and could face fines or confiscation",
-        "published": "2026-08-24T09:48:30",
-        "source": "UK homepage",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Thames Water creditors plan board shake-up if utility avoids nationalisation",
-        "link": "https://www.ft.com/content/f160c7b8-d322-4b5f-b5c9-f6861c62e3db?syn-25a6b1a6=1",
-        "summary": "Move aims to reassure government there would be a change of leadership under their ownership",
-        "published": "2026-08-24T07:36:51",
+        "title": "Ukraine hits Russia’s second-largest online retailer",
+        "link": "https://www.ft.com/content/353032d0-4031-40fe-83ab-958d473401f0?syn-25a6b1a6=1",
+        "summary": "Kyiv’s drones target Ozon warehouses after weeks of strikes against market leader Wildberries",
+        "published": "2026-08-24T11:27:46",
         "source": "UK homepage",
         "sentiment": "neutral"
       },
@@ -618,51 +618,83 @@
     ],
     "serbia": [
       {
-        "title": "Dojče vele: Požar u Deliblatskoj peščari - u pomoć stižu i Nemci",
-        "link": "https://n1info.rs/vesti/pozar-deliblatska-pescara-u-pomoc-stizu-nemci/",
-        "summary": "Vatrogasci i oprema iz Nemačke stižu u pomoć u gašenju požara u Vojvodini, odazivajući se na molbu koju je Srbija uputila Nemačkoj.",
-        "published": "2026-08-24T11:16:11",
+        "title": "Žena koja je preživela napad ajkule od 3,5 metara: Bila je čudovište, ali sam dobila snagu da se borim za život",
+        "link": "https://n1info.rs/svet/zena-koja-je-prezivela-napad-ajkule-od-35-metara-bila-je-cudoviste-ali-sam-dobila-snagu-da-se-borim-za-zivot/",
+        "summary": "Nastavnica iz Sidneja Li Stjuart izgubila je ruku nakon što ju je u junu napala ajkula za koju se sumnja da je bila velika bela ajkula.",
+        "published": "2026-08-24T12:26:14",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Nađeno telo muškarca u Tamišu, za još jednom osobom se traga",
-        "link": "https://n1info.rs/vesti/telo-muskarca-izvuceno-iz-tamisa-traga-se-za-jos-jednom-osobom/",
-        "summary": "Telo muškarca izvučeno je jutros iz Tamiša, a kako je saopštilo tužilaštvo, radi se o turskom državljaninu. Za još jednom osobom se traga.",
-        "published": "2026-08-24T11:13:31",
+        "title": "Transparency Serbia: Amended anti-corruption law won’t stop officials campaigning",
+        "link": "https://n1info.rs/english/news/transparency-serbia-amended-anti-corruption-law-wont-stop-officials-campaigning/",
+        "summary": "Transparency Serbia warned on Monday that the changes to the country’s anti-corruption law will not prevent state officials from election campaigning.",
+        "published": "2026-08-24T12:24:09",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Vanredna sednica Skupštine Srbije o rebalansu budžeta: Opozicija navodi da \"novac države nije novac SNS\", vlast da je pomoći bilo i ranije",
-        "link": "https://n1info.rs/vesti/sednica-skuptine-srbije-rebalans-budeta/",
-        "summary": "Vanredna sednica Skupština Srbije počela je u 10 časova, a na dnevnom redu će se naći 59 tačaka. Prva tačka dnevnog reda je predlog rebalansa budžeta,",
-        "published": "2026-08-24T11:10:12",
+        "title": "Ukrajina obeležava 35. godišnjicu nezavisnosti zemlje, u Kijevu čelnici Koalicije voljnih",
+        "link": "https://n1info.rs/svet/ukrajina-obelezava-35-godisnjicu-nezavisnosti-zemlje/",
+        "summary": "Ukrajina obeležava 35. godišnjicu nezavisnosti zemlje. U Kijevu su i čelnici Koalicije voljnih.",
+        "published": "2026-08-24T12:22:22",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Zbog negodovanja javnosti, Megan Markl neće dobiti ulogu u seriji \"The Gentlemen\"",
-        "link": "https://n1info.rs/magazin/showbiz/zbog-negodovanja-javnosti-megan-markl-nece-dobiti-ulogu-u-seriji-the-gentlemen/",
-        "summary": "Vojvotkinja od Saseksa Megan Markl ipak neće dobiti ulogu u trećoj sezoni  Netfliksove serije, reditelja Gaja Ričija, The Gentlemen,  objavila je brit",
-        "published": "2026-08-24T11:10:03",
+        "title": "Drevno groblje ajkula otkriveno u egipatskoj pustinji",
+        "link": "https://n1info.rs/magazin/scitech/drevno-groblje-ajkula-otkriveno-u-egipatskoj-pustinji/",
+        "summary": "Pustinjski pesak Egipta suv je već hiljadama godina. Međutim, koliko god to danas bilo teško zamisliti, veliki deo te pustinje nekada je bio potopljen",
+        "published": "2026-08-24T12:19:44",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Prelević: Neugašen požar u Deliblatskoj peščari je katastrofalan za vlast, VJT pokušava da zastraši narod",
-        "link": "https://n1info.rs/vesti/prelevic-neugasen-pozar-u-deliblatskoj-pescari-katastrofalan-za-vlast/",
-        "summary": "Advokat Božo Prelević ocenio je danas da je neugašen požar u Deliblatskoj peščari katastrofalan za vlast i da Više javno tužilaštvo (VJT) u Beogradu p",
-        "published": "2026-08-24T11:00:29",
+        "title": "Na zahtev odbrane odloženo prvo ročište suđenja bivšem vicepremijeru Severne Makedonije",
+        "link": "https://n1info.rs/region/odlozeno-prvo-rociste-sudjenja-bivsem-vicepremijeru-severne-makedonije/",
+        "summary": "Prvo ročište suđenja bivšem vicepremijeru Severne Makedonije Artanu Grubiju, jednom od osam optuženih za zlopotrebe u Džavnoj lutriji, odloženo je za",
+        "published": "2026-08-24T12:19:38",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Education minister says communication with universities difficult because of student list",
-        "link": "https://n1info.rs/english/news/education-minister-says-communication-with-universities-difficult-because-of-student-list/",
-        "summary": "Serbian Education Minister Dejan Vuk Stankovic told the state TV (RTS) that communication between the government universities will be difficult becaus",
-        "published": "2026-08-24T10:53:44",
+        "title": "Rusija optužila Britaniju da \"doliva ulje na vatru\", Barnam kaže da podržavaju Ukrajinu uprkos \"nečuvenim pretnjama\"",
+        "link": "https://n1info.rs/svet/rusija-optuzila-britaniju-da-doliva-ulje-na-vatru-barnam-kaze-da-podrzavaju-ukrajinu-uprkos-necuvenim-pretnjama/",
+        "summary": "Rusija je saopštila da će odluka Velike Britanije da Ukrajini preda poverljive informacije o komponentama britanske proizvodnje koje se koriste za izr",
+        "published": "2026-08-24T12:12:31",
         "source": "N1 Info RS - Feed",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Povećanje limita za paušalce traži na hiljade preduzetnika - Šta ono znači za male biznise u Srbiji?",
+        "link": "https://biznis.telegraf.rs/preduzetnistvo/4383793-povecanje-limita-za-pausalce-trazi-na-hiljade-preduzetnika-sta-ono-znaci-za-male-biznise-u-srbiji",
+        "summary": "Paušalci traže veliku promenu: Limit bi sa 6 skočio na 8 miliona, za PDV traže novu granicu",
+        "published": "2026-08-24T12:15:12",
+        "source": "Telegraf.rs",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Novi zakon menja cene taksi usluga u Srbiji: Ovo su novine, evo kako će uticati na vaš novčanik",
+        "link": "https://biznis.telegraf.rs/novcanik/4383787-novi-zakon-menja-cene-taksi-usluga-u-srbiji",
+        "summary": "Novi Nacrt zakona donosi fleksibilno formiranje cena taksija u Srbiji. Pogledajte šta izmene znače za vožnje u špicu, po nevremenu i vaš novčanik.",
+        "published": "2026-08-24T12:19:31",
+        "source": "Telegraf.rs",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Turistima poručili da idu kući: Grebu im automobile, ispisuju pretnje - lokalaca manje nego turista!",
+        "link": "https://biznis.telegraf.rs/info-biz/4383769-turistima-porucili-da-idu-kuci-grebu-im-automobile-ispisuju-pretnje-lokalaca-manje-nego-turista",
+        "summary": "Lokalci objavili rat turistima: Grebu automobile i ispisuju pretnje, leti broj stanovnika utrostruče",
+        "published": "2026-08-24T11:45:14",
+        "source": "Telegraf.rs",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Pad svetske proizvodnje čelika: Kina i dalje dominira ali gubi zamah, Vijetnam i Indija iznenađuju rastom",
+        "link": "https://biznis.telegraf.rs/info-biz/4383763-pad-svetske-proizvodnje-celika-kina-i-dalje-dominira-ali-gubi-zamah-vijetnam-i-indija-iznenadjuju-rastom",
+        "summary": "Svetska proizvodnja sirovog čelika za jul iznosila je 149,2 miliona tona, što je za 0,3 odsto manje nego u istom mesecu prošle godine, objavilo je danas Svetsko.",
+        "published": "2026-08-24T11:21:49",
+        "source": "Telegraf.rs",
         "sentiment": "neutral"
       },
       {
@@ -682,35 +714,35 @@
         "sentiment": "neutral"
       },
       {
-        "title": "Zaduživanje Nemačke na istorijskom maksimumu! Evo šta to znači za dug i kamate koje svi plaćaju",
-        "link": "https://biznis.telegraf.rs/info-biz/4383722-zaduzivanje-nemacke-na-istorijskom-maksimumu-evo-sta-to-znaci-za-dug-i-kamate-koje-svi-placaju",
-        "summary": "Nemačka bi mogla da izgubi najviši kreditni rejting AAA agencije Standard & Purs (S&amp;P) ukoliko se njeni ekonomski rezultati značajno pogoršaju u odnosu na.",
-        "published": "2026-08-24T11:00:34",
-        "source": "Telegraf.rs",
+        "title": "Evropska komisija: EU reagovala u roku od nekoliko sati na molbu Srbije za pomoć u gašenju požara",
+        "link": "https://novaekonomija.rs/vesti-iz-zemlje/evropska-komisija-eu-reagovala-u-roku-od-nekoliko-sati-na-molbu-srbije-za-pomoc-u-gasenju-pozara",
+        "summary": "Evropska unija poslala je hitnu pomoć Srbiji preko svog Mehanizma za civilnu zaštitu dok jaki požari nastavljaju da pogađaju specijalni rezervat prirode Deliblatsku peščaru gde je već zahvaćeno 3.500 hektara, saopštila je danas Evropska komisija. Kako se navodi Srbija je kao odgovor na pogoršanje si",
+        "published": "2026-08-24T12:23:40",
+        "source": "Nova Ekonomija",
         "sentiment": "neutral"
       },
       {
-        "title": "Penzioneri dobijaju dodatnih 6.000 dinara! Predsednik Srbije otkrio i kada stiže povećanje penzije",
-        "link": "https://biznis.telegraf.rs/novcanik/4383729-penzioneri-dobijaju-dodatnih-6000-dinara-predsednik-srbije-otkrio-i-kada-stize-povecanje-penzije",
-        "summary": "Predsednik Srbije Aleksandar Vučić izjavio je tokom razgovora sa građanima Novog Pazara da će do značajnog povećanja penzija doći već u toku ove godine, umesto.",
-        "published": "2026-08-24T10:54:53",
-        "source": "Telegraf.rs",
+        "title": "Kako vlast finansira „pomoć“ za građane pred izbore: Srezali novac za kanalizaciju, a prethodno i za obnovu škola",
+        "link": "https://novaekonomija.rs/vesti-iz-zemlje/kako-vlast-finansira-pomoc-za-gradjane-pred-izbore-srezali-novac-za-kanalizaciju-a-prethodno-i-za-obnovu-skola",
+        "summary": "Glavni problemi sa budžetskom potrošnjom u Srbiji vrte se oko tri ključna stuba: neopravdane fiskalne ekspanzije, sistemskih slabosti u planiranju i ozbiljnog manjka parlamentarne kontrole i transparentnosti, navodi Fiskalni savet u svojoj poslednjoj oceni. Predloženi rebalans budžeta za 2026. godin",
+        "published": "2026-08-24T12:01:48",
+        "source": "Nova Ekonomija",
         "sentiment": "neutral"
       },
       {
-        "title": "Norveška ne odustaje od novih nalazišta u Barencovom moru: Da li EU rizikuje sopstvenu energetsku sigurnost?",
-        "link": "https://biznis.telegraf.rs/info-biz/4383712-norveska-ne-odustaje-od-novih-nalazista-u-barencovom-moru-da-li-eu-rizikuje-sopstvenu-energetsku-sigurnost",
-        "summary": "Norveška će nastaviti da razvija nalazišta nafte i gasa u Barencovom moru, bez obzira na to da li će Evropska unija podržati moratorijum na nova arktička.",
-        "published": "2026-08-24T10:25:00",
-        "source": "Telegraf.rs",
+        "title": "Nova ekonomija danas:  Ko gradi Beograd za 10 odsto najbogatijih?",
+        "link": "https://novaekonomija.rs/vesti-iz-zemlje/nova-ekonomija-danas-ko-gradi-beograd-za-10-odsto-najbogatijih",
+        "summary": "Projekat „Beograd na vodi“ širi se na levu obalu Save. Struka upozorava da prestonica klizi u potpuni urbanistički kolaps. Umesto razvoja zasnovanog na potrebama građana, na snazi je svesno zaobilaženje izrade Generalnog urbanističkog plana i korišćenje političkih manevara koji odlučivanje sele u za",
+        "published": "2026-08-24T11:58:21",
+        "source": "Nova Ekonomija",
         "sentiment": "neutral"
       },
       {
-        "title": "Od krompira za 80 dinara do spanaća za 900: Pogledajte cene voća i povrća na srpskim pijacama",
-        "link": "https://biznis.telegraf.rs/novcanik/4383673-pogledajte-cene-voca-i-povrca-na-srpskim-pijacama",
-        "summary": "Kupovina na zelenim pijacama širom Srbije već decenijama predstavlja ne samo tradiciju, već i najpouzdaniji indikator kupovne moći i inflatornih kretanja.",
-        "published": "2026-08-24T10:11:45",
-        "source": "Telegraf.rs",
+        "title": "Funkcionerska kampanja neće biti ograničena izmenama Zakona o sprečavanju korupcije",
+        "link": "https://novaekonomija.rs/vesti-iz-zemlje/funkcionerska-kampanja-nece-biti-ogranicena-izmenama-zakona-o-sprecavanju-korupcije",
+        "summary": "Funkcionerska kampanja neće biti ograničena izmenama Zakona o sprečavanju korupcije i pored odredbi koje prividno tome služe, upozorava Transparentnost Srbija. Promotivne aktivnosti javnih funkcionera koje nemaju realnu svrhu, već služe podizanju rejtinga njihovih stranaka, prepoznate su u izveštaji",
+        "published": "2026-08-24T11:33:02",
+        "source": "Nova Ekonomija",
         "sentiment": "neutral"
       },
       {
@@ -728,42 +760,15 @@
         "published": "2026-08-24T11:04:00",
         "source": "Nova Ekonomija",
         "sentiment": "neutral"
-      },
-      {
-        "title": "Iranska valuta na rekordno niskom nivou, jedan dolar vredi dva miliona rijala",
-        "link": "https://novaekonomija.rs/vesti-iz-sveta/iranska-valuta-na-rekordno-niskom-nivou-jedan-dolar-vredi-dva-miliona-rijala",
-        "summary": "Iranska valuta rijal danas je dostigla novi rekordno nizak nivo i sada je za kupovinu jednog američkog dolara na neformalnom tržištu deviza u Iranu potrebno dva miliona rijala. Zvanični kurs iranske centralne banke je oko 1,5 miliona rijala za dolar, ali većina Iranaca plaća neformalni kurs. Rijal",
-        "published": "2026-08-24T10:48:35",
-        "source": "Nova Ekonomija",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Odbor za finansije: Mali hvalio rebalans budžeta, opozicija smatra da se njime kupuju glasovi",
-        "link": "https://novaekonomija.rs/vesti-iz-zemlje/odbor-za-finansije-mali-hvalio-rebalans-budzeta-opozicija-smatra-da-se-njime-kupuju-glasovi",
-        "summary": "Ministar finansija Siniša Mali danas je na sednici Odbora Skupštine Srbije za finansije, republički budžet i kontrolu trošenja javnih sredstava hvalio rebalans ovogodišnjeg budžeta, a poslanici opozicionih stranaka su ga kritikovali i ukazivali da vlast novom raspodelom novca u državnoj kasi kupuje",
-        "published": "2026-08-24T09:31:34",
-        "source": "Nova Ekonomija",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Danas počinje skupštinska rasprava o rebalansu budžeta i još 58 tačaka dnevnog reda",
-        "link": "https://novaekonomija.rs/vesti-iz-zemlje/danas-pocinje-skupstinska-rasprava-o-rebalansu-budzeta-i-jos-58-tacaka-dnevnog-reda",
-        "summary": "Skupština Srbije će na današnjoj vanrednoj sednici razmatrati Predlog zakona o izmenama i dopunama Zakona o budžetu za 2026. godinu, odnosno rebalans budžeta, koji je prva od ukupno 59. tačka dnevnog reda, prenosi Beta. Vlada Srbije prethodno je u četvrtak, 20. avgusta, usvojila predlog rebalansa, k",
-        "published": "2026-08-24T07:39:00",
-        "source": "Nova Ekonomija",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Nuklearna elektrana Pakš od srede bi mogla ponovo da radi punim kapacitetom",
-        "link": "https://novaekonomija.rs/vesti-iz-sveta/nuklearna-elektrana-paks-od-srede-bi-mogla-ponovo-da-radi-punim-kapacitetom",
-        "summary": "Nuklearna elektrana Pakš u Mađarskoj ponovo je pokrenula treći reaktor, a postrojenje bi moglo da radi punim kapacitetom već od srede, dan ili dva ranije nego što se očekivalo, izjavio je danas premijer Peter Mađar. U elektrani koja proizvodi gotovo polovinu električne energije u Mađarskoj, ranije o",
-        "published": "2026-08-23T14:58:22",
-        "source": "Nova Ekonomija",
-        "sentiment": "neutral"
       }
     ]
   },
   "key_events": [
+    {
+      "title": "Strategy adds USD Cash pool, holds 840,447 bitcoin as of Aug. 23",
+      "link": "https://www.investing.com/news/cryptocurrency-news/strategy-adds-usd-cash-pool-holds-840447-bitcoin-as-of-aug-23-432SI-4873422",
+      "summary": ""
+    },
     {
       "title": "FlyEdge Opens Public Preview of Aviation-Focused Blockchain for Tokenized Airline Loyalty",
       "link": "https://www.investing.com/news/cryptocurrency-news/flyedge-opens-public-preview-of-aviationfocused-blockchain-for-tokenized-airline-loyalty-4872958",
@@ -808,11 +813,6 @@
       "title": "Cardano Climbs 11% In Rally",
       "link": "https://www.investing.com/news/cryptocurrency-news/cardano-climbs-11-in-rally-4872242",
       "summary": ""
-    },
-    {
-      "title": "Litecoin Climbs 10% In a Green Day",
-      "link": "https://www.investing.com/news/cryptocurrency-news/litecoin-climbs-10-in-a-green-day-4872198",
-      "summary": ""
     }
   ],
   "market_clock": {
@@ -821,13 +821,13 @@
     "Frankfurt": true,
     "Tokyo": false,
     "Hong Kong": false,
-    "Belgrade": true
+    "Belgrade": false
   },
   "sentiment_summary": {
     "macro": {
       "positive": 4,
-      "negative": 3,
-      "neutral": 11
+      "negative": 4,
+      "neutral": 10
     },
     "serbia": {
       "positive": 0,
