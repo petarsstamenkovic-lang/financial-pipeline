@@ -1,6 +1,6 @@
 {
   "date": "2026-09-07",
-  "generated_at": "2026-09-07T18:16:12.791857+02:00",
+  "generated_at": "2026-09-07T18:56:48.934557+02:00",
   "market": {
     "indices": {
       "S&P 500": {
@@ -123,26 +123,26 @@
     "fx_commodities": {
       "EUR/USD": {
         "symbol": "EURUSD=X",
-        "price": 1.1631,
-        "change_pct": 0.02,
+        "price": 1.1633,
+        "change_pct": 0.04,
         "prev_close": 1.1628
       },
       "GBP/USD": {
         "symbol": "GBPUSD=X",
-        "price": 1.3542,
-        "change_pct": 0.07,
+        "price": 1.3548,
+        "change_pct": 0.12,
         "prev_close": 1.3532
       },
       "USD/CHF": {
         "symbol": "USDCHF=X",
-        "price": 0.8092,
-        "change_pct": 0.21,
+        "price": 0.809,
+        "change_pct": 0.18,
         "prev_close": 0.8075
       },
       "USD/JPY": {
         "symbol": "USDJPY=X",
-        "price": 154.379,
-        "change_pct": -0.82,
+        "price": 154.306,
+        "change_pct": -0.87,
         "prev_close": 155.66
       },
       "Gold": {
@@ -618,50 +618,50 @@
     ],
     "serbia": [
       {
+        "title": "Beogradski vodovod: Deo Vračara u utorak bez vode",
+        "link": "https://n1info.rs/vesti/beogradski-vodovod-deo-vracara-u-utorak-bez-vode/",
+        "summary": "Beogradski vodovod najavio je da, zbog radova, deo opštine Vračar sutra od 8.30 do 18.00 neće imati vodu.",
+        "published": "2026-09-07T16:49:05",
+        "source": "N1 Info RS - Feed",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Đurić kritikovao ministra BIH zbog ocene postupanja Srbije posle smrti Mladića",
+        "link": "https://n1info.rs/vesti/ministar-srbije-kritikovao-ministra-bih-zbog-ocene-postupanja-srbije-posle-smrti-mladica/",
+        "summary": "Ministar spoljnih poslova Srbije Marko Đurić je danas kao \"licemerje i odsustvo srama\" ocenio izjavu ministra spoljnih poslova Bosne i Hercegovine (Bi",
+        "published": "2026-09-07T16:35:28",
+        "source": "N1 Info RS - Feed",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Bivši šef Formule 1 Berni Eklston uhapšen u Portugaliji zbog nošenja sačmarice",
+        "link": "https://n1info.rs/magazin/showbiz/bivsi-sef-formule-1-berni-eklston-uhapsen-u-portugaliji-zbog-nosenja-sacmarice/",
+        "summary": "Milijarder i bivši šef Formule 1 Berni Eklston navodno je uhapšen na jednom portugalskom aerodromu zbog ilegalnog nošenja sačmarice.",
+        "published": "2026-09-07T16:25:08",
+        "source": "N1 Info RS - Feed",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Rat u Ukrajini: Šta su postigli Kušner i Vitkof, a šta kaže Putin?",
+        "link": "https://n1info.rs/svet/rat-u-ukrajini-sta-su-postigli-kusner-i-vitkof-a-sta-kaze-putin/",
+        "summary": "Iako razgovori Trampovih izaslanika u Moskvi i Kijevu nisu doneli vidljiv proboj, sama činjenica da su održani budi umereni optimizam. Zelenski upozor",
+        "published": "2026-09-07T16:24:49",
+        "source": "N1 Info RS - Feed",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Aleksić o predlogu vlade o izborima: Prilika da napravimo korak ka promenama",
+        "link": "https://n1info.rs/vesti/aleksic-o-predlogu-vlade-o-izborima-prilika-da-napravimo-korak-ka-promenama/",
+        "summary": "Predsednik opozicionog Narodnog pokreta Srbije (NPS) Miroslav Aleksić ocenio je, kao \"priliku da konačno napravimo korak ka promenama\", predlog vlade",
+        "published": "2026-09-07T16:21:55",
+        "source": "N1 Info RS - Feed",
+        "sentiment": "neutral"
+      },
+      {
         "title": "(BLOG) Ratko Mladić sahranjen uz vojne počasti na Topčiderskom groblju, brojne osude iz EU i regiona",
         "link": "https://n1info.rs/vesti/najnovije-vesti-blog-sahrana-ratka-mladica-7-septembar-2026-godine/",
         "summary": "Ratko Mladić, nekadašnji komandant Vojske Republike Srpske, koji je umro u Hagu služeći kaznu doživotnog zatvora zbog genocida i ratnih zločina, danas",
         "published": "2026-09-07T16:13:56",
-        "source": "N1 Info RS - Feed",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Taraniš: Od zajedničke liste bošnjačkih partija nema ništa, priča o jedinstvu deo predizborne strategije",
-        "link": "https://n1info.rs/vesti/taranis-od-zajednicke-liste-bosnjackih-partija-nema-nista-prica-o-jedinstvu-deo-predizborne-strategije/",
-        "summary": "Mogu li bošnjačke partije zajedno na izbore ili je to nemoguće. Politički analitičar Teo Taraniš kaže da bošnjačke partije u Sandžaku neće nastupiti n",
-        "published": "2026-09-07T16:06:03",
-        "source": "N1 Info RS - Feed",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Studio Live: Prvi korak",
-        "link": "https://n1info.rs/najave-emisija/studio-live-prvi-korak/",
-        "summary": "Vlada Srbije saopštila je da je usvojila predlog premijera Đura Macuta i uputila ga predsedniku Srbije Aleksandru Vučiću. Premijer Macut je prethodno",
-        "published": "2026-09-07T15:56:44",
-        "source": "N1 Info RS - Feed",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "\"Predsedniče, napokon si nadležan\": Studenti u blokadi o predlogu Vlade za raspuštanje Skupštine",
-        "link": "https://n1info.rs/vesti/studenti-u-blokadi-raspustanje-skupstine-aleksandar-vucic/",
-        "summary": "Studenti u blokadi saopštili su danas, nakon što je Vlada Srbije usvojila obrazloženi predlog za raspuštanje Skupštine i uputila ga predsedniku Srbije",
-        "published": "2026-09-07T15:46:56",
-        "source": "N1 Info RS - Feed",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Mađarska kreće u potragu za milijardama Orbanovog sistema",
-        "link": "https://n1info.rs/svet/madjarska-krece-u-potragu-za-milijardama-orbanovog-sistema/",
-        "summary": "„Povraćaj imovine“ – iza ovog, i na mađarskom prilično birokratskog izraza, krije se jedno od najvažnijih predizbornih obećanja novih vlasti u Mađarsk",
-        "published": "2026-09-07T15:45:21",
-        "source": "N1 Info RS - Feed",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Socijalisti i demokrate u EP: Vučić veličanjem Mladića pokazao prezir prema evropskim vrednostima",
-        "link": "https://n1info.rs/svet/socijalisti-i-demokrate-ep-aleksandar-vucic-ratko-mladic-sahrana/",
-        "summary": "Odluka predsednika Aleksandra Vučića da država učestvuje u prebacivanju tela Ratka Mladića u Srbiju i da omogući javnu komemoraciju za njega predstavl",
-        "published": "2026-09-07T15:42:40",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
