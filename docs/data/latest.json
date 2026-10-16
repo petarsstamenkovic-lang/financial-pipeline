@@ -1,48 +1,48 @@
 {
   "date": "2026-10-16",
-  "generated_at": "2026-10-16T17:09:14.791977+02:00",
+  "generated_at": "2026-10-16T17:51:34.859190+02:00",
   "market": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "price": 7737.1299,
-        "change_pct": -0.09,
+        "price": 7716.6802,
+        "change_pct": -0.35,
         "prev_close": 7744.0601
       },
       "NASDAQ": {
         "symbol": "^IXIC",
-        "price": 26504.2637,
-        "change_pct": -0.78,
+        "price": 26430.2949,
+        "change_pct": -1.06,
         "prev_close": 26713.0293
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "price": 52426.6602,
-        "change_pct": 0.48,
+        "price": 52315.6602,
+        "change_pct": 0.26,
         "prev_close": 52177.6914
       },
       "DAX": {
         "symbol": "^GDAXI",
-        "price": 25673.5605,
-        "change_pct": 1.15,
+        "price": 25622.4199,
+        "change_pct": 0.94,
         "prev_close": 25382.6191
       },
       "Euro Stoxx 50": {
         "symbol": "^STOXX50E",
-        "price": 6214.54,
-        "change_pct": 0.75,
+        "price": 6203.1001,
+        "change_pct": 0.56,
         "prev_close": 6168.2598
       },
       "FTSE 100": {
         "symbol": "^FTSE",
-        "price": 10865.6699,
-        "change_pct": 0.23,
+        "price": 10879.7402,
+        "change_pct": 0.36,
         "prev_close": 10840.4004
       },
       "CAC 40": {
         "symbol": "^FCHI",
-        "price": 7959.7002,
-        "change_pct": 0.32,
+        "price": 7954.1099,
+        "change_pct": 0.24,
         "prev_close": 7934.7002
       },
       "Nikkei 225": {
@@ -55,150 +55,150 @@
     "sectors": {
       "Financials": {
         "symbol": "XLF",
-        "price": 55.865,
-        "change_pct": 1.08,
+        "price": 55.75,
+        "change_pct": 0.87,
         "prev_close": 55.27
       },
       "Energy": {
         "symbol": "XLE",
-        "price": 67.375,
-        "change_pct": 1.22,
+        "price": 67.335,
+        "change_pct": 1.16,
         "prev_close": 66.56
       },
       "Technology": {
         "symbol": "XLK",
-        "price": 186.475,
-        "change_pct": -1.44,
+        "price": 185.79,
+        "change_pct": -1.8,
         "prev_close": 189.19
       },
       "Healthcare": {
         "symbol": "XLV",
-        "price": 177.73,
-        "change_pct": 0.3,
+        "price": 177.22,
+        "change_pct": 0.02,
         "prev_close": 177.19
       },
       "Industrials": {
         "symbol": "XLI",
-        "price": 169.21,
-        "change_pct": 0.79,
+        "price": 168.2,
+        "change_pct": 0.18,
         "prev_close": 167.89
       },
       "Consumer Disc": {
         "symbol": "XLY",
-        "price": 114.03,
-        "change_pct": 0.55,
+        "price": 113.67,
+        "change_pct": 0.23,
         "prev_close": 113.41
       },
       "Materials": {
         "symbol": "XLB",
-        "price": 51.335,
-        "change_pct": 1.53,
+        "price": 51.11,
+        "change_pct": 1.09,
         "prev_close": 50.56
       },
       "Utilities": {
         "symbol": "XLU",
-        "price": 42.115,
-        "change_pct": 1.12,
+        "price": 42.185,
+        "change_pct": 1.28,
         "prev_close": 41.65
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "price": 42.29,
-        "change_pct": 0.71,
+        "price": 42.38,
+        "change_pct": 0.93,
         "prev_close": 41.99
       },
       "Comm Services": {
         "symbol": "XLC",
-        "price": 111.82,
-        "change_pct": -0.55,
+        "price": 111.72,
+        "change_pct": -0.64,
         "prev_close": 112.44
       },
       "Consumer Stap": {
         "symbol": "XLP",
-        "price": 87.65,
-        "change_pct": 1.12,
+        "price": 87.66,
+        "change_pct": 1.13,
         "prev_close": 86.68
       }
     },
     "fx_commodities": {
       "EUR/USD": {
         "symbol": "EURUSD=X",
-        "price": 1.1254,
-        "change_pct": 0.52,
+        "price": 1.1247,
+        "change_pct": 0.47,
         "prev_close": 1.1195
       },
       "GBP/USD": {
         "symbol": "GBPUSD=X",
-        "price": 1.335,
-        "change_pct": 0.91,
+        "price": 1.334,
+        "change_pct": 0.83,
         "prev_close": 1.323
       },
       "USD/CHF": {
         "symbol": "USDCHF=X",
-        "price": 0.823,
-        "change_pct": -1.03,
+        "price": 0.8243,
+        "change_pct": -0.87,
         "prev_close": 0.8316
       },
       "USD/JPY": {
         "symbol": "USDJPY=X",
-        "price": 157.92,
+        "price": 157.923,
         "change_pct": -0.02,
         "prev_close": 157.957
       },
       "Gold": {
         "symbol": "GC=F",
-        "price": 4207.7002,
-        "change_pct": 0.9,
+        "price": 4197.5,
+        "change_pct": 0.66,
         "prev_close": 4170.1001
       },
       "Silver": {
         "symbol": "SI=F",
-        "price": 57.845,
-        "change_pct": 1.77,
+        "price": 57.585,
+        "change_pct": 1.32,
         "prev_close": 56.837
       },
       "Brent Crude": {
         "symbol": "BZ=F",
-        "price": 105.79,
-        "change_pct": -0.12,
+        "price": 105.91,
+        "change_pct": -0.01,
         "prev_close": 105.92
       },
       "WTI Crude": {
         "symbol": "CL=F",
-        "price": 95.68,
-        "change_pct": -2.34,
+        "price": 95.81,
+        "change_pct": -2.2,
         "prev_close": 97.97
       },
       "Natural Gas": {
         "symbol": "NG=F",
-        "price": 3.099,
-        "change_pct": -4.23,
+        "price": 3.137,
+        "change_pct": -3.06,
         "prev_close": 3.236
       },
       "Copper": {
         "symbol": "HG=F",
-        "price": 6.624,
-        "change_pct": 1.73,
+        "price": 6.598,
+        "change_pct": 1.33,
         "prev_close": 6.5115
       },
       "Wheat": {
         "symbol": "ZW=F",
-        "price": 659.0,
-        "change_pct": -1.64,
+        "price": 658.25,
+        "change_pct": -1.75,
         "prev_close": 670.0
       }
     },
     "rates": {
       "VIX": {
         "symbol": "^VIX",
-        "price": 15.75,
-        "change_pct": -4.31,
+        "price": 16.37,
+        "change_pct": -0.55,
         "prev_close": 16.46
       },
       "US 10Y Yield": {
         "symbol": "^TNX",
-        "price": 5.098,
-        "change_pct": 0.18,
+        "price": 5.081,
+        "change_pct": -0.16,
         "prev_close": 5.089
       },
       "US 2Y Yield": {
@@ -209,13 +209,13 @@
       },
       "US 30Y Yield": {
         "symbol": "^TYX",
-        "price": 5.436,
-        "change_pct": 0.13,
+        "price": 5.415,
+        "change_pct": -0.26,
         "prev_close": 5.429
       },
       "2s10s Spread": {
         "symbol": "SPREAD",
-        "price": 1.03,
+        "price": 1.013,
         "change_pct": null,
         "note": "positive = normal curve, negative = inverted (recession signal)"
       }
@@ -223,92 +223,92 @@
     "large_cap": {
       "Apple": {
         "symbol": "AAPL",
-        "price": 346.11,
-        "change_pct": 1.2,
+        "price": 345.2,
+        "change_pct": 0.94,
         "prev_close": 342.0
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "price": 534.455,
-        "change_pct": -0.92,
+        "price": 531.045,
+        "change_pct": -1.56,
         "prev_close": 539.44
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "price": 344.8,
+        "price": 344.77,
         "change_pct": -1.27,
         "prev_close": 349.22
       },
       "Amazon": {
         "symbol": "AMZN",
-        "price": 254.5,
-        "change_pct": -0.1,
+        "price": 253.818,
+        "change_pct": -0.37,
         "prev_close": 254.76
       },
       "NVIDIA": {
         "symbol": "NVDA",
-        "price": 217.35,
-        "change_pct": 0.06,
+        "price": 217.71,
+        "change_pct": 0.22,
         "prev_close": 217.23
       },
       "Meta": {
         "symbol": "META",
-        "price": 722.81,
-        "change_pct": -1.89,
+        "price": 720.645,
+        "change_pct": -2.18,
         "prev_close": 736.72
       },
       "Tesla": {
         "symbol": "TSLA",
-        "price": 361.4139,
-        "change_pct": -0.28,
+        "price": 359.0576,
+        "change_pct": -0.93,
         "prev_close": 362.44
       },
       "JPMorgan": {
         "symbol": "JPM",
-        "price": 343.7997,
-        "change_pct": 2.46,
+        "price": 342.165,
+        "change_pct": 1.98,
         "prev_close": 335.53
       },
       "Goldman Sachs": {
         "symbol": "GS",
-        "price": 899.83,
-        "change_pct": 0.96,
+        "price": 895.95,
+        "change_pct": 0.52,
         "prev_close": 891.28
       },
       "ExxonMobil": {
         "symbol": "XOM",
-        "price": 176.14,
-        "change_pct": 0.84,
+        "price": 176.03,
+        "change_pct": 0.77,
         "prev_close": 174.68
       },
       "Berkshire B": {
         "symbol": "BRK-B",
-        "price": 531.295,
-        "change_pct": 1.07,
+        "price": 529.77,
+        "change_pct": 0.78,
         "prev_close": 525.68
       },
       "Visa": {
         "symbol": "V",
-        "price": 403.055,
-        "change_pct": 0.83,
+        "price": 403.28,
+        "change_pct": 0.88,
         "prev_close": 399.75
       },
       "Johnson&Johnson": {
         "symbol": "JNJ",
-        "price": 256.91,
-        "change_pct": 1.43,
+        "price": 256.95,
+        "change_pct": 1.45,
         "prev_close": 253.28
       },
       "UnitedHealth": {
         "symbol": "UNH",
-        "price": 400.695,
-        "change_pct": -1.47,
+        "price": 402.18,
+        "change_pct": -1.1,
         "prev_close": 406.67
       },
       "Procter&Gamble": {
         "symbol": "PG",
-        "price": 159.495,
-        "change_pct": 1.54,
+        "price": 159.2298,
+        "change_pct": 1.37,
         "prev_close": 157.08
       }
     }
@@ -350,126 +350,126 @@
   "movers": {
     "winners": [
       {
+        "name": "CCI",
+        "symbol": "CCI",
+        "price": 82.605,
+        "change_pct": 3.26
+      },
+      {
         "name": "F",
         "symbol": "F",
-        "price": 12.76,
-        "change_pct": 3.66
-      },
-      {
-        "name": "C",
-        "symbol": "C",
-        "price": 126.64,
-        "change_pct": 2.78
-      },
-      {
-        "name": "GE",
-        "symbol": "GE",
-        "price": 320.2799,
-        "change_pct": 2.65
+        "price": 12.635,
+        "change_pct": 2.64
       },
       {
         "name": "USB",
         "symbol": "USB",
-        "price": 58.885,
-        "change_pct": 2.6
-      },
-      {
-        "name": "JPM",
-        "symbol": "JPM",
-        "price": 343.7997,
-        "change_pct": 2.46
+        "price": 58.82,
+        "change_pct": 2.49
       },
       {
         "name": "PM",
         "symbol": "PM",
-        "price": 204.7899,
-        "change_pct": 2.45
+        "price": 204.62,
+        "change_pct": 2.36
       },
       {
-        "name": "GM",
-        "symbol": "GM",
-        "price": 85.55,
-        "change_pct": 2.26
+        "name": "C",
+        "symbol": "C",
+        "price": 125.955,
+        "change_pct": 2.23
       },
       {
-        "name": "WFC",
-        "symbol": "WFC",
-        "price": 84.36,
-        "change_pct": 1.95
+        "name": "PEP",
+        "symbol": "PEP",
+        "price": 131.18,
+        "change_pct": 2.18
+      },
+      {
+        "name": "JPM",
+        "symbol": "JPM",
+        "price": 342.1499,
+        "change_pct": 1.97
+      },
+      {
+        "name": "AMT",
+        "symbol": "AMT",
+        "price": 184.88,
+        "change_pct": 1.94
       },
       {
         "name": "AEP",
         "symbol": "AEP",
-        "price": 126.565,
-        "change_pct": 1.83
+        "price": 126.655,
+        "change_pct": 1.9
       },
       {
-        "name": "MDLZ",
-        "symbol": "MDLZ",
-        "price": 64.18,
-        "change_pct": 1.82
+        "name": "KO",
+        "symbol": "KO",
+        "price": 93.74,
+        "change_pct": 1.89
       }
     ],
     "losers": [
       {
         "name": "SNOW",
         "symbol": "SNOW",
-        "price": 313.74,
-        "change_pct": -6.37
+        "price": 310.635,
+        "change_pct": -7.29
       },
       {
         "name": "PLTR",
         "symbol": "PLTR",
-        "price": 193.145,
-        "change_pct": -3.67
-      },
-      {
-        "name": "AMD",
-        "symbol": "AMD",
-        "price": 543.3645,
-        "change_pct": -3.36
+        "price": 188.78,
+        "change_pct": -5.85
       },
       {
         "name": "INTC",
         "symbol": "INTC",
-        "price": 92.19,
-        "change_pct": -3.33
+        "price": 91.58,
+        "change_pct": -3.97
       },
       {
-        "name": "INTU",
-        "symbol": "INTU",
-        "price": 323.77,
-        "change_pct": -1.94
-      },
-      {
-        "name": "META",
-        "symbol": "META",
-        "price": 722.83,
-        "change_pct": -1.89
+        "name": "AMD",
+        "symbol": "AMD",
+        "price": 542.75,
+        "change_pct": -3.46
       },
       {
         "name": "AVGO",
         "symbol": "AVGO",
-        "price": 337.865,
-        "change_pct": -1.88
+        "price": 335.425,
+        "change_pct": -2.59
       },
       {
         "name": "LYFT",
         "symbol": "LYFT",
-        "price": 16.865,
-        "change_pct": -1.72
+        "price": 16.75,
+        "change_pct": -2.39
       },
       {
-        "name": "UNH",
-        "symbol": "UNH",
-        "price": 400.695,
-        "change_pct": -1.47
+        "name": "META",
+        "symbol": "META",
+        "price": 720.63,
+        "change_pct": -2.18
       },
       {
         "name": "COIN",
         "symbol": "COIN",
-        "price": 181.215,
-        "change_pct": -1.41
+        "price": 180.25,
+        "change_pct": -1.94
+      },
+      {
+        "name": "INTU",
+        "symbol": "INTU",
+        "price": 324.015,
+        "change_pct": -1.86
+      },
+      {
+        "name": "MSFT",
+        "symbol": "MSFT",
+        "price": 531.0,
+        "change_pct": -1.56
       }
     ]
   },
@@ -500,10 +500,10 @@
         "sentiment": "neutral"
       },
       {
-        "title": "What do the Houthis want?",
-        "link": "https://www.ft.com/content/7a260d99-c761-4ab1-8185-d7e0225a8472?syn-25a6b1a6=1",
-        "summary": "The Islamist group has wide-ranging ambitions in its fight against Saudi Arabia",
-        "published": "2026-10-16T04:00:17",
+        "title": "Trump has failed to listen to voters on inflation",
+        "link": "https://www.ft.com/content/a0a143ac-6a48-410a-b121-92f293b0ad6d",
+        "summary": "People elect presidents to fix problems, not to diagnose their causes",
+        "published": "2026-10-16T14:58:28",
         "source": "UK homepage",
         "sentiment": "neutral"
       },
@@ -516,10 +516,10 @@
         "sentiment": "neutral"
       },
       {
-        "title": "UAE had ‘clear incentives’ to influence Telegraph coverage, Ofcom finds",
-        "link": "https://www.ft.com/content/44934b4f-f01b-45c1-9c51-ec4566e662a9?syn-25a6b1a6=1",
-        "summary": "Regulator cites Gulf state’s record on press freedom among concerns in report into RedBird IMI’s failed bid for newspaper",
-        "published": "2026-10-16T13:44:53",
+        "title": "Apple set for UK legal fight over iPhone tap-to-pay rules",
+        "link": "https://www.ft.com/content/d05f87bf-225b-43f9-86e6-2f9537cd75c6?syn-25a6b1a6=1",
+        "summary": "Competition and Markets Authority plans to force Big Tech group to allow rival payments providers to access its digital wallet technology",
+        "published": "2026-10-16T15:21:03",
         "source": "UK homepage",
         "sentiment": "neutral"
       },
@@ -622,6 +622,38 @@
     ],
     "serbia": [
       {
+        "title": "Vučić stigao u Novi Sad, organizovane bakljade: Centar grada potpuno zatvoren, zborovi i studenti ignorišu skup",
+        "link": "https://n1info.rs/vesti/blog-uzivo-sns-skup-novi-sad-izbori-2026/",
+        "summary": "Predizborni miting liste \"Aleksandar Vučić – Ujedinjena Srbija\" održava se večeras u 18 časova u Novom Sadu, a već od jutros kolona traktora, koja je",
+        "published": "2026-10-16T15:49:54",
+        "source": "N1 Info RS - Feed",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Tender za izgradnju duboke istražne bušotine na prostoru Toplane Batajnica",
+        "link": "https://n1info.rs/biznis/tender-za-izgradnju-duboke-istrazne-busotine-na-prostoru-toplane-batajnica/",
+        "summary": "Javno komunalno preduzeće Beogradske elektrane objavilo je tender za izgradnju duboke istražne bušotine na prostoru Toplane Batajnica, sa ciljem iskor",
+        "published": "2026-10-16T15:49:44",
+        "source": "N1 Info RS - Feed",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Predsednici sudova u Novom Pazaru na skupu SNS, advokat kaže: Teži prekršaj, u ovim okolnostima ne očekujem postupke, ali to neće zastariti",
+        "link": "https://n1info.rs/vesti/predsednici-sudova-u-novom-pazaru-na-skupu-sns-advokat-kaze-tezi-prekrsaj-u-ovim-okolnostima-ne-ocekujem-postupke-ali-to-nece-zastariti/",
+        "summary": "Vršilac funkcije predsednika Osnovnog suda u Novom Pazaru Predrag Živković i predsednik Prekršajnog suda Jasmin Divanefendić prisustvovali su predizbo",
+        "published": "2026-10-16T15:35:35",
+        "source": "N1 Info RS - Feed",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Ljajić: O mogućnostima Vojvodine se mnogo govori, ali su potrebni konkretni rezultati",
+        "link": "https://n1info.rs/vesti/ljajic-o-mogucnostima-vojvodine-se-mnogo-govori-ali-su-potrebni-konkretni-rezultati/",
+        "summary": "Rasim Ljajić, nosilac manjinske izborne liste kandidata za poslanike \"Rasim Ljajić - ljudski - SDP - CDP\" na vanrednim poslaničkim izborima 25. oktobr",
+        "published": "2026-10-16T15:11:37",
+        "source": "N1 Info RS - Feed",
+        "sentiment": "neutral"
+      },
+      {
         "title": "Uhapšene dve osobe iz Novog Sada sa više od dva kilograma droge",
         "link": "https://n1info.rs/vesti/uhapsene-dve-osobe-iz-novog-sada-sa-vise-od-dva-kilograma-droge/",
         "summary": "Policija u Novom Sadu uhapsila je N.M. (31) i M.M. (33) iz tog grada i pronašla više od dva kilograma različitih droga na dve lokacije u gradu koje su",
@@ -634,38 +666,6 @@
         "link": "https://n1info.rs/video/novi-dan/novi-dan-predsednik-akb-vladimir-prijovic-o-pomilovanjima-i-zasto-se-imena-kriju-od-javnosti/",
         "summary": "Pitanje pomilovanja nije pitanje nečije slobodne i dobre volje, već pravo građana da, kao nosioca suvereniteta, znaju ko je i zbog čega pomilovan, rek",
         "published": "2026-10-16T15:00:00",
-        "source": "N1 Info RS - Feed",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Vuković: Prvi put SNS nema jasnu kampanju - osim poruke da su svi sem njih izdajnici",
-        "link": "https://n1info.rs/vesti/danilo-vukovic-srpska-napredna-stranka-izbori-2026-kampanja/",
-        "summary": "Prvi put kampanja Srpske napredne stranke (SNS) nije puna velikih obećanja, vizuelnog poistovećivanja stranke i Aleksandra Vučića, a ni ne šalje pozit",
-        "published": "2026-10-16T14:57:02",
-        "source": "N1 Info RS - Feed",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Uoči mitinga SNS-a u Novom Sadu pojedine škole skratile časove, kolone traktora stvorile gužve u saobraćaju",
-        "link": "https://n1info.rs/vesti/blog-uzivo-sns-skup-novi-sad-izbori-2026/",
-        "summary": "Predizborni miting liste \"Aleksandar Vučić – Ujedinjena Srbija\" održava se večeras u 18 časova u Novom Sadu, a već od jutros kolona traktora, koja je",
-        "published": "2026-10-16T14:54:09",
-        "source": "N1 Info RS - Feed",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "U najgoroj poplavi u Istanbulu za 80 godina poginule četiri osobe",
-        "link": "https://n1info.rs/svet/u-najgorioj-poplavi-u-istanbulu-za-80-godina-poginule-cetiri-osobe/",
-        "summary": "Katastrofalna poplava u Istanbulu je najveća za više od 80 godina, izjavio je danas ministar unutrašnjih poslova Turske Mustafa Čiftči.",
-        "published": "2026-10-16T14:30:10",
-        "source": "N1 Info RS - Feed",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Gledajte UŽIVO Dan uživo: SNS miting u Novom Sadu",
-        "link": "https://n1info.rs/najave-emisija/dan-uzivo-sns-miting-u-novom-sadu/",
-        "summary": "Nakon najmanje osam najava dolaska u Novi Sad, danas je u tom gradu predizborni miting liste \"Aleksandar Vučić – Ujedinjena Srbija\". Ovo će biti prvi",
-        "published": "2026-10-16T14:19:41",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
@@ -821,8 +821,8 @@
   ],
   "market_clock": {
     "NYSE/NASDAQ": true,
-    "LSE": true,
-    "Frankfurt": true,
+    "LSE": false,
+    "Frankfurt": false,
     "Tokyo": false,
     "Hong Kong": false,
     "Belgrade": false
