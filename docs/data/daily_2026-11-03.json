@@ -1,0 +1,841 @@
+{
+  "date": "2026-11-03",
+  "generated_at": "2026-11-03T19:13:49.765740+01:00",
+  "market": {
+    "indices": {
+      "S&P 500": {
+        "symbol": "^GSPC",
+        "price": 7587.6001,
+        "change_pct": 0.61,
+        "prev_close": 7541.3999
+      },
+      "NASDAQ": {
+        "symbol": "^IXIC",
+        "price": 25450.877,
+        "change_pct": 1.14,
+        "prev_close": 25164.3105
+      },
+      "Dow Jones": {
+        "symbol": "^DJI",
+        "price": 51849.7812,
+        "change_pct": -0.26,
+        "prev_close": 51983.9805
+      },
+      "DAX": {
+        "symbol": "^GDAXI",
+        "price": 25864.6191,
+        "change_pct": -0.45,
+        "prev_close": 25981.0898
+      },
+      "Euro Stoxx 50": {
+        "symbol": "^STOXX50E",
+        "price": 6144.5601,
+        "change_pct": -0.51,
+        "prev_close": 6176.0601
+      },
+      "FTSE 100": {
+        "symbol": "^FTSE",
+        "price": 10638.4297,
+        "change_pct": -1.14,
+        "prev_close": 10761.2998
+      },
+      "CAC 40": {
+        "symbol": "^FCHI",
+        "price": 8020.3101,
+        "change_pct": -0.34,
+        "prev_close": 8047.6899
+      },
+      "Nikkei 225": {
+        "symbol": "^N225",
+        "price": 63081.8594,
+        "change_pct": -0.33,
+        "prev_close": 63290.1094
+      }
+    },
+    "sectors": {
+      "Financials": {
+        "symbol": "XLF",
+        "price": 57.2538,
+        "change_pct": -0.53,
+        "prev_close": 57.56
+      },
+      "Energy": {
+        "symbol": "XLE",
+        "price": 67.145,
+        "change_pct": -0.16,
+        "prev_close": 67.25
+      },
+      "Technology": {
+        "symbol": "XLK",
+        "price": 177.15,
+        "change_pct": 1.68,
+        "prev_close": 174.22
+      },
+      "Healthcare": {
+        "symbol": "XLV",
+        "price": 184.87,
+        "change_pct": 0.15,
+        "prev_close": 184.6
+      },
+      "Industrials": {
+        "symbol": "XLI",
+        "price": 171.79,
+        "change_pct": 1.23,
+        "prev_close": 169.71
+      },
+      "Consumer Disc": {
+        "symbol": "XLY",
+        "price": 117.185,
+        "change_pct": -0.83,
+        "prev_close": 118.16
+      },
+      "Materials": {
+        "symbol": "XLB",
+        "price": 52.775,
+        "change_pct": -1.67,
+        "prev_close": 53.67
+      },
+      "Utilities": {
+        "symbol": "XLU",
+        "price": 43.585,
+        "change_pct": -0.19,
+        "prev_close": 43.67
+      },
+      "Real Estate": {
+        "symbol": "XLRE",
+        "price": 43.585,
+        "change_pct": -0.13,
+        "prev_close": 43.64
+      },
+      "Comm Services": {
+        "symbol": "XLC",
+        "price": 101.58,
+        "change_pct": 1.32,
+        "prev_close": 100.26
+      },
+      "Consumer Stap": {
+        "symbol": "XLP",
+        "price": 89.225,
+        "change_pct": -1.77,
+        "prev_close": 90.83
+      }
+    },
+    "fx_commodities": {
+      "EUR/USD": {
+        "symbol": "EURUSD=X",
+        "price": 1.1201,
+        "change_pct": 0.39,
+        "prev_close": 1.1157
+      },
+      "GBP/USD": {
+        "symbol": "GBPUSD=X",
+        "price": 1.3426,
+        "change_pct": 0.3,
+        "prev_close": 1.3386
+      },
+      "USD/CHF": {
+        "symbol": "USDCHF=X",
+        "price": null,
+        "change_pct": null
+      },
+      "USD/JPY": {
+        "symbol": "USDJPY=X",
+        "price": 158.479,
+        "change_pct": 0.51,
+        "prev_close": 157.677
+      },
+      "Gold": {
+        "symbol": "GC=F",
+        "price": 3942.0,
+        "change_pct": -0.7,
+        "prev_close": 3969.6001
+      },
+      "Silver": {
+        "symbol": "SI=F",
+        "price": 49.735,
+        "change_pct": -1.94,
+        "prev_close": 50.72
+      },
+      "Brent Crude": {
+        "symbol": "BZ=F",
+        "price": 103.58,
+        "change_pct": -1.14,
+        "prev_close": 104.77
+      },
+      "WTI Crude": {
+        "symbol": "CL=F",
+        "price": 96.01,
+        "change_pct": -0.47,
+        "prev_close": 96.46
+      },
+      "Natural Gas": {
+        "symbol": "NG=F",
+        "price": 2.884,
+        "change_pct": 0.98,
+        "prev_close": 2.856
+      },
+      "Copper": {
+        "symbol": "HG=F",
+        "price": 6.403,
+        "change_pct": -2.15,
+        "prev_close": 6.5435
+      },
+      "Wheat": {
+        "symbol": "ZW=F",
+        "price": 600.5,
+        "change_pct": -0.99,
+        "prev_close": 606.5
+      }
+    },
+    "rates": {
+      "VIX": {
+        "symbol": "^VIX",
+        "price": 20.67,
+        "change_pct": -2.27,
+        "prev_close": 21.15
+      },
+      "US 10Y Yield": {
+        "symbol": "^TNX",
+        "price": 4.954,
+        "change_pct": 1.23,
+        "prev_close": 4.894
+      },
+      "US 2Y Yield": {
+        "symbol": "^IRX",
+        "price": 4.03,
+        "change_pct": 1.21,
+        "prev_close": 3.982
+      },
+      "US 30Y Yield": {
+        "symbol": "^TYX",
+        "price": 5.327,
+        "change_pct": 1.1,
+        "prev_close": 5.269
+      },
+      "2s10s Spread": {
+        "symbol": "SPREAD",
+        "price": 0.924,
+        "change_pct": null,
+        "note": "positive = normal curve, negative = inverted (recession signal)"
+      }
+    },
+    "large_cap": {
+      "Apple": {
+        "symbol": "AAPL",
+        "price": 330.81,
+        "change_pct": -2.22,
+        "prev_close": 338.32
+      },
+      "Microsoft": {
+        "symbol": "MSFT",
+        "price": 520.965,
+        "change_pct": 2.73,
+        "prev_close": 507.12
+      },
+      "Alphabet": {
+        "symbol": "GOOGL",
+        "price": 280.86,
+        "change_pct": 0.67,
+        "prev_close": 278.99
+      },
+      "Amazon": {
+        "symbol": "AMZN",
+        "price": 250.34,
+        "change_pct": 1.92,
+        "prev_close": 245.63
+      },
+      "NVIDIA": {
+        "symbol": "NVDA",
+        "price": 208.58,
+        "change_pct": 3.23,
+        "prev_close": 202.06
+      },
+      "Meta": {
+        "symbol": "META",
+        "price": 623.64,
+        "change_pct": 2.79,
+        "prev_close": 606.73
+      },
+      "Tesla": {
+        "symbol": "TSLA",
+        "price": 398.4783,
+        "change_pct": -1.32,
+        "prev_close": 403.82
+      },
+      "JPMorgan": {
+        "symbol": "JPM",
+        "price": 337.46,
+        "change_pct": -0.92,
+        "prev_close": 340.58
+      },
+      "Goldman Sachs": {
+        "symbol": "GS",
+        "price": 896.745,
+        "change_pct": -0.22,
+        "prev_close": 898.72
+      },
+      "ExxonMobil": {
+        "symbol": "XOM",
+        "price": 178.1572,
+        "change_pct": -0.84,
+        "prev_close": 179.67
+      },
+      "Berkshire B": {
+        "symbol": "BRK-B",
+        "price": 558.97,
+        "change_pct": 0.51,
+        "prev_close": 556.11
+      },
+      "Visa": {
+        "symbol": "V",
+        "price": 421.945,
+        "change_pct": -0.84,
+        "prev_close": 425.51
+      },
+      "Johnson&Johnson": {
+        "symbol": "JNJ",
+        "price": 267.37,
+        "change_pct": -1.18,
+        "prev_close": 270.56
+      },
+      "UnitedHealth": {
+        "symbol": "UNH",
+        "price": 404.435,
+        "change_pct": 1.0,
+        "prev_close": 400.44
+      },
+      "Procter&Gamble": {
+        "symbol": "PG",
+        "price": 162.285,
+        "change_pct": -0.78,
+        "prev_close": 163.56
+      }
+    }
+  },
+  "nbs_rates": {
+    "EUR/RSD": {
+      "symbol": "EURRSD",
+      "price": 117.5698,
+      "change_pct": 0.0239,
+      "source": "NBS official",
+      "rate_date": "2026-11-03",
+      "prev_close": 117.5417
+    },
+    "CHF/RSD": {
+      "symbol": "CHFRSD",
+      "price": 128.3793,
+      "change_pct": 0.6028,
+      "source": "NBS official",
+      "rate_date": "2026-11-03",
+      "prev_close": 127.6101
+    },
+    "GBP/RSD": {
+      "symbol": "GBPRSD",
+      "price": 140.8528,
+      "change_pct": 0.0479,
+      "source": "NBS official",
+      "rate_date": "2026-11-03",
+      "prev_close": 140.7854
+    },
+    "USD/RSD": {
+      "symbol": "USDRSD",
+      "price": 105.0012,
+      "change_pct": -0.0743,
+      "source": "NBS official",
+      "rate_date": "2026-11-03",
+      "prev_close": 105.0793
+    }
+  },
+  "movers": {
+    "winners": [
+      {
+        "name": "COIN",
+        "symbol": "COIN",
+        "price": 147.745,
+        "change_pct": 7.19
+      },
+      {
+        "name": "AMD",
+        "symbol": "AMD",
+        "price": 492.337,
+        "change_pct": 5.46
+      },
+      {
+        "name": "TXN",
+        "symbol": "TXN",
+        "price": 313.64,
+        "change_pct": 3.85
+      },
+      {
+        "name": "AVGO",
+        "symbol": "AVGO",
+        "price": 333.24,
+        "change_pct": 3.42
+      },
+      {
+        "name": "NVDA",
+        "symbol": "NVDA",
+        "price": 208.57,
+        "change_pct": 3.22
+      },
+      {
+        "name": "META",
+        "symbol": "META",
+        "price": 623.64,
+        "change_pct": 2.79
+      },
+      {
+        "name": "MSFT",
+        "symbol": "MSFT",
+        "price": 520.965,
+        "change_pct": 2.73
+      },
+      {
+        "name": "TMO",
+        "symbol": "TMO",
+        "price": 697.485,
+        "change_pct": 2.17
+      },
+      {
+        "name": "SNOW",
+        "symbol": "SNOW",
+        "price": 296.42,
+        "change_pct": 1.97
+      },
+      {
+        "name": "AMZN",
+        "symbol": "AMZN",
+        "price": 250.35,
+        "change_pct": 1.92
+      }
+    ],
+    "losers": [
+      {
+        "name": "HD",
+        "symbol": "HD",
+        "price": 331.52,
+        "change_pct": -2.82
+      },
+      {
+        "name": "MRK",
+        "symbol": "MRK",
+        "price": 144.63,
+        "change_pct": -2.51
+      },
+      {
+        "name": "ABNB",
+        "symbol": "ABNB",
+        "price": 167.3,
+        "change_pct": -2.23
+      },
+      {
+        "name": "AAPL",
+        "symbol": "AAPL",
+        "price": 330.785,
+        "change_pct": -2.23
+      },
+      {
+        "name": "LOW",
+        "symbol": "LOW",
+        "price": 213.52,
+        "change_pct": -2.12
+      },
+      {
+        "name": "ACN",
+        "symbol": "ACN",
+        "price": 255.625,
+        "change_pct": -2.04
+      },
+      {
+        "name": "COST",
+        "symbol": "COST",
+        "price": 1020.915,
+        "change_pct": -1.89
+      },
+      {
+        "name": "F",
+        "symbol": "F",
+        "price": 12.365,
+        "change_pct": -1.87
+      },
+      {
+        "name": "GM",
+        "symbol": "GM",
+        "price": 88.35,
+        "change_pct": -1.77
+      },
+      {
+        "name": "SPGI",
+        "symbol": "SPGI",
+        "price": 467.04,
+        "change_pct": -1.71
+      }
+    ]
+  },
+  "news": {
+    "macro_global": [
+      {
+        "title": "Americans vote in election that doubles as referendum on Trump’s presidency",
+        "link": "https://www.ft.com/content/77c2eaca-4fe1-4c69-b3bd-c517b045ff37?syn-25a6b1a6=1",
+        "summary": "Republicans battle to retain majorities in Senate and House of Representatives",
+        "published": "2026-11-03T10:52:57",
+        "source": "UK homepage",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "US voters prepare to deliver verdict on Trump",
+        "link": "https://www.ft.com/content/086e9324-9d27-43a7-9334-d743f7cf8626?syn-25a6b1a6=1",
+        "summary": "Races across nation will decide whether Republicans keep their majorities in Congress",
+        "published": "2026-11-03T10:00:06",
+        "source": "UK homepage",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "The FT’s guide to election night",
+        "link": "https://www.ft.com/content/c3be88d4-37bb-4eff-8e12-34ab019012e5?syn-25a6b1a6=1",
+        "summary": "From key races to the money and issues at stake, here’s everything you need to know ahead of tonight’s results",
+        "published": "2026-11-03T14:00:03",
+        "source": "UK homepage",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "What 21 months of Trump have done to America",
+        "link": "https://www.ft.com/content/703f842f-599f-4267-a7c9-1ec1d00ded00?syn-25a6b1a6=1",
+        "summary": "From ‘liberation day’ and bond market turmoil to Maduro’s capture, the goading of Zelenskyy and war in Iran, it has been a head-spinning period in US politics",
+        "published": "2026-11-03T11:40:58",
+        "source": "UK homepage",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "‘A massive piece of pool’: Trump talks algae and grass in final midterm push",
+        "link": "https://www.ft.com/content/6ec53c14-0186-4b58-86db-cf200131680f?syn-25a6b1a6=1",
+        "summary": "US President touts new pipes and ‘great reflectivity’ of Washington’s Reflecting Pool on eve of critical vote",
+        "published": "2026-11-02T22:45:26",
+        "source": "UK homepage",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Wall Street braces as voters head to high-stakes polls",
+        "link": "https://www.ft.com/content/c8a092e5-c1e4-46b8-83e1-73404900a0c5?syn-25a6b1a6=1",
+        "summary": "Vote will set the trajectory for everything from AI to public spending",
+        "published": "2026-11-03T14:33:22",
+        "source": "UK homepage",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Boris Vujčić: Integrated, open and resilient: Europe’s strengths in a fragmenting world",
+        "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp.261102~70003226e9.en.html",
+        "summary": "",
+        "published": "2026-11-02T09:30:00",
+        "source": "ECB - European Central Bank",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Philip R. Lane: AI adoption in Europe",
+        "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261030~08d9d540f0.en.html",
+        "summary": "",
+        "published": "2026-10-30T16:10:00",
+        "source": "ECB - European Central Bank",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Decisions taken by the Governing Council of the ECB (in addition to decisions setting interest rates)",
+        "link": "https://www.ecb.europa.eu//press/govcdec/otherdec/2026/html/ecb.gc261030~e40f864093.en.html",
+        "summary": "",
+        "published": "2026-10-30T14:00:00",
+        "source": "ECB - European Central Bank",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Results of the ECB Survey of Professional Forecasters for the fourth quarter of 2026",
+        "link": "https://www.ecb.europa.eu//press/pr/date/2026/html/ecb.pr261030~e92c3c838c.en.html",
+        "summary": "",
+        "published": "2026-10-30T09:00:00",
+        "source": "ECB - European Central Bank",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Piero Cipollone: Next-day securities settlement, tokenisation and the transformation of Europe’s financial infrastructure",
+        "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261029~e9b57c3495.en.html",
+        "summary": "",
+        "published": "2026-10-29T15:50:00",
+        "source": "ECB - European Central Bank",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Christine Lagarde, Boris Vujčić: Monetary policy statement (with Q&A)",
+        "link": "https://www.ecb.europa.eu//press/press_conference/monetary-policy-statement/2026/html/ecb.is261029~5c5ffe99e5.en.html",
+        "summary": "",
+        "published": "2026-10-29T14:00:00",
+        "source": "ECB - European Central Bank",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Stocks Sink in Broad AI Rout Sparked by China's DeepSeek",
+        "link": "https://www.wsj.com/articles/nikkei-may-rise-as-weak-yen-raises-earnings-hopes-776a8056?mod=rss_markets_main",
+        "summary": "U.S. stocks were mostly lower, with the Nasdaq leading declines as makers of AI infrastructure suffered steep falls, many in the double digits. Nvidia was down 16%.",
+        "published": "2025-01-27T19:26:00",
+        "source": "WSJ.com: Markets",
+        "sentiment": "negative"
+      },
+      {
+        "title": "Comex Gold, Silver Settle Lower",
+        "link": "https://www.wsj.com/articles/gold-edges-lower-feds-rate-decision-in-focus-09dbfceb?mod=rss_markets_main",
+        "summary": "Gold settled 1.4% lower, down two of the past three sessions, and silver fell 2.5%, down three of the past four sessions.",
+        "published": "2025-01-27T19:01:00",
+        "source": "WSJ.com: Markets",
+        "sentiment": "negative"
+      },
+      {
+        "title": "DeepSeek Won't Sink U.S. AI Titans",
+        "link": "https://www.wsj.com/articles/deepseek-us-ai-stocks-nvidia-broadcom-6cdfae81?mod=rss_markets_main",
+        "summary": "Panic fueling the selloff of Nvidia, Broadcom and other tech giants is overblown.",
+        "published": "2025-01-27T18:12:00",
+        "source": "WSJ.com: Markets",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Financial Services Roundup: Market Talk",
+        "link": "https://www.wsj.com/articles/financial-services-roundup-market-talk-94f52cba?mod=rss_markets_main",
+        "summary": "Gain insight on Experian, SoFi Technologies and more in the latest Market Talks covering Financial Services.",
+        "published": "2025-01-27T17:27:00",
+        "source": "WSJ.com: Markets",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Arabica Coffee Prices Hit Record on U.S., Colombia Tariff Spat",
+        "link": "https://www.wsj.com/articles/arabica-coffee-prices-hit-new-high-on-u-s-colombia-tariff-spat-582446fe?mod=rss_markets_main",
+        "summary": "Arabica coffee prices hit a record level, as traders digested the withdrawal of President Trump’s threats to impose tariffs and economic sanctions on Colombia.",
+        "published": "2025-01-27T17:20:00",
+        "source": "WSJ.com: Markets",
+        "sentiment": "positive"
+      },
+      {
+        "title": "Swiss franc, Japanese yen Rise as DeepSeek News Boosts Safe Havens",
+        "link": "https://www.wsj.com/articles/safe-haven-currencies-strengthen-amid-fears-over-global-tariffs-9964e17a?mod=rss_markets_main",
+        "summary": "The Yen and Swiss Franc were stronger against the dollar as investors sought safe havens after Chinese start-up DeepSeek’s new AI model hit U.S. tech stocks.",
+        "published": "2025-01-27T14:55:00",
+        "source": "WSJ.com: Markets",
+        "sentiment": "positive"
+      }
+    ],
+    "serbia": [
+      {
+        "title": "Pajić: Ministarstvo kulture ispumpava novac za EXPO, privatnim firmama sredstva dodeljivana mimo zakona",
+        "link": "https://n1info.rs/vesti/pajic-ministarstvo-kulture-ispumpava-novac-za-expo-privatnim-firmama-sredstva-dodeljivana-mimo-zakona/",
+        "summary": "\"U toku je ispumpavanje novca za nedefinisane projekte, koji nisu u skladu sa zakonom, a koje je Ministarstvo kulture dodelilo na nezakonit način priv",
+        "published": "2026-11-03T18:13:28",
+        "source": "N1 Info RS - Feed",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Ljajić: Partizan se neće preuzimati ni na ulici ni u medijima, ko želi da vodi klub neka se kandiduje",
+        "link": "https://n1info.rs/vesti/ljajic-partizan-se-nece-preuzimati-ni-na-ulici-ni-u-medijima-ko-zeli-da-vodi-klub-neka-se-kandiduje/",
+        "summary": "Predsednik Fudbalskog kluba Partizan Rasim Ljajić izjavio je danas FoNetu da klub niko neće preuzimati mimo propisane procedure, \"ni na ulici, ni u me",
+        "published": "2026-11-03T18:13:23",
+        "source": "N1 Info RS - Feed",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Studenti u blokadi Niš: Vučić ne može da pomiluje samog sebe, dolazi vreme odgovornosti",
+        "link": "https://n1info.rs/vesti/studenti-u-blokadi-nis-vucic-ne-moze-da-pomiluje-samog-sebe-dolazi-vreme-odgovornosti/",
+        "summary": "Studenti u blokadi Univerziteta u Nišu saopštili su večeras da \"vreme odgovornosti dolazi\", da \"niko nije iznad zakona, ni oni koji su se krili iza fu",
+        "published": "2026-11-03T18:08:23",
+        "source": "N1 Info RS - Feed",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Generalni sekretar OEBS-a posetio Belorusiju i sastao se sa Aleksandrom Lukašenkom",
+        "link": "https://n1info.rs/svet/belorusija-aleksandar-lukasenko-oebs-poseta/",
+        "summary": "Generalni sekretar Organizacije za evropsku bezbednost i saradnju (OEBS), vodeće transatlantske bezbednosne grupe, posetio je danas Belorusiju, što je",
+        "published": "2026-11-03T17:58:12",
+        "source": "N1 Info RS - Feed",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Sindikalna organizacija Pozorišta mladih iz Novog Sada zatražila od direktora da podnese ostavku",
+        "link": "https://n1info.rs/vesti/sindikalna-organizacija-pozorista-mladih-iz-novog-sada-zatrazila-od-direktora-da-podnese-ostavku/",
+        "summary": "Sindikalna organizacija Pozorišta mladih iz Novog Sada zatražila je od direktora te institucije Sergeja Tamaša da u najkraćem mogućem roku, a najkasni",
+        "published": "2026-11-03T17:57:28",
+        "source": "N1 Info RS - Feed",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Gledajte UŽIVO Dnevnik u 19h",
+        "link": "https://n1info.rs/najave-emisija/gledajte-uzivo-dnevnik-u-19-ponedeljak-19-maj/",
+        "summary": "Gledajte UŽIVO Dnevnik N1 u 19.",
+        "published": "2026-11-03T17:51:38",
+        "source": "N1 Info RS - Feed",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Radio sa Mesijem, postao gradonačelnik \"iz opklade\", a ocu učinio veliku čast: Ko je Balkanac sa Vol Strita",
+        "link": "https://biznis.telegraf.rs/preduzetnistvo/4426196-radio-sa-mesijem-postao-gradonacelnik-iz-opklade-a-ocu-ucinio-veliku-cast-ko-je-balkanac-sa-vol-strita",
+        "summary": "Sin hrvatskih imigranata, advokat sa kancelarijom na Vol Stritu, preduzetnik, investitor i bivši gradonačelnik Inglvud Klifsa u Nju Džerziju – Mario Kranjac iza.",
+        "published": "2026-11-03T16:33:51",
+        "source": "Telegraf.rs",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Kakav med se prodaje na pijacama? Laboratorijske analize pokazale važne rezultate koji zabrinjavaju",
+        "link": "https://biznis.telegraf.rs/agro-biz/4426200-kakav-med-se-prodaje-na-pijacama-laboratorijske-analize-pokazale-vazne-rezultate-koji-zabrinjavaju",
+        "summary": "Kupovina meda na pijacama i pored puteva može da bude rizičnija nego što potrošači misle. Laboratorijska ispitivanja u Bosni i Hercegovini pokazala su da je čak.",
+        "published": "2026-11-03T16:01:38",
+        "source": "Telegraf.rs",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Šta radi na aplikaciji i portalu \"EPS Uvid u račun\", a o čemu će građani biti obavešteni?",
+        "link": "https://biznis.telegraf.rs/info-biz/4426190-sta-radi-na-aplikaciji-i-portalu-eps-uvid-u-racun-a-o-cemu-ce-gradjani-biti-obavesteni",
+        "summary": "Na aplikaciji i portalu \"EPS Uvid u račun\" rade sve funkcije, osim plaćanja računa, saopštila je danas Elektroprivreda Srbija.",
+        "published": "2026-11-03T15:38:14",
+        "source": "Telegraf.rs",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Počela isplata penzija korisnicima Alta banke preko Poštanske štedionice: Ovo je važno za penzionere",
+        "link": "https://biznis.telegraf.rs/novcanik/4426185-pocela-isplata-penzija-korisnicima-alta-banke-preko-postanske-stedionice-ovo-je-vazno-za-penzionere",
+        "summary": "Banka Poštanska štedionica, u saradnji sa Republičkim fondom za penzijsko i invalidsko osiguranje i uz saglasnost Narodne banke Srbije, počela je danas.",
+        "published": "2026-11-03T15:34:04",
+        "source": "Telegraf.rs",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "U BiH ponovo porastao broj blokiranih računa",
+        "link": "https://biznis.telegraf.rs/info-biz/4426184-u-bih-ponovo-porastao-broj-blokiranih-racuna",
+        "summary": "U Bosni i Hercegovini je krajem oktobra, odnosno početkom novembra ove godine, evidentirano 109.545 blokiranih računa poslovnih subjekata i u odnosu na.",
+        "published": "2026-11-03T15:31:03",
+        "source": "Telegraf.rs",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Privredni sud pozvao poverioce ALTA banke da prijave svoja potraživanja: Ovo je rok",
+        "link": "https://biznis.telegraf.rs/info-biz/4426166-privredni-sud-pozvao-poverioce-alta-banke-da-prijave-svoja-potrazivanja-ovo-je-rok",
+        "summary": "Privredni sud u Beogradu objavio je danas da je pokrenut stečajni postupak nad ALTA bankom i pozvao poverioce da svoja obezbeđena i neobezbeđena potraživanja.",
+        "published": "2026-11-03T15:15:23",
+        "source": "Telegraf.rs",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Inteza invest se oglasila o novcu koji je držala u Alta banci: Cilj je bio diversifikacija",
+        "link": "https://novaekonomija.rs/vesti-iz-zemlje/inteza-invest-se-oglasila-o-novcu-koji-je-drzala-u-alta-banci-cilj-je-bio-diversifikacija",
+        "summary": "Društvo za upravljanje investicionim fondovima Intesa Invest objavilo je zvanično saopštenje za javnost u kojem navodi da nije tačno da ulagači u fondove Intesa Invest Cash Dinar i Intesa Invest Cash Euro „neće imati dobit od svojih uloga jer je deo njihovog novca bio uložen u ALTA banku“. Iz kompan",
+        "published": "2026-11-03T16:12:11",
+        "source": "Nova Ekonomija",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Kako su funkcioneri iz SNS-a zloupotrebljavali položaj pred izbore: Izveštaj Agencije za sprečavanje korupcije",
+        "link": "https://novaekonomija.rs/vesti-iz-zemlje/kako-su-funkcioneri-iz-sns-a-zloupotrebljavali-polozaj-pred-izbore-izvestaj-agencije-za-sprecavanje-korupcije",
+        "summary": "U periodu izborne kampanje javni funkcioneri, na čelima gradskih opština u Srbiji, kršili su odredbe Zakona o sprečavanju korupcije tako što su ili koristili javne resurse za odlazak na stranačke aktivnosti u toku radnog vremena ili su na svojim nalozima na društvenim mrežama podržavali i delili obj",
+        "published": "2026-11-03T15:59:03",
+        "source": "Nova Ekonomija",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Jedan od najvećih poslova Davora Macure: Kako je država izgubila veliki novac na prodaji IMT-a",
+        "link": "https://novaekonomija.rs/vesti-iz-zemlje/jedan-od-najvecih-poslova-davora-macure-kako-je-drzava-izgubila-veliki-novac-na-prodaji-imt-a",
+        "summary": "Nova ekonomija još prošle godine je pisala o tome da je prodaju jednog od najaktraktivnijih kompleksa za gradnju na Novom Beogradu, 35 hektara zemljišta IMT-a u stečaju, pre četiri godine pratio je niz spornih transakcija. Danas, ova prodaja ponovo dolazi u centar pažnje, jer je kupac preko jedne sv",
+        "published": "2026-11-03T14:43:28",
+        "source": "Nova Ekonomija",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Zaposleni u fabrici namenske industrije Zastava kovačnica poslati na prinudni odmor",
+        "link": "https://novaekonomija.rs/vesti-iz-zemlje/zaposleni-u-fabrici-namenske-industrije-zastava-kovacnica-poslati-na-prinudni-odmor",
+        "summary": "Zaposleni u fabrici namenske industrije &#8222;Zastava kovačnica&#8220; poslati su na prinudni odmor uz naknadu od 60 odsto zarade, pošto joj je EPS isključio struju zbog neizmirenih dugovanja. Direktor fabrike Ilija Ljujić rekao je agenciji Beta da je fabrici struja isključena u nedelju ujutru i ob",
+        "published": "2026-11-03T14:36:38",
+        "source": "Nova Ekonomija",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Kome je sve odlazeća vlast zabranila ulazak u Srbiju: Na spisku novinari, aktivisti, pisci…",
+        "link": "https://novaekonomija.rs/vesti-iz-zemlje/kome-je-sve-odlazeca-vlast-zabranila-ulazak-u-srbiju-na-spisku-novinari-aktivisti-pisci",
+        "summary": "Odlazeći režim Srpske napredne stranke je tokom 14 godina na vlasti zabranio ulazak u Srbiju brojnim stranim državljanima, među kojima su javne ličnosti, aktivisti, novinari, kao i građani koji su pružali podršku studentskom pokretu. Međutim, Srpska napredna stranka je 25. oktobra ove godine izgubil",
+        "published": "2026-11-03T14:00:24",
+        "source": "Nova Ekonomija",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Život sa demencijom: Ključ u bravi, zebnja u srcu i borba o kojoj Srbija ćuti",
+        "link": "https://novaekonomija.rs/price-i-analize/zivot-sa-demencijom-kljuc-u-bravi-zebnja-u-srcu-i-borba-o-kojoj-srbija-cuti",
+        "summary": "Skinemo kvake sa prozora, isključimo šporet iz struje, sakrijemo oštre predmete. Tek tada možemo da izađemo iz stana- započinje priču P.P. (61), o periodu života koji je proveo negujući sada već pokojnog oca, obolelog od demencije. Na poslu se teško koncetrisao na rad jer je stalno razmišljao šta se",
+        "published": "2026-11-03T12:03:24",
+        "source": "Nova Ekonomija",
+        "sentiment": "neutral"
+      }
+    ]
+  },
+  "key_events": [
+    {
+      "title": "Bitcoin slips to over 1-mth low of $77.3k as U.S. midterm caution weighs",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-over-1mth-low-of-765k-as-us-midterm-caution-weighs-4993602",
+      "summary": ""
+    },
+    {
+      "title": "Bitcoin slips after steep October losses, as Binance hack keeps lid on sentiment",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-steadies-at-78k-after-october-losses-binance-resumes-withdrawals-4989972",
+      "summary": ""
+    },
+    {
+      "title": "Coinhub Funded Goes Live: Crypto Prop Firm Offers Funded Trading Accounts Up to $200K & 30-Minute Tournaments",
+      "link": "https://www.investing.com/news/cryptocurrency-news/coinhub-funded-goes-live-crypto-prop-firm-offers-funded-trading-accounts-up-to-200k--30minute-tournaments-4992638",
+      "summary": ""
+    },
+    {
+      "title": "Margex Launches $1.3M SPCX Airdrop Campaign Running Through November 20",
+      "link": "https://www.investing.com/news/cryptocurrency-news/margex-launches-13m-spcx-airdrop-campaign-running-through-november-20-4991317",
+      "summary": ""
+    },
+    {
+      "title": "Bitcoin tests key support in descending channel: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-tests-key-support-in-descending-channel-live-levels-93CH-4990035",
+      "summary": ""
+    },
+    {
+      "title": "EOS Climbs 11% In a Green Day",
+      "link": "https://www.investing.com/news/cryptocurrency-news/eos-climbs-11-in-a-green-day-4989826",
+      "summary": ""
+    },
+    {
+      "title": "Bitcoin faces further downside risks as fear surges, Binance hack rattles markets",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-faces-further-downside-risks-as-fear-surges-binance-hack-rattles-markets-4989389",
+      "summary": ""
+    },
+    {
+      "title": "Bitcoin tests 38.2% Fib after triangle breakdown: Live levels",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-breaks-below-key-mas-amid-distribution-live-levels-93CH-4971508",
+      "summary": ""
+    },
+    {
+      "title": "Binance to resume crypto withdrawals in phases after record $6 billion hack",
+      "link": "https://www.investing.com/news/cryptocurrency-news/binance-to-resume-crypto-withdrawals-in-phases-after-record-6-billion-hack-4989397",
+      "summary": ""
+    },
+    {
+      "title": "Bitcoin rises as Binance says it has covered 90% of $6.3 billion hack",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-holds-above-77000-as-binance-hack-recovery-takes-shape-4989115",
+      "summary": ""
+    }
+  ],
+  "market_clock": {
+    "NYSE/NASDAQ": true,
+    "LSE": false,
+    "Frankfurt": false,
+    "Tokyo": false,
+    "Hong Kong": false,
+    "Belgrade": false
+  },
+  "sentiment_summary": {
+    "macro": {
+      "positive": 3,
+      "negative": 2,
+      "neutral": 13
+    },
+    "serbia": {
+      "positive": 0,
+      "negative": 0,
+      "neutral": 18
+    }
+  }
+}
