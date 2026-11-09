@@ -1,6 +1,6 @@
 {
   "date": "2026-11-09",
-  "generated_at": "2026-11-09T22:16:28.683170+01:00",
+  "generated_at": "2026-11-09T22:50:31.115420+01:00",
   "market": {
     "indices": {
       "S&P 500": {
@@ -55,20 +55,20 @@
     "sectors": {
       "Financials": {
         "symbol": "XLF",
-        "price": 57.975,
-        "change_pct": 1.43,
+        "price": 57.99,
+        "change_pct": 1.45,
         "prev_close": 57.16
       },
       "Energy": {
         "symbol": "XLE",
-        "price": 61.965,
-        "change_pct": 0.56,
+        "price": 61.94,
+        "change_pct": 0.52,
         "prev_close": 61.62
       },
       "Technology": {
         "symbol": "XLK",
-        "price": 170.84,
-        "change_pct": 3.7,
+        "price": 170.88,
+        "change_pct": 3.73,
         "prev_close": 164.74
       },
       "Healthcare": {
@@ -79,43 +79,43 @@
       },
       "Industrials": {
         "symbol": "XLI",
-        "price": 168.86,
-        "change_pct": 3.81,
+        "price": 168.89,
+        "change_pct": 3.82,
         "prev_close": 162.67
       },
       "Consumer Disc": {
         "symbol": "XLY",
-        "price": 120.97,
-        "change_pct": 2.88,
+        "price": 121.01,
+        "change_pct": 2.92,
         "prev_close": 117.58
       },
       "Materials": {
         "symbol": "XLB",
-        "price": 52.95,
-        "change_pct": 1.92,
+        "price": 52.94,
+        "change_pct": 1.91,
         "prev_close": 51.95
       },
       "Utilities": {
         "symbol": "XLU",
-        "price": 43.805,
-        "change_pct": 1.57,
+        "price": 43.79,
+        "change_pct": 1.53,
         "prev_close": 43.13
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "price": 44.65,
-        "change_pct": 1.48,
+        "price": 44.64,
+        "change_pct": 1.45,
         "prev_close": 44.0
       },
       "Comm Services": {
         "symbol": "XLC",
-        "price": 107.34,
-        "change_pct": 2.43,
+        "price": 107.36,
+        "change_pct": 2.45,
         "prev_close": 104.79
       },
       "Consumer Stap": {
         "symbol": "XLP",
-        "price": 90.895,
+        "price": 90.89,
         "change_pct": 0.9,
         "prev_close": 90.08
       }
@@ -123,62 +123,62 @@
     "fx_commodities": {
       "EUR/USD": {
         "symbol": "EURUSD=X",
-        "price": 1.1226,
-        "change_pct": -0.02,
+        "price": 1.1225,
+        "change_pct": -0.03,
         "prev_close": 1.1228
       },
       "GBP/USD": {
         "symbol": "GBPUSD=X",
-        "price": 1.3444,
-        "change_pct": -0.09,
+        "price": 1.344,
+        "change_pct": -0.12,
         "prev_close": 1.3456
       },
       "USD/CHF": {
         "symbol": "USDCHF=X",
         "price": 0.8195,
-        "change_pct": 0.5,
+        "change_pct": 0.51,
         "prev_close": 0.8154
       },
       "USD/JPY": {
         "symbol": "USDJPY=X",
-        "price": 157.918,
-        "change_pct": 0.27,
+        "price": 157.915,
+        "change_pct": 0.26,
         "prev_close": 157.498
       },
       "Gold": {
         "symbol": "GC=F",
-        "price": 4152.0,
-        "change_pct": 1.89,
+        "price": 4149.8999,
+        "change_pct": 1.84,
         "prev_close": 4074.8999
       },
       "Silver": {
         "symbol": "SI=F",
-        "price": 53.39,
-        "change_pct": 3.06,
+        "price": 53.42,
+        "change_pct": 3.12,
         "prev_close": 51.803
       },
       "Brent Crude": {
         "symbol": "BZ=F",
-        "price": 92.84,
-        "change_pct": -5.57,
+        "price": 92.45,
+        "change_pct": -5.97,
         "prev_close": 98.32
       },
       "WTI Crude": {
         "symbol": "CL=F",
-        "price": 87.05,
-        "change_pct": -4.16,
+        "price": 86.72,
+        "change_pct": -4.52,
         "prev_close": 90.83
       },
       "Natural Gas": {
         "symbol": "NG=F",
-        "price": 3.21,
-        "change_pct": 7.07,
+        "price": 3.214,
+        "change_pct": 7.2,
         "prev_close": 2.998
       },
       "Copper": {
         "symbol": "HG=F",
-        "price": 6.379,
-        "change_pct": 2.59,
+        "price": 6.3745,
+        "change_pct": 2.52,
         "prev_close": 6.218
       },
       "Wheat": {
@@ -191,8 +191,8 @@
     "rates": {
       "VIX": {
         "symbol": "^VIX",
-        "price": 19.99,
-        "change_pct": -22.04,
+        "price": 19.92,
+        "change_pct": -22.31,
         "prev_close": 25.64
       },
       "US 10Y Yield": {
@@ -265,50 +265,50 @@
       },
       "JPMorgan": {
         "symbol": "JPM",
-        "price": 342.11,
-        "change_pct": 2.28,
+        "price": 342.08,
+        "change_pct": 2.27,
         "prev_close": 334.49
       },
       "Goldman Sachs": {
         "symbol": "GS",
-        "price": 906.65,
-        "change_pct": 4.72,
+        "price": 906.22,
+        "change_pct": 4.67,
         "prev_close": 865.82
       },
       "ExxonMobil": {
         "symbol": "XOM",
-        "price": 164.76,
-        "change_pct": -0.67,
+        "price": 164.73,
+        "change_pct": -0.69,
         "prev_close": 165.87
       },
       "Berkshire B": {
         "symbol": "BRK-B",
-        "price": 575.08,
-        "change_pct": 0.73,
+        "price": 575.25,
+        "change_pct": 0.76,
         "prev_close": 570.89
       },
       "Visa": {
         "symbol": "V",
-        "price": 422.4052,
-        "change_pct": -0.06,
+        "price": 422.16,
+        "change_pct": -0.12,
         "prev_close": 422.65
       },
       "Johnson&Johnson": {
         "symbol": "JNJ",
-        "price": 282.08,
-        "change_pct": 2.12,
+        "price": 282.11,
+        "change_pct": 2.13,
         "prev_close": 276.22
       },
       "UnitedHealth": {
         "symbol": "UNH",
-        "price": 397.52,
-        "change_pct": 0.86,
+        "price": 397.62,
+        "change_pct": 0.88,
         "prev_close": 394.15
       },
       "Procter&Gamble": {
         "symbol": "PG",
-        "price": 168.295,
-        "change_pct": 1.75,
+        "price": 168.32,
+        "change_pct": 1.77,
         "prev_close": 165.4
       }
     }
@@ -360,7 +360,7 @@
       {
         "name": "CAT",
         "symbol": "CAT",
-        "price": 598.89,
+        "price": 598.88,
         "change_pct": 7.21
       },
       {
@@ -378,8 +378,8 @@
       {
         "name": "SNOW",
         "symbol": "SNOW",
-        "price": 291.16,
-        "change_pct": 5.54
+        "price": 291.14,
+        "change_pct": 5.53
       },
       {
         "name": "PLTR",
@@ -402,8 +402,8 @@
       {
         "name": "GS",
         "symbol": "GS",
-        "price": 906.65,
-        "change_pct": 4.72
+        "price": 906.22,
+        "change_pct": 4.67
       }
     ],
     "losers": [
@@ -416,13 +416,13 @@
       {
         "name": "PM",
         "symbol": "PM",
-        "price": 193.13,
-        "change_pct": -2.4
+        "price": 193.12,
+        "change_pct": -2.41
       },
       {
         "name": "ACN",
         "symbol": "ACN",
-        "price": 254.38,
+        "price": 254.37,
         "change_pct": -2.35
       },
       {
@@ -440,32 +440,32 @@
       {
         "name": "CCI",
         "symbol": "CCI",
-        "price": 87.821,
-        "change_pct": -0.88
+        "price": 87.83,
+        "change_pct": -0.87
       },
       {
         "name": "CVX",
         "symbol": "CVX",
-        "price": 210.82,
-        "change_pct": -0.84
+        "price": 210.78,
+        "change_pct": -0.86
       },
       {
         "name": "XOM",
         "symbol": "XOM",
-        "price": 164.76,
-        "change_pct": -0.67
+        "price": 164.73,
+        "change_pct": -0.69
       },
       {
         "name": "BA",
         "symbol": "BA",
-        "price": 172.4,
-        "change_pct": -0.58
+        "price": 172.38,
+        "change_pct": -0.59
       },
       {
-        "name": "NEE",
-        "symbol": "NEE",
-        "price": 86.87,
-        "change_pct": -0.09
+        "name": "V",
+        "symbol": "V",
+        "price": 422.16,
+        "change_pct": -0.12
       }
     ]
   },
@@ -491,7 +491,7 @@
         "title": "US stocks rebound after AI rout",
         "link": "https://www.ft.com/content/b8644327-86e7-4d1c-a71f-3fb1d552723b?syn-25a6b1a6=1",
         "summary": "Lower oil prices help equity indices shrug off fall in Nvidia shares",
-        "published": "2026-11-09T19:24:57",
+        "published": "2026-11-09T21:20:00",
         "source": "UK homepage",
         "sentiment": "negative"
       },
@@ -618,50 +618,50 @@
     ],
     "serbia": [
       {
-        "title": "Šta rezultati međuizbora u SAD menjaju za Izrael: Nekadašnji izraelski ministar Josi Beilin za N1",
-        "link": "https://n1info.rs/svet/sta-rezultati-medjuizbora-u-sad-menjaju-za-izrael-josi-beilin/",
-        "summary": "Dr Josi Beilin, osnivač \"Beilinka\", bivši ministar u vladama Šimona Pereza, Isaka Rabina i Ehuda Baraka i jedan od pregovrača u Oslu, gde je postignut",
-        "published": "2026-11-09T21:00:14",
+        "title": "Utisak nedelje: Ivan Ninić, Vesna Mališić i Dejan Šoškić (9.11.2026)",
+        "link": "https://n1info.rs/video/utisak-nedelje-ivan-ninic-vesna-malisic-i-dejan-soskic-9112026/",
+        "summary": "Glavna urednica nedeljnika Radar Vesna Mališić izjavila je u Utisku nedelje, govoreći o prisluškivanju nje i još dvoje kolega, da je \"BIA preko njih s",
+        "published": "2026-11-09T21:40:00",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Zašto psi imaju mali džep na uhu - postoje dve teorije",
-        "link": "https://n1info.rs/magazin/ljubimci/zasto-psi-imaju-mali-dzep-na-uhu-postoje-dve-teorije/",
-        "summary": "Vlasnici pasa koji pažljivije pogledaju uho svog ljubimca mogu primetiti mali, ali specifičan kožni nabor na donjoj spoljašnjoj ivici ušne školjke. Ta",
-        "published": "2026-11-09T20:46:00",
+        "title": "RIK reports turnout of 30-40% in national minority council elections",
+        "link": "https://n1info.rs/english/news/rik-reports-turnout-of-30-40-in-national-minority-council-elections/",
+        "summary": "The Republic Election Commission (RIK) released preliminary results of the November 8 elections for national minority councils, saying that between 30",
+        "published": "2026-11-09T21:33:28",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "RIK utvrdio preliminarne rezultate izbora za savete nacionalnih manjina, glasalo 30 do 40 odsto",
-        "link": "https://n1info.rs/vesti/rik-utvrdio-preliminarne-rezultate-izbora-za-savete-nacionalnih-manjina-glasalo-30-do-40-odsto/",
-        "summary": "Republička izborna komisija (RIK) je utvrdila preliminarne rezultate glasanja na izborima za nacionalne savete 23 nacionalne manjine, održanih 8. nove",
-        "published": "2026-11-09T20:45:17",
+        "title": "Milenković: Očekujem mnogo demokratičniji rad Skupštine Srbije i novu vladu veoma brzo",
+        "link": "https://n1info.rs/vesti/milenkovic-ocekujem-mnogo-demokraticniji-rad-skupstine-srbije-i-novu-vladu-veoma-brzo/",
+        "summary": "Politički konsultant Dušan Milenković, uoči konstitutivne sednice novog saziva Narodne skupštine koja je zakazana za 17. novembar, izjavio je da očeku",
+        "published": "2026-11-09T21:30:14",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Šef kabineta rektora BU: Viđao sam agente BIA ispred svoje zgrade - utvrditi da li je GOSI služba bila u stvari BIA",
-        "link": "https://n1info.rs/vesti/sef-kabineta-rektora-bu-vidjao-sam-agente-bia-ispred-svoje-zgrade-utvrditi-da-li-je-gosi-sluzba-bila-u-stvari-bia/",
-        "summary": "Dokazi do kojih je redakcija Radara došla pokazuju masovnost nadziranja građana Srbije i razmere zloupotrebe Bezbednosne-informativne agencije o čemu",
-        "published": "2026-11-09T20:26:14",
+        "title": "Soskic: No reason for concern over currency stability",
+        "link": "https://n1info.rs/english/news/soskic-no-reason-for-concern-over-currency-stability/",
+        "summary": "Student List MP Dejan Soskic said that there is no reason for concern over the stability of the Dinar.",
+        "published": "2026-11-09T21:28:16",
+        "source": "N1 Info RS - Feed",
+        "sentiment": "negative"
+      },
+      {
+        "title": "Vrhovni sud SAD odobrio Trampu nastavak izgradnje graničnog zida - do daljnjeg",
+        "link": "https://n1info.rs/svet/vrhovni-sud-sad-odobrio-trampu-nastavak-izgradnje-granicnog-zida-do-daljnjeg/",
+        "summary": "Vrhovni sud SAD je danas omogućio administraciji predsednika države Donalda Trampa da, za sada, nastavi izgradnju graničnog zida u regionu Big Bend u",
+        "published": "2026-11-09T21:25:23",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "U eksploziji u čeličani na zapadu Turske poginulo 16 osoba, 13 povređeno",
-        "link": "https://n1info.rs/svet/sest-osoba-poginulo-u-eksploziji-u-celicani-na-zapadu-turske/",
-        "summary": "U jakoj eksploziji i požaru u železari i čeličani na zapadu Turske danas je poginulo 16 osoba, saopštili su zvaničnici novi bilans.",
-        "published": "2026-11-09T20:14:07",
-        "source": "N1 Info RS - Feed",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Vučić najavljuje egzodus stranih investitora, kompanije za N1 otkrivaju zašto zatvaraju fabrike i otpuštaju radnike",
-        "link": "https://n1info.rs/biznis/vucic-najavljuje-egzodus-stranih-investitora-kompanije-za-n1-otkrivaju-zasto-zatvaraju-fabrike-i-otpustaju-radnike/",
-        "summary": "Bivša vlast plaši građane da će 30.000 ljudi završiti na ulici jer strani investitori zatvaraju fabrike. Ono što ne govore građanima, je da je zatvara",
-        "published": "2026-11-09T20:06:23",
+        "title": "Vozaču autobusa koji je sleteo sa auto-puta u  Hrvatskoj određen istražni pritvor",
+        "link": "https://n1info.rs/vesti/vozacu-autobusa-koji-je-sleteo-sa-auto-puta-kod-hrvatskoj-odredjen-istrazni-pritvor/",
+        "summary": "Vozaču autobusa koji je u nedelju sleteo sa auto-puta kod Ivanić-Grada, u Hrvatskoj, određen je jednomesečni istražni pritvor, a reč je o pedesetpetog",
+        "published": "2026-11-09T21:17:51",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
@@ -831,8 +831,8 @@
     },
     "serbia": {
       "positive": 0,
-      "negative": 0,
-      "neutral": 18
+      "negative": 1,
+      "neutral": 17
     }
   }
 }
