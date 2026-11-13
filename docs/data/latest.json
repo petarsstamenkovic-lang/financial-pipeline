@@ -1,220 +1,221 @@
 {
-  "date": "2026-11-12",
-  "generated_at": "2026-11-12T20:24:26.518442+01:00",
+  "date": "2026-11-13",
+  "generated_at": "2026-11-13T19:21:53.786217+01:00",
   "market": {
     "indices": {
       "S&P 500": {
         "symbol": "^GSPC",
-        "price": 7614.3198,
-        "change_pct": -0.07,
-        "prev_close": 7619.3799
+        "price": 7533.6299,
+        "change_pct": -0.77,
+        "prev_close": 7592.3999
       },
       "NASDAQ": {
         "symbol": "^IXIC",
-        "price": 25417.2871,
-        "change_pct": -0.19,
-        "prev_close": 25466.1895
+        "price": 25036.9746,
+        "change_pct": -1.3,
+        "prev_close": 25366.0898
       },
       "Dow Jones": {
         "symbol": "^DJI",
-        "price": 52513.1094,
-        "change_pct": 0.05,
-        "prev_close": 52486.4883
+        "price": 52214.0586,
+        "change_pct": -0.16,
+        "prev_close": 52297.0898
       },
       "DAX": {
         "symbol": "^GDAXI",
-        "price": 26771.8809,
-        "change_pct": 0.41,
-        "prev_close": 26662.7695
+        "price": 26749.9492,
+        "change_pct": -0.08,
+        "prev_close": 26771.8809
       },
       "Euro Stoxx 50": {
         "symbol": "^STOXX50E",
-        "price": 6398.98,
-        "change_pct": 0.09,
-        "prev_close": 6393.3901
+        "price": 6386.8599,
+        "change_pct": -0.19,
+        "prev_close": 6398.98
       },
       "FTSE 100": {
         "symbol": "^FTSE",
-        "price": 10863.0898,
-        "change_pct": 0.25,
-        "prev_close": 10835.5
+        "price": 10902.5596,
+        "change_pct": 0.36,
+        "prev_close": 10863.0996
       },
       "CAC 40": {
         "symbol": "^FCHI",
-        "price": 8361.3604,
-        "change_pct": 0.34,
-        "prev_close": 8332.8701
+        "price": 8368.9102,
+        "change_pct": 0.09,
+        "prev_close": 8361.3604
       },
       "Nikkei 225": {
         "symbol": "^N225",
-        "price": 61248.5898,
-        "change_pct": 1.31,
-        "prev_close": 60459.5781
+        "price": 60819.3594,
+        "change_pct": -0.7,
+        "prev_close": 61248.5898
       }
     },
     "sectors": {
       "Financials": {
         "symbol": "XLF",
-        "price": 58.475,
-        "change_pct": -0.26,
-        "prev_close": 58.63
+        "price": 58.49,
+        "change_pct": 0.48,
+        "prev_close": 58.21
       },
       "Energy": {
         "symbol": "XLE",
-        "price": 64.645,
-        "change_pct": 2.01,
-        "prev_close": 63.37
+        "price": 64.575,
+        "change_pct": 0.38,
+        "prev_close": 64.33
       },
       "Technology": {
         "symbol": "XLK",
-        "price": 173.78,
-        "change_pct": -0.33,
-        "prev_close": 174.36
+        "price": 169.09,
+        "change_pct": -2.69,
+        "prev_close": 173.77
       },
       "Healthcare": {
         "symbol": "XLV",
-        "price": 188.67,
-        "change_pct": -0.15,
-        "prev_close": 188.95
+        "price": 188.25,
+        "change_pct": 0.22,
+        "prev_close": 187.83
       },
       "Industrials": {
         "symbol": "XLI",
-        "price": 170.135,
-        "change_pct": -0.49,
-        "prev_close": 170.97
+        "price": 168.36,
+        "change_pct": -0.64,
+        "prev_close": 169.44
       },
       "Consumer Disc": {
         "symbol": "XLY",
-        "price": 120.47,
-        "change_pct": -0.43,
-        "prev_close": 120.99
+        "price": 119.81,
+        "change_pct": -0.54,
+        "prev_close": 120.46
       },
       "Materials": {
         "symbol": "XLB",
-        "price": null,
-        "change_pct": null
+        "price": 52.225,
+        "change_pct": -0.22,
+        "prev_close": 52.34
       },
       "Utilities": {
         "symbol": "XLU",
-        "price": 44.115,
-        "change_pct": 0.67,
-        "prev_close": 43.82
+        "price": 44.045,
+        "change_pct": 0.54,
+        "prev_close": 43.81
       },
       "Real Estate": {
         "symbol": "XLRE",
-        "price": 44.54,
-        "change_pct": -0.11,
-        "prev_close": 44.59
+        "price": 44.305,
+        "change_pct": -0.12,
+        "prev_close": 44.36
       },
       "Comm Services": {
         "symbol": "XLC",
-        "price": 108.31,
-        "change_pct": -0.27,
-        "prev_close": 108.6
+        "price": 108.345,
+        "change_pct": 0.73,
+        "prev_close": 107.56
       },
       "Consumer Stap": {
         "symbol": "XLP",
-        "price": 91.385,
-        "change_pct": -0.07,
-        "prev_close": 91.45
+        "price": 92.22,
+        "change_pct": 1.27,
+        "prev_close": 91.06
       }
     },
     "fx_commodities": {
       "EUR/USD": {
         "symbol": "EURUSD=X",
-        "price": 1.1058,
-        "change_pct": -0.99,
-        "prev_close": 1.1169
+        "price": 1.1035,
+        "change_pct": -0.54,
+        "prev_close": 1.1095
       },
       "GBP/USD": {
         "symbol": "GBPUSD=X",
-        "price": 1.3234,
-        "change_pct": -0.86,
-        "prev_close": 1.3349
+        "price": 1.3213,
+        "change_pct": -0.48,
+        "prev_close": 1.3277
       },
       "USD/CHF": {
         "symbol": "USDCHF=X",
-        "price": 0.8353,
-        "change_pct": 1.26,
-        "prev_close": 0.8249
+        "price": 0.8392,
+        "change_pct": 0.83,
+        "prev_close": 0.8323
       },
       "USD/JPY": {
         "symbol": "USDJPY=X",
-        "price": 159.831,
-        "change_pct": 0.71,
-        "prev_close": 158.705
+        "price": 159.655,
+        "change_pct": -0.05,
+        "prev_close": 159.734
       },
       "Gold": {
         "symbol": "GC=F",
-        "price": 3884.5,
-        "change_pct": -2.9,
-        "prev_close": 4000.5
+        "price": 3887.8,
+        "change_pct": 0.06,
+        "prev_close": 3885.3
       },
       "Silver": {
         "symbol": "SI=F",
-        "price": 50.06,
-        "change_pct": -3.51,
-        "prev_close": 51.881
+        "price": 49.03,
+        "change_pct": -1.89,
+        "prev_close": 49.972
       },
       "Brent Crude": {
         "symbol": "BZ=F",
-        "price": 95.7,
-        "change_pct": 3.17,
-        "prev_close": 92.76
+        "price": 95.87,
+        "change_pct": 0.05,
+        "prev_close": 95.82
       },
       "WTI Crude": {
         "symbol": "CL=F",
-        "price": 88.61,
-        "change_pct": 2.4,
-        "prev_close": 86.53
+        "price": 88.73,
+        "change_pct": -0.01,
+        "prev_close": 88.74
       },
       "Natural Gas": {
         "symbol": "NG=F",
-        "price": 3.283,
-        "change_pct": 2.12,
-        "prev_close": 3.215
+        "price": 3.261,
+        "change_pct": -2.37,
+        "prev_close": 3.34
       },
       "Copper": {
         "symbol": "HG=F",
-        "price": 6.192,
-        "change_pct": -1.31,
-        "prev_close": 6.2745
+        "price": 6.0845,
+        "change_pct": -1.59,
+        "prev_close": 6.1825
       },
       "Wheat": {
         "symbol": "ZW=F",
-        "price": 586.25,
-        "change_pct": -2.21,
-        "prev_close": 599.5
+        "price": 592.75,
+        "change_pct": 1.45,
+        "prev_close": 584.25
       }
     },
     "rates": {
       "VIX": {
         "symbol": "^VIX",
-        "price": 18.4,
-        "change_pct": 5.2,
-        "prev_close": 17.49
+        "price": 19.76,
+        "change_pct": 5.67,
+        "prev_close": 18.7
       },
       "US 10Y Yield": {
         "symbol": "^TNX",
-        "price": 5.113,
-        "change_pct": 2.3,
-        "prev_close": 4.998
+        "price": 5.141,
+        "change_pct": 0.74,
+        "prev_close": 5.103
       },
       "US 2Y Yield": {
         "symbol": "^IRX",
-        "price": 4.128,
-        "change_pct": 0.32,
-        "prev_close": 4.115
+        "price": 4.122,
+        "change_pct": -0.15,
+        "prev_close": 4.128
       },
       "US 30Y Yield": {
         "symbol": "^TYX",
-        "price": 5.442,
-        "change_pct": 1.61,
-        "prev_close": 5.356
+        "price": 5.477,
+        "change_pct": 0.81,
+        "prev_close": 5.433
       },
       "2s10s Spread": {
         "symbol": "SPREAD",
-        "price": 0.985,
+        "price": 1.019,
         "change_pct": null,
         "note": "positive = normal curve, negative = inverted (recession signal)"
       }
@@ -222,304 +223,312 @@
     "large_cap": {
       "Apple": {
         "symbol": "AAPL",
-        "price": 356.0,
-        "change_pct": 0.1,
-        "prev_close": 355.63
+        "price": 357.82,
+        "change_pct": 0.83,
+        "prev_close": 354.88
       },
       "Microsoft": {
         "symbol": "MSFT",
-        "price": 524.7,
-        "change_pct": 0.69,
-        "prev_close": 521.13
+        "price": 524.41,
+        "change_pct": 0.27,
+        "prev_close": 523.0
       },
       "Alphabet": {
         "symbol": "GOOGL",
-        "price": 301.525,
-        "change_pct": 2.75,
-        "prev_close": 293.45
+        "price": 294.905,
+        "change_pct": -1.27,
+        "prev_close": 298.7
       },
       "Amazon": {
         "symbol": "AMZN",
-        "price": 269.575,
-        "change_pct": 1.28,
-        "prev_close": 266.17
+        "price": 265.275,
+        "change_pct": -0.81,
+        "prev_close": 267.44
       },
       "NVIDIA": {
         "symbol": "NVDA",
-        "price": 164.5282,
-        "change_pct": -5.3,
-        "prev_close": 173.73
+        "price": 160.765,
+        "change_pct": -3.26,
+        "prev_close": 166.19
       },
       "Meta": {
         "symbol": "META",
-        "price": 623.1,
-        "change_pct": -0.9,
-        "prev_close": 628.77
+        "price": 635.08,
+        "change_pct": 1.84,
+        "prev_close": 623.61
       },
       "Tesla": {
         "symbol": "TSLA",
-        "price": 390.38,
-        "change_pct": -0.12,
-        "prev_close": 390.84
+        "price": 389.66,
+        "change_pct": -1.96,
+        "prev_close": 397.45
       },
       "JPMorgan": {
         "symbol": "JPM",
-        "price": 343.98,
-        "change_pct": 0.17,
-        "prev_close": 343.39
+        "price": 343.61,
+        "change_pct": 0.23,
+        "prev_close": 342.82
       },
       "Goldman Sachs": {
         "symbol": "GS",
-        "price": 918.99,
-        "change_pct": -0.84,
-        "prev_close": 926.81
+        "price": 909.495,
+        "change_pct": -0.45,
+        "prev_close": 913.6
       },
       "ExxonMobil": {
         "symbol": "XOM",
-        "price": 170.46,
-        "change_pct": 2.25,
-        "prev_close": 166.71
+        "price": 169.74,
+        "change_pct": -0.02,
+        "prev_close": 169.78
       },
       "Berkshire B": {
         "symbol": "BRK-B",
-        "price": 590.94,
-        "change_pct": 0.46,
-        "prev_close": 588.24
+        "price": 593.07,
+        "change_pct": 0.55,
+        "prev_close": 589.83
       },
       "Visa": {
         "symbol": "V",
-        "price": 423.365,
-        "change_pct": -0.51,
-        "prev_close": 425.55
+        "price": 426.3,
+        "change_pct": 1.43,
+        "prev_close": 420.31
       },
       "Johnson&Johnson": {
         "symbol": "JNJ",
-        "price": 284.98,
-        "change_pct": 1.63,
-        "prev_close": 280.41
+        "price": 286.28,
+        "change_pct": 0.97,
+        "prev_close": 283.52
       },
       "UnitedHealth": {
         "symbol": "UNH",
-        "price": 405.43,
-        "change_pct": 0.62,
-        "prev_close": 402.94
+        "price": 402.03,
+        "change_pct": -0.77,
+        "prev_close": 405.13
       },
       "Procter&Gamble": {
         "symbol": "PG",
-        "price": 168.435,
-        "change_pct": 0.46,
-        "prev_close": 167.67
+        "price": 170.08,
+        "change_pct": 1.22,
+        "prev_close": 168.03
       }
     }
   },
   "nbs_rates": {
     "EUR/RSD": {
       "symbol": "EURRSD",
-      "price": 117.6322,
-      "change_pct": 0.0014,
+      "price": 117.6203,
+      "change_pct": -0.0101,
       "source": "NBS official",
-      "rate_date": "2026-11-12",
-      "prev_close": 117.6305
+      "rate_date": "2026-11-13",
+      "prev_close": 117.6322
     },
     "CHF/RSD": {
       "symbol": "CHFRSD",
-      "price": 127.4317,
-      "change_pct": -0.3344,
+      "price": 127.1846,
+      "change_pct": -0.1939,
       "source": "NBS official",
-      "rate_date": "2026-11-12",
-      "prev_close": 127.8592
+      "rate_date": "2026-11-13",
+      "prev_close": 127.4317
     },
     "GBP/RSD": {
       "symbol": "GBPRSD",
-      "price": 140.742,
-      "change_pct": -0.1063,
+      "price": 140.6605,
+      "change_pct": -0.0579,
       "source": "NBS official",
-      "rate_date": "2026-11-12",
-      "prev_close": 140.8917
+      "rate_date": "2026-11-13",
+      "prev_close": 140.742
     },
     "USD/RSD": {
       "symbol": "USDRSD",
-      "price": 106.1567,
-      "change_pct": 1.3552,
+      "price": 106.3475,
+      "change_pct": 0.1797,
       "source": "NBS official",
-      "rate_date": "2026-11-12",
-      "prev_close": 104.7373
+      "rate_date": "2026-11-13",
+      "prev_close": 106.1567
     }
   },
   "movers": {
     "winners": [
       {
-        "name": "AVGO",
-        "symbol": "AVGO",
-        "price": 364.895,
-        "change_pct": 5.7
-      },
-      {
-        "name": "AMD",
-        "symbol": "AMD",
-        "price": 580.76,
-        "change_pct": 5.04
-      },
-      {
-        "name": "GOOGL",
-        "symbol": "GOOGL",
-        "price": 301.52,
-        "change_pct": 2.75
-      },
-      {
-        "name": "XOM",
-        "symbol": "XOM",
-        "price": 170.44,
-        "change_pct": 2.24
-      },
-      {
-        "name": "CVX",
-        "symbol": "CVX",
-        "price": 217.41,
-        "change_pct": 1.94
-      },
-      {
-        "name": "SRE",
-        "symbol": "SRE",
-        "price": 79.53,
-        "change_pct": 1.67
-      },
-      {
-        "name": "JNJ",
-        "symbol": "JNJ",
-        "price": 285.0,
-        "change_pct": 1.64
-      },
-      {
-        "name": "AMZN",
-        "symbol": "AMZN",
-        "price": 269.55,
-        "change_pct": 1.27
-      },
-      {
-        "name": "PM",
-        "symbol": "PM",
-        "price": 198.58,
-        "change_pct": 1.14
-      },
-      {
-        "name": "CAT",
-        "symbol": "CAT",
-        "price": 607.035,
-        "change_pct": 0.9
-      }
-    ],
-    "losers": [
-      {
-        "name": "NVDA",
-        "symbol": "NVDA",
-        "price": 164.589,
-        "change_pct": -5.26
-      },
-      {
-        "name": "COIN",
-        "symbol": "COIN",
-        "price": 132.255,
-        "change_pct": -2.95
-      },
-      {
-        "name": "GE",
-        "symbol": "GE",
-        "price": 333.825,
-        "change_pct": -2.6
-      },
-      {
-        "name": "F",
-        "symbol": "F",
-        "price": 11.9441,
-        "change_pct": -2.5
-      },
-      {
-        "name": "GM",
-        "symbol": "GM",
-        "price": 86.855,
-        "change_pct": -2.3
-      },
-      {
-        "name": "TMO",
-        "symbol": "TMO",
-        "price": 701.435,
-        "change_pct": -2.27
+        "name": "ABNB",
+        "symbol": "ABNB",
+        "price": 185.3196,
+        "change_pct": 2.31
       },
       {
         "name": "LYFT",
         "symbol": "LYFT",
-        "price": 16.975,
-        "change_pct": -1.82
+        "price": 16.99,
+        "change_pct": 2.29
       },
       {
-        "name": "SBUX",
-        "symbol": "SBUX",
-        "price": 108.03,
-        "change_pct": -1.69
+        "name": "SO",
+        "symbol": "SO",
+        "price": 94.215,
+        "change_pct": 1.89
       },
       {
-        "name": "LOW",
-        "symbol": "LOW",
-        "price": 228.17,
-        "change_pct": -1.48
+        "name": "META",
+        "symbol": "META",
+        "price": 634.895,
+        "change_pct": 1.81
+      },
+      {
+        "name": "KO",
+        "symbol": "KO",
+        "price": 99.09,
+        "change_pct": 1.69
+      },
+      {
+        "name": "PEP",
+        "symbol": "PEP",
+        "price": 144.625,
+        "change_pct": 1.66
+      },
+      {
+        "name": "PYPL",
+        "symbol": "PYPL",
+        "price": 59.265,
+        "change_pct": 1.66
+      },
+      {
+        "name": "V",
+        "symbol": "V",
+        "price": 426.315,
+        "change_pct": 1.43
       },
       {
         "name": "ISRG",
         "symbol": "ISRG",
-        "price": 442.95,
-        "change_pct": -1.46
+        "price": 446.08,
+        "change_pct": 1.41
+      },
+      {
+        "name": "UPS",
+        "symbol": "UPS",
+        "price": 111.86,
+        "change_pct": 1.34
+      }
+    ],
+    "losers": [
+      {
+        "name": "AMD",
+        "symbol": "AMD",
+        "price": 522.3121,
+        "change_pct": -10.76
+      },
+      {
+        "name": "AVGO",
+        "symbol": "AVGO",
+        "price": 344.22,
+        "change_pct": -5.53
+      },
+      {
+        "name": "TXN",
+        "symbol": "TXN",
+        "price": 299.35,
+        "change_pct": -4.2
+      },
+      {
+        "name": "INTC",
+        "symbol": "INTC",
+        "price": 58.71,
+        "change_pct": -4.07
+      },
+      {
+        "name": "QCOM",
+        "symbol": "QCOM",
+        "price": 170.72,
+        "change_pct": -3.62
+      },
+      {
+        "name": "SNOW",
+        "symbol": "SNOW",
+        "price": 288.145,
+        "change_pct": -3.53
+      },
+      {
+        "name": "NVDA",
+        "symbol": "NVDA",
+        "price": 160.665,
+        "change_pct": -3.32
+      },
+      {
+        "name": "PLTR",
+        "symbol": "PLTR",
+        "price": 167.66,
+        "change_pct": -2.28
+      },
+      {
+        "name": "TSLA",
+        "symbol": "TSLA",
+        "price": 389.52,
+        "change_pct": -2.0
+      },
+      {
+        "name": "CAT",
+        "symbol": "CAT",
+        "price": 594.11,
+        "change_pct": -1.85
       }
     ]
   },
   "news": {
     "macro_global": [
       {
-        "title": "Jensen Huang resigns as Nvidia chief executive",
-        "link": "https://www.ft.com/content/b4a0f3d9-f075-47ea-9a85-77cdade9a06f?syn-25a6b1a6=1",
-        "summary": "Shares in chipmaker slide after group says chief financial officer Colette Kress to take over as interim head",
-        "published": "2026-11-12T13:51:15",
+        "title": "Arm boss Rene Haas approached in Nvidia CEO search",
+        "link": "https://www.ft.com/content/2a64f698-46dd-4178-a3f4-4c5f4c0a0926?syn-25a6b1a6=1",
+        "summary": "Head of SoftBank-owned UK semiconductor group sounded out after Jensen Huang resigned over affairs",
+        "published": "2026-11-13T17:45:54",
         "source": "UK homepage",
         "sentiment": "neutral"
       },
       {
-        "title": "Nvidia sends a painful message on how to value a CEO",
-        "link": "https://www.ft.com/content/610fc69e-51ae-4f7a-8e48-c2ce42860ff4?syn-25a6b1a6=1",
-        "summary": "More clarity about why founders matter — and how much — should help everyone",
-        "published": "2026-11-12T18:40:46",
+        "title": "OK who just made $200mn shorting Nvidia ahead of Jensxit?",
+        "link": "https://www.ft.com/content/13c485dc-2d51-4920-bd1f-13a11c79d96c",
+        "summary": "Someone is enjoying an early Christmas",
+        "published": "2026-11-13T11:29:14",
         "source": "UK homepage",
         "sentiment": "neutral"
       },
       {
-        "title": "Meet the contenders to succeed Jensen Huang",
-        "link": "https://www.ft.com/content/6f21835f-97a1-4f7a-bbb8-f38609998909",
-        "summary": "From chief executives of rival companies to the former CEO’s own children, the race to lead Nvidia has begun",
-        "published": "2026-11-12T17:24:08",
+        "title": "Jensen Huang’s final days at Nvidia",
+        "link": "https://www.ft.com/content/ef8f85a6-e2d7-4d41-b70e-092b2567813a?syn-25a6b1a6=1",
+        "summary": "After 33 years building Nvidia into the world’s most valuable company, its founder’s career disintegrated in less than two weeks",
+        "published": "2026-11-13T03:47:19",
         "source": "UK homepage",
         "sentiment": "neutral"
       },
       {
-        "title": "Nvidia shares tumble on Huang exit",
-        "link": "https://www.ft.com/content/b4a0f3d9-f075-47ea-9a85-77cdade9a06f?syn-25a6b1a6=1",
-        "summary": "",
-        "published": "2026-11-12T05:57:00",
+        "title": "Jensen Huang’s years-long effort to get close to China",
+        "link": "https://www.ft.com/content/3efa9733-fbb4-47c2-83ba-b01e548ef277?syn-25a6b1a6=1",
+        "summary": "Former Nvidia chief executive is facing intense scrutiny over ties to Beijing",
+        "published": "2026-11-13T12:36:28",
         "source": "UK homepage",
         "sentiment": "neutral"
       },
       {
-        "title": "Jensen Huang is gone. Will the AI industry pay the price?",
-        "link": "https://www.ft.com/content/dd9072bd-e8a3-4f8e-9985-550aa80a2fd4?syn-25a6b1a6=1",
-        "summary": "Nvidia chief’s fall could unravel the web of financial dependencies that helped fuel the AI boom",
-        "published": "2026-11-12T14:22:30",
+        "title": "AI believers hold the line after Nvidia ructions",
+        "link": "https://www.ft.com/content/750e4304-7287-432a-8ac1-36db40d0d968?syn-25a6b1a6=1",
+        "summary": "Stock market bulls largely shrug off concerns about the concentration of risk",
+        "published": "2026-11-13T16:55:39",
         "source": "UK homepage",
         "sentiment": "negative"
       },
       {
-        "title": "Jensen jeopardy will disrupt the AI industry",
-        "link": "https://www.ft.com/content/42bfcbcb-7121-492b-8e1d-0aceacd093e2?syn-25a6b1a6=1",
-        "summary": "The Nvidia boss’s departure could deepen the technological rift between Washington and Beijing",
-        "published": "2026-11-12T15:56:31",
+        "title": "Will Jensen Huang sell his $135bn of stock?",
+        "link": "https://www.ft.com/content/7a1ee00c-ddbd-4ae2-8323-e4dc603d7a41?syn-25a6b1a6=1",
+        "summary": "Any attempt by Nvidia co-founder to offload his shares  would unnerve investors but is fraught with legal and price risks",
+        "published": "2026-11-13T13:22:54",
         "source": "UK homepage",
+        "sentiment": "negative"
+      },
+      {
+        "title": "Isabel Schnabel: Made in Europe",
+        "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261113~3883f1f187.en.html",
+        "summary": "",
+        "published": "2026-11-13T07:20:00",
+        "source": "ECB - European Central Bank",
         "sentiment": "neutral"
       },
       {
@@ -559,14 +568,6 @@
         "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105_1~5e97d9d5a0.en.html",
         "summary": "",
         "published": "2026-11-05T08:00:00",
-        "source": "ECB - European Central Bank",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Piero Cipollone: Shaping the future of money",
-        "link": "https://www.ecb.europa.eu//press/key/date/2026/html/ecb.sp261105~6495a0df6f.en.html",
-        "summary": "",
-        "published": "2026-11-05T07:30:00",
         "source": "ECB - European Central Bank",
         "sentiment": "neutral"
       },
@@ -621,146 +622,146 @@
     ],
     "serbia": [
       {
-        "title": "Pronađen mladić koji je nestao u Beogradu",
-        "link": "https://n1info.rs/vesti/pronadjen-mladic-koji-je-nestao-u-beogradu/",
-        "summary": "Mladić koji je danas nestao u okolini hotela Jugoslavija, pronađen je.",
-        "published": "2026-11-12T19:17:56",
+        "title": "Milenijum tim tvrdi: Radovi prethodnih dana na mestu hotela Jugoslavija odnosili su se na sanaciju prodora podzemnih voda",
+        "link": "https://n1info.rs/vesti/milenijum-tim-tvrdi-radovi-prethodnih-dana-na-mestu-hotela-jugoslavija-odnosili-su-se-na-sanaciju-prodora-podzemnih-voda/",
+        "summary": "Milenijum tim demantovao je da su na gradilištu Danube Riverside nastavljeni radovi u cilju izgradnje objekta.",
+        "published": "2026-11-13T18:16:36",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "U lančanom sudaru u Emiratima poginulo 14 osoba, više desetina povređeno",
-        "link": "https://n1info.rs/svet/u-lancanom-sudaru-u-emiratima-poginulo-14-osoba-vise-desetina-povredjeno/",
-        "summary": "Četrnaest osoba je poginulo, a više desetina je povređeno, nakon što je vozač kamiona izgubio kontrolu nad vozilom i udario u nekoliko drugih automobi",
-        "published": "2026-11-12T19:17:20",
+        "title": "Požar u Kraljevu: Gori lokal kod Železničke stanice (VIDEO)",
+        "link": "https://n1info.rs/vesti/pozar-u-kraljevu-gori-lokal-kod-zeleznicke-stanice-video/",
+        "summary": "Večeras je izbio požar u lokalu u blizini Železničke stanice u Kraljevu, javlja lokalni portal Krug.",
+        "published": "2026-11-13T18:12:56",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Milićević: Treba konačno da vidimo neku reakciju TOK-a, zanimljivo je sada videti raspored snaga unutar Visokog saveta tužilaštva",
-        "link": "https://n1info.rs/vesti/milicevic-treba-da-vidimo-konacno-neku-reakciju-tok-a-zanimljivo-bi-bilo-sada-videti-raspored-snaga-unutar-visokog-saveta-tuzilastva/",
-        "summary": "Novinar portala i novina Nova Ivan Milićević rekao je, komentarišući izveštaj Komisije Vrhovnog javnog tužilaštva, da treba da vidimo \"konačno neku re",
-        "published": "2026-11-12T19:12:29",
+        "title": "Radnik pao sa visine od 16 metara na gradilištu u Kaluđerici",
+        "link": "https://n1info.rs/vesti/radnik-pao-sa-visine-od-16-metara-na-gradilistu-u-kaludjerici/",
+        "summary": "Na gradilištu u Kaluđerici oko 12 časova dogodila se teška nesreća na radu, kada je radnik pao sa krova zgrade u izgradnji, piše RTS.",
+        "published": "2026-11-13T18:10:43",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Ekonomista Fiskalnog saveta: Novac građana se ne troši dovoljno efikasno, važno je šta će nova vlada raditi sa javnim finansijama",
-        "link": "https://n1info.rs/biznis/ekonomista-fiskalnog-saveta-novac-gradjana-se-ne-trosi-dovoljno-efikasno/",
-        "summary": "Glavni ekonomista Fiskalnog saveta Danko Brčerević kaže da je važno šta će nova vlada raditi sa javnim finansijama, jer su tu, kako kaže, potrebne dub",
-        "published": "2026-11-12T19:08:00",
+        "title": "Doživotni zatvor za ubistvo starijeg zatvorenika u KPZ \"Padinska skela\", saučesnicima po 20 godina",
+        "link": "https://n1info.rs/vesti/dozivotni-zatvor-za-ubistvo-starijeg-zatvorenika-u-kpz-padinska-skela-saucesnicima-po-20-godina/",
+        "summary": "Apelacioni sud u Beogradu preinačio je prvostepenu presudu i Dalibora Petrovića pravosnažno osudio na kaznu doživotnog zatvora zbog ubistva Stamimira",
+        "published": "2026-11-13T18:04:37",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "US Assistant State Secretary Hanrahan in Belgrade",
-        "link": "https://n1info.rs/english/news/us-assistant-state-secretary-hanrahan-in-belgrade/",
-        "summary": "The US Embassy in Belgrade said that Assistant Secretary of State Brendan Hanrahan is visiting Belgrade for talks Washington-Belgrade relations.",
-        "published": "2026-11-12T18:53:13",
+        "title": "Gledajte UŽIVO Dnevnik u 19h",
+        "link": "https://n1info.rs/najave-emisija/gledajte-uzivo-dnevnik-u-19-ponedeljak-19-maj/",
+        "summary": "Gledajte UŽIVO Dnevnik N1 u 19.",
+        "published": "2026-11-13T17:58:32",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "RIK utvrdio rezultate izbora za 18 nacionalnih manjina, glasanje se ponavlja na pet biračkih mesta",
-        "link": "https://n1info.rs/vesti/rik-utvrdio-rezultate-izbora-za-18-nacionalnih-manjina-glasanje-se-ponavlja-na-pet-birackih-mesta/",
-        "summary": "Republička izborna komisija (RIK) usvojila je na večerašnjoj sednici izveštaj o ukupnim rezultatima izbora za članove nacionalnih saveta 18 nacionalni",
-        "published": "2026-11-12T18:43:10",
+        "title": "Lilić o Vučićevim pomilovanjima: U ovom slučaju put preko ustavne žalbe je prva stvar",
+        "link": "https://n1info.rs/vesti/lilic-o-vucicevim-pomilovanjima-u-ovom-slucaju-put-preko-ustavne-zalbe-je-prva-stvar/",
+        "summary": "\"Ustavni sud je u ovom slučaju i prva i poslednja instanca koja može ovo da učini\", rekao je profesor prava u penziji Stevan Lilić o zahtevima za poni",
+        "published": "2026-11-13T17:55:18",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Turisti plaćali ulaznice, a novac završavao u tuđim džepovima: Prevaru otkrila dva papirića",
-        "link": "https://biznis.telegraf.rs/info-biz/4431953-turisti-placali-ulaznice-a-novac-zavrsavao-u-tudjim-dzepovima-prevaru-otkrila-dva-papirica",
-        "summary": "Četvoro zaposlenih u malteškoj ustanovi za zaštitu kulturnog nasleđa Heritage Malta izvedeno je pred sud zbog sumnje da su prodavali duplirane ulaznice.",
-        "published": "2026-11-12T15:52:42",
+        "title": "Hitna mera posle havarije naftovoda JANAF: Omogućeno snabdevanje NIS-a sirovom naftom iz državnih rezervi",
+        "link": "https://biznis.telegraf.rs/info-biz/4432695-hitna-mera-posle-havarije-naftovoda-janaf-omoguceno-snabdevanje-nis-a-sirovom-naftom-iz-drzavnih-rezervi",
+        "summary": "Vlada Republike Srbije u tehničkom mandatu saopštila je da su predstavnici kompanije NIS a.d. obavestili Ministarstvo rudarstva i energetike u tehničkom mandatu.",
+        "published": "2026-11-13T18:14:16",
         "source": "Telegraf.rs",
         "sentiment": "neutral"
       },
       {
-        "title": "Tramp presekao! OVAJ ČOVEK treba da vodi kompaniju NVIDIA posle ostavke Džensena Huanga",
-        "link": "https://biznis.telegraf.rs/info-biz/4431946-tramp-presekao-ovaj-covek-treba-da-vodi-kompaniju-nvidia-posle-ostavke-dzensena-huanga",
-        "summary": "Američki predsednik Donald Tramp ponovo je privukao pažnju javnosti neobičnim predlogom nakon ostavke direktora Nvidije Džensena Huanga.",
-        "published": "2026-11-12T15:33:38",
+        "title": "Potres u nemačkoj auto-industriji: Gigant zaustavlja ulaganja, razmatra i zatvaranje fabrika!",
+        "link": "https://biznis.telegraf.rs/info-biz/4432624-potres-u-nemackoj-auto-industriji-gigant-zaustavlja-ulaganja-razmatra-i-zatvaranje-fabrika",
+        "summary": "Proizvođač automobila Mercedes-Benc obustavlja sve nove investicije u svoje fabrike u Nemačkoj i razmatra mogućnost zatvaranja pojedinih proizvodnih pogona zbog.",
+        "published": "2026-11-13T18:00:00",
         "source": "Telegraf.rs",
         "sentiment": "neutral"
       },
       {
-        "title": "Poskupljenja se osećaju u prodavnicama i na pumpama: Ovo je najviše opteretilo kućni budžet u oktobru",
-        "link": "https://biznis.telegraf.rs/novcanik/4431943-poskupljenja-se-osecaju-u-prodavnicama-i-na-pumpama-ovo-najvise-opterecuje-kucni-budzet-u-oktobru",
-        "summary": "Međugodišnja inflacija u oktobru je ubrzala na 4,4 odsto, a na to su uticale veće cene hrane i bezalkoholnih pića, kao i naftnih derivata u uslovima povišenih.",
-        "published": "2026-11-12T15:34:29",
+        "title": "Velika promena na društvenoj mreži Iks: Uvodi se nova funkcija za promociju video-sadržaja i influensera",
+        "link": "https://biznis.telegraf.rs/tech-biz/4432649-velika-promena-na-drustvenoj-mrezi-iks-uvodi-se-nova-funkcija-za-promociju-video-sadrzaja-i-influensera",
+        "summary": "Društvena mreža Iks predstavila je novu funkciju za izdvajanje i objavljivanje kratkih video-snimaka iz dužih video-sadržaja, nastojeći da privuče veći broj.",
+        "published": "2026-11-13T16:41:40",
         "source": "Telegraf.rs",
         "sentiment": "neutral"
       },
       {
-        "title": "Sve što treba da znate o skandalu koji je srušio šefa Nvidije: Huang podneo ostavku, akcije kompanije potonule",
-        "link": "https://biznis.telegraf.rs/info-biz/4431929-sve-sto-treba-da-znate-o-skandalu-koji-je-srusio-sefa-nvidije-huang-podneo-ostavku-akcije-kompanije-potonule",
-        "summary": "Vest o njegovom odlasku izazvala je potres na finansijskom tržištu",
-        "published": "2026-11-12T14:54:12",
+        "title": "Napustio korporativni posao i od običaja svojih predaka napravio biznis: Sada sa njim upoznaje i svet",
+        "link": "https://biznis.telegraf.rs/info-biz/4432609-napustio-korporativni-posao-i-od-obicaja-svojih-predaka-napravio-biznis-sada-sa-njim-upoznaje-i-svet",
+        "summary": "Dok mnogi turisti putuju na egzotična ostrva zbog belih peščanih plaža i tirkiznog mora, jedan mladi preduzetnik odlučio je da im ponudi nešto sasvim drugačije.",
+        "published": "2026-11-13T16:00:10",
         "source": "Telegraf.rs",
         "sentiment": "neutral"
       },
       {
-        "title": "Stigle nove brojke o cenama hrane u Srbiji: Evo koliko su pojeftinili poljoprivredni proizvodi",
-        "link": "https://biznis.telegraf.rs/novcanik/4431911-stigle-nove-brojke-o-cenama-hrane-u-srbiji-evo-koliko-su-pojeftinili-poljoprivredni-proizvodi",
-        "summary": "Cene poljoprivrednih i ribarskih proizvoda u septembru ove godine su u odnosu na isti mesec 2025. godine, smanjene za 2,1 odsto, objavio je danas Republički.",
-        "published": "2026-11-12T14:40:17",
+        "title": "Kupovina novog automobila mogla bi da postane još skuplja: Auto-industrija šalje ozbiljno upozorenje",
+        "link": "https://biznis.telegraf.rs/novcanik/4432621-kupovina-novog-automobila-mogla-bi-da-postane-jos-skuplja-auto-industrija-salje-ozbiljno-upozorenje",
+        "summary": "Izvršni direktor kompanije Stelantis Antonio Filoza upozorio je da će proizvođači automobila i njihovi dobavljači tokom 2027.",
+        "published": "2026-11-13T15:46:16",
         "source": "Telegraf.rs",
         "sentiment": "neutral"
       },
       {
-        "title": "Milijarde evra u zlatnim rezervama: Evo koliko tona čuva Narodna banka Srbije",
-        "link": "https://biznis.telegraf.rs/info-biz/4431900-milijarde-evra-u-zlatnim-rezervama-evo-koliko-tona-cuva-narodna-banka-srbije",
-        "summary": "Rezerve zlata Srbije, koje čine deo deviznih rezervi, na kraju oktobra iznosile su rekordnih 55,34 tone i vredele su 6,22 milijarde evra, što je činilo 21,3.",
-        "published": "2026-11-12T14:23:36",
+        "title": "Hitno upozorenje za vozače: Sa tržišta Srbije povlače se Volkswagen, Škoda, Audi i Mercedes modeli",
+        "link": "https://biznis.telegraf.rs/info-biz/4432614-hitno-upozorenje-za-vozace-sa-trzista-srbije-povlace-se-volkswagen-skoda-audi-i-mercedes-modeli",
+        "summary": "Kada je reč o automobilima marke Volkswagen, povlačenje obuhvata modele Touran, Tiguan, Tiguan Allspace, Golf Variant 7, Golf Sportsvan i Caddy",
+        "published": "2026-11-13T17:10:05",
         "source": "Telegraf.rs",
         "sentiment": "neutral"
       },
       {
-        "title": "Jensen Huang podneo ostavku na mesto generalnog direktora Nvidije",
-        "link": "https://novaekonomija.rs/vesti-iz-sveta/jensen-huang-podneo-ostavku-na-mesto-generalnog-direktora-nvidije",
-        "summary": "Izvršni direktor Nvidije Jensen Huang podneo je ostavku nakon 33 godine na čelu kompanije. Finansijska direktorka Kolet Kres privremeno će preuzeti funkciju izvršne direktorke, dok Nvidia bude tražila trajnog naslednika, razmatrajući i interne i eksterne kandidate, saopštila je kompanija. Huang, koj",
-        "published": "2026-11-12T15:35:42",
+        "title": "INTERVJU Đorđe Jevtić o aferi Alta banka: Proveriti i trezor NBS",
+        "link": "https://novaekonomija.rs/price-i-analize/intervju-djordje-jevtic-o-aferi-alta-banka-proveriti-i-trezor-nbs",
+        "summary": "Naglo urušavanje Alta banke izazvalo je buru i u javnosti i u finansijskim institucijama, uz obilje pitanja koja za sada ostaju bez odgovora. Na neka, međutim, odgovore je moguće dati. Da li je Narodna banka Srbije imala podatke na osnovu kojih je mogla da zaključi da u Alti postoje problemi, da li",
+        "published": "2026-11-13T14:47:52",
         "source": "Nova Ekonomija",
         "sentiment": "neutral"
       },
       {
-        "title": "Devizne rezerve smanjene za čak 889 miliona evra samo u oktobru: NBS morala da oštro brani dinar",
-        "link": "https://novaekonomija.rs/vesti-iz-zemlje/devizne-rezerve-smanjene-za-cak-889-miliona-evra-samo-u-oktobru-nbs-morala-da-ostro-brani-dinar",
-        "summary": "Bruto devizne rezerve Narodne banke Srbije na kraju oktobra 2026. godine iznosile su 29,2 milijarde evra. U odnosu na kraj septembra smanjene su za 695,3 miliona evra, saopštila je centralna bankarska institucija. &#8222;Odlivi iz deviznih rezervi realizovani su po osnovu intervencija Narodne banke",
-        "published": "2026-11-12T15:02:35",
+        "title": "Obustavljen tender za jarbol na Ušću",
+        "link": "https://novaekonomija.rs/vesti-iz-zemlje/obustavljen-tender-za-jarbol-na-uscu",
+        "summary": "Tender za izvođenje radova na izgradnji jarbola sa zastavom Republike Srbije i partnernom uređenju je propao. Razlog za to je što se nijedna firma na ovaj tender za izvođenje radova nije javila. Procenjena vrednost ovog posla iznosila je 365.000.000 dinara. &#8222;Komisija za javnu nabavku je utvrdi",
+        "published": "2026-11-13T13:56:03",
         "source": "Nova Ekonomija",
         "sentiment": "neutral"
       },
       {
-        "title": "JANAF: Sanacija naftovoda nastavljena kontrolisanim prikupljanjem preostale nafte iz cevovoda",
-        "link": "https://novaekonomija.rs/vesti-iz-sveta/janaf-sanacija-naftovoda-nastavljena-kontrolisanim-prikupljanjem-preostale-nafte-iz-cevovoda",
-        "summary": "Hrvatska kompanija Jadranski naftovod (JANAF) saopštila je danas da je počela novu fazu sanacije oštećenog naftovoda kod Nove Gradiške, pokretanjem izvlačenja nafte koja je nakon havarije krajem prošle nedelje ostala u cevovodu. Sanacija naftovoda nastavljena kontrolisanim prikupljanjem preostale na",
-        "published": "2026-11-12T14:55:27",
+        "title": "Od AI preporuka do kasne onlajn kupovine: trendovi koji menjaju praznične navike Evropljana",
+        "link": "https://novaekonomija.rs/vesti-iz-zemlje/od-ai-preporuka-do-kasne-onlajn-kupovine-trendovi-koji-menjaju-praznicne-navike-evropljana",
+        "summary": "Prema prognozi Mastercard Ekonomskog Instituta, ukupna praznična potrošnja u Evropi u periodu od 1. novembra do 26. decembra trebalo bi da bude za 3,4 odsto veća nego prošle godine (ne računajući prodaju automobila i goriva). Praznična potrošnja u Evropi pokazuje otpornost  Iako je do početka sezone",
+        "published": "2026-11-13T13:43:17",
         "source": "Nova Ekonomija",
         "sentiment": "neutral"
       },
       {
-        "title": "Sutra kreće isplata novca štedišama Alta banke: Zakazivanje termina preko portala Poštanske štedionice",
-        "link": "https://novaekonomija.rs/vesti-iz-zemlje/sutra-krece-isplata-novca-stedisama-alta-banke-zakazivanje-termina-preko-portala-postanske-stedionice",
-        "summary": "Od danas će svim klijentima Alta banke biti dostupan portal na kojem će moći da zakažu termine za preuzimanje osiguranih depozita, objavila je Agencija za osiguranje depozita. Portal je uspostavila Banka Poštanska štedionica, a on će omogućiti jednostavnu prijavu dolaska u ekspozituru, čime će, kako",
-        "published": "2026-11-12T14:49:01",
+        "title": "OTP Grupa zabeležila je otpornu profitabilnost i kontinuirani rast kreditne aktivnosti u prvih devet meseci 2026. godine",
+        "link": "https://novaekonomija.rs/vesti-iz-zemlje/otp-grupa-zabelezila-je-otpornu-profitabilnost-i-kontinuirani-rast-kreditne-aktivnosti-u-prvih-devet-meseci-2026-godine",
+        "summary": "OTP Grupa je u prvih devet meseci 2026. godine zadržala snažne finansijske i poslovne rezultate, ostvarivši stabilnu profitabilnost, dvocifren rast kredita i poboljšanu neto kamatnu maržu, uz dalje jačanje svoje kapitalne pozicije. Na osnovu snažnih rezultata ostvarenih od početka godine, rukovodstv",
+        "published": "2026-11-13T13:24:57",
         "source": "Nova Ekonomija",
         "sentiment": "neutral"
       },
       {
-        "title": "Posle skoro dve godine NBS povećala referentnu stopu, jer sada sledi „energetski šok na ostale cene“",
-        "link": "https://novaekonomija.rs/vesti-iz-zemlje/posle-skoro-dve-godine-nbs-povecala-referentnu-stopu-jer-sada-sledi-energetski-sok-na-ostale-cene",
-        "summary": "Posle skoro dve godine Narodna banka Srbije danas je odlučila da podigne referentnu kamatnu stopu na šest odsto zbog međunarodnih i domaćih pritisaka najviše u energetici, dok analitičari tvrde da je ovaj potez posledica nečinjena u prethodnom periodu i dokaz da institucije nisu nezavisno delovale.",
-        "published": "2026-11-12T13:59:38",
+        "title": "Da li je Alta banka držala u trezoru falsifikovane novčanice?",
+        "link": "https://novaekonomija.rs/price-i-analize/da-li-je-alta-banka-drzala-u-trezoru-falsifikovane-novcanice",
+        "summary": "Stečaj Alta banke pokrenuo je mnoga pitanja: iz finansijskog sistema države „isparilo“ je preko noći preko milijardu evra. Nije samo nestala gotovina, već su blokirani depoziti lokalnih samouprava, državnih i privatnih firmi, kao i građana koji su imali više od 50.000 evra štednje i koji će godinama",
+        "published": "2026-11-13T13:14:50",
         "source": "Nova Ekonomija",
         "sentiment": "neutral"
       },
       {
-        "title": "DRI: Rukovodstvo MSK Kikinda plaćalo 1.000 dinara radnicima koji su išli na mitinge SNS",
-        "link": "https://novaekonomija.rs/vesti-iz-zemlje/dri-rukovodstvo-msk-kikinda-placalo-1-000-dinara-radnicima-koji-su-isli-na-mitinge-sns",
-        "summary": "Rukovodstvo Metanolsko-sirćetnog kompleksa (MSK) Kikinda plaćalo je &#8222;stimulaciju&#8220; od 1.000 dinara radnicima koji su išli na mitinge SNS-a, utvrdila je Državna revizorska institucija (DRI), preneo je list Danas. MSK je preduzeće u državnom vlasništvu, doduše posredno, pošto je većinski vl",
-        "published": "2026-11-12T13:44:26",
+        "title": "BIRN: Firma brata vlasnika Alta banke kupila vilu na Dedinju kreditom te banke",
+        "link": "https://novaekonomija.rs/vesti-iz-zemlje/birn-firma-brata-vlasnika-alta-banke-kupila-vilu-na-dedinju-kreditom-te-banke",
+        "summary": "Firma ALStone, u vlasništvu Dubravka Macure, brata vlasnika Alta banke Davora Macure, kupila je ove godine kreditom od tri miliona evra vilu na Dedinju od 1.154 kvadratna metra, objavljeno je danas. Ta firma, jedna od nekadašnjih firmi Davora Macure, potražila je finansiranje za nekretninu u Zaječar",
+        "published": "2026-11-13T13:12:40",
         "source": "Nova Ekonomija",
         "sentiment": "neutral"
       }
@@ -768,13 +769,28 @@
   },
   "key_events": [
     {
-      "title": "Binance restores all $6.3 billion stolen in October hack",
-      "link": "https://www.investing.com/news/cryptocurrency-news/binance-restores-all-63-billion-stolen-in-october-hack-5022924",
+      "title": "Bitcoin slumps to $69k, set for deep weekly loss as crypto appetite sours",
+      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-drops-below-70k-as-crypto-appetite-sours-5024070",
       "summary": ""
     },
     {
-      "title": "Bitcoin drops to $71.6k; Strategy tumbles on MSCI index removal",
+      "title": "EOS Falls 15% In Selloff",
+      "link": "https://www.investing.com/news/cryptocurrency-news/eos-falls-15-in-selloff-5025250",
+      "summary": ""
+    },
+    {
+      "title": "BTSE Enterprise Solutions Wins Best White-Label Digital Asset Exchange Platform at Digital Banker Awards 2026",
+      "link": "https://www.investing.com/news/cryptocurrency-news/btse-enterprise-solutions-wins-best-whitelabel-digital-asset-exchange-platform-at-digital-banker-awards-2026-5023881",
+      "summary": ""
+    },
+    {
+      "title": "Bitcoin hits over 12-week low; Strategy sinks on MSCI index removal",
       "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-slips-to-736k-strategy-drops-on-msci-index-removal-5020451",
+      "summary": ""
+    },
+    {
+      "title": "Binance restores all $6.3 billion stolen in October hack",
+      "link": "https://www.investing.com/news/cryptocurrency-news/binance-restores-all-63-billion-stolen-in-october-hack-5022924",
       "summary": ""
     },
     {
@@ -801,21 +817,6 @@
       "title": "ChangeNOW Becomes the Exclusive Bitcoin Swap Provider in CoolWallet",
       "link": "https://www.investing.com/news/cryptocurrency-news/changenow-becomes-the-exclusive-bitcoin-swap-provider-in-coolwallet-5019082",
       "summary": ""
-    },
-    {
-      "title": "Bitcoin falls over 2%, drops under $74k after hot CPI data, hawkish Waller",
-      "link": "https://www.investing.com/news/cryptocurrency-news/bitcoin-pinned-below-75k-as-regulatory-uncertainty-etf-outflows-persist-5014179",
-      "summary": ""
-    },
-    {
-      "title": "JUSD Finance Becomes Drakewell and Introduces SPYdw, a Hedged SPY Portfolio",
-      "link": "https://www.investing.com/news/cryptocurrency-news/jusd-finance-becomes-drakewell-and-introduces-spydw-a-hedged-spy-portfolio-5016289",
-      "summary": ""
-    },
-    {
-      "title": "Backed by $80 Million, Alta is Building the Infrastructure to Bring Global Banking Onchain",
-      "link": "https://www.investing.com/news/cryptocurrency-news/backed-by-80-million-alta-is-building-the-infrastructure-to-bring-global-banking-onchain-5015944",
-      "summary": ""
     }
   ],
   "market_clock": {
@@ -829,8 +830,8 @@
   "sentiment_summary": {
     "macro": {
       "positive": 3,
-      "negative": 3,
-      "neutral": 12
+      "negative": 4,
+      "neutral": 11
     },
     "serbia": {
       "positive": 0,
