@@ -1,6 +1,6 @@
 {
-  "date": "2026-11-23",
-  "generated_at": "2026-11-23T23:23:22.283150+01:00",
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T00:09:20.470462+01:00",
   "market": {
     "indices": {
       "S&P 500": {
@@ -23,15 +23,15 @@
       },
       "DAX": {
         "symbol": "^GDAXI",
-        "price": 25337.2695,
-        "change_pct": 2.15,
-        "prev_close": 24802.7793
+        "price": 24802.7793,
+        "change_pct": -2.6,
+        "prev_close": 25463.8105
       },
       "Euro Stoxx 50": {
         "symbol": "^STOXX50E",
-        "price": 6074.4702,
-        "change_pct": 2.23,
-        "prev_close": 5941.9502
+        "price": 5941.9502,
+        "change_pct": -2.81,
+        "prev_close": 6113.8599
       },
       "FTSE 100": {
         "symbol": "^FTSE",
@@ -41,15 +41,14 @@
       },
       "CAC 40": {
         "symbol": "^FCHI",
-        "price": 8044.8398,
-        "change_pct": 1.48,
-        "prev_close": 7927.75
+        "price": 7927.75,
+        "change_pct": -1.89,
+        "prev_close": 8080.7402
       },
       "Nikkei 225": {
         "symbol": "^N225",
-        "price": 56436.6484,
-        "change_pct": -5.06,
-        "prev_close": 59444.2109
+        "price": null,
+        "change_pct": null
       }
     },
     "sectors": {
@@ -123,26 +122,26 @@
     "fx_commodities": {
       "EUR/USD": {
         "symbol": "EURUSD=X",
-        "price": 1.0905,
-        "change_pct": -0.59,
+        "price": 1.0911,
+        "change_pct": -0.53,
         "prev_close": 1.097
       },
       "GBP/USD": {
         "symbol": "GBPUSD=X",
-        "price": 1.3028,
-        "change_pct": -0.44,
+        "price": 1.3033,
+        "change_pct": -0.41,
         "prev_close": 1.3086
       },
       "USD/CHF": {
         "symbol": "USDCHF=X",
-        "price": 0.8413,
-        "change_pct": -0.34,
+        "price": 0.8415,
+        "change_pct": -0.31,
         "prev_close": 0.8441
       },
       "USD/JPY": {
         "symbol": "USDJPY=X",
-        "price": 158.939,
-        "change_pct": -0.48,
+        "price": 159.011,
+        "change_pct": -0.44,
         "prev_close": 159.707
       },
       "Gold": {
@@ -317,30 +316,34 @@
     "EUR/RSD": {
       "symbol": "EURRSD",
       "price": 117.6491,
-      "change_pct": null,
+      "change_pct": 0.0,
       "source": "NBS official",
-      "rate_date": "2026-11-23"
+      "rate_date": "2026-11-24",
+      "prev_close": 117.6491
     },
     "CHF/RSD": {
       "symbol": "CHFRSD",
       "price": 127.4776,
-      "change_pct": null,
+      "change_pct": 0.0,
       "source": "NBS official",
-      "rate_date": "2026-11-23"
+      "rate_date": "2026-11-24",
+      "prev_close": 127.4776
     },
     "GBP/RSD": {
       "symbol": "GBPRSD",
       "price": 140.3927,
-      "change_pct": null,
+      "change_pct": 0.0,
       "source": "NBS official",
-      "rate_date": "2026-11-23"
+      "rate_date": "2026-11-24",
+      "prev_close": 140.3927
     },
     "USD/RSD": {
       "symbol": "USDRSD",
       "price": 106.9829,
-      "change_pct": null,
+      "change_pct": 0.0,
       "source": "NBS official",
-      "rate_date": "2026-11-23"
+      "rate_date": "2026-11-24",
+      "prev_close": 106.9829
     }
   },
   "movers": {
@@ -496,10 +499,10 @@
         "sentiment": "neutral"
       },
       {
-        "title": "Huang cheered on return to Nvidia HQ as shares soar",
-        "link": "https://www.ft.com/content/20d2ebe3-e945-4659-a122-31bf85a4e4e5?syn-25a6b1a6=1",
-        "summary": "",
-        "published": "2026-11-23T16:35:08",
+        "title": "Inside the ‘war room’ that lobbied Trump to bring back Nvidia’s Huang",
+        "link": "https://www.ft.com/content/82d3be02-8ac7-4acb-aefa-6e3722ee05cc?syn-25a6b1a6=1",
+        "summary": "Silicon Valley titans enlisted US president and JD Vance to rescue the billionaire tech boss whom they viewed as critical for the AI industry",
+        "published": "2026-11-23T22:46:14",
         "source": "UK homepage",
         "sentiment": "neutral"
       },
@@ -618,6 +621,30 @@
     ],
     "serbia": [
       {
+        "title": "Vlada u Bengaziju zatražila od UN-a da istraži navodno prisustvo ukrajinskih snaga",
+        "link": "https://n1info.rs/svet/vlada-u-bengaziju-zatrazila-od-un-a-da-istrazi-navodno-prisustvo-ukrajinskih-snaga/",
+        "summary": "Vlasti na istoku Libije pozvale su danas UN da istraže sumnje o prisustvu ukrajinskih snaga u zapadnom delu ove podeljene zemlje, posle napada, za koj",
+        "published": "2026-11-23T22:55:27",
+        "source": "N1 Info RS - Feed",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Babiš: Najnoviji predlog budžeta EU je potpuno neprihvatljiv",
+        "link": "https://n1info.rs/svet/babis-najnoviji-predlog-budzeta-eu-je-potpuno-neprihvatljiv/",
+        "summary": "Češki premijer Andrej Babiš ocenio je danas da je najnoviji predlog budžeta Evropske unije za period od 2028. do 2034. godine \"potpuno neprihvatljiv\",",
+        "published": "2026-11-23T22:49:32",
+        "source": "N1 Info RS - Feed",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Novo istraživanje: Većina pasa oseća strah ili teskobu u svakodnevnim situacijama",
+        "link": "https://n1info.rs/magazin/ljubimci/novo-istrazivanje-vecina-pasa-oseca-strah-ili-teskobu-u-svakodnevnim-situacijama/",
+        "summary": "Više od 84 odsto pasa u svakodnevnim situacijama pokazuje bar blage znake straha ili teskobe, otkrilo je američko istraživanje koje je obradilo podatk",
+        "published": "2026-11-23T22:36:32",
+        "source": "N1 Info RS - Feed",
+        "sentiment": "neutral"
+      },
+      {
         "title": "Nemačka vojska želi da koristi ukrajinski analitički alat Delta",
         "link": "https://n1info.rs/svet/nemacka-vojska-zeli-da-koristi-ukrajinski-analiticki-alat-delta/",
         "summary": "Nemačka i Ukrajina su danas potpisale pismo o namerama koje će Bundesveru u dogledno vreme omogućiti korišćenje ukrajinskog sistema za upravljanje",
@@ -638,30 +665,6 @@
         "link": "https://n1info.rs/vesti/vlada-razresila-arnoa-gujona-sa-mesta-vd-direktora-kancelarije-za-javnu-i-kulturnu-diplomatiju/",
         "summary": "Vlada Srbije u tehničkom mandatu razrešila je Arnoa Gujona sa mesta vršioca dužnosti direktora Kancelarije za javnu i kulturnu diplomatiju, zbog prela",
         "published": "2026-11-23T21:46:19",
-        "source": "N1 Info RS - Feed",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Gosti N1 o sastanku u Šenženu: Pitanje je da li Tramp i Bela kuća mogu da razumeju namere Kine i šta su podržali",
-        "link": "https://n1info.rs/svet/senzen-odnosi-rusija-kina-sjedinjene-drzave/",
-        "summary": "Trilateralni sastanak Putin-Si-Tramp u Šenženu nije bio \"Jalta 2.0\", kako je najavljivano, ali i dalje je nejasno šta je od toga dobila Amerika, smatr",
-        "published": "2026-11-23T21:44:29",
-        "source": "N1 Info RS - Feed",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Iran preti bazama SAD u Evropi ako se budu koristile za napade na iransku teritoriju",
-        "link": "https://n1info.rs/svet/iran-preti-bazama-sad-u-evropi-ako-se-budu-koristile-za-napade-na-iransku-teritoriju/",
-        "summary": "Iran bi mogao da napadne američke vojne baze u Evropi, uključujući objekte u Velikoj Britaniji, Nemačkoj i Bugarskoj, ukoliko ih Sjedinjene Američke D",
-        "published": "2026-11-23T21:36:06",
-        "source": "N1 Info RS - Feed",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "FT: Ruski vojnici su više nego dvostruko skloniji samoubistvu nego civili",
-        "link": "https://n1info.rs/svet/ruski-vojnici-su-vise-nego-dvostruko-skloniji-samoubistvu-nego-civili/",
-        "summary": "Najmanje 1.229 pripadnika ruskih oružanih snaga izvršilo je samoubistvo u periodu od februara 2022. do septembra 2026. godine, navodi se u istraživanj",
-        "published": "2026-11-23T21:27:36",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
