@@ -1,6 +1,6 @@
 {
   "date": "2026-11-26",
-  "generated_at": "2026-11-26T21:00:09.899530+01:00",
+  "generated_at": "2026-11-26T21:47:51.944445+01:00",
   "market": {
     "indices": {
       "S&P 500": {
@@ -123,20 +123,20 @@
     "fx_commodities": {
       "EUR/USD": {
         "symbol": "EURUSD=X",
-        "price": 1.0975,
-        "change_pct": 0.11,
+        "price": 1.0973,
+        "change_pct": 0.1,
         "prev_close": 1.0962
       },
       "GBP/USD": {
         "symbol": "GBPUSD=X",
-        "price": 1.3107,
-        "change_pct": -0.04,
+        "price": 1.3109,
+        "change_pct": -0.02,
         "prev_close": 1.3112
       },
       "USD/CHF": {
         "symbol": "USDCHF=X",
-        "price": 0.8341,
-        "change_pct": -0.2,
+        "price": 0.8343,
+        "change_pct": -0.18,
         "prev_close": 0.8358
       },
       "USD/JPY": {
@@ -622,6 +622,38 @@
     ],
     "serbia": [
       {
+        "title": "Mađar reagovao na objavu Pannon RTV-a: Od koga su dolazili politički uticaji i cenzura?",
+        "link": "https://n1info.rs/region/peter-madjar-reagovao-na-objavu-pannon-rtv/",
+        "summary": "Mađarski premijer Peter Mađar (Magyar) reagovao je danas na Fejsbuku, komentarišući objavu Pannon RTV-a na toj društvenoj mreži, u kojoj je kolektiv m",
+        "published": "2026-11-26T20:44:23",
+        "source": "N1 Info RS - Feed",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Vučićeviću određen pritvor do 30 dana, njegov advokat: Na putu je ka CZ-u",
+        "link": "https://n1info.rs/vesti/vucicevicu-odredjen-pritvor-do-30-dana-njegov-advokat-na-putu-je-ka-cz-u/",
+        "summary": "Glavnog i odgovornom uredniku i vlasniku Informera Dragan J. Vučićević određen je pritvor do 30 dana.",
+        "published": "2026-11-26T20:41:16",
+        "source": "N1 Info RS - Feed",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Gde su Radoičić i Veselinović: \"Politički vakuum\" kao prostor za bekstvo i pokušaj kontakta sa Vučićem pre odlaska",
+        "link": "https://n1info.rs/vesti/gde-su-milan-radoicic-zvonko-veselinovic-i-na-kome-je-odgovornost/",
+        "summary": "Nije još uvek poznato gde se tačno nalaze Milan Radoičić i Zvonko Veselinović, a neke informacije iz medija ukazuju da bi mogli da budu u Rusiji ili K",
+        "published": "2026-11-26T20:06:57",
+        "source": "N1 Info RS - Feed",
+        "sentiment": "neutral"
+      },
+      {
+        "title": "Marta Kos: Naredna godina ključna za put Albanije ka EU",
+        "link": "https://n1info.rs/region/marta-kos-naredna-godina-kljucna-za-put-albanije-ka-eu/",
+        "summary": "Evropska komesarka za proširenje Marta Kos izjavila je da će naredna, 2027. godina, biti ključna za put Albanije ka pristupanju Evropskoj uniji.",
+        "published": "2026-11-26T20:06:06",
+        "source": "N1 Info RS - Feed",
+        "sentiment": "neutral"
+      },
+      {
         "title": "KFOR, Serbian Armed Forces personnel meet in Pristina",
         "link": "https://n1info.rs/english/news/kfor-serbian-armed-forces-personnel-meet-in-pristina/",
         "summary": "Representatives of the NATO-led KFOR mission's Joint Implementation Commission (JIC) met with their counterparts from the Serbian Armed Forces at Camp",
@@ -634,38 +666,6 @@
         "link": "https://n1info.rs/vesti/uhapsen-kraljevacki-funkcioner-kucu-za-socijalno-ugrozene-rome-dao-ocu-sns-poslanice-matovic-sumnja-na-pranje-novca/",
         "summary": "U seriji hapšenja pao je i pomoćnik gradonačelnika Kraljeva. Miljan Vasiljević, inače član Jedinstvene Srbije, uhapšen je zbog sumnje da je zloupotreb",
         "published": "2026-11-26T19:52:10",
-        "source": "N1 Info RS - Feed",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Student Movement registers new citizens' group to nominate presidential candidate",
-        "link": "https://n1info.rs/english/news/student-movement-registers-new-citizens-group-to-nominate-presidential-candidate/",
-        "summary": "The Serbian Student Movement has registered a citizens' group called Students Win Again to nominate its candidate in the December 27 presidential elec",
-        "published": "2026-11-26T19:37:25",
-        "source": "N1 Info RS - Feed",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Slon prišao gitaristi i pažljivo slušao poznati hit Boba Dilana",
-        "link": "https://n1info.rs/magazin/lifestyle/slon-prisao-gitaristi-i-pazljivo-slusao-poznati-hit-boba-dilana/",
-        "summary": "Postoje naznake da slonovi mogu da razlikuju različite vrste muzike. Neka zapažanja ukazuju na to da im prija klasična muzika.",
-        "published": "2026-11-26T19:30:43",
-        "source": "N1 Info RS - Feed",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Wizz Air najavljuje povratak jednog aviona i četiri nove destinacije tokom sledeće godine: Šta se promenilo?",
-        "link": "https://n1info.rs/biznis/wizz-air-najavljuje-povratak-jednog-aviona-i-cetiri-nove-destinacije-tokom-sledece-godine-sta-se-promenilo/",
-        "summary": "Niskobudžetna kompanija Wizz Air najavljivala je da bi mogla da zatvori svoju bazu u Beogradu, nezadovoljna odlukama nadležnih u Srbiji. Danas, međuti",
-        "published": "2026-11-26T19:29:31",
-        "source": "N1 Info RS - Feed",
-        "sentiment": "neutral"
-      },
-      {
-        "title": "Naselje u opštini Surčin sutra bez vode",
-        "link": "https://n1info.rs/vesti/naselje-u-opstini-surcin-sutra-bez-vode/",
-        "summary": "Potrošači u naselju Petrovčić u opštini Surčin ostaće bez vode sutra od 9 do 18 sati, saopšteno je danas iz JKP \"Beogradski vodovod i kanalizacija\".",
-        "published": "2026-11-26T19:20:39",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
