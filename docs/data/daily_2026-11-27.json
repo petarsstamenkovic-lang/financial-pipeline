@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "generated_at": "2026-11-27T20:48:48.729845+01:00",
+  "generated_at": "2026-11-27T21:33:53.504399+01:00",
   "market": {
     "indices": {
       "S&P 500": {
@@ -135,13 +135,13 @@
       },
       "USD/CHF": {
         "symbol": "USDCHF=X",
-        "price": 0.8362,
-        "change_pct": 0.6,
+        "price": 0.8361,
+        "change_pct": 0.59,
         "prev_close": 0.8312
       },
       "USD/JPY": {
         "symbol": "USDJPY=X",
-        "price": 159.548,
+        "price": 159.557,
         "change_pct": 0.21,
         "prev_close": 159.215
       },
@@ -159,8 +159,8 @@
       },
       "Brent Crude": {
         "symbol": "BZ=F",
-        "price": 90.8,
-        "change_pct": -4.03,
+        "price": 90.84,
+        "change_pct": -3.98,
         "prev_close": 94.61
       },
       "WTI Crude": {
@@ -197,14 +197,14 @@
       },
       "US 10Y Yield": {
         "symbol": "^TNX",
-        "price": 4.934,
-        "change_pct": 1.77,
+        "price": 4.936,
+        "change_pct": 1.82,
         "prev_close": 4.848
       },
       "US 2Y Yield": {
         "symbol": "^IRX",
-        "price": 4.147,
-        "change_pct": -0.19,
+        "price": 4.153,
+        "change_pct": -0.05,
         "prev_close": 4.155
       },
       "US 30Y Yield": {
@@ -215,7 +215,7 @@
       },
       "2s10s Spread": {
         "symbol": "SPREAD",
-        "price": 0.787,
+        "price": 0.783,
         "change_pct": null,
         "note": "positive = normal curve, negative = inverted (recession signal)"
       }
@@ -519,7 +519,7 @@
         "title": "US tech stocks rise in latest market swing",
         "link": "https://www.ft.com/content/b80e6259-dca8-4da3-962d-402106a3cd81?syn-25a6b1a6=1",
         "summary": "All-powerful AI trade has been eclipsed by wild moves in a market struggling to price future earnings",
-        "published": "2026-11-27T17:27:23",
+        "published": "2026-11-27T20:08:09",
         "source": "UK homepage",
         "sentiment": "positive"
       },
@@ -622,50 +622,50 @@
     ],
     "serbia": [
       {
-        "title": "Poslanica Fric: Mala verovatnoća da se Ekspo 2027 otkaže, cilj će biti provera bezbednosti objekata",
-        "link": "https://n1info.rs/biznis/poslanica-fric-mala-verovatnoca-da-se-ekspo-2027-otkaze/",
-        "summary": "Narodna poslanica liste „Studentska lista - studenti pobeđuju“ i profesorka Građevinskog fakulteta Sanja Fric izjavila je da je mala verovatnoća da me",
-        "published": "2026-11-27T19:46:26",
+        "title": "Tadić podržao Saičića na predsedničkim izborima",
+        "link": "https://n1info.rs/vesti/tadic-podrzao-saicica-na-predsednickim-izborima/",
+        "summary": "Predsednik Socijaldemokratske stranke (SDS) i nekadašnji predsednik Srbije Boris Tadić podržao je večeras predsedničku kandidaturu akademika i profeso",
+        "published": "2026-11-27T20:30:17",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "RIK member urges Serbians abroad to register early for presidential vote",
-        "link": "https://n1info.rs/english/news/rik-member-urges-serbians-abroad-to-register-early-for-presidential-vote/",
-        "summary": "Republican Election Commission (RIK) member Dusan Dincic urged Serbian citizens living abroad to register as soon as possible to vote in the December",
-        "published": "2026-11-27T19:42:59",
+        "title": "Cupic calls for better relations with neighboring countries",
+        "link": "https://n1info.rs/english/news/cupic-calls-for-better-relations-with-neighboring-countries/",
+        "summary": "Serbian Parliament Speaker and acting president Aleksandar Cupic said on Friday that Serbia should make improving relations with neighboring countries",
+        "published": "2026-11-27T20:29:57",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Izbori za savete mesnih zajednica Kragujevca u januaru 2027. godine, prethodni održani  2021.",
-        "link": "https://n1info.rs/vesti/izbori-za-savete-mesnih-zajednica-kragujevca-u-januaru-2027-godine-prethodni-odrzani-2021/",
-        "summary": "Na sednici Skupštine grada Kragujevca održanoj u petak napravljen je prvi, dugoočekivani, korak ka raspisivanju izbora za savete mesnih zajednica imen",
-        "published": "2026-11-27T19:38:40",
+        "title": "Zašto je u Argentini fudbal sport, sećanje i strast? Knjiga \"Tango argentino\" i priča o zemlji u kojoj je igra deo identiteta",
+        "link": "https://n1info.rs/kultura/knjiga-tango-argentino-vladimir-vesic/",
+        "summary": "Boka juniors i River Plejt, Superklasiko, Mario Kempes, Dijego Maradona, Lionel Mesi i veliki argentinski treneri!",
+        "published": "2026-11-27T20:28:02",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "N1 Direktno: Kumovi - Veselinović i Radoičić (26.11.2026)",
-        "link": "https://n1info.rs/video/n1-direktno-kumovi-veselinovic-i-radoicic-26112026/",
-        "summary": "Od momaka sa Kosova do biznismena koji dobijaju najunosnije poslove. Godinama su predmet kontroverzi, procesa pred pravosudnim organima iz kojih izlaz",
-        "published": "2026-11-27T19:37:01",
+        "title": "\"Crni petak\" bez većih gužvi: Popusti do 50 odsto, ali - kupci ne vide veliku razliku u cenama",
+        "link": "https://n1info.rs/biznis/crni-petak-bez-vecih-guzvi-popusti-do-50-odsto-ali-kupci-ne-vide-veliku-razliku-u-cenama/",
+        "summary": "Ima li oduševljenja popustima za \"Crni petak\" ili su cene manje-više iste? Čini se da ove godine dan za najveća sniženja protiče bez većih gužvi...",
+        "published": "2026-11-27T20:24:03",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "Vučić: SNS će odluku o učešću na predsedničkim izborima saopštiti početkom decembra",
-        "link": "https://n1info.rs/vesti/vucic-sns-ce-odluku-o-ucescu-na-predsednickim-izborima-saopstiti-pocetkom-decembra/",
-        "summary": "Poslanik Srpske napredne stranke (SNS) u Skupšrini Srbije i bivši predsednik Srbije Aleksandar Vučić izjavio je danas da će ta stranka odluku o učešću",
-        "published": "2026-11-27T19:23:13",
+        "title": "Razrešen Lav Pajkić i još nekoliko državnih sekretara",
+        "link": "https://n1info.rs/biznis/razresen-lav-pajkic-i-jos-nekoliko-drzavnih-sekretara/",
+        "summary": "Nakon što je Đuro Macut ovlastio ministre u tehničkoj vladi Sinišu Malog i Nenada Vujića da preuzmu ovlašćenja ministra privrede, odnosno ministra kul",
+        "published": "2026-11-27T20:21:40",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
       {
-        "title": "\"Po opažanju, ne po metodologiji\": MUP odgovorio Arhivu kako su vršili procenu broja ljudi na skupovima",
-        "link": "https://n1info.rs/vesti/po-opazanju-ne-po-metodologiji-mup-odgovorio-arhivu-kako-su-vrsili-procenu-broju-ljudi-na-skupovima/",
-        "summary": "Arhiv javnih skupova saopštio je večeras da je ministarstvo unutrašnjih poslova (MUP), u odgovoru na zahtev za pristup informacijama od javnog značaja",
-        "published": "2026-11-27T19:16:36",
+        "title": "Francuski Liberasion: Saičić, naučnik bez političkog iskustva, kandidat studenata na predsedničkim izborima",
+        "link": "https://n1info.rs/vesti/francuski-liberasion-saicic-naucnik-bez-politickog-iskustva-kandidat-studenata-na-predsednickim-izborima/",
+        "summary": "Mesec dana posle pobede na parlamentarnim izborima u Srbiji, studentski pokret je danas odlučio da podrži kandidaturu 65-godišnjeg akademika za predse",
+        "published": "2026-11-27T20:17:38",
         "source": "N1 Info RS - Feed",
         "sentiment": "neutral"
       },
@@ -820,7 +820,7 @@
     }
   ],
   "market_clock": {
-    "NYSE/NASDAQ": true,
+    "NYSE/NASDAQ": false,
     "LSE": false,
     "Frankfurt": false,
     "Tokyo": false,
